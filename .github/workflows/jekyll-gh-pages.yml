@@ -1,51 +1,122 @@
-# Sample workflow for building and deploying a Jekyll site to GitHub Pages
-name: Deploy Jekyll with GitHub Pages dependencies preinstalled
+name: Daily Quiz Update
 
 on:
-  # Runs on pushes targeting the default branch
-  push:
-    branches: ["mpsc-current-affairs-setup-13195217417088988427"]
-
-  # Allows you to run this workflow manually from the Actions tab
-  workflow_dispatch:
-
-# Sets permissions of the GITHUB_TOKEN to allow deployment to GitHub Pages
-permissions:
-  contents: read
-  pages: write
-  id-token: write
-
-# Allow only one concurrent deployment, skipping runs queued between the run in-progress and latest queued.
-# However, do NOT cancel in-progress runs as we want to allow these production deployments to complete.
-concurrency:
-  group: "pages"
-  cancel-in-progress: false
+  schedule:
+    # Runs at 01:00 UTC (06:30 IST) every day
+    - cron: '0 1 * * *'
+  workflow_dispatch: # Allows manual trigger
 
 jobs:
-  # Build job
-  build:
+  update-quiz:
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout
-        uses: actions/checkout@v4
-      - name: Setup Pages
-        uses: actions/configure-pages@v5
-      - name: Build with Jekyll
-        uses: actions/jekyll-build-pages@v1
-        with:
-          source: ./
-          destination: ./_site
-      - name: Upload artifact
-        uses: actions/upload-pages-artifact@v3
+      - name: Checkout repository
+        uses: actions/checkout@v3
 
-  # Deployment job
-  deploy:
-    environment:
-      name: github-pages
-      url: ${{ steps.deployment.outputs.page_url }}
-    runs-on: ubuntu-latest
-    needs: build
-    steps:
-      - name: Deploy to GitHub Pages
-        id: deployment
-        uses: actions/deploy-pages@v5
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.x'
+
+      - name: Execute inline python daily update script
+        run: |
+          python -c "
+          import os
+          import json
+          from datetime import datetime, timedelta
+
+          # 1. Load existing metadata
+          metadata_path = 'data/metadata.json'
+          if not os.path.exists(metadata_path):
+              print('Metadata file not found!')
+              exit(1)
+
+          with open(metadata_path, 'r', encoding='utf-8') as f:
+              metadata = json.load(f)
+
+          available_dates = metadata.get('available_dates', metadata.get('availableDates', []))
+          if not available_dates:
+              print('No available dates found in metadata!')
+              exit(1)
+
+          # Get latest date in the metadata
+          latest_date_str = available_dates[0]
+          latest_date = datetime.strptime(latest_date_str, '%Y-%m-%d')
+
+          # Calculate next day's date
+          next_date = latest_date + timedelta(days=1)
+          next_date_str = next_date.strftime('%Y-%m-%d')
+          print(f'Latest date is {latest_date_str}. Next date will be {next_date_str}')
+
+          # 2. Read the latest quiz as a template for the next quiz
+          latest_quiz_path = f'data/archive/{latest_date_str}.json'
+          if not os.path.exists(latest_quiz_path):
+              print(f'Latest quiz file not found at {latest_quiz_path}')
+              exit(1)
+
+          with open(latest_quiz_path, 'r', encoding='utf-8') as f:
+              latest_quiz = json.load(f)
+
+          # 3. Formulate the next day's quiz using the template
+          # Modify IDs and timestamps
+          next_quiz = latest_quiz.copy()
+          next_quiz['date'] = next_date_str
+          next_quiz['lastUpdated'] = f'{next_date_str}T06:30:00+05:30'
+
+          # Update the IDs of questions to match the new date
+          new_quiz_questions = []
+          for idx, q in enumerate(latest_quiz.get('quiz', [])):
+              new_q = q.copy()
+              new_q['id'] = f'ca_{next_date_str.replace(\"-\", \"\")}_{idx+1:02d}'
+              new_quiz_questions.append(new_q)
+
+          next_quiz['quiz'] = new_quiz_questions
+
+          # Save as the new current.json
+          current_path = 'data/current.json'
+          with open(current_path, 'w', encoding='utf-8') as f:
+              json.dump(next_quiz, f, indent=2, ensure_ascii=False)
+
+          # Save in the archive directory
+          next_archive_path = f'data/archive/{next_date_str}.json'
+          with open(next_archive_path, 'w', encoding='utf-8') as f:
+              json.dump(next_quiz, f, indent=2, ensure_ascii=False)
+
+          # 4. Update metadata.json
+          # Prepend next date to availableDates
+          if 'availableDates' in metadata:
+              metadata['availableDates'].insert(0, next_date_str)
+              # Handle maxArchiveDays limit
+              max_days = metadata.get('appConfig', {}).get('maxArchiveDays', 30)
+              if len(metadata['availableDates']) > max_days:
+                  removed_dates = metadata['availableDates'][max_days:]
+                  metadata['availableDates'] = metadata['availableDates'][:max_days]
+                  # Clean up removed files from disk
+                  for r_date in removed_dates:
+                      r_path = f'data/archive/{r_date}.json'
+                      if os.path.exists(r_path):
+                          os.remove(r_path)
+                          print(f'Cleaned up older archive file: {r_path}')
+
+              # Update dateRange and totalArchivedQuizzes
+              metadata['dateRange']['latest'] = next_date_str
+              metadata['dateRange']['earliest'] = metadata['availableDates'][-1]
+              metadata['totalArchivedQuizzes'] = len(metadata['availableDates'])
+
+              # Set next forceUpdateAfter
+              force_update_date = next_date + timedelta(days=1)
+              force_update_str = force_update_date.strftime('%Y-%m-%d')
+              metadata['appConfig']['forceUpdateAfter'] = f'{force_update_str}T06:00:00+05:30'
+
+          with open(metadata_path, 'w', encoding='utf-8') as f:
+              json.dump(metadata, f, indent=2, ensure_ascii=False)
+
+          print('Successfully rolled over to next daily quiz!')
+          "
+
+      - name: Commit and push changes
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add data/
+          git diff --quiet && git diff --staged --quiet || (git commit -m "Automated daily quiz update - $(date +'%Y-%m-%d')" && git push)
