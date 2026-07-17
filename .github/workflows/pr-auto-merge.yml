@@ -22,26 +22,8 @@ jobs:
 
       - name: Validate JSON files
         run: |
-          python -c "
-          import os
-          import json
-          import sys
+          python -c "import glob, json; [json.load(open(f, encoding='utf-8')) for f in glob.glob('data/**/*.json', recursive=True)]"
 
-          errors = 0
-          for root, dirs, files in os.walk('data'):
-              for file in files:
-                  if file.endswith('.json'):
-                      path = os.path.join(root, file)
-                      try:
-                          with open(path, 'r', encoding='utf-8') as f:
-                              json.load(f)
-                          print(f'✅ {path} is valid JSON')
-                      except Exception as e:
-                          print(f'❌ {path} is invalid: {e}')
-                          errors += 1
-          if errors > 0:
-              sys.exit(1)
-          "
 
       - name: Enable Auto-Merge for PR
         env:
