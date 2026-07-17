@@ -1,158 +1,158 @@
 {
-  "date": "2026-07-19",
+  "date": "2026-07-20",
   "topic": "Current Affairs",
-  "source": "The Hindu / PIB / Economic Times / Indian Express / Next IAS / Insights IAS",
-  "lastUpdated": "2026-07-19T06:30:00+05:30",
+  "source": "The Hindu / PIB / Economic Times / Indian Express / Next IAS / Insights IAS / GKToday",
+  "lastUpdated": "2026-07-20T06:30:00+05:30",
   "quiz": [
     {
-      "id": "ca_20260719_01",
-      "question": "The Government of Maharashtra recently signed a landmark Memorandum of Understanding (MoU) worth ₹1.14 lakh crore with AM Intelligence Labs to set up which of the following facilities in the Mumbai region?",
+      "id": "ca_20260720_01",
+      "question": "Which state has been honored with the 'Best Agriculture State Award' for 2024 by the 15th Agriculture Leadership Awards Committee?",
       "options": [
-        "Integrated Green Data Centre Park and an AI Compute Hub",
-        "Advanced Semiconductor Fab and Chip Assembly Facility",
-        "Electric Vehicle Gigafactory and Battery Recycling Hub",
-        "Bio-Pharmaceutical Manufacturing and Research Center "
-      ],
-      "correctAnswer": 0,
-      "explanation": "In May 2026, the Government of Maharashtra signed a ₹1.14 lakh crore MoU with AM Intelligence Labs to set up an Integrated Green Data Centre Park and an AI Compute Hub in the Mumbai Metropolitan Region. The project will have a planned capacity of 500 MW powered by renewable energy and is expected to create 8,000 high-tech jobs.",
-      "category": "Maharashtra",
-      "difficulty": "easy",
-      "sourceUrl": "https://m.economictimes.com/news/india/maharashtra-signs-mou-worth-rs-1-14-lakh-crore-with-am-intelligence-labs-can-create-8000-jobs/articleshow/131094714.cms"
-    },
-    {
-      "id": "ca_20260719_02",
-      "question": "In July 2026, the Maharashtra Industrial Development Corporation (MIDC) signed a ₹3,000 crore concession agreement with Ramky Infrastructure's subsidiary to develop a High-Tech Pharmaceutical Park in which district of Maharashtra?",
-      "options": [
-        "Pune",
-        "Raigad",
-        "Thane",
-        "Nagpur"
+        "Madhya Pradesh",
+        "Maharashtra",
+        "Uttar Pradesh",
+        "Gujarat"
       ],
       "correctAnswer": 1,
-      "explanation": "MIDC executed a concession agreement with Maha Integrated Life Sciences City Limited (MILeS City), a subsidiary of Ramky Infrastructure Ltd, to develop a ₹3,000 crore High-Tech Pharmaceutical Park. Spanning 1,000 hectares across Mangaon and Roha talukas in Raigad district, the park is situated within the Dighi Port Industrial Area under a Public-Private Partnership (PPP) model.",
+      "explanation": "The 15th Agriculture Leadership Awards Committee, chaired by former Chief Justice of India Justice P Sathasivam, honored Maharashtra as the Best Agriculture State for 2024. Chief Minister Eknath Shinde received the award in New Delhi on July 10, 2024. The award recognized Maharashtra's implementation of development policies, agricultural innovations, and its massive bamboo cultivation initiative.",
       "category": "Maharashtra",
-      "difficulty": "medium",
-      "sourceUrl": "https://www.telugutimes.net/en/bnews/midc-and-ramky-infrastructure-sign-agreement-for-%E2%82%B93000-crore-high-tech-pharma-park-in-maharashtra-341052.html"
+      "difficulty": "easy",
+      "sourceUrl": "https://www.thehitavada.com/Encyc/2024/7/11/Mah-bags-Best-Agriculture-State-award-for-2024.html"
     },
     {
-      "id": "ca_20260719_03",
-      "question": "The Comptroller and Auditor General (CAG) in July 2026 flagged financial irregularities in Maharashtra's flagship 'Mukhyamantri Majhi Ladki Bahin Yojana' for FY 2024-25. According to the CAG, how much unauthorized excess expenditure was recorded above the allocated budget?",
+      "id": "ca_20260720_02",
+      "question": "Which state has been named the top-performing state in the 'Best State' category at the 6th National Water Awards 2024 organized by the Union Ministry of Jal Shakti?",
       "options": [
-        "₹1,245.50 crore",
-        "₹2,100.85 crore",
-        "₹3,541.16 crore",
-        "₹5,230.40 crore"
+        "Gujarat",
+        "Haryana",
+        "Telangana",
+        "Maharashtra"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Maharashtra was named the top-performing state in the 'Best State' category at the 6th National Water Awards 2024, followed by Gujarat and Haryana in second and third places. Telangana emerged as the best-performing state under the 'Jal Sanchay Jan Bhagidari 1.0' initiative. The awards, organized by the Union Ministry of Jal Shakti, recognize excellence in sustainable water resource practices across India.",
+      "category": "Maharashtra",
+      "difficulty": "medium",
+      "sourceUrl": "https://www.gktoday.in/maharashtra-tops-6th-national-water-awards-2024/"
+    },
+    {
+      "id": "ca_20260720_03",
+      "question": "Under Maharashtra's flagship 'Mukhyamantri Majhi Ladki Bahin Yojana' launched in July 2024, what is the age group eligible for women to receive the monthly financial assistance of ₹1,500?",
+      "options": [
+        "18 to 60 years",
+        "21 to 65 years",
+        "18 to 65 years",
+        "21 to 60 years"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The Mukhyamantri Majhi Ladki Bahin Yojana was launched by the Government of Maharashtra in July 2024 to promote economic independence, health, and nutrition among women. Under the scheme, eligible women in the age group of 21 to 65 years receive direct financial assistance of ₹1,500 per month. The scheme requires that the family's annual income be less than ₹2.5 lakh and mandatory e-KYC verification.",
+      "category": "Maharashtra",
+      "difficulty": "medium",
+      "sourceUrl": "https://nashik.gov.in/en/scheme/mukhyamantri-mazi-ladki-bahin-yojana/"
+    },
+    {
+      "id": "ca_20260720_04",
+      "question": "According to NITI Aayog's draft document 'Vision for Viksit Bharat @ 2047', what is the targeted size of India's economy by the year 2047, the 100th anniversary of its independence?",
+      "options": [
+        "USD 10 trillion",
+        "USD 20 trillion",
+        "USD 30 trillion",
+        "USD 50 trillion"
       ],
       "correctAnswer": 2,
-      "explanation": "The CAG revealed that Maharashtra's Department of Women and Child Development recorded a budgetary breach in the Mukhyamantri Majhi Ladki Bahin Yojana, spending ₹33,237.24 crore against an allocation of ₹29,693.09 crore. This resulted in an unexplained, unauthorized excess expenditure of ₹3,541.16 crore. The CAG also flagged the reappropriation of ₹3,490.75 crore from the 'Lek Ladki Yojana' to fund this scheme.",
-      "category": "Maharashtra",
-      "difficulty": "hard",
-      "sourceUrl": "https://ramanacademy.in/daily-current-affairs/17-july-2026/"
-    },
-    {
-      "id": "ca_20260719_04",
-      "question": "Prime Minister Narendra Modi is scheduled to flag off India's first-ever hydrogen-powered passenger train from which railway station?",
-      "options": [
-        "Jind, Haryana",
-        "Gandhinagar, Gujarat",
-        "Pune, Maharashtra",
-        "Varanasi, Uttar Pradesh"
-      ],
-      "correctAnswer": 0,
-      "explanation": "India's first hydrogen-powered passenger train is set to be flagged off by Prime Minister Narendra Modi from Jind railway station in Haryana. This project marks a significant green transition in Indian Railways, using hydrogen fuel cells to generate clean electricity instead of diesel.",
-      "category": "Science & Tech",
-      "difficulty": "easy",
-      "sourceUrl": "https://www.nextias.com/ca/headlines-of-the-day/17-07-2026/79435"
-    },
-    {
-      "id": "ca_20260719_05",
-      "question": "In July 2026, NASA astronaut Anil Menon lifted off for his first 8-month long-duration mission to the International Space Station (ISS) aboard which spacecraft?",
-      "options": [
-        "SpaceX Crew Dragon",
-        "Soyuz MS-29",
-        "Boeing Starliner",
-        "Shenzhou-19"
-      ],
-      "correctAnswer": 1,
-      "explanation": "Indian-origin NASA astronaut Anil Menon lifted off on July 14, 2026, aboard the Russian Soyuz MS-29 spacecraft from the Baikonur Cosmodrome in Kazakhstan. He was accompanied by Roscosmos cosmonauts Pyotr Dubrov and Anna Kikina for an 8-month mission on the ISS as part of Expeditions 74 and 75.",
-      "category": "Science & Tech",
-      "difficulty": "medium",
-      "sourceUrl": "https://timesofindia.indiatimes.com/science/meet-anil-menon-indian-origin-nasa-astronaut-set-to-liftoff-on-first-8-month-iss-mission-today-heres-what-he-will-do-in-space/articleshow/132381874.cms"
-    },
-    {
-      "id": "ca_20260719_06",
-      "question": "The Union Government has listed the 'Prevention of Insults to National Honour (Amendment) Bill, 2026' for introduction in the Lok Sabha. What key provision does this amendment seek to introduce?",
-      "options": [
-        "Mandating national anthem playback before every assembly election voting",
-        "Making any intentional insult or obstruction to the singing of the National Song 'Vande Mataram' a punishable offence",
-        "Imposing a complete ban on commercial use of the Indian National Flag",
-        "Prescribing strict dress codes for public events where national symbols are displayed"
-      ],
-      "correctAnswer": 1,
-      "explanation": "The Prevention of Insults to National Honour (Amendment) Bill, 2026, has been listed for the Monsoon session of Parliament. The amendment seeks to make any intentional insult or obstruction to the singing of the National Song 'Vande Mataram' a punishable offence, providing it with statutory protection similar to the National Anthem.",
-      "category": "Polity",
-      "difficulty": "medium",
-      "sourceUrl": "https://thefederal.com/category/news/bill-seeking-punishment-for-insulting-vande-mataram-lok-sabha-monsoon-session-250393"
-    },
-    {
-      "id": "ca_20260719_07",
-      "question": "NITI Aayog recently released the 'Roadmap for Building India as a Leading BioEconomy Powerhouse by 2035'. What is the total outlay of the proposed BioEconomy Growth Fund for the 2026-2035 period?",
-      "options": [
-        "₹20,000 crore",
-        "₹50,000 crore",
-        "₹75,000 crore",
-        "₹1,00,000 crore"
-      ],
-      "correctAnswer": 1,
-      "explanation": "NITI Aayog's Bioeconomy Roadmap 2035 proposes a ₹50,000 crore BioEconomy Growth Fund for the 2026-2035 period. The fund aims to bridge the gap between proof-of-concept research and commercial manufacturing in biomanufacturing, advanced therapeutics, synthetic biology, and diagnostics.",
+      "explanation": "Under the draft vision document 'Vision for Viksit Bharat @ 2047' prepared by NITI Aayog, India aims to become a USD 30 trillion developed economy by 2047. This represents a nearly ninefold increase from the current economic size, with a projected per capita GDP rising to around USD 18,000 to USD 20,000.",
       "category": "Economy",
       "difficulty": "easy",
-      "sourceUrl": "https://www.gktoday.in/niti-aayog-proposes-%E2%82%B950000-crore-biotech-fund/"
+      "sourceUrl": "https://niti.gov.in/sites/default/files/2026-04/DPI-2047-for-Viksit-Bharat-A-Strategic-Roadmap-to-Enable-Non-linear-Inclusive-Socio-economic-Growth.pdf"
     },
     {
-      "id": "ca_20260719_08",
-      "question": "In July 2026, the Bureau of Energy Efficiency (BEE) and the Ministry of Power released the draft Corporate Average Fuel Efficiency III (CAFE III) norms. To which category of vehicles do these proposed norms apply?",
+      "id": "ca_20260720_05",
+      "question": "Which union department recently launched the 'One DAE One Subscription' (ODOS) initiative at Tata Memorial Hospital in Mumbai to provide comprehensive read and open-access publishing rights to its scientific research papers and journals?",
       "options": [
-        "Heavy commercial trucks and cargo vehicles (Category N3)",
-        "M1 category passenger vehicles (weighing up to 3,500 kg)",
-        "Electric two-wheelers and three-wheelers (Category L)",
-        "Public transport diesel buses (Category M3)"
+        "Department of Space",
+        "Department of Atomic Energy",
+        "Department of Biotechnology",
+        "Department of Science and Technology"
       ],
       "correctAnswer": 1,
-      "explanation": "The draft CAFE III norms released by the Ministry of Power apply to M1 category passenger vehicles (manufactured or imported for sale in India) weighing up to 3,500 kg. The proposed norms are set to apply from FY2027-28 to FY2031-32, evaluating automaker fleet compliance over three-year blocks.",
-      "category": "Environment",
-      "difficulty": "medium",
-      "sourceUrl": "https://auto.economictimes.indiatimes.com/news/industry/cafe-iii-norms-signal-faster-ev-shift-in-india-while-balancing-automakers-concerns-nomura/132457916"
-    },
-    {
-      "id": "ca_20260719_09",
-      "question": "During school education petitions in the Supreme Court in July 2026, which age/class range did Supreme Court Judge Justice B.V. Nagarathna recommend for introducing and stopping the third language under the three-language policy?",
-      "options": [
-        "Start in Class 1 and stop in Class 5",
-        "Start in Class 5 and stop in Class 8",
-        "Start in Class 6 and stop in Class 9",
-        "Start in Class 6 and stop in Class 10"
-      ],
-      "correctAnswer": 2,
-      "explanation": "Supreme Court Judge Justice B.V. Nagarathna made an oral appeal in court to avoid introducing a third language in Class 9 to reduce stress on students facing Board exams. She recommended that the third language should instead be introduced in Class 6 and stopped in Class 9.",
-      "category": "Polity",
-      "difficulty": "hard",
-      "sourceUrl": "https://www.aashah.com/third-language-should-start-in-class-6-and-stop-in-class-9/"
-    },
-    {
-      "id": "ca_20260719_10",
-      "question": "In July 2026, India's first high-precision, Ethernet-based time distribution facility using CERN-developed 'White Rabbit' technology was inaugurated at which location?",
-      "options": [
-        "Physical Research Laboratory (PRL), Ahmedabad",
-        "Regional Reference Standards Laboratory (RRSL), Bengaluru",
-        "National Physical Laboratory (NPL), New Delhi",
-        "Vikram Sarabhai Space Centre (VSSC), Thiruvananthapuram"
-      ],
-      "correctAnswer": 1,
-      "explanation": "Union Minister inaugurated the White Rabbit Technology-based Indian Standard Time (IST) Distribution Demonstration Network at the Regional Reference Standards Laboratory (RRSL) in Jakkur, Bengaluru. Led by the Legal Metrology Division, the facility uses CERN's open-source White Rabbit synchronization protocol to transmit IST over wide-area networks with sub-nanosecond precision.",
+      "explanation": "The Department of Atomic Energy (DAE) launched the 'One DAE One Subscription' (ODOS) initiative at Tata Memorial Hospital in Mumbai. ODOS is a consortium agreement enabling DAE and all its units (about 60) to access and publish research papers in journals (such as Springer Nature and Wiley) without article processing charges. This initiative will later merge into the national 'One Nation One Subscription' (ONOS) initiative.",
       "category": "Science & Tech",
       "difficulty": "medium",
-      "sourceUrl": "https://www.insightsonindia.com/2026/07/17/the-white-rabbit-technology-demonstration-network/"
+      "sourceUrl": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2038366"
+    },
+    {
+      "id": "ca_20260720_06",
+      "question": "Asia's first health research-related 'Pre-clinical Network Facility' under the Coalition of Epidemic Preparedness Innovations (CEPI) was inaugurated in July 2024 at which of the following Indian institutes?",
+      "options": [
+        "Translational Health Science and Technology Institute (THSTI), Faridabad",
+        "National Institute of Virology (NIV), Pune",
+        "Indian Institute of Science (IISc), Bengaluru",
+        "Tata Institute of Fundamental Research (TIFR), Mumbai"
+      ],
+      "correctAnswer": 0,
+      "explanation": "In July 2024, Union Minister Dr. Jitendra Singh inaugurated Asia's first health research-related Pre-clinical Network Facility under the Coalition of Epidemic Preparedness Innovations (CEPI) at BRIC-Translational Health Science and Technology Institute (THSTI) in Faridabad, Haryana. It is the 9th such network laboratory globally and the first in Asia, equipped with advanced facilities to handle BSL3 pathogens and accelerate vaccine development.",
+      "category": "Science & Tech",
+      "difficulty": "easy",
+      "sourceUrl": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2033656"
+    },
+    {
+      "id": "ca_20260720_07",
+      "question": "In the Union Budget 2024-25 presented in July 2024, the Union Government proposed the establishment of which mission to secure the domestic supply, recycling, and overseas acquisition of critical mineral assets?",
+      "options": [
+        "Critical Mineral Mission",
+        "Strategic Rare Earths Mission",
+        "Green Transition Minerals Mission",
+        "Atmanirbhar Metallurgy Mission"
+      ],
+      "correctAnswer": 0,
+      "explanation": "In the Union Budget 2024-25 presented on July 23, 2024, the Union Finance Minister proposed the establishment of a 'Critical Mineral Mission'. Its mandate includes boosting domestic production, facilitating the recycling of critical minerals, and securing overseas acquisition of critical mineral assets. It also emphasizes technology development, building a skilled workforce, and an extended producer responsibility framework.",
+      "category": "Economy",
+      "difficulty": "medium",
+      "sourceUrl": "https://www.pib.gov.in/PressReleaseIframePage.aspx?PRID=2035583"
+    },
+    {
+      "id": "ca_20260720_08",
+      "question": "The Indian Army contingent participated in the multinational military peacekeeping exercise 'KHAAN QUEST 2024' from July 27 to August 9, 2024, at which of the following locations?",
+      "options": [
+        "Nur-Sultan, Kazakhstan",
+        "Ulaanbaatar, Mongolia",
+        "Tashkent, Uzbekistan",
+        "Bishkek, Kyrgyzstan"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The Multinational Military Exercise KHAAN QUEST 2024 was conducted from July 27 to August 9, 2024, in Ulaanbaatar, Mongolia. The Indian Army contingent, consisting of 40 personnel mainly from a Battalion of the MADRAS REGIMENT, participated alongside military forces from over 20 nations to enhance peacekeeping capabilities under Chapter VII of the United Nations Charter.",
+      "category": "International",
+      "difficulty": "medium",
+      "sourceUrl": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2036798"
+    },
+    {
+      "id": "ca_20260720_09",
+      "question": "In the landmark judgment 'Mohd Abdul Samad vs. State of Telangana' delivered in July 2024, the Supreme Court of India upheld that which of the following statutory provisions is religion-neutral and applies to all married women, including divorced Muslim women?",
+      "options": [
+        "Section 125 of the Code of Criminal Procedure (CrPC), 1973",
+        "Section 498A of the Indian Penal Code (IPC), 1860",
+        "Section 125 of the Indian Evidence Act, 1872",
+        "Section 3 of the Muslim Women (Protection of Rights on Divorce) Act, 1986"
+      ],
+      "correctAnswer": 0,
+      "explanation": "On July 10, 2024, a Division Bench of the Supreme Court of India (comprising Justices B.V. Nagarathna and Augustine George Masih) in 'Mohd Abdul Samad vs. State of Telangana' held that Section 125 of the CrPC, 1973 (which deals with a wife's legal right to maintenance) is secular and religion-neutral. The court ruled that the Muslim Women (Protection of Rights on Divorce) Act, 1986 does not prevail over this beneficial provision, and a divorced Muslim woman can claim maintenance from her ex-husband under Section 125 of the CrPC.",
+      "category": "Polity",
+      "difficulty": "hard",
+      "sourceUrl": "https://www.scconline.com/blog/post/2024/07/11/divorced-muslim-woman-can-seek-maintenance-under-section-125-crpc-supreme-court-2/"
+    },
+    {
+      "id": "ca_20260720_10",
+      "question": "In the landmark case 'M.K. Ranjitsinh vs. Union of India', the Supreme Court of India explicitly recognized the 'right to be free from the adverse effects of climate change' as part of which fundamental rights in the Constitution of India?",
+      "options": [
+        "Articles 14 and 21",
+        "Articles 19 and 21",
+        "Articles 21 and 25",
+        "Articles 14 and 19"
+      ],
+      "correctAnswer": 0,
+      "explanation": "In 'M.K. Ranjitsinh vs. Union of India', a three-judge Bench of the Supreme Court of India (led by Chief Justice D.Y. Chandrachud) explicitly recognized the 'right to be free from the adverse effects of climate change' as a distinct fundamental right. The Court derived this right from Article 21 (Right to Life and Personal Liberty) and Article 14 (Right to Equality), noting that marginalized and vulnerable populations are disproportionately impacted by climate change, thereby violating their right to equality and equal protection under the law.",
+      "category": "Environment",
+      "difficulty": "hard",
+      "sourceUrl": "https://drishtijudiciary.com/editorial/judgement-on-right-to-be-free-from-the-adverse-effects-of-climate-change"
     }
   ],
   "totalQuestions": 10,
