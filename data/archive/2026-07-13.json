@@ -1,0 +1,25 @@
+{
+  "date": "2026-07-13",
+  "topic": "Current Affairs",
+  "source": "The Hindu",
+  "lastUpdated": "2026-07-13T06:30:00+05:30",
+  "quiz": [
+    {
+      "id": "ca_20260713_01",
+      "question": "Which national park is home to the world's largest population of the great Indian one-horned rhinoceros?",
+      "options": [
+        "Kaziranga National Park",
+        "Jim Corbett National Park",
+        "Gir National Park",
+        "Sundarbans National Park"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Kaziranga National Park in Assam hosts more than two-thirds of the world's one-horned rhinoceros population.",
+      "category": "Environment",
+      "difficulty": "easy",
+      "sourceUrl": "https://example.com/kaziranga"
+    }
+  ],
+  "totalQuestions": 1,
+  "version": 1
+}

@@ -1,0 +1,479 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>MPSC Current Affairs Archive Viewer</title>
+  <!-- Tailwind CSS CDN -->
+  <script src="https://cdn.tailwindcss.com"></script>
+  <!-- Heroicons/FontAwesome for beautiful icons (optional, using SVG instead for completeness) -->
+  <style>
+    /* Add smooth transitions and custom styles */
+    .option-card {
+      transition: all 0.2s ease-in-out;
+    }
+  </style>
+</head>
+<body class="bg-gray-50 min-h-screen flex flex-col font-sans text-gray-800">
+
+  <!-- Header -->
+  <header class="bg-indigo-600 text-white shadow-md">
+    <div class="max-w-6xl mx-auto px-4 py-6 flex flex-col md:flex-row justify-between items-center gap-4">
+      <div>
+        <h1 class="text-3xl font-extrabold tracking-tight">MPSC Current Affairs</h1>
+        <p class="text-indigo-200 mt-1 text-sm md:text-base">Daily Practice Quizzes & Archive Viewer</p>
+      </div>
+      <div class="flex items-center gap-3">
+        <span class="bg-indigo-700 text-indigo-100 text-xs font-semibold px-3 py-1.5 rounded-full border border-indigo-500" id="total-quizzes-badge">
+          Loading...
+        </span>
+        <a href="data/metadata.json" target="_blank" class="text-xs bg-indigo-500 hover:bg-indigo-400 text-white font-medium px-3 py-1.5 rounded-md transition">
+          View Metadata JSON
+        </a>
+      </div>
+    </div>
+  </header>
+
+  <!-- Main Content Area -->
+  <main class="flex-grow max-w-6xl w-full mx-auto px-4 py-8 grid grid-cols-1 lg:grid-cols-12 gap-8">
+
+    <!-- Sidebar - Date Selector -->
+    <aside class="lg:col-span-4 bg-white p-6 rounded-xl shadow-sm border border-gray-100 flex flex-col gap-4">
+      <div>
+        <h2 class="text-lg font-bold text-gray-900 mb-1">Available Quizzes</h2>
+        <p class="text-xs text-gray-500">Select a date from the archive below to load the quiz.</p>
+      </div>
+
+      <!-- Date List Container -->
+      <div class="overflow-y-auto max-h-[400px] lg:max-h-[550px] border border-gray-100 rounded-lg divide-y divide-gray-100" id="date-list">
+        <!-- Spinner or fallback -->
+        <div class="p-8 text-center text-gray-400 text-sm">
+          <svg class="animate-spin h-5 w-5 mx-auto mb-2 text-indigo-600" fill="none" viewBox="0 0 24 24">
+            <circle class="opacity-25" cx="12" cy="12" r="10" stroke="currentColor" stroke-width="4"></circle>
+            <path class="opacity-75" fill="currentColor" d="M4 12a8 8 0 018-8V0C5.373 0 0 5.373 0 12h4zm2 5.291A7.962 7.962 0 014 12H0c0 3.042 1.135 5.824 3 7.938l3-2.647z"></path>
+          </svg>
+          Loading dates...
+        </div>
+      </div>
+
+      <!-- Config & Stats Info Card -->
+      <div class="bg-gray-50 rounded-lg p-4 border border-gray-100 mt-auto text-xs space-y-2 text-gray-600">
+        <div class="font-semibold text-gray-700 text-xs uppercase tracking-wider mb-1">App Configuration</div>
+        <div class="flex justify-between">
+          <span>Max Archive Days:</span>
+          <span class="font-medium text-gray-900" id="cfg-max-days">-</span>
+        </div>
+        <div class="flex justify-between">
+          <span>Earliest Quiz:</span>
+          <span class="font-medium text-gray-900" id="cfg-earliest">-</span>
+        </div>
+        <div class="flex justify-between">
+          <span>Latest Quiz:</span>
+          <span class="font-medium text-gray-900" id="cfg-latest">-</span>
+        </div>
+      </div>
+    </aside>
+
+    <!-- Quiz Display Area -->
+    <section class="lg:col-span-8 flex flex-col gap-6">
+
+      <!-- Date Banner / Quiz Header Details -->
+      <div class="bg-white p-6 rounded-xl shadow-sm border border-gray-100 flex flex-col md:flex-row justify-between items-start md:items-center gap-4">
+        <div>
+          <div class="flex items-center gap-2 mb-1">
+            <span class="text-xs font-semibold px-2 py-0.5 bg-indigo-50 text-indigo-700 rounded" id="quiz-topic">Loading Topic...</span>
+            <span class="text-xs text-gray-400" id="quiz-source">Source: -</span>
+          </div>
+          <h2 class="text-2xl font-bold text-gray-900" id="quiz-date-title">Quiz</h2>
+        </div>
+        <div class="text-left md:text-right">
+          <p class="text-xs text-gray-400" id="quiz-last-updated">Last Updated: -</p>
+          <p class="text-xs text-indigo-600 font-semibold mt-1" id="quiz-version">Version: -</p>
+        </div>
+      </div>
+
+      <!-- Quiz Questions Container -->
+      <div id="quiz-container" class="space-y-6">
+        <!-- Dynamic Quiz Content will be injected here -->
+        <div class="bg-white p-12 text-center text-gray-500 rounded-xl shadow-sm border border-gray-100">
+          <p class="text-lg font-medium">Please select a date from the sidebar to view the quiz.</p>
+        </div>
+      </div>
+
+      <!-- Score Summary Card (Initially Hidden) -->
+      <div id="score-card" class="bg-gradient-to-r from-indigo-50 to-purple-50 border border-indigo-100 p-6 rounded-xl shadow-sm flex flex-col md:flex-row justify-between items-center gap-4 hidden">
+        <div>
+          <h3 class="text-lg font-bold text-indigo-900">Quiz Completed!</h3>
+          <p class="text-sm text-indigo-700 mt-1" id="score-summary-text">You answered X out of Y questions correctly.</p>
+        </div>
+        <button onclick="resetQuizProgress()" class="bg-indigo-600 hover:bg-indigo-700 text-white text-sm font-semibold px-5 py-2.5 rounded-lg shadow-sm transition">
+          Retry Quiz
+        </button>
+      </div>
+
+    </section>
+  </main>
+
+  <!-- Footer -->
+  <footer class="bg-gray-900 text-gray-400 py-8 border-t border-gray-800 text-center text-sm">
+    <div class="max-w-6xl mx-auto px-4 space-y-2">
+      <p>MPSC Current Affairs Offline Sync Support Portal.</p>
+      <p class="text-xs text-gray-600">&copy; 2026. Designed for offline mobile synchronization via static JSON hosting.</p>
+    </div>
+  </footer>
+
+  <!-- Script for Interactive Dashboard and Quiz Functionality -->
+  <script>
+    let currentQuizData = null;
+    let selectedAnswers = {}; // questionIndex -> chosenOptionIndex
+    let isLocked = {}; // questionIndex -> boolean (whether question is graded)
+
+    // On Load
+    document.addEventListener("DOMContentLoaded", () => {
+      fetchMetadata();
+    });
+
+    // Fetch Metadata
+    async function fetchMetadata() {
+      try {
+        const response = await fetch('data/metadata.json');
+        if (!response.ok) throw new Error("Failed to load metadata.json");
+        const metadata = await response.json();
+
+        // Populate Sidebar Config / Stats
+        document.getElementById('total-quizzes-badge').textContent = `${metadata.totalArchivedQuizzes || metadata.availableDates.length} Quizzes Available`;
+        document.getElementById('cfg-max-days').textContent = metadata.appConfig?.maxArchiveDays || '30';
+        document.getElementById('cfg-earliest').textContent = metadata.dateRange?.earliest || 'N/A';
+        document.getElementById('cfg-latest').textContent = metadata.dateRange?.latest || 'N/A';
+
+        // Render Dates List
+        const dateListContainer = document.getElementById('date-list');
+        dateListContainer.innerHTML = '';
+
+        if (metadata.availableDates && metadata.availableDates.length > 0) {
+          metadata.availableDates.forEach((dateStr, idx) => {
+            const isLatest = idx === 0;
+            const button = document.createElement('button');
+            button.className = `w-full text-left p-4 hover:bg-indigo-50/50 transition flex items-center justify-between group ${isLatest ? 'bg-indigo-50/20' : ''}`;
+            button.setAttribute('data-date', dateStr);
+            button.onclick = () => selectDate(dateStr, button);
+
+            button.innerHTML = `
+              <div class="flex flex-col">
+                <span class="font-bold text-gray-900 group-hover:text-indigo-600 transition text-sm">${formatFriendlyDate(dateStr)}</span>
+                <span class="text-xs text-gray-400 mt-0.5">${dateStr}</span>
+              </div>
+              <div class="flex items-center gap-1.5">
+                ${isLatest ? '<span class="bg-green-100 text-green-800 text-[10px] font-bold px-1.5 py-0.5 rounded">LATEST</span>' : ''}
+                <svg class="h-4 w-4 text-gray-400 group-hover:text-indigo-500 transition transform group-hover:translate-x-1" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                  <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5l7 7-7 7" />
+                </svg>
+              </div>
+            `;
+            dateListContainer.appendChild(button);
+          });
+
+          // Automatically select the first (latest) date
+          const firstDate = metadata.availableDates[0];
+          const firstButton = dateListContainer.querySelector(`button[data-date="${firstDate}"]`);
+          selectDate(firstDate, firstButton);
+        } else {
+          dateListContainer.innerHTML = '<div class="p-6 text-center text-gray-400 text-sm">No dates available.</div>';
+        }
+
+      } catch (err) {
+        console.error(err);
+        document.getElementById('date-list').innerHTML = `
+          <div class="p-6 text-center text-red-500 text-sm font-medium">
+            Error loading metadata. Ensure server is running or JSON path is correct.
+          </div>
+        `;
+      }
+    }
+
+    // Select Date and Fetch Quiz File
+    async function selectDate(dateStr, element) {
+      // Highlight Active Sidebar Item
+      const allButtons = document.querySelectorAll('#date-list button');
+      allButtons.forEach(btn => {
+        btn.classList.remove('bg-indigo-50', 'border-l-4', 'border-indigo-600', 'pl-3');
+      });
+      if (element) {
+        element.classList.add('bg-indigo-50', 'border-l-4', 'border-indigo-600', 'pl-3');
+      }
+
+      // Show Loading State in Quiz Container
+      const quizContainer = document.getElementById('quiz-container');
+      document.getElementById('score-card').classList.add('hidden');
+      quizContainer.innerHTML = `
+        <div class="bg-white p-12 text-center text-gray-400 text-sm rounded-xl shadow-sm border border-gray-100">
+          <svg class="animate-spin h-8 w-8 mx-auto mb-3 text-indigo-600" fill="none" viewBox="0 0 24 24">
+            <circle class="opacity-25" cx="12" cy="12" r="10" stroke="currentColor" stroke-width="4"></circle>
+            <path class="opacity-75" fill="currentColor" d="M4 12a8 8 0 018-8V0C5.373 0 0 5.373 0 12h4zm2 5.291A7.962 7.962 0 014 12H0c0 3.042 1.135 5.824 3 7.938l3-2.647z"></path>
+          </svg>
+          Loading quiz for ${dateStr}...
+        </div>
+      `;
+
+      try {
+        // Fetch Archive Quiz file
+        const response = await fetch(`data/archive/${dateStr}.json`);
+        if (!response.ok) throw new Error("Could not fetch the quiz file.");
+        const quizData = await response.json();
+
+        currentQuizData = quizData;
+        selectedAnswers = {};
+        isLocked = {};
+
+        // Update Header Info
+        document.getElementById('quiz-date-title').textContent = formatFriendlyDate(dateStr);
+        document.getElementById('quiz-topic').textContent = quizData.topic || "Current Affairs";
+        document.getElementById('quiz-source').textContent = `Source: ${quizData.source || 'N/A'}`;
+        document.getElementById('quiz-last-updated').textContent = `Last Updated: ${formatTimestamp(quizData.lastUpdated)}`;
+        document.getElementById('quiz-version').textContent = `Schema Version: ${quizData.version || 1}`;
+
+        // Render Questions
+        renderQuiz();
+
+      } catch (err) {
+        console.error(err);
+        quizContainer.innerHTML = `
+          <div class="bg-white p-12 text-center text-red-500 rounded-xl shadow-sm border border-gray-100">
+            <p class="font-bold mb-2">Error loading quiz</p>
+            <p class="text-sm text-gray-500">Failed to load details for ${dateStr}. Please verify that 'data/archive/${dateStr}.json' exists.</p>
+          </div>
+        `;
+      }
+    }
+
+    // Render Quiz Questions
+    function renderQuiz() {
+      const container = document.getElementById('quiz-container');
+      container.innerHTML = '';
+
+      if (!currentQuizData || !currentQuizData.quiz || currentQuizData.quiz.length === 0) {
+        container.innerHTML = `
+          <div class="bg-white p-12 text-center text-gray-500 rounded-xl shadow-sm border border-gray-100">
+            No questions found in this quiz.
+          </div>
+        `;
+        return;
+      }
+
+      currentQuizData.quiz.forEach((q, qIdx) => {
+        const qCard = document.createElement('div');
+        qCard.className = "bg-white p-6 rounded-xl shadow-sm border border-gray-100 flex flex-col gap-4";
+        qCard.id = `question-card-${qIdx}`;
+
+        // Question details (category, difficulty)
+        const diffColors = {
+          easy: 'bg-green-100 text-green-800',
+          medium: 'bg-yellow-100 text-yellow-800',
+          hard: 'bg-red-100 text-red-800'
+        };
+        const diffBadge = diffColors[q.difficulty?.toLowerCase()] || 'bg-gray-100 text-gray-800';
+
+        let htmlContent = `
+          <div class="flex flex-wrap items-center justify-between gap-2">
+            <span class="text-xs font-semibold px-2.5 py-1 bg-indigo-50 text-indigo-700 rounded-md">${q.category || 'General'}</span>
+            <span class="text-xs font-bold uppercase tracking-wider px-2 py-0.5 rounded ${diffBadge}">${q.difficulty || 'medium'}</span>
+          </div>
+          <div>
+            <h3 class="text-lg font-bold text-gray-900 leading-snug"><span class="text-indigo-600 mr-1.5">Q${qIdx + 1}.</span>${q.question}</h3>
+          </div>
+          <div class="grid grid-cols-1 md:grid-cols-2 gap-3 mt-2" id="options-grid-${qIdx}">
+        `;
+
+        q.options.forEach((opt, oIdx) => {
+          htmlContent += `
+            <button onclick="selectOption(${qIdx}, ${oIdx})"
+              id="opt-${qIdx}-${oIdx}"
+              class="option-card w-full text-left p-4 rounded-xl border border-gray-200 hover:border-indigo-300 hover:bg-indigo-50/30 text-sm font-medium flex items-center justify-between group">
+              <span>${opt}</span>
+              <span class="option-indicator h-4 w-4 rounded-full border border-gray-300 group-hover:border-indigo-400 flex items-center justify-center text-[10px] text-white"></span>
+            </button>
+          `;
+        });
+
+        htmlContent += `
+          </div>
+
+          <!-- Submit Button per Question -->
+          <div class="mt-2 flex justify-end" id="action-area-${qIdx}">
+            <button onclick="gradeQuestion(${qIdx})" id="submit-btn-${qIdx}" disabled
+              class="bg-gray-100 text-gray-400 font-bold text-xs px-4 py-2 rounded-lg cursor-not-allowed transition">
+              Check Answer
+            </button>
+          </div>
+
+          <!-- Explanation Box (Initially Hidden) -->
+          <div id="explanation-${qIdx}" class="hidden bg-emerald-50/50 border border-emerald-100 rounded-xl p-4 mt-2">
+            <div class="flex items-start gap-3">
+              <div class="bg-emerald-500 text-white rounded-full p-1 mt-0.5">
+                <svg class="h-4 w-4" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                  <path stroke-linecap="round" stroke-linejoin="round" stroke-width="3" d="M5 13l4 4L19 7" />
+                </svg>
+              </div>
+              <div class="flex-1">
+                <h4 class="font-bold text-emerald-900 text-sm">Explanation</h4>
+                <p class="text-xs text-emerald-800 mt-1 leading-relaxed">${q.explanation || 'No explanation provided.'}</p>
+                ${q.sourceUrl ? `
+                  <a href="${q.sourceUrl}" target="_blank" class="text-xs text-indigo-600 hover:underline font-medium mt-2 inline-flex items-center gap-1">
+                    Read reference article
+                    <svg class="h-3 w-3" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                      <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M10 6H6a2 2 0 00-2 2v10a2 2 0 002 2h10a2 2 0 002-2v-4M14 4h6m0 0v6m0-6L10 14" />
+                    </svg>
+                  </a>
+                ` : ''}
+              </div>
+            </div>
+          </div>
+        `;
+
+        qCard.innerHTML = htmlContent;
+        container.appendChild(qCard);
+      });
+    }
+
+    // Select Option Handler
+    function selectOption(qIdx, oIdx) {
+      if (isLocked[qIdx]) return;
+
+      selectedAnswers[qIdx] = oIdx;
+
+      // Update Option selection visual states
+      const totalOptions = currentQuizData.quiz[qIdx].options.length;
+      for (let i = 0; i < totalOptions; i++) {
+        const btn = document.getElementById(`opt-${qIdx}-${i}`);
+        const indicator = btn.querySelector('.option-indicator');
+        if (i === oIdx) {
+          btn.classList.add('border-indigo-600', 'bg-indigo-50/50', 'ring-2', 'ring-indigo-600/10');
+          indicator.classList.add('bg-indigo-600', 'border-indigo-600');
+          indicator.innerHTML = '✓';
+        } else {
+          btn.classList.remove('border-indigo-600', 'bg-indigo-50/50', 'ring-2', 'ring-indigo-600/10');
+          indicator.classList.remove('bg-indigo-600', 'border-indigo-600');
+          indicator.innerHTML = '';
+        }
+      }
+
+      // Enable submit button
+      const submitBtn = document.getElementById(`submit-btn-${qIdx}`);
+      submitBtn.disabled = false;
+      submitBtn.className = "bg-indigo-600 hover:bg-indigo-700 text-white font-bold text-xs px-4 py-2 rounded-lg shadow-sm cursor-pointer transition";
+    }
+
+    // Grade Question
+    function gradeQuestion(qIdx) {
+      if (isLocked[qIdx] || selectedAnswers[qIdx] === undefined) return;
+
+      isLocked[qIdx] = true;
+      const chosen = selectedAnswers[qIdx];
+      const correct = currentQuizData.quiz[qIdx].correctAnswer;
+
+      const totalOptions = currentQuizData.quiz[qIdx].options.length;
+      for (let i = 0; i < totalOptions; i++) {
+        const btn = document.getElementById(`opt-${qIdx}-${i}`);
+        const indicator = btn.querySelector('.option-indicator');
+
+        // Disable option buttons
+        btn.classList.remove('hover:border-indigo-300', 'hover:bg-indigo-50/30');
+        btn.onclick = null;
+        btn.className += " cursor-default";
+
+        if (i === correct) {
+          // Highlight correct answer in green
+          btn.classList.add('border-emerald-500', 'bg-emerald-50');
+          btn.classList.remove('border-indigo-600', 'bg-indigo-50/50', 'ring-2', 'ring-indigo-600/10');
+          indicator.classList.add('bg-emerald-500', 'border-emerald-500');
+          indicator.innerHTML = '✓';
+        } else if (i === chosen) {
+          // Highlight user's incorrect answer in red
+          btn.classList.add('border-rose-500', 'bg-rose-50');
+          btn.classList.remove('border-indigo-600', 'bg-indigo-50/50', 'ring-2', 'ring-indigo-600/10');
+          indicator.classList.add('bg-rose-500', 'border-rose-500');
+          indicator.innerHTML = '✕';
+        }
+      }
+
+      // Hide/Remove Check Answer button
+      document.getElementById(`action-area-${qIdx}`).innerHTML = `
+        <span class="text-xs font-bold ${chosen === correct ? 'text-emerald-600' : 'text-rose-600'} flex items-center gap-1">
+          ${chosen === correct ? 'Correct Answer' : 'Incorrect Answer'}
+        </span>
+      `;
+
+      // Show explanation
+      const explanationDiv = document.getElementById(`explanation-${qIdx}`);
+      explanationDiv.classList.remove('hidden');
+      if (chosen !== correct) {
+        // Red theme if incorrect
+        explanationDiv.classList.replace('bg-emerald-50/50', 'bg-rose-50/30');
+        explanationDiv.classList.replace('border-emerald-100', 'border-rose-100');
+        const badge = explanationDiv.querySelector('.bg-emerald-500');
+        badge.classList.replace('bg-emerald-500', 'bg-rose-500');
+        badge.innerHTML = `
+          <svg class="h-4 w-4" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="3" d="M6 18L18 6M6 6l12 12" />
+          </svg>
+        `;
+        explanationDiv.querySelector('h4').className = 'font-bold text-rose-900 text-sm';
+        explanationDiv.querySelector('p').className = 'text-xs text-rose-800 mt-1 leading-relaxed';
+      }
+
+      // Check if all questions are answered/graded
+      checkQuizCompletion();
+    }
+
+    // Check if Quiz is completed
+    function checkQuizCompletion() {
+      const totalQuestions = currentQuizData.quiz.length;
+      const lockedCount = Object.keys(isLocked).length;
+
+      if (lockedCount === totalQuestions) {
+        // Calculate Score
+        let correctCount = 0;
+        currentQuizData.quiz.forEach((q, idx) => {
+          if (selectedAnswers[idx] === q.correctAnswer) {
+            correctCount++;
+          }
+        });
+
+        // Show Score Card
+        const scoreCard = document.getElementById('score-card');
+        scoreCard.classList.remove('hidden');
+        document.getElementById('score-summary-text').innerHTML = `You scored <strong>${correctCount}</strong> out of <strong>${totalQuestions}</strong> correctly. Keep it up!`;
+        scoreCard.scrollIntoView({ behavior: 'smooth' });
+      }
+    }
+
+    // Reset current quiz progress
+    function resetQuizProgress() {
+      if (!currentQuizData) return;
+      selectedAnswers = {};
+      isLocked = {};
+      document.getElementById('score-card').classList.add('hidden');
+      renderQuiz();
+    }
+
+    // Helper: Friendly Date Format (e.g. "2026-07-17" -> "July 17, 2026")
+    function formatFriendlyDate(dateString) {
+      const parts = dateString.split('-');
+      if (parts.length !== 3) return dateString;
+      const date = new Date(parts[0], parts[1] - 1, parts[2]);
+      return date.toLocaleDateString('en-US', { month: 'long', day: 'numeric', year: 'numeric' });
+    }
+
+    // Helper: Timestamp formatter
+    function formatTimestamp(timestampStr) {
+      if (!timestampStr) return '-';
+      try {
+        const d = new Date(timestampStr);
+        return d.toLocaleString('en-US', { hour12: true, dateStyle: 'medium', timeStyle: 'short' });
+      } catch (e) {
+        return timestampStr;
+      }
+    }
+  </script>
+</body>
+</html>

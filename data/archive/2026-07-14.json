@@ -1,0 +1,25 @@
+{
+  "date": "2026-07-14",
+  "topic": "Current Affairs",
+  "source": "PIB",
+  "lastUpdated": "2026-07-14T06:30:00+05:30",
+  "quiz": [
+    {
+      "id": "ca_20260714_01",
+      "question": "The 'Vajra Prahar' joint exercise is conducted between India and which country?",
+      "options": [
+        "United Kingdom",
+        "United States",
+        "Japan",
+        "France"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Exercise Vajra Prahar is a joint special forces exercise conducted between the military forces of India and the United States.",
+      "category": "Defense",
+      "difficulty": "easy",
+      "sourceUrl": "https://example.com/vajra-prahar"
+    }
+  ],
+  "totalQuestions": 1,
+  "version": 1
+}
