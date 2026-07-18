@@ -156,7 +156,7 @@
             const button = document.createElement('button');
             button.className = `w-full text-left p-4 hover:bg-indigo-50/50 transition flex items-center justify-between group ${isLatest ? 'bg-indigo-50/20' : ''}`;
             button.setAttribute('data-date', dateStr);
-            button.onclick = () => selectDate(dateStr, button);
+            button.onclick = () => selectDate(dateStr, button, isLatest);
 
             button.innerHTML = `
               <div class="flex flex-col">
@@ -176,7 +176,7 @@
           // Automatically select the first (latest) date
           const firstDate = metadata.availableDates[0];
           const firstButton = dateListContainer.querySelector(`button[data-date="${firstDate}"]`);
-          selectDate(firstDate, firstButton);
+          selectDate(firstDate, firstButton, true);
         } else {
           dateListContainer.innerHTML = '<div class="p-6 text-center text-gray-400 text-sm">No dates available.</div>';
         }
@@ -192,7 +192,7 @@
     }
 
     // Select Date and Fetch Quiz File
-    async function selectDate(dateStr, element) {
+    async function selectDate(dateStr, element, isLatest = false) {
       // Highlight Active Sidebar Item
       const allButtons = document.querySelectorAll('#date-list button');
       allButtons.forEach(btn => {
@@ -217,7 +217,8 @@
 
       try {
         // Fetch Archive Quiz file
-        const response = await fetch(`data/archive/${dateStr}.json`);
+        const fetchUrl = isLatest ? 'data/current.json' : `data/archive/${dateStr}.json`;
+        const response = await fetch(fetchUrl);
         if (!response.ok) throw new Error("Could not fetch the quiz file.");
         const quizData = await response.json();
 
@@ -240,7 +241,7 @@
         quizContainer.innerHTML = `
           <div class="bg-white p-12 text-center text-red-500 rounded-xl shadow-sm border border-gray-100">
             <p class="font-bold mb-2">Error loading quiz</p>
-            <p class="text-sm text-gray-500">Failed to load details for ${dateStr}. Please verify that 'data/archive/${dateStr}.json' exists.</p>
+            <p class="text-sm text-gray-500">Failed to load details for ${dateStr}. Please verify that the file exists.</p>
           </div>
         `;
       }
