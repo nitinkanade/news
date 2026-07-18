@@ -1,158 +1,158 @@
 {
-  "date": "2026-07-20",
+  "date": "2026-07-21",
   "topic": "Current Affairs",
   "source": "The Hindu / PIB / Economic Times / Indian Express / Next IAS / Insights IAS / GKToday",
-  "lastUpdated": "2026-07-20T06:30:00+05:30",
+  "lastUpdated": "2026-07-21T06:30:00+05:30",
   "quiz": [
     {
-      "id": "ca_20260720_01",
-      "question": "Which state has been honored with the 'Best Agriculture State Award' for 2024 by the 15th Agriculture Leadership Awards Committee?",
+      "id": "ca_20260721_01",
+      "question": "Which city in Maharashtra hosted the 3rd BRICS Transport Ministers' Meeting in July 2026 under India's BRICS chairship?",
       "options": [
-        "Madhya Pradesh",
-        "Maharashtra",
-        "Uttar Pradesh",
-        "Gujarat"
-      ],
-      "correctAnswer": 1,
-      "explanation": "The 15th Agriculture Leadership Awards Committee, chaired by former Chief Justice of India Justice P Sathasivam, honored Maharashtra as the Best Agriculture State for 2024. Chief Minister Eknath Shinde received the award in New Delhi on July 10, 2024. The award recognized Maharashtra's implementation of development policies, agricultural innovations, and its massive bamboo cultivation initiative.",
-      "category": "Maharashtra",
-      "difficulty": "easy",
-      "sourceUrl": "https://www.thehitavada.com/Encyc/2024/7/11/Mah-bags-Best-Agriculture-State-award-for-2024.html"
-    },
-    {
-      "id": "ca_20260720_02",
-      "question": "Which state has been named the top-performing state in the 'Best State' category at the 6th National Water Awards 2024 organized by the Union Ministry of Jal Shakti?",
-      "options": [
-        "Gujarat",
-        "Haryana",
-        "Telangana",
-        "Maharashtra"
-      ],
-      "correctAnswer": 3,
-      "explanation": "Maharashtra was named the top-performing state in the 'Best State' category at the 6th National Water Awards 2024, followed by Gujarat and Haryana in second and third places. Telangana emerged as the best-performing state under the 'Jal Sanchay Jan Bhagidari 1.0' initiative. The awards, organized by the Union Ministry of Jal Shakti, recognize excellence in sustainable water resource practices across India.",
-      "category": "Maharashtra",
-      "difficulty": "medium",
-      "sourceUrl": "https://www.gktoday.in/maharashtra-tops-6th-national-water-awards-2024/"
-    },
-    {
-      "id": "ca_20260720_03",
-      "question": "Under Maharashtra's flagship 'Mukhyamantri Majhi Ladki Bahin Yojana' launched in July 2024, what is the age group eligible for women to receive the monthly financial assistance of ₹1,500?",
-      "options": [
-        "18 to 60 years",
-        "21 to 65 years",
-        "18 to 65 years",
-        "21 to 60 years"
-      ],
-      "correctAnswer": 1,
-      "explanation": "The Mukhyamantri Majhi Ladki Bahin Yojana was launched by the Government of Maharashtra in July 2024 to promote economic independence, health, and nutrition among women. Under the scheme, eligible women in the age group of 21 to 65 years receive direct financial assistance of ₹1,500 per month. The scheme requires that the family's annual income be less than ₹2.5 lakh and mandatory e-KYC verification.",
-      "category": "Maharashtra",
-      "difficulty": "medium",
-      "sourceUrl": "https://nashik.gov.in/en/scheme/mukhyamantri-mazi-ladki-bahin-yojana/"
-    },
-    {
-      "id": "ca_20260720_04",
-      "question": "According to NITI Aayog's draft document 'Vision for Viksit Bharat @ 2047', what is the targeted size of India's economy by the year 2047, the 100th anniversary of its independence?",
-      "options": [
-        "USD 10 trillion",
-        "USD 20 trillion",
-        "USD 30 trillion",
-        "USD 50 trillion"
+        "Mumbai",
+        "Pune",
+        "Nagpur",
+        "Nashik"
       ],
       "correctAnswer": 2,
-      "explanation": "Under the draft vision document 'Vision for Viksit Bharat @ 2047' prepared by NITI Aayog, India aims to become a USD 30 trillion developed economy by 2047. This represents a nearly ninefold increase from the current economic size, with a projected per capita GDP rising to around USD 18,000 to USD 20,000.",
-      "category": "Economy",
+      "explanation": "The 3rd BRICS Transport Ministers' Meeting was held in Nagpur, Maharashtra on July 11-12, 2026, under India's BRICS Chairship 2026. The meeting was chaired by Union Minister Nitin Gadkari and concluded with the unanimous adoption of the Ministerial Declaration outlining collaboration on infrastructure circularity, Sustainable Aviation Fuel (SAF), and transport decarbonisation.",
+      "category": "Maharashtra",
       "difficulty": "easy",
-      "sourceUrl": "https://niti.gov.in/sites/default/files/2026-04/DPI-2047-for-Viksit-Bharat-A-Strategic-Roadmap-to-Enable-Non-linear-Inclusive-Socio-economic-Growth.pdf"
+      "sourceUrl": "https://www.newindianexpress.com/india/2026/Jul/13/brics-ministers-adopt-resolution-on-sustainable-infra-in-transport-sector"
     },
     {
-      "id": "ca_20260720_05",
-      "question": "Which union department recently launched the 'One DAE One Subscription' (ODOS) initiative at Tata Memorial Hospital in Mumbai to provide comprehensive read and open-access publishing rights to its scientific research papers and journals?",
+      "id": "ca_20260721_02",
+      "question": "In June-July 2026, the Maharashtra Cabinet approved a government guarantee for a loan of how much amount from the Housing and Urban Development Corporation (HUDCO) for land acquisition for the proposed Purandar Airport near Pune?",
       "options": [
-        "Department of Space",
-        "Department of Atomic Energy",
-        "Department of Biotechnology",
-        "Department of Science and Technology"
+        "₹3,000 crore",
+        "₹4,500 crore",
+        "₹6,000 crore",
+        "₹7,500 crore"
+      ],
+      "correctAnswer": 2,
+      "explanation": "The Maharashtra Cabinet approved amendments to the MIDC Act, 1961, and cleared a state government guarantee for a loan of ₹6,000 crore from HUDCO. The funds are primarily intended to support compensation payments for land acquisition across seven villages in Purandar taluka for the proposed Chhatrapati Sambhaji Raje International Airport (Purandar Airport) near Pune.",
+      "category": "Maharashtra",
+      "difficulty": "medium",
+      "sourceUrl": "https://swarajyamag.com/news-brief/maharashtra-expands-midc-borrowing-limits-for-purandar-airport-project-land-acquisition-crosses-60-per-cent-mark"
+    },
+    {
+      "id": "ca_20260721_03",
+      "question": "In July 2026, Union Minister Dr. Jitendra Singh launched Phase-III of the Biomedical Research Career Programme (BRCP) with a total collaborative funding of ₹1,500 crore. Which London-based organization is partnering with India's Department of Biotechnology (DBT) for this initiative?",
+      "options": [
+        "Bill & Melinda Gates Foundation",
+        "Wellcome Trust",
+        "World Health Organization",
+        "Gavi the Vaccine Alliance"
       ],
       "correctAnswer": 1,
-      "explanation": "The Department of Atomic Energy (DAE) launched the 'One DAE One Subscription' (ODOS) initiative at Tata Memorial Hospital in Mumbai. ODOS is a consortium agreement enabling DAE and all its units (about 60) to access and publish research papers in journals (such as Springer Nature and Wiley) without article processing charges. This initiative will later merge into the national 'One Nation One Subscription' (ONOS) initiative.",
-      "category": "Science & Tech",
-      "difficulty": "medium",
-      "sourceUrl": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2038366"
-    },
-    {
-      "id": "ca_20260720_06",
-      "question": "Asia's first health research-related 'Pre-clinical Network Facility' under the Coalition of Epidemic Preparedness Innovations (CEPI) was inaugurated in July 2024 at which of the following Indian institutes?",
-      "options": [
-        "Translational Health Science and Technology Institute (THSTI), Faridabad",
-        "National Institute of Virology (NIV), Pune",
-        "Indian Institute of Science (IISc), Bengaluru",
-        "Tata Institute of Fundamental Research (TIFR), Mumbai"
-      ],
-      "correctAnswer": 0,
-      "explanation": "In July 2024, Union Minister Dr. Jitendra Singh inaugurated Asia's first health research-related Pre-clinical Network Facility under the Coalition of Epidemic Preparedness Innovations (CEPI) at BRIC-Translational Health Science and Technology Institute (THSTI) in Faridabad, Haryana. It is the 9th such network laboratory globally and the first in Asia, equipped with advanced facilities to handle BSL3 pathogens and accelerate vaccine development.",
+      "explanation": "On July 15, 2026, Union Minister Dr. Jitendra Singh launched Phase-III of the Biomedical Research Career Programme (BRCP). The flagship programme has a total outlay of ₹1,500 crore, comprising ₹1,000 crore from the Department of Biotechnology (DBT), Government of India, and ₹500 crore from the London-based Wellcome Trust, UK, jointly run through the DBT-Wellcome Trust India Alliance.",
       "category": "Science & Tech",
       "difficulty": "easy",
-      "sourceUrl": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2033656"
+      "sourceUrl": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2284930&reg=%203&lang=1"
     },
     {
-      "id": "ca_20260720_07",
-      "question": "In the Union Budget 2024-25 presented in July 2024, the Union Government proposed the establishment of which mission to secure the domestic supply, recycling, and overseas acquisition of critical mineral assets?",
+      "id": "ca_20260721_04",
+      "question": "Which portal was launched by the Union Minister of Law and Justice, Arjun Ram Meghwal, in July 2026 to provide seamless digital access to legal publications, judgments of the Supreme Court and High Courts, and law journals in Hindi?",
       "options": [
-        "Critical Mineral Mission",
-        "Strategic Rare Earths Mission",
-        "Green Transition Minerals Mission",
-        "Atmanirbhar Metallurgy Mission"
+        "e-Vidhi Portal",
+        "e-Nyaya Portal",
+        "e-VSP Portal",
+        "e-Kanoon Portal"
       ],
-      "correctAnswer": 0,
-      "explanation": "In the Union Budget 2024-25 presented on July 23, 2024, the Union Finance Minister proposed the establishment of a 'Critical Mineral Mission'. Its mandate includes boosting domestic production, facilitating the recycling of critical minerals, and securing overseas acquisition of critical mineral assets. It also emphasizes technology development, building a skilled workforce, and an extended producer responsibility framework.",
-      "category": "Economy",
+      "correctAnswer": 2,
+      "explanation": "The electronic-Vidhi Sahitya Prakashan (e-VSP) portal (vsp.gov.in) was officially launched on July 15, 2026, by Union Law Minister Arjun Ram Meghwal at Kartavya Bhawan-2 in New Delhi. Developed by Vidhi Sahitya Prakashan of the Legislative Department, the portal provides online access to legal literature and court decisions in Hindi, aligning with the Digital India vision.",
+      "category": "Polity",
       "difficulty": "medium",
-      "sourceUrl": "https://www.pib.gov.in/PressReleaseIframePage.aspx?PRID=2035583"
+      "sourceUrl": "https://plutusias.com/e-vsp-portal-launched-digital-access-to-hindi-legal-literature/"
     },
     {
-      "id": "ca_20260720_08",
-      "question": "The Indian Army contingent participated in the multinational military peacekeeping exercise 'KHAAN QUEST 2024' from July 27 to August 9, 2024, at which of the following locations?",
+      "id": "ca_20260721_05",
+      "question": "In July 2026, India hosted the 4th BRICS Women Ministerial Meeting under its BRICS Chairship 2026. At which of the following locations in India was this meeting held?",
       "options": [
-        "Nur-Sultan, Kazakhstan",
-        "Ulaanbaatar, Mongolia",
-        "Tashkent, Uzbekistan",
-        "Bishkek, Kyrgyzstan"
+        "Hyderabad",
+        "Kochi",
+        "Nagpur",
+        "Bengaluru"
       ],
       "correctAnswer": 1,
-      "explanation": "The Multinational Military Exercise KHAAN QUEST 2024 was conducted from July 27 to August 9, 2024, in Ulaanbaatar, Mongolia. The Indian Army contingent, consisting of 40 personnel mainly from a Battalion of the MADRAS REGIMENT, participated alongside military forces from over 20 nations to enhance peacekeeping capabilities under Chapter VII of the United Nations Charter.",
+      "explanation": "The 4th BRICS Women Ministerial Meeting was held from July 8 to July 9, 2026, in Kochi, Kerala, under India's BRICS Chairship 2026. The meeting brought together member delegations to advance the agenda of women-led development and concluded with the adoption of a Joint Statement to strengthen cooperation under the BRICS Women Track.",
       "category": "International",
       "difficulty": "medium",
-      "sourceUrl": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2036798"
+      "sourceUrl": "https://affairscloud.com/current-affairs-18-july-2026/"
     },
     {
-      "id": "ca_20260720_09",
-      "question": "In the landmark judgment 'Mohd Abdul Samad vs. State of Telangana' delivered in July 2024, the Supreme Court of India upheld that which of the following statutory provisions is religion-neutral and applies to all married women, including divorced Muslim women?",
+      "id": "ca_20260721_06",
+      "question": "Which Canada-based investment firm has emerged as the preferred bidder to acquire a 60.72% majority stake in IDBI Bank from the Government of India and Life Insurance Corporation of India (LIC) in a deal valued at approximately ₹52,932 crore?",
       "options": [
-        "Section 125 of the Code of Criminal Procedure (CrPC), 1973",
-        "Section 498A of the Indian Penal Code (IPC), 1860",
-        "Section 125 of the Indian Evidence Act, 1872",
-        "Section 3 of the Muslim Women (Protection of Rights on Divorce) Act, 1986"
+        "Brookfield Asset Management",
+        "Fairfax Financial Holdings",
+        "Onex Corporation",
+        "CPPIB"
       ],
-      "correctAnswer": 0,
-      "explanation": "On July 10, 2024, a Division Bench of the Supreme Court of India (comprising Justices B.V. Nagarathna and Augustine George Masih) in 'Mohd Abdul Samad vs. State of Telangana' held that Section 125 of the CrPC, 1973 (which deals with a wife's legal right to maintenance) is secular and religion-neutral. The court ruled that the Muslim Women (Protection of Rights on Divorce) Act, 1986 does not prevail over this beneficial provision, and a divorced Muslim woman can claim maintenance from her ex-husband under Section 125 of the CrPC.",
-      "category": "Polity",
-      "difficulty": "hard",
-      "sourceUrl": "https://www.scconline.com/blog/post/2024/07/11/divorced-muslim-woman-can-seek-maintenance-under-section-125-crpc-supreme-court-2/"
+      "correctAnswer": 1,
+      "explanation": "Canada-based Fairfax Financial Holdings emerged as the preferred bidder to acquire a 60.72% majority stake in IDBI Bank from the GoI and LIC in a deal valued at ₹52,932 crore. If approved by the RBI, CCI, and SEBI, it will mark the largest foreign investment in an Indian bank.",
+      "category": "Economy",
+      "difficulty": "easy",
+      "sourceUrl": "https://affairscloud.com/current-affairs-18-july-2026/"
     },
     {
-      "id": "ca_20260720_10",
-      "question": "In the landmark case 'M.K. Ranjitsinh vs. Union of India', the Supreme Court of India explicitly recognized the 'right to be free from the adverse effects of climate change' as part of which fundamental rights in the Constitution of India?",
+      "id": "ca_20260721_07",
+      "question": "At the combined Asian Under-19 and Under-23 Boxing Championships 2026 held in Jakarta, Indonesia, which country topped the overall medal table, followed by Kazakhstan and India?",
       "options": [
-        "Articles 14 and 21",
-        "Articles 19 and 21",
-        "Articles 21 and 25",
-        "Articles 14 and 19"
+        "India",
+        "Kazakhstan",
+        "Uzbekistan",
+        "Japan"
       ],
-      "correctAnswer": 0,
-      "explanation": "In 'M.K. Ranjitsinh vs. Union of India', a three-judge Bench of the Supreme Court of India (led by Chief Justice D.Y. Chandrachud) explicitly recognized the 'right to be free from the adverse effects of climate change' as a distinct fundamental right. The Court derived this right from Article 21 (Right to Life and Personal Liberty) and Article 14 (Right to Equality), noting that marginalized and vulnerable populations are disproportionately impacted by climate change, thereby violating their right to equality and equal protection under the law.",
-      "category": "Environment",
+      "correctAnswer": 2,
+      "explanation": "Uzbekistan topped the overall medal table at the combined Asian U-19 and U-23 Boxing Championships 2026 held in Jakarta, Indonesia, securing 33 medals (21 gold). Kazakhstan finished second with 30 medals, and India finished third with 29 medals (5 gold, 13 silver, and 11 bronze).",
+      "category": "Sports",
+      "difficulty": "medium",
+      "sourceUrl": "https://affairscloud.com/current-affairs-18-july-2026/"
+    },
+    {
+      "id": "ca_20260721_08",
+      "question": "Under the Shipbuilding Development Scheme (SbDS), the Ministry of Ports, Shipping and Waterways approved a state-of-the-art Ship Repair Facility at Vadinar and a Greenfield Shipbuilding Cluster at Kuchhadi in which Indian state?",
+      "options": [
+        "Maharashtra",
+        "Gujarat",
+        "Tamil Nadu",
+        "Andhra Pradesh"
+      ],
+      "correctAnswer": 1,
+      "explanation": "In July 2026, the Ministry of Ports, Shipping and Waterways gave in-principle approval to a Greenfield Shipbuilding Cluster at Kuchhadi in Porbandar district and a Ship Repair Facility at Vadinar in Gujarat under the Shipbuilding Development Scheme (SbDS) to boost India's maritime capabilities.",
+      "category": "Geography",
+      "difficulty": "medium",
+      "sourceUrl": "https://affairscloud.com/current-affairs-18-july-2026/"
+    },
+    {
+      "id": "ca_20260721_09",
+      "question": "According to the Periodic Labour Force Survey (PLFS) Monthly Bulletin for June 2026 released by the NSO, what was India's overall Unemployment Rate (UR) for persons aged 15 years and above under the Current Weekly Activity Status (CWS)?",
+      "options": [
+        "4.8%",
+        "5.1%",
+        "5.5%",
+        "6.2%"
+      ],
+      "correctAnswer": 2,
+      "explanation": "As per the PLFS Monthly Bulletin for June 2026 released by the National Statistical Office (NSO), India's overall Unemployment Rate (UR) for individuals aged 15 years and above remained unchanged at 5.5% under the Current Weekly Activity Status (CWS). Rural UR stood at 5.0%, while urban UR increased slightly to 6.6%.",
+      "category": "Economy",
       "difficulty": "hard",
-      "sourceUrl": "https://drishtijudiciary.com/editorial/judgement-on-right-to-be-free-from-the-adverse-effects-of-climate-change"
+      "sourceUrl": "https://affairscloud.com/current-affairs-18-july-2026/"
+    },
+    {
+      "id": "ca_20260721_10",
+      "question": "Renowned exponent Moozhikkal Pankajakshi, who passed away in July 2026, was a recipient of the Padma Shri in 2020 for her outstanding efforts in preserving and popularising which traditional puppetry art form of Kerala?",
+      "options": [
+        "Tholpavakoothu",
+        "Nokkuvidya Pavakali",
+        "Pavakathakali",
+        "Gombeyatta"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Moozhikkal Pankajakshi, who passed away on July 15, 2026, at the age of 90, was a celebrated exponent of Nokkuvidya Pavakali, an ancient and unique traditional puppetry art form of Kerala. The art form involves balancing and manipulating puppet figures attached to a three-foot wooden stick balanced on the artist's upper lip. She received the Padma Shri in 2020.",
+      "category": "History",
+      "difficulty": "hard",
+      "sourceUrl": "https://www.thehindu.com/news/national/kerala/padma-shri-winning-puppeteer-moozhikkal-pankajakshi-passes-away/article71224987.ece"
     }
   ],
   "totalQuestions": 10,
