@@ -1,158 +1,158 @@
 {
-  "date": "2026-07-21",
+  "date": "2026-07-22",
   "topic": "Current Affairs",
-  "source": "The Hindu / PIB / Economic Times / Indian Express / Next IAS / Insights IAS / GKToday",
-  "lastUpdated": "2026-07-21T06:30:00+05:30",
+  "source": "The Hindu / PIB / Indian Express / Livemint / Business Standard / Prahaar",
+  "lastUpdated": "2026-07-22T06:30:00+05:30",
   "quiz": [
     {
-      "id": "ca_20260721_01",
-      "question": "Which city in Maharashtra hosted the 3rd BRICS Transport Ministers' Meeting in July 2026 under India's BRICS chairship?",
+      "id": "ca_20260722_01",
+      "question": "On July 21, 2026, the Department of Posts (Maharashtra Circle) released a customized 'My Stamp' to commemorate which of the following historical milestones?",
       "options": [
-        "Mumbai",
-        "Pune",
-        "Nagpur",
-        "Nashik"
+        "750th Birth Anniversary of Sant Dnyaneshwar Maharaj",
+        "400th Birth Anniversary of Chhatrapati Shivaji Maharaj",
+        "700th Death Anniversary of Sant Namdev Maharaj",
+        "150th Birth Anniversary of Lokmanya Tilak"
       ],
-      "correctAnswer": 2,
-      "explanation": "The 3rd BRICS Transport Ministers' Meeting was held in Nagpur, Maharashtra on July 11-12, 2026, under India's BRICS Chairship 2026. The meeting was chaired by Union Minister Nitin Gadkari and concluded with the unanimous adoption of the Ministerial Declaration outlining collaboration on infrastructure circularity, Sustainable Aviation Fuel (SAF), and transport decarbonisation.",
+      "correctAnswer": 0,
+      "explanation": "On July 21, 2026, the Maharashtra Circle of the Department of Posts released a customized 'My Stamp' to mark the 750th Birth Anniversary of Sant Dnyaneshwar Maharaj in Mumbai. The stamp was unveiled by Chief Postmaster General Ramchandra Kisan Jayabhaye and presented to Cultural Affairs Minister Ashish Shelar. Sant Dnyaneshwar was a 13th-century philosopher and saint of the Varkari tradition who authored the Dnyaneshwari.",
       "category": "Maharashtra",
       "difficulty": "easy",
-      "sourceUrl": "https://www.newindianexpress.com/india/2026/Jul/13/brics-ministers-adopt-resolution-on-sustainable-infra-in-transport-sector"
+      "sourceUrl": "https://prahaar.in/2026/07/22/department-of-posts-releases-a-customized-my-stamp-to-mark-the-750th-birth-anniversary-of-saint-dnyaneshwar-maharaj/"
     },
     {
-      "id": "ca_20260721_02",
-      "question": "In June-July 2026, the Maharashtra Cabinet approved a government guarantee for a loan of how much amount from the Housing and Urban Development Corporation (HUDCO) for land acquisition for the proposed Purandar Airport near Pune?",
+      "id": "ca_20260722_02",
+      "question": "In July 2026, the Central Drugs Standard Control Organisation (CDSCO) granted official marketing authorization for India's first approved dengue vaccine. What is the brand name of this vaccine?",
       "options": [
-        "₹3,000 crore",
-        "₹4,500 crore",
-        "₹6,000 crore",
-        "₹7,500 crore"
-      ],
-      "correctAnswer": 2,
-      "explanation": "The Maharashtra Cabinet approved amendments to the MIDC Act, 1961, and cleared a state government guarantee for a loan of ₹6,000 crore from HUDCO. The funds are primarily intended to support compensation payments for land acquisition across seven villages in Purandar taluka for the proposed Chhatrapati Sambhaji Raje International Airport (Purandar Airport) near Pune.",
-      "category": "Maharashtra",
-      "difficulty": "medium",
-      "sourceUrl": "https://swarajyamag.com/news-brief/maharashtra-expands-midc-borrowing-limits-for-purandar-airport-project-land-acquisition-crosses-60-per-cent-mark"
-    },
-    {
-      "id": "ca_20260721_03",
-      "question": "In July 2026, Union Minister Dr. Jitendra Singh launched Phase-III of the Biomedical Research Career Programme (BRCP) with a total collaborative funding of ₹1,500 crore. Which London-based organization is partnering with India's Department of Biotechnology (DBT) for this initiative?",
-      "options": [
-        "Bill & Melinda Gates Foundation",
-        "Wellcome Trust",
-        "World Health Organization",
-        "Gavi the Vaccine Alliance"
+        "Dengvaxia",
+        "Qdenga®",
+        "Denvax",
+        "Q-Dengue"
       ],
       "correctAnswer": 1,
-      "explanation": "On July 15, 2026, Union Minister Dr. Jitendra Singh launched Phase-III of the Biomedical Research Career Programme (BRCP). The flagship programme has a total outlay of ₹1,500 crore, comprising ₹1,000 crore from the Department of Biotechnology (DBT), Government of India, and ₹500 crore from the London-based Wellcome Trust, UK, jointly run through the DBT-Wellcome Trust India Alliance.",
+      "explanation": "The CDSCO has officially approved Qdenga®, India's first-ever vaccine against dengue, manufactured by Germany-based Takeda GmbH. The vaccine is a live, attenuated tetravalent dengue vaccine engineered using recombinant DNA technology. It is approved for use in individuals aged 4 to 60 years and is administered in a two-dose regimen.",
       "category": "Science & Tech",
       "difficulty": "easy",
-      "sourceUrl": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2284930&reg=%203&lang=1"
+      "sourceUrl": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2286883"
     },
     {
-      "id": "ca_20260721_04",
-      "question": "Which portal was launched by the Union Minister of Law and Justice, Arjun Ram Meghwal, in July 2026 to provide seamless digital access to legal publications, judgments of the Supreme Court and High Courts, and law journals in Hindi?",
+      "id": "ca_20260722_03",
+      "question": "The Maharashtra Government in July 2026 launched the implementation of the 'Urban Challenge Fund' (UCF) across all 423 urban local bodies. What is the total outlay of the projects proposed under this fund?",
       "options": [
-        "e-Vidhi Portal",
-        "e-Nyaya Portal",
-        "e-VSP Portal",
-        "e-Kanoon Portal"
+        "₹25,000 crore",
+        "₹35,400 crore",
+        "₹44,800 crore",
+        "₹52,000 crore"
       ],
       "correctAnswer": 2,
-      "explanation": "The electronic-Vidhi Sahitya Prakashan (e-VSP) portal (vsp.gov.in) was officially launched on July 15, 2026, by Union Law Minister Arjun Ram Meghwal at Kartavya Bhawan-2 in New Delhi. Developed by Vidhi Sahitya Prakashan of the Legislative Department, the portal provides online access to legal literature and court decisions in Hindi, aligning with the Digital India vision.",
-      "category": "Polity",
-      "difficulty": "medium",
-      "sourceUrl": "https://plutusias.com/e-vsp-portal-launched-digital-access-to-hindi-legal-literature/"
-    },
-    {
-      "id": "ca_20260721_05",
-      "question": "In July 2026, India hosted the 4th BRICS Women Ministerial Meeting under its BRICS Chairship 2026. At which of the following locations in India was this meeting held?",
-      "options": [
-        "Hyderabad",
-        "Kochi",
-        "Nagpur",
-        "Bengaluru"
-      ],
-      "correctAnswer": 1,
-      "explanation": "The 4th BRICS Women Ministerial Meeting was held from July 8 to July 9, 2026, in Kochi, Kerala, under India's BRICS Chairship 2026. The meeting brought together member delegations to advance the agenda of women-led development and concluded with the adoption of a Joint Statement to strengthen cooperation under the BRICS Women Track.",
-      "category": "International",
-      "difficulty": "medium",
-      "sourceUrl": "https://affairscloud.com/current-affairs-18-july-2026/"
-    },
-    {
-      "id": "ca_20260721_06",
-      "question": "Which Canada-based investment firm has emerged as the preferred bidder to acquire a 60.72% majority stake in IDBI Bank from the Government of India and Life Insurance Corporation of India (LIC) in a deal valued at approximately ₹52,932 crore?",
-      "options": [
-        "Brookfield Asset Management",
-        "Fairfax Financial Holdings",
-        "Onex Corporation",
-        "CPPIB"
-      ],
-      "correctAnswer": 1,
-      "explanation": "Canada-based Fairfax Financial Holdings emerged as the preferred bidder to acquire a 60.72% majority stake in IDBI Bank from the GoI and LIC in a deal valued at ₹52,932 crore. If approved by the RBI, CCI, and SEBI, it will mark the largest foreign investment in an Indian bank.",
-      "category": "Economy",
+      "explanation": "The Maharashtra Urban Development Department issued a government resolution to implement the Urban Challenge Fund (UCF) to carry out development projects worth ₹44,800 crore. The campaign will run from 2025-26 to 2030-31 and aims to make cities financially self-reliant. It adopts a blended finance model where the central government covers up to 25% of costs, bank loans/municipal bonds/PPP cover at least 50%, and the state/municipal body covers the rest.",
+      "category": "Maharashtra",
       "difficulty": "easy",
-      "sourceUrl": "https://affairscloud.com/current-affairs-18-july-2026/"
+      "sourceUrl": "https://prahaar.in/2026/07/22/implementation-of-%e2%82%b944000-crore-urban-challenge-fund-on-the-chief-ministers-birthday/"
     },
     {
-      "id": "ca_20260721_07",
-      "question": "At the combined Asian Under-19 and Under-23 Boxing Championships 2026 held in Jakarta, Indonesia, which country topped the overall medal table, followed by Kazakhstan and India?",
+      "id": "ca_20260722_04",
+      "question": "Under the Biological Diversity Act, the National Biodiversity Authority (NBA) released ₹6.67 crore under the Access and Benefit Sharing (ABS) mechanism for 11 cotton-growing states in July 2026. Which state received the highest allocation under this disbursement?",
       "options": [
-        "India",
-        "Kazakhstan",
-        "Uzbekistan",
-        "Japan"
+        "Gujarat",
+        "Telangana",
+        "Maharashtra",
+        "Karnataka"
       ],
       "correctAnswer": 2,
-      "explanation": "Uzbekistan topped the overall medal table at the combined Asian U-19 and U-23 Boxing Championships 2026 held in Jakarta, Indonesia, securing 33 medals (21 gold). Kazakhstan finished second with 30 medals, and India finished third with 29 medals (5 gold, 13 silver, and 11 bronze).",
-      "category": "Sports",
+      "explanation": "The National Biodiversity Authority (NBA) released ₹6.67 crore under the ABS mechanism realized from Bayer Science & Innovation Pvt. Ltd. for cotton research. Among the eleven cotton-growing states, Maharashtra received the highest allocation of ₹2.41 crore, followed by Gujarat (₹1.38 crore) and Telangana (₹1.06 crore). The funds will support local State Biodiversity Boards in conserving biodiversity and promoting sustainable utilization.",
+      "category": "Maharashtra",
       "difficulty": "medium",
-      "sourceUrl": "https://affairscloud.com/current-affairs-18-july-2026/"
+      "sourceUrl": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2287985"
     },
     {
-      "id": "ca_20260721_08",
-      "question": "Under the Shipbuilding Development Scheme (SbDS), the Ministry of Ports, Shipping and Waterways approved a state-of-the-art Ship Repair Facility at Vadinar and a Greenfield Shipbuilding Cluster at Kuchhadi in which Indian state?",
+      "id": "ca_20260722_05",
+      "question": "In July 2026, NSE Indices Limited launched the Nifty500 Ahimsa Index. Which of the following sectors is explicitly excluded from this ethical investing index?",
       "options": [
-        "Maharashtra",
-        "Gujarat",
-        "Tamil Nadu",
-        "Andhra Pradesh"
+        "Information Technology Services",
+        "Automobile Manufacturing",
+        "Pharmaceuticals engaging in animal testing",
+        "Telecommunications Leaders"
+      ],
+      "correctAnswer": 2,
+      "explanation": "The Nifty500 Ahimsa Index, developed in partnership with the Ahimsa Foundation, tracks companies that operate free from animal cruelty. It explicitly excludes sectors involved in meat, dairy, poultry, leather, cosmetics, fashion using wool, and pharmaceutical companies engaging in animal testing. Additionally, commercial banks are excluded due to their financing of these non-compliant sectors.",
+      "category": "Economy",
+      "difficulty": "medium",
+      "sourceUrl": "https://indianexpress.com/article/explained/explained-economics/nse-new-ahimsa-index-ethical-investing-animal-rights-10796425/"
+    },
+    {
+      "id": "ca_20260722_06",
+      "question": "Under the EPFO 3.0 reform phase announced in July 2026, which of the following frameworks is introduced to allow members to set a personalized retirement goal based on their desired pension?",
+      "options": [
+        "Personalized Pension Goal (PPG)",
+        "Target Retirement Sum (TRS) Framework",
+        "Universal Retirement Index (URI)",
+        "Systematic Pension Accumulation (SPA)"
       ],
       "correctAnswer": 1,
-      "explanation": "In July 2026, the Ministry of Ports, Shipping and Waterways gave in-principle approval to a Greenfield Shipbuilding Cluster at Kuchhadi in Porbandar district and a Ship Repair Facility at Vadinar in Gujarat under the Shipbuilding Development Scheme (SbDS) to boost India's maritime capabilities.",
+      "explanation": "The Employees' Provident Fund Organisation (EPFO) announced the EPFO 3.0 reforms, which transition the organization toward a universal social security platform. A key feature is the Target Retirement Sum (TRS) framework, where members can define a personalized retirement goal and monitor accumulation progress on interactive digital dashboards. Retiring members can convert these sums into annuities or Systematic Withdrawal Plans (SWP).",
+      "category": "Economy",
+      "difficulty": "medium",
+      "sourceUrl": "https://www.livemint.com/money/personal-finance/government-may-roll-out-flexible-pension-scheme-for-all-workers-under-epfo-3-0-reforms-report-11784438771493.html"
+    },
+    {
+      "id": "ca_20260722_07",
+      "question": "The Karlapat bauxite block, which became a major prize of competition for India's leading industrial giants in July 2026, is located in which district of Odisha?",
+      "options": [
+        "Kalahandi",
+        "Koraput",
+        "Rayagada",
+        "Mayurbhanj"
+      ],
+      "correctAnswer": 0,
+      "explanation": "The Karlapat-Pollingpadar bauxite block is located in the Kalahandi district of Odisha and holds an estimated 207 to 220 million tonnes of greenfield bauxite deposits. This high-grade gibbsitic deposit lies adjacent to the ecologically sensitive Karlapat Wildlife Sanctuary and elephant corridor. Weathering of Precambrian khondalites and charnockites in the Eastern Ghats led to its formation.",
       "category": "Geography",
       "difficulty": "medium",
-      "sourceUrl": "https://affairscloud.com/current-affairs-18-july-2026/"
+      "sourceUrl": "https://www.business-standard.com/industry/news/karlapat-bauxite-block-become-major-prize-aluminium-industry-126072000950_1.html"
     },
     {
-      "id": "ca_20260721_09",
-      "question": "According to the Periodic Labour Force Survey (PLFS) Monthly Bulletin for June 2026 released by the NSO, what was India's overall Unemployment Rate (UR) for persons aged 15 years and above under the Current Weekly Activity Status (CWS)?",
+      "id": "ca_20260722_08",
+      "question": "What is the primary objective of the Central Government's 'Parivartan' scheme, which was approved for implementation in Delhi in July 2026?",
       "options": [
-        "4.8%",
-        "5.1%",
-        "5.5%",
-        "6.2%"
+        "Restoration of dried-up urban water bodies",
+        "Transitioning agricultural pump sets to solar energy",
+        "Replacing old, polluting commercial vehicles with BS-VI and electric vehicles",
+        "Rejuvenating urban public parks into biodiversity hotspots"
       ],
       "correctAnswer": 2,
-      "explanation": "As per the PLFS Monthly Bulletin for June 2026 released by the National Statistical Office (NSO), India's overall Unemployment Rate (UR) for individuals aged 15 years and above remained unchanged at 5.5% under the Current Weekly Activity Status (CWS). Rural UR stood at 5.0%, while urban UR increased slightly to 6.6%.",
-      "category": "Economy",
-      "difficulty": "hard",
-      "sourceUrl": "https://affairscloud.com/current-affairs-18-july-2026/"
+      "explanation": "The Delhi Cabinet approved the implementation of the Centre's 'Parivartan' scheme to reduce transport air pollution. The scheme incentivizes commercial operators to scrap aging, polluting commercial vehicles (such as trucks and buses) and replace them with BS-VI-compliant or electric vehicles. It offers relief from registration fees, interest subsidies, and motor vehicle tax exemptions.",
+      "category": "Environment",
+      "difficulty": "medium",
+      "sourceUrl": "http://ddnews.gov.in/en/delhi-government-approves-parivartan-scheme-to-replace-old-commercial-vehicles-with-bs-vi-vehicles/"
     },
     {
-      "id": "ca_20260721_10",
-      "question": "Renowned exponent Moozhikkal Pankajakshi, who passed away in July 2026, was a recipient of the Padma Shri in 2020 for her outstanding efforts in preserving and popularising which traditional puppetry art form of Kerala?",
+      "id": "ca_20260722_09",
+      "question": "In the newly released Index of Core Industries (ICI) series with the revised base year of 2022–23, which core sector has been assigned the largest weightage?",
       "options": [
-        "Tholpavakoothu",
-        "Nokkuvidya Pavakali",
-        "Pavakathakali",
-        "Gombeyatta"
+        "Refinery Products",
+        "Electricity",
+        "Coal",
+        "Steel"
       ],
       "correctAnswer": 1,
-      "explanation": "Moozhikkal Pankajakshi, who passed away on July 15, 2026, at the age of 90, was a celebrated exponent of Nokkuvidya Pavakali, an ancient and unique traditional puppetry art form of Kerala. The art form involves balancing and manipulating puppet figures attached to a three-foot wooden stick balanced on the artist's upper lip. She received the Padma Shri in 2020.",
-      "category": "History",
+      "explanation": "In the updated Index of Core Industries (ICI) series released by the Ministry of Commerce and Industry (with base year 2022–23), Electricity gained substantial weightage to become the largest sector at 30.932% (up from 19.85% in the 2011–12 series). Refinery Products, which previously held the largest weight, decreased to 22.572%. The updated index also expanded from eight to nine sectors with the inclusion of Iron Ore.",
+      "category": "Economy",
       "difficulty": "hard",
-      "sourceUrl": "https://www.thehindu.com/news/national/kerala/padma-shri-winning-puppeteer-moozhikkal-pankajakshi-passes-away/article71224987.ece"
+      "sourceUrl": "https://www.thehindu.com/business/Industry/indias-index-of-core-industries-gets-an-updated-series-what-has-changed-explained/article71248264.ece"
+    },
+    {
+      "id": "ca_20260722_10",
+      "question": "In Electrodynamic Suspension (EDS) systems used in ultra-high-speed Maglev trains (such as Japan's SCMAGLEV), which technology facilitates the suspension of the train body above the guideway?",
+      "options": [
+        "Attractive force between C-shaped vehicle arms and the underside of steel tracks",
+        "Superconducting magnets cooled to cryogenic temperatures generating repulsive force",
+        "Compressed air cushions ejected at high velocities from side guides",
+        "Rotary induction motors interacting with permanent track magnets"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Electrodynamic Suspension (EDS) relies on superconducting magnets cooled to cryogenic temperatures on the train body. As the train moves, these magnets induce currents in guideway coils, creating a repulsive magnetic force that hovers the train approximately 100 mm above the track. In contrast, Electromagnetic Suspension (EMS) uses attractive forces to levitate the train about 10 mm above steel tracks.",
+      "category": "Science & Tech",
+      "difficulty": "hard",
+      "sourceUrl": "https://www.thehindu.com/sci-tech/science/how-magnetic-levitation-lifts-and-propels-high-speed-maglev-trains/article71245433.ece"
     }
   ],
   "totalQuestions": 10,
