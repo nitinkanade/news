@@ -1,158 +1,158 @@
 {
-  "date": "2026-07-23",
+  "date": "2026-07-24",
   "topic": "Current Affairs",
-  "source": "The Hindu / PIB / Indian Express / Livemint / Business Standard / GKToday / AffairsCloud",
-  "lastUpdated": "2026-07-23T06:30:00+05:30",
+  "source": "AffairsCloud / GKToday / NEXT IAS / PIB / Business Standard",
+  "lastUpdated": "2026-07-24T06:30:00+05:30",
   "quiz": [
     {
-      "id": "ca_20260723_01",
-      "question": "Which state became the fourth in India to introduce and pass a Uniform Civil Code (UCC) Bill in July 2026?",
+      "id": "ca_20260724_01",
+      "question": "On July 23, 2026, India observed National Broadcasting Day to commemorate the first organized radio broadcast in the country. Which anniversary of India's first organized radio broadcast did the year 2026 mark?",
       "options": [
-        "Uttar Pradesh",
-        "Bihar",
-        "Madhya Pradesh",
-        "Odisha"
+        "95th anniversary",
+        "99th anniversary",
+        "100th anniversary",
+        "90th anniversary"
       ],
-      "correctAnswer": 2,
-      "explanation": "Madhya Pradesh became the fourth state to introduce and pass a Uniform Civil Code (UCC) Bill, following Uttarakhand, Gujarat, and Assam. The Bill was introduced on July 20, 2026, and passed on July 21, 2026. It bans polygamy, mandates formal legal divorce, provides equal property/inheritance rights to men and women, and exempts Scheduled Tribe (ST) communities.",
-      "category": "Polity",
+      "correctAnswer": 1,
+      "explanation": "National Broadcasting Day is celebrated on July 23 every year to mark the first organized radio broadcast in India, which was carried out by the Indian Broadcasting Company (IBC) from the Bombay station in 1927. The year 2026 marks the 99th anniversary of this historic event. The IBC was a private entity that was eventually taken over by the Government of India, leading to the creation of the Indian State Broadcasting Service in 1930 and All India Radio (AIR) in 1936.",
+      "category": "History",
       "difficulty": "easy",
-      "sourceUrl": "https://www.gktoday.in/daily-current-affairs-quiz-july-23-2026/"
+      "sourceUrl": "https://affairscloud.com/current-affairs-24-july-2026/"
     },
     {
-      "id": "ca_20260723_02",
-      "question": "INS Malvan, which was commissioned into the Indian Navy on July 22, 2026, is the second indigenously built vessel of which class of Anti-Submarine Warfare Shallow Water Craft (ASW-SWC)?",
+      "id": "ca_20260724_02",
+      "question": "Which of the following organizations prepared 'AAROH', India's first comprehensive annual report on scientific mine closure and repurposing, released in July 2026?",
       "options": [
-        "Kamorta-class",
-        "Mahe-class",
-        "Saryu-class",
-        "Abhay-class"
+        "Geological Survey of India (GSI)",
+        "Coal Controller Organisation (CCO)",
+        "National Environmental Engineering Research Institute (NEERI)",
+        "Central Pollution Control Board (CPCB)"
       ],
       "correctAnswer": 1,
-      "explanation": "INS Malvan was commissioned at Karwar on July 22, 2026, as the second indigenously built Mahe-class ASW-SWC. Built by Cochin Shipyard Limited (CSL) with over 80% indigenous content, the ship is named after the historic coastal town in Maharashtra, and its crest features the 'Bagh Nakha' (Tiger's Claw).",
-      "category": "Maharashtra",
-      "difficulty": "easy",
-      "sourceUrl": "https://www.gktoday.in/daily-current-affairs-quiz-july-23-2026/"
+      "explanation": "The Union Ministry of Coal released 'AAROH: Annual Report on Mine Closure', which is India's first comprehensive documentation of scientific mine closure and repurposing practices. Prepared by the Coal Controller Organisation (CCO), the report highlights the reclamation processes of 42 scientifically closed coal mines. During the launch event, the government also signed an agreement with Germany's GIZ to implement advanced technical practices for mine restoration and sustainable post-mining land use.",
+      "category": "Environment",
+      "difficulty": "medium",
+      "sourceUrl": "https://www.business-standard.com/india-news/govt-announces-rs-40000-crore-corpus-for-scientific-mine-closure-126072300615_1.html"
     },
     {
-      "id": "ca_20260723_03",
-      "question": "In July 2026, the Maharashtra government launched the first phase of its flagship farm loan waiver scheme, offering debt relief of up to ₹2 lakh per farmer family. What is the name of this scheme?",
+      "id": "ca_20260724_03",
+      "question": "In July 2026, the Defence Research and Development Organisation (DRDO) signed contracts with industry partners to convert which of the following commercial aircraft models into the green configuration for the Airborne Early Warning and Control (AEW&C) Mk-II Programme?",
       "options": [
-        "Mahatma Jyotirao Phule Shetkari Karjmukti Yojana",
-        "Punyashlok Ahilyadevi Holkar Shetkari Karjmukti Yojana",
-        "Chhatrapati Shivaji Maharaj Shetkari Sanman Yojana",
-        "Balasaheb Thackeray Shetkari Karjmukti Yojana"
+        "Boeing 737-800",
+        "Airbus A321",
+        "Embraer ERJ 145",
+        "ATR 72-600"
       ],
       "correctAnswer": 1,
-      "explanation": "The Maharashtra government released the first list of beneficiaries under the Punyashlok Ahilyadevi Holkar Shetkari Karjmukti Yojana 2026. The ₹40,980-crore scheme aims to provide farm loan waivers of up to ₹2 lakh to nearly 56 lakh eligible farmer families, with the rollout starting in July 2026.",
-      "category": "Maharashtra",
-      "difficulty": "medium",
-      "sourceUrl": "https://www.deccanchronicle.com/nation/maharashtra-releases-first-list-of-533-farmers-under-loan-waiver-scheme-1973243"
-    },
-    {
-      "id": "ca_20260723_04",
-      "question": "Who was appointed as the Chief Executive Officer (CEO) of NITI Aayog by the Appointments Committee of the Cabinet (ACC) in July 2026?",
-      "options": [
-        "Rajiv Gauba",
-        "Ashok Kumar Lahiri",
-        "B.V.R. Subrahmanyam",
-        "Anurag Jain"
-      ],
-      "correctAnswer": 3,
-      "explanation": "The Appointments Committee of the Cabinet (ACC) appointed Anurag Jain (a 1989-batch IAS officer of the Madhya Pradesh cadre) as the Chief Executive Officer (CEO) of NITI Aayog. His appointment was officially notified by the Department of Personnel and Training (DoPT) in July 2026.",
-      "category": "Polity",
-      "difficulty": "easy",
-      "sourceUrl": "https://www.gktoday.in/daily-current-affairs-quiz-july-23-2026/"
-    },
-    {
-      "id": "ca_20260723_05",
-      "question": "As per the International Union of Railways (UIC) database, India's Broad Gauge (BG) network electrification reached 99.6% in July 2026. Which country ranks first globally in railway network electrification coverage?",
-      "options": [
-        "Switzerland",
-        "Japan",
-        "Germany",
-        "France"
-      ],
-      "correctAnswer": 0,
-      "explanation": "Indian Railways has electrified 99.6% of its broad gauge network under a mission-mode programme, reducing diesel consumption by 185 crore litres annually. According to the UIC, India's broad gauge electrification coverage ranks second globally, behind only Switzerland.",
-      "category": "Economy",
-      "difficulty": "medium",
-      "sourceUrl": "https://www.legacyias.com/pib-summaries-23-july-2026/"
-    },
-    {
-      "id": "ca_20260723_06",
-      "question": "On July 20, 2026, India became the 123rd World Trade Organization (WTO) member to deposit its instrument of acceptance for the Agreement on Fisheries Subsidies (AFS). At which Ministerial Conference of the WTO was this agreement originally adopted?",
-      "options": [
-        "13th Ministerial Conference (MC13) in Abu Dhabi",
-        "11th Ministerial Conference (MC11) in Buenos Aires",
-        "12th Ministerial Conference (MC12) in Geneva",
-        "10th Ministerial Conference (MC10) in Nairobi"
-      ],
-      "correctAnswer": 2,
-      "explanation": "The WTO Agreement on Fisheries Subsidies (AFS) was adopted at the 12th Ministerial Conference (MC12) in Geneva in June 2022 and entered into force on September 15, 2025. It aims to eliminate subsidies linked to illegal, unreported, and unregulated (IUU) fishing, overfishing, and harmful fishing practices.",
-      "category": "International",
-      "difficulty": "medium",
-      "sourceUrl": "https://affairscloud.com/current-affairs-22-july-2026/"
-    },
-    {
-      "id": "ca_20260723_07",
-      "question": "Under the Foreign Contribution (Regulation) Amendment Rules, 2026, which came into force in June 2026, what is the minimum foreign contribution utilization threshold required over the prior two years for an association to qualify for registration renewal?",
-      "options": [
-        "₹5 lakh",
-        "₹10 lakh",
-        "₹15 lakh",
-        "₹20 lakh"
-      ],
-      "correctAnswer": 1,
-      "explanation": "The FCRA (Amendment) Rules, 2026, notified by the Ministry of Home Affairs on June 22, 2026, introduced a mandatory minimum utilization threshold of ₹10 lakh over the previous two fiscal years for associations seeking renewal of their registration certificate.",
-      "category": "Polity",
-      "difficulty": "hard",
-      "sourceUrl": "https://www.legacyias.com/pib-summaries-23-july-2026/"
-    },
-    {
-      "id": "ca_20260723_08",
-      "question": "In July 2026, a high-level meeting was held in Mumbai to expedite the implementation of the National e-Vidhan Application (NeVA) to make the Maharashtra Legislature paperless and transparent. NeVA is a Mission Mode Project funded by which Union Ministry?",
-      "options": [
-        "Ministry of Electronics and Information Technology",
-        "Ministry of Law and Justice",
-        "Ministry of Parliamentary Affairs",
-        "Ministry of Home Affairs"
-      ],
-      "correctAnswer": 2,
-      "explanation": "The National e-Vidhan Application (NeVA) is a Mission Mode Project funded by the Ministry of Parliamentary Affairs, Government of India. It aims to transition all State Legislatures into digital, paperless, and transparent institutions. In July 2026, state and central officials met in Mumbai to expedite its implementation in Maharashtra.",
-      "category": "Maharashtra",
-      "difficulty": "medium",
-      "sourceUrl": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2285772&reg=3&lang=1"
-    },
-    {
-      "id": "ca_20260723_09",
-      "question": "The 3rd edition of 'Bharat Tex 2026', India’s flagship global textile event, was held in July 2026. Which of the following state governments signed the highest value of Memorandums of Understanding (MoUs) at this event?",
-      "options": [
-        "Karnataka",
-        "Andhra Pradesh",
-        "Maharashtra",
-        "Bihar"
-      ],
-      "correctAnswer": 1,
-      "explanation": "Bharat Tex 2026 concluded with textile investment commitments worth ₹14,300 crore and over 30 MoUs. Among the participating states, Andhra Pradesh signed the highest value of MoUs at ₹4,100 crore, followed by Karnataka (₹2,821 crore), Bihar (₹1,476 crore), and Maharashtra (₹1,095 crore).",
-      "category": "Economy",
-      "difficulty": "medium",
-      "sourceUrl": "https://affairscloud.com/current-affairs-22-july-2026/"
-    },
-    {
-      "id": "ca_20260723_10",
-      "question": "In July 2026, astronomers using the James Webb Space Telescope (JWST) discovered a new giant exoplanet named 'Beta Pictoris d'. Which of the following instruments on the JWST was primarily used to detect the unique chemical fingerprint of this exoplanet's atmosphere?",
-      "options": [
-        "Near-Infrared Spectrograph (NIRSpec)",
-        "Mid-Infrared Instrument (MIRI)",
-        "Near-Infrared Camera (NIRCam)",
-        "Near-Infrared Imager and Slitless Spectrograph (NIRISS)"
-      ],
-      "correctAnswer": 0,
-      "explanation": "The newly discovered giant exoplanet 'Beta Pictoris d' orbits the star Beta Pictoris, located 63 light-years away. Astronomers used the Near-Infrared Spectrograph (NIRSpec) on the JWST to detect the chemical fingerprint of the exoplanet's atmosphere. It is the smallest of the three giant planets in the system.",
+      "explanation": "The DRDO's Centre for Air Borne Systems (CABS) signed major contracts with AI Engineering Services Limited (AIESL) and Adani Defence Systems and Technologies Limited (ADSTL) for the AEW&C Mk-II Programme. Under these contracts, six commercial Airbus A321 aircraft acquired from Air India will be converted into green configurations to serve as the platform for mounting indigenous airborne mission systems. Approved by the Cabinet Committee on Security with an outlay of Rs. 19,000 crore, the first induction is planned for 2032-2033.",
       "category": "Science & Tech",
       "difficulty": "hard",
-      "sourceUrl": "https://affairscloud.com/current-affairs-22-july-2026/"
+      "sourceUrl": "https://www.deccanchronicle.com/nation/adani-defence-drdo-sign-pact-for-iafs-indigenous-aewc-mkii-programme-1973215"
+    },
+    {
+      "id": "ca_20260724_04",
+      "question": "According to the factsheet on cotton released by the Government of India in July 2026, what is India's global rank in terms of cotton cultivation area and cotton production respectively?",
+      "options": [
+        "First in cultivation area, First in production",
+        "First in cultivation area, Second in production",
+        "Second in cultivation area, First in production",
+        "Second in cultivation area, Second in production"
+      ],
+      "correctAnswer": 1,
+      "explanation": "A comprehensive factsheet released by the Government of India in July 2026 highlights cotton as India's 'White Gold', which supports 6 million farmers and around 40-50 million people across the textile chain. Globally, India ranks first in cotton cultivation area, covering 114.84 lakh hectares (about 38% of the global cotton area). Additionally, India ranks second globally in both cotton production and consumption, contributing approximately 19% of the world's total fibre production.",
+      "category": "Economy",
+      "difficulty": "medium",
+      "sourceUrl": "https://affairscloud.com/current-affairs-24-july-2026/"
+    },
+    {
+      "id": "ca_20260724_05",
+      "question": "To commemorate the birth anniversary of the great freedom fighter Lokmanya Bal Gangadhar Tilak on July 23, several national tributes were paid. In which year did he co-found the Deccan Education Society in Pune to foster nationalistic education?",
+      "options": [
+        "1881",
+        "1884",
+        "1893",
+        "1895"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Lokmanya Bal Gangadhar Tilak, born on July 23, 1856, in Ratnagiri, Maharashtra, was a pioneer of the Extremist phase of the Indian national movement. In 1884, he co-founded the Deccan Education Society in Pune alongside Gopal Ganesh Agarkar and others to provide high-quality, nationalistic education to the masses, which eventually led to the establishment of Fergusson College. He also popularized public celebrations of Ganesh Utsav (1893) and Shivaji Jayanti (1895) to instill national pride.",
+      "category": "Maharashtra",
+      "difficulty": "easy",
+      "sourceUrl": "https://www.insightsonindia.com/2026/07/24/upsc-current-affairs-24-july-2026/"
+    },
+    {
+      "id": "ca_20260724_06",
+      "question": "In July 2026, the National Bank for Agriculture and Rural Development (NABARD) signed a Memorandum of Understanding (MoU) to promote green, climate-resilient, and sustainable infrastructure projects with MAHAPREIT. MAHAPREIT is a state enterprise of which of the following state governments?",
+      "options": [
+        "Gujarat",
+        "Madhya Pradesh",
+        "Maharashtra",
+        "Karnataka"
+      ],
+      "correctAnswer": 2,
+      "explanation": "NABARD signed an MoU with Mahatma Phule Renewable Energy and Infrastructure Technology Limited (MAHAPREIT), an enterprise of the Government of Maharashtra. This partnership aims to jointly finance and implement green, climate-resilient, and sustainable projects such as the decarbonization of government buildings, Gram Panchayat infrastructure, solar-powered agricultural pumping, and bioenergy/biogas plants in rural India, with an initial geographic focus on Maharashtra.",
+      "category": "Maharashtra",
+      "difficulty": "medium",
+      "sourceUrl": "https://affairscloud.com/current-affairs-24-july-2026/"
+    },
+    {
+      "id": "ca_20260724_07",
+      "question": "During the official visit of Zanzibar President Hussein Ali Mwinyi to India in July 2026, the master plan for the 200-acre international campus of which Indian Institute of Technology (IIT) was unveiled at Fumba Peninsula, Zanzibar?",
+      "options": [
+        "IIT Bombay",
+        "IIT Delhi",
+        "IIT Madras",
+        "IIT Kharagpur"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Zanzibar President Hussein Ali Mwinyi paid an official visit to India from July 17 to 20, 2026. During this visit, he attended the 63rd Convocation of IIT Madras and unveiled the comprehensive master plan for the 200-acre IIT Madras Zanzibar campus at Fumba Peninsula. This campus represents India's first international IIT campus and is designated as a Centre of Excellence for higher education and technology in the African continent.",
+      "category": "International",
+      "difficulty": "medium",
+      "sourceUrl": "https://affairscloud.com/current-affairs-24-july-2026/"
+    },
+    {
+      "id": "ca_20260724_08",
+      "question": "During President Droupadi Murmu's state visit to Romania in July 2026, the first visit by an Indian head of state in over three decades, the two countries signed three agreements. At which university will a Chair of Indian Studies be established under the education agreement?",
+      "options": [
+        "Babeș-Bolyai University",
+        "University of Bucharest",
+        "Alexandru Ioan Cuza University",
+        "West University of Timișoara"
+      ],
+      "correctAnswer": 1,
+      "explanation": "President Droupadi Murmu visited Bucharest, Romania in July 2026, marking the first visit by an Indian head of state to the country in more than 30 years. Following bilateral delegation-level talks, India and Romania signed three landmark agreements covering Science and Technology, Sports, and Indian Studies. Under the education and Indian studies MoU, a dedicated Chair of Indian Studies will be established at the University of Bucharest with support from the Indian Council for Cultural Relations (ICCR).",
+      "category": "International",
+      "difficulty": "hard",
+      "sourceUrl": "https://www.gktoday.in/india-romania-sign-three-agreements-in-bucharest/"
+    },
+    {
+      "id": "ca_20260724_09",
+      "question": "The Karlapat Bauxite Block, which was in the news in July 2026 due to the interest shown by several major Indian mining companies, is a greenfield mining block located in which state?",
+      "options": [
+        "Odisha",
+        "Jharkhand",
+        "Chhattisgarh",
+        "Madhya Pradesh"
+      ],
+      "correctAnswer": 0,
+      "explanation": "The Karlapat Bauxite Block is a major greenfield mining block located in the Kalahandi district of Odisha. It came into focus in July 2026 as prominent Indian corporations, including Adani, Reliance Industries, Hindalco, Vedanta Aluminium, and Coal India, expressed strong interest in its bidding. The block contains high-grade bauxite with approximately 45.2% alumina content. Odisha is a critical region for aluminum production, accounting for about 41% of India's total bauxite resources.",
+      "category": "Geography",
+      "difficulty": "easy",
+      "sourceUrl": "https://www.gktoday.in/daily-current-affairs-quiz-july-24-2026/"
+    },
+    {
+      "id": "ca_20260724_10",
+      "question": "In July 2026, researchers from the Agharkar Research Institute (ARI) discovered five new species of Allographa lichen-forming fungi in the Western Ghats. In which city of Maharashtra is this autonomous institute of the Department of Science and Technology (DST) located?",
+      "options": [
+        "Nagpur",
+        "Pune",
+        "Mumbai",
+        "Nashik"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Researchers from the Agharkar Research Institute (ARI) in Pune, Maharashtra, discovered five new species of Allographa lichen-forming fungi in the Western Ghats of Kerala. The newly identified species include Allographa keralensis and Allographa nayakae (named after Indian lichenologist Dr. Sanjeeva Nayaka). ARI Pune is a prestigious autonomous institute operating under the Department of Science and Technology (DST), Ministry of Science and Technology, Government of India.",
+      "category": "Maharashtra",
+      "difficulty": "medium",
+      "sourceUrl": "https://affairscloud.com/current-affairs-23-july-2026/"
     }
   ],
   "totalQuestions": 10,
