@@ -1,0 +1,160 @@
+{
+  "date": "2026-07-23",
+  "topic": "Current Affairs",
+  "source": "The Hindu / PIB / Indian Express / Livemint / Business Standard / GKToday / AffairsCloud",
+  "lastUpdated": "2026-07-23T06:30:00+05:30",
+  "quiz": [
+    {
+      "id": "ca_20260723_01",
+      "question": "Which state became the fourth in India to introduce and pass a Uniform Civil Code (UCC) Bill in July 2026?",
+      "options": [
+        "Uttar Pradesh",
+        "Bihar",
+        "Madhya Pradesh",
+        "Odisha"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Madhya Pradesh became the fourth state to introduce and pass a Uniform Civil Code (UCC) Bill, following Uttarakhand, Gujarat, and Assam. The Bill was introduced on July 20, 2026, and passed on July 21, 2026. It bans polygamy, mandates formal legal divorce, provides equal property/inheritance rights to men and women, and exempts Scheduled Tribe (ST) communities.",
+      "category": "Polity",
+      "difficulty": "easy",
+      "sourceUrl": "https://www.gktoday.in/daily-current-affairs-quiz-july-23-2026/"
+    },
+    {
+      "id": "ca_20260723_02",
+      "question": "INS Malvan, which was commissioned into the Indian Navy on July 22, 2026, is the second indigenously built vessel of which class of Anti-Submarine Warfare Shallow Water Craft (ASW-SWC)?",
+      "options": [
+        "Kamorta-class",
+        "Mahe-class",
+        "Saryu-class",
+        "Abhay-class"
+      ],
+      "correctAnswer": 1,
+      "explanation": "INS Malvan was commissioned at Karwar on July 22, 2026, as the second indigenously built Mahe-class ASW-SWC. Built by Cochin Shipyard Limited (CSL) with over 80% indigenous content, the ship is named after the historic coastal town in Maharashtra, and its crest features the 'Bagh Nakha' (Tiger's Claw).",
+      "category": "Maharashtra",
+      "difficulty": "easy",
+      "sourceUrl": "https://www.gktoday.in/daily-current-affairs-quiz-july-23-2026/"
+    },
+    {
+      "id": "ca_20260723_03",
+      "question": "In July 2026, the Maharashtra government launched the first phase of its flagship farm loan waiver scheme, offering debt relief of up to ₹2 lakh per farmer family. What is the name of this scheme?",
+      "options": [
+        "Mahatma Jyotirao Phule Shetkari Karjmukti Yojana",
+        "Punyashlok Ahilyadevi Holkar Shetkari Karjmukti Yojana",
+        "Chhatrapati Shivaji Maharaj Shetkari Sanman Yojana",
+        "Balasaheb Thackeray Shetkari Karjmukti Yojana"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The Maharashtra government released the first list of beneficiaries under the Punyashlok Ahilyadevi Holkar Shetkari Karjmukti Yojana 2026. The ₹40,980-crore scheme aims to provide farm loan waivers of up to ₹2 lakh to nearly 56 lakh eligible farmer families, with the rollout starting in July 2026.",
+      "category": "Maharashtra",
+      "difficulty": "medium",
+      "sourceUrl": "https://www.deccanchronicle.com/nation/maharashtra-releases-first-list-of-533-farmers-under-loan-waiver-scheme-1973243"
+    },
+    {
+      "id": "ca_20260723_04",
+      "question": "Who was appointed as the Chief Executive Officer (CEO) of NITI Aayog by the Appointments Committee of the Cabinet (ACC) in July 2026?",
+      "options": [
+        "Rajiv Gauba",
+        "Ashok Kumar Lahiri",
+        "B.V.R. Subrahmanyam",
+        "Anurag Jain"
+      ],
+      "correctAnswer": 3,
+      "explanation": "The Appointments Committee of the Cabinet (ACC) appointed Anurag Jain (a 1989-batch IAS officer of the Madhya Pradesh cadre) as the Chief Executive Officer (CEO) of NITI Aayog. His appointment was officially notified by the Department of Personnel and Training (DoPT) in July 2026.",
+      "category": "Polity",
+      "difficulty": "easy",
+      "sourceUrl": "https://www.gktoday.in/daily-current-affairs-quiz-july-23-2026/"
+    },
+    {
+      "id": "ca_20260723_05",
+      "question": "As per the International Union of Railways (UIC) database, India's Broad Gauge (BG) network electrification reached 99.6% in July 2026. Which country ranks first globally in railway network electrification coverage?",
+      "options": [
+        "Switzerland",
+        "Japan",
+        "Germany",
+        "France"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Indian Railways has electrified 99.6% of its broad gauge network under a mission-mode programme, reducing diesel consumption by 185 crore litres annually. According to the UIC, India's broad gauge electrification coverage ranks second globally, behind only Switzerland.",
+      "category": "Economy",
+      "difficulty": "medium",
+      "sourceUrl": "https://www.legacyias.com/pib-summaries-23-july-2026/"
+    },
+    {
+      "id": "ca_20260723_06",
+      "question": "On July 20, 2026, India became the 123rd World Trade Organization (WTO) member to deposit its instrument of acceptance for the Agreement on Fisheries Subsidies (AFS). At which Ministerial Conference of the WTO was this agreement originally adopted?",
+      "options": [
+        "13th Ministerial Conference (MC13) in Abu Dhabi",
+        "11th Ministerial Conference (MC11) in Buenos Aires",
+        "12th Ministerial Conference (MC12) in Geneva",
+        "10th Ministerial Conference (MC10) in Nairobi"
+      ],
+      "correctAnswer": 2,
+      "explanation": "The WTO Agreement on Fisheries Subsidies (AFS) was adopted at the 12th Ministerial Conference (MC12) in Geneva in June 2022 and entered into force on September 15, 2025. It aims to eliminate subsidies linked to illegal, unreported, and unregulated (IUU) fishing, overfishing, and harmful fishing practices.",
+      "category": "International",
+      "difficulty": "medium",
+      "sourceUrl": "https://affairscloud.com/current-affairs-22-july-2026/"
+    },
+    {
+      "id": "ca_20260723_07",
+      "question": "Under the Foreign Contribution (Regulation) Amendment Rules, 2026, which came into force in June 2026, what is the minimum foreign contribution utilization threshold required over the prior two years for an association to qualify for registration renewal?",
+      "options": [
+        "₹5 lakh",
+        "₹10 lakh",
+        "₹15 lakh",
+        "₹20 lakh"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The FCRA (Amendment) Rules, 2026, notified by the Ministry of Home Affairs on June 22, 2026, introduced a mandatory minimum utilization threshold of ₹10 lakh over the previous two fiscal years for associations seeking renewal of their registration certificate.",
+      "category": "Polity",
+      "difficulty": "hard",
+      "sourceUrl": "https://www.legacyias.com/pib-summaries-23-july-2026/"
+    },
+    {
+      "id": "ca_20260723_08",
+      "question": "In July 2026, a high-level meeting was held in Mumbai to expedite the implementation of the National e-Vidhan Application (NeVA) to make the Maharashtra Legislature paperless and transparent. NeVA is a Mission Mode Project funded by which Union Ministry?",
+      "options": [
+        "Ministry of Electronics and Information Technology",
+        "Ministry of Law and Justice",
+        "Ministry of Parliamentary Affairs",
+        "Ministry of Home Affairs"
+      ],
+      "correctAnswer": 2,
+      "explanation": "The National e-Vidhan Application (NeVA) is a Mission Mode Project funded by the Ministry of Parliamentary Affairs, Government of India. It aims to transition all State Legislatures into digital, paperless, and transparent institutions. In July 2026, state and central officials met in Mumbai to expedite its implementation in Maharashtra.",
+      "category": "Maharashtra",
+      "difficulty": "medium",
+      "sourceUrl": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2285772&reg=3&lang=1"
+    },
+    {
+      "id": "ca_20260723_09",
+      "question": "The 3rd edition of 'Bharat Tex 2026', India’s flagship global textile event, was held in July 2026. Which of the following state governments signed the highest value of Memorandums of Understanding (MoUs) at this event?",
+      "options": [
+        "Karnataka",
+        "Andhra Pradesh",
+        "Maharashtra",
+        "Bihar"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Bharat Tex 2026 concluded with textile investment commitments worth ₹14,300 crore and over 30 MoUs. Among the participating states, Andhra Pradesh signed the highest value of MoUs at ₹4,100 crore, followed by Karnataka (₹2,821 crore), Bihar (₹1,476 crore), and Maharashtra (₹1,095 crore).",
+      "category": "Economy",
+      "difficulty": "medium",
+      "sourceUrl": "https://affairscloud.com/current-affairs-22-july-2026/"
+    },
+    {
+      "id": "ca_20260723_10",
+      "question": "In July 2026, astronomers using the James Webb Space Telescope (JWST) discovered a new giant exoplanet named 'Beta Pictoris d'. Which of the following instruments on the JWST was primarily used to detect the unique chemical fingerprint of this exoplanet's atmosphere?",
+      "options": [
+        "Near-Infrared Spectrograph (NIRSpec)",
+        "Mid-Infrared Instrument (MIRI)",
+        "Near-Infrared Camera (NIRCam)",
+        "Near-Infrared Imager and Slitless Spectrograph (NIRISS)"
+      ],
+      "correctAnswer": 0,
+      "explanation": "The newly discovered giant exoplanet 'Beta Pictoris d' orbits the star Beta Pictoris, located 63 light-years away. Astronomers used the Near-Infrared Spectrograph (NIRSpec) on the JWST to detect the chemical fingerprint of the exoplanet's atmosphere. It is the smallest of the three giant planets in the system.",
+      "category": "Science & Tech",
+      "difficulty": "hard",
+      "sourceUrl": "https://affairscloud.com/current-affairs-22-july-2026/"
+    }
+  ],
+  "totalQuestions": 10,
+  "version": 1
+}
