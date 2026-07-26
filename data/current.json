@@ -1,158 +1,158 @@
 {
-  "date": "2026-07-24",
+  "date": "2026-07-25",
   "topic": "Current Affairs",
   "source": "The Hindu / PIB / Indian Express / Drishti IAS / GKToday",
-  "lastUpdated": "2026-07-24T06:30:00+05:30",
+  "lastUpdated": "2026-07-25T06:30:00+05:30",
   "quiz": [
     {
-      "id": "ca_20260724_01",
-      "question": "On July 23, 2026, the Defence Research and Development Organisation (DRDO) successfully conducted the maiden flight-test of which Long-Range Surface-to-Air Missile (LR-SAM) system?",
+      "id": "ca_20260725_01",
+      "question": "Who was appointed as the Chief Executive Officer (CEO) of NITI Aayog by the Appointments Committee of the Cabinet in July 2026 for a period of two years?",
       "options": [
-        "Kusha",
-        "Akash-NG",
-        "Pralay",
-        "Samar"
+        "Anurag Jain",
+        "Subrahmanyam Jaishankar",
+        "Suman Bery",
+        "B.V.R. Subrahmanyam"
       ],
       "correctAnswer": 0,
-      "explanation": "DRDO successfully flight-tested the 'Kusha' Long-Range Surface-to-Air Missile (LR-SAM) system on July 23, 2026, from APJ Abdul Kalam Island off the coast of Odisha. The missile is designed to intercept and neutralize high-speed, high-altitude electronic targets like fighter jets, UAVs, and cruise missiles.",
-      "category": "Science & Tech",
-      "difficulty": "medium",
-      "sourceUrl": "https://www.gktoday.in/daily-current-affairs-quiz-july-24-2026/"
+      "explanation": "The Appointments Committee of the Cabinet (ACC) approved the appointment of Anurag Jain, a 1989-batch IAS officer of the Madhya Pradesh cadre, as the Chief Executive Officer (CEO) of NITI Aayog in July 2026. He succeeds B.V.R. Subrahmanyam and is appointed for a period of two years. NITI Aayog, established on January 1, 2015, is chaired by the Prime Minister of India.",
+      "category": "Polity",
+      "difficulty": "easy",
+      "sourceUrl": "https://www.drishtiias.com/statepcs/25-07-2026/maharashtra"
     },
     {
-      "id": "ca_20260724_02",
-      "question": "In July 2026, National Security Adviser (NSA) Ajit Doval was selected to receive the prestigious Lokmanya Tilak National Award 2026. In which city of Maharashtra will this award be presented?",
+      "id": "ca_20260725_02",
+      "question": "Which state-backed initiative was officially launched in Maharashtra in July 2026 to integrate local kaali-peeli and tourist taxis onto a unified digital hailing platform with standardized tariffs?",
       "options": [
-        "Mumbai",
+        "Maha-Yatra",
+        "Bharat Taxi",
+        "Shiv-Safar",
+        "Lok-Vahan"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Maharashtra Chief Minister Devendra Fadnavis officially launched the 'Bharat Taxi' service in July 2026 under a state-backed public-private partnership (PPP) model. The initiative aims to onboard existing local kaali-peeli and tourist taxis, as well as new electric vehicles, onto a single platform. It includes point-to-point transit services into tier-2, tier-3, and semi-urban talukas with transparent, distance-locked tariffs.",
+      "category": "Maharashtra",
+      "difficulty": "easy",
+      "sourceUrl": "https://www.drishtiias.com/statepcs/24-07-2026/maharashtra"
+    },
+    {
+      "id": "ca_20260725_03",
+      "question": "Kargil Vijay Diwas is observed annually on July 26 to honor the bravery and sacrifice of soldiers who fought in the 1999 Kargil War. What was the code name of the Indian Air Force's supporting mission during this conflict?",
+      "options": [
+        "Operation Meghdoot",
+        "Operation Safed Sagar",
+        "Operation Cactus",
+        "Operation Trishul"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Kargil Vijay Diwas is observed every year on July 26 to mark the success of 'Operation Vijay', where the Indian Armed Forces recaptured strategic peaks occupied by Pakistani intruders in the Kargil sector of Ladakh. The Indian Air Force supported the land operations through 'Operation Safed Sagar', utilizing its combat power to neutralize enemy targets. This joint military operation successfully concluded on July 26, 1999.",
+      "category": "Miscellaneous",
+      "difficulty": "easy",
+      "sourceUrl": "https://www.gktoday.in/daily-current-affairs-quiz-july-24-2026-2/"
+    },
+    {
+      "id": "ca_20260725_04",
+      "question": "In July 2026, a high-level review meeting was held in Mumbai to strengthen Maharashtra's sports and youth development ecosystem. Who chaired this meeting?",
+      "options": [
+        "Smt. Raksha Khadse",
+        "Shri Anurag Thakur",
+        "Shri Devendra Fadnavis",
+        "Shri Ajit Pawar"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Smt. Raksha Khadse, the Union Minister of State for Youth Affairs and Sports, chaired a high-level review meeting in Mumbai in July 2026 to strengthen Maharashtra's sports and youth development. The primary agenda focused on expanding Khelo India infrastructure and implementing the National Youth Services Framework (NYSF). The initiative utilizes a collaborative funding model between the Union Ministry and the Maharashtra State Sports Department.",
+      "category": "Maharashtra",
+      "difficulty": "medium",
+      "sourceUrl": "https://www.drishtiias.com/statepcs/25-07-2026/maharashtra"
+    },
+    {
+      "id": "ca_20260725_05",
+      "question": "In July 2026, the indigenous vehicle-mounted, multi-layered counter-swarm drone system named 'Bhargavastra' was demonstrated under the Make-II category. In which city of Maharashtra was this demonstration conducted?",
+      "options": [
         "Pune",
         "Nagpur",
+        "Mumbai",
         "Nashik"
       ],
       "correctAnswer": 1,
-      "explanation": "National Security Adviser Ajit Doval has been selected for the Lokmanya Tilak National Award 2026 for his exceptional contribution to India's national security. The award is scheduled to be presented on August 1, 2026, in Pune, Maharashtra, to mark the 106th death anniversary of Lokmanya Bal Gangadhar Tilak.",
-      "category": "Maharashtra",
-      "difficulty": "medium",
-      "sourceUrl": "https://www.drishtiias.com/statepcs/24-07-2026/maharashtra"
-    },
-    {
-      "id": "ca_20260724_03",
-      "question": "In July 2026, the Maharashtra government officially launched the 'Bharat Taxi' service. What is the primary operational objective of this newly introduced state-backed public-private partnership (PPP) initiative?",
-      "options": [
-        "To provide high-speed helicopter transit across district headquarters",
-        "To integrate local kaali-peeli and tourist taxis on a unified digital hailing platform with standardized tariffs",
-        "To construct dedicated taxi corridors on all state highways",
-        "To replace all traditional taxis with autonomous driverless vehicles"
-      ],
-      "correctAnswer": 1,
-      "explanation": "The Maharashtra government launched the 'Bharat Taxi' service to merge app-based aggregator benefits with traditional local kaali-peeli and tourist taxi networks on a unified digital platform. This PPP initiative aims to provide safe, reliable, and standardized public mobility with fixed tariffs, particularly expanding services into tier-2 and tier-3 talukas.",
-      "category": "Maharashtra",
-      "difficulty": "easy",
-      "sourceUrl": "https://www.drishtiias.com/statepcs/24-07-2026/maharashtra"
-    },
-    {
-      "id": "ca_20260724_04",
-      "question": "Which Union Ministry conceptualized the Crime and Criminal Tracking Network & Systems (CCTNS) to create an integrated digital system for real-time crime data sharing across India?",
-      "options": [
-        "Ministry of Home Affairs",
-        "Ministry of Law and Justice",
-        "Ministry of Electronics and Information Technology",
-        "Ministry of Defence"
-      ],
-      "correctAnswer": 0,
-      "explanation": "The Crime and Criminal Tracking Network & Systems (CCTNS) was conceptualized by the Union Ministry of Home Affairs in 2009. It aims to establish a comprehensive and integrated digital policing framework for sharing real-time crime and criminal data across all states and union territories.",
-      "category": "Polity",
-      "difficulty": "medium",
-      "sourceUrl": "https://www.gktoday.in/daily-current-affairs-quiz-july-25-2026/"
-    },
-    {
-      "id": "ca_20260724_05",
-      "question": "Under its BRICS Chairmanship 2026, India hosted the BRICS Ministerial Meeting on Disaster Risk Reduction (DRR) on July 24, 2026. In which city was this meeting held?",
-      "options": [
-        "Mumbai",
-        "Chennai",
-        "New Delhi",
-        "Bengaluru"
-      ],
-      "correctAnswer": 2,
-      "explanation": "India hosted the BRICS Ministerial Meeting on Disaster Risk Reduction (DRR) in New Delhi on July 24, 2026. Organised by the National Disaster Management Authority (NDMA) under the Ministry of Home Affairs, the meeting was guided by the theme 'Building for Resilience, Innovation, Cooperation and Sustainability'.",
-      "category": "International",
-      "difficulty": "medium",
-      "sourceUrl": "https://www.gktoday.in/daily-current-affairs-quiz-july-24-2026/"
-    },
-    {
-      "id": "ca_20260724_06",
-      "question": "According to the latest National Family Health Survey (NFHS-6) findings shared in July 2026, what is India's Total Fertility Rate (TFR)?",
-      "options": [
-        "1.8",
-        "2.0",
-        "2.2",
-        "2.5"
-      ],
-      "correctAnswer": 1,
-      "explanation": "The Ministry of State for Health and Family Welfare presented the key findings of the NFHS-6 (2023-24) in the Lok Sabha in July 2026, confirming that India's Total Fertility Rate (TFR) remains stable at 2.0. The survey also reported improvements in institutional deliveries to 90.6% and full immunization coverage to 87.1%.",
-      "category": "Polity",
-      "difficulty": "hard",
-      "sourceUrl": "https://www.gktoday.in/daily-current-affairs-quiz-july-25-2026/"
-    },
-    {
-      "id": "ca_20260724_07",
-      "question": "The Karlapat Bauxite Block, which was recently in the news due to bidding interest from several major Indian corporate groups, is located in which district of Odisha?",
-      "options": [
-        "Kalahandi",
-        "Koraput",
-        "Rayagada",
-        "Sundargarh"
-      ],
-      "correctAnswer": 0,
-      "explanation": "The Karlapat Bauxite Block is a greenfield mining block located in the Kalahandi district of Odisha. It holds substantial significance as Odisha accounts for about 41% of India's total bauxite resources, and the Karlapat block contains high-quality ore with low silica content.",
-      "category": "Geography",
-      "difficulty": "medium",
-      "sourceUrl": "https://www.gktoday.in/daily-current-affairs-quiz-july-24-2026/"
-    },
-    {
-      "id": "ca_20260724_08",
-      "question": "Which Union Ministry launched 'Mission Mausam' to make India a 'Weather-ready and Climate-smart' nation through AI/ML-based forecasting and advanced high-performance computing?",
-      "options": [
-        "Ministry of Environment, Forest and Climate Change",
-        "Ministry of Earth Sciences",
-        "Ministry of Science and Technology",
-        "Ministry of Electronics and Information Technology"
-      ],
-      "correctAnswer": 1,
-      "explanation": "Mission Mausam was launched by the Ministry of Earth Sciences to enhance weather observations, forecasting accuracy, and early warning systems across India. The mission leverages advanced Earth System Models and high-performance supercomputers like 'Arunika' and 'Arka'.",
+      "explanation": "Bhargavastra is an indigenous, vehicle-mounted, multi-layered Counter-Swarm Drone System developed by Solar Defence and Aerospace Ltd. (SDAL) for the Indian Army. It was demonstrated in Nagpur, Maharashtra on July 24, 2026, during a Make-II programme status review. The hard-kill system utilizes a dual-layer kill mechanism consisting of unguided micro-rockets and precision-guided micro-missiles to destroy drone swarms.",
       "category": "Science & Tech",
-      "difficulty": "easy",
-      "sourceUrl": "https://www.gktoday.in/daily-current-affairs-quiz-july-24-2026/"
-    },
-    {
-      "id": "ca_20260724_09",
-      "question": "In July 2026, the Bombay High Court ordered the Mumbai Suburban District Collector to remove illegal encroachments from Charkop Pond to protect the local mangrove ecosystem. In which suburb of Mumbai is Charkop Pond located?",
-      "options": [
-        "Kandivali",
-        "Andheri",
-        "Borivali",
-        "Goregaon"
-      ],
-      "correctAnswer": 0,
-      "explanation": "The Bombay High Court directed the immediate removal of illegal encroachments and garbage dumping from Charkop Pond in Kandivali (West), Mumbai. Since the natural pond lies within the 50-metre environmental buffer zone of mangroves, the Court ordered its restoration to protect the sensitive coastal habitat.",
-      "category": "Maharashtra",
       "difficulty": "medium",
-      "sourceUrl": "https://www.drishtiias.com/statepcs/24-07-2026/maharashtra"
+      "sourceUrl": "https://www.gktoday.in/bhargavastra-counter-drone-system/"
     },
     {
-      "id": "ca_20260724_10",
-      "question": "The 21st East Asia Summit (EAS) was held in July 2026, where India's External Affairs Minister emphasized keeping global maritime channels safe and secure. In which country was the 21st EAS hosted?",
+      "id": "ca_20260725_06",
+      "question": "Under India's Private FM Radio Policy Phase-III, what minimum percentage of daily broadcast content is mandatory for every private broadcaster to deliver in the local language of the city?",
       "options": [
-        "Indonesia",
-        "Malaysia",
-        "Philippines",
-        "Thailand"
+        "10%",
+        "15%",
+        "20%",
+        "25%"
       ],
       "correctAnswer": 2,
-      "explanation": "The 21st East Asia Summit (EAS) was hosted in Manila, Philippines, in July 2026. The summit is the Indo-Pacific's premier leader-led forum for strategic dialogue, which was established in 2005 with its inaugural meeting held in Kuala Lumpur, Malaysia.",
+      "explanation": "The Government of India confirmed on July 24, 2026, that 386 private FM radio channels are currently operational in the country under the Phase-III policy. The policy mandates that every broadcaster must ensure at least 20% of its daily broadcast content is in the local language of the city to promote regional culture, traditions, and folk music. It also permits private broadcasters to access Prasar Bharati towers and sites for a faster rollout.",
+      "category": "Polity",
+      "difficulty": "medium",
+      "sourceUrl": "https://www.gktoday.in/20-local-content-rule-for-private-fm-radio/"
+    },
+    {
+      "id": "ca_20260725_07",
+      "question": "The 16th BRICS Health Ministers' Meeting held in Chandigarh in July 2026 announced the establishment of a BRICS Network of Centres of Excellence (CoEs) on Mental Wellness. Which Indian institution has been designated to coordinate this network?",
+      "options": [
+        "AIIMS, New Delhi",
+        "NIMHANS, Bengaluru",
+        "PGIMER, Chandigarh",
+        "TISS, Mumbai"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The 16th BRICS Health Ministers' Meeting concluded in Chandigarh in July 2026 under India's BRICS Chairship. A key outcome was the establishment of the BRICS Network of Centres of Excellence (CoEs) on Mental Wellness, which will be coordinated by the National Institute of Mental Health and Neurosciences (NIMHANS) in Bengaluru. The meeting also launched the BRICS Mission for Healthy Lifestyle and endorsed the BRICS Expert Working Group on Traditional Medicine.",
+      "category": "International",
+      "difficulty": "medium",
+      "sourceUrl": "https://www.drishtiias.com/statepcs/25-07-2026/maharashtra"
+    },
+    {
+      "id": "ca_20260725_08",
+      "question": "Who resigned as the Union Minister of Education on July 25, 2026, amid student protests concerning alleged irregularities in competitive national examinations?",
+      "options": [
+        "Shri Dharmendra Pradhan",
+        "Shri Ramesh Pokhriyal",
+        "Shri Kiren Rijiju",
+        "Shri Mansukh Mandaviya"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Shri Dharmendra Pradhan resigned as the Union Education Minister on July 25, 2026, following student protests linked to alleged irregularities and paper leaks in national competitive examinations. The resignation came amidst nationwide demands for accountability and exam reform. He had previously overseen several education and skill development policies under the Ministry of Education.",
+      "category": "Polity",
+      "difficulty": "medium",
+      "sourceUrl": "https://www.gktoday.in/dharmendra-pradhan-resigns-as-union-education-minister-amid-massive-student-protests/"
+    },
+    {
+      "id": "ca_20260725_09",
+      "question": "France became the first European Union nation to pass a nationwide ban on social media access for children under 15 years. According to this law, from which month and year will the ban on creating new accounts take effect?",
+      "options": [
+        "September 2026",
+        "January 2027",
+        "September 2027",
+        "January 2028"
+      ],
+      "correctAnswer": 0,
+      "explanation": "France is the first EU country to introduce a nationwide ban on social media access for children under the age of 15. The law bars these children from creating new social media accounts starting September 2026, while access to existing accounts will be prohibited from January 2027. Social media companies will be legally responsible for implementing age-verification mechanisms under the new framework.",
       "category": "International",
       "difficulty": "hard",
-      "sourceUrl": "https://www.gktoday.in/daily-current-affairs-quiz-july-25-2026/"
+      "sourceUrl": "https://www.drishtiias.com/statepcs/25-07-2026/maharashtra"
+    },
+    {
+      "id": "ca_20260725_10",
+      "question": "In July 2026, the United States imposed new Section 301 tariffs on 60 countries. India was placed in a lower additional tariff bracket of 10% instead of 12.5% following which policy change enacted by India's Directorate General of Foreign Trade (DGFT) in June 2026?",
+      "options": [
+        "Prohibiting imports of goods manufactured using forced labour",
+        "Reducing customs duties on US-manufactured medical devices",
+        "Increasing subsidies for domestic semiconductor manufacturing",
+        "Exempting US agricultural products from non-tariff barriers"
+      ],
+      "correctAnswer": 0,
+      "explanation": "The United States imposed new Section 301 tariffs under the US Trade Act of 1974 on July 24, 2026. India was placed in the lower 10% tariff bracket rather than the proposed 12.5% after the DGFT amended the Foreign Trade Policy in June 2026 to prohibit imports of goods made using forced labour. This lower tariff bracket is shared with 16 other economies, while countries like China and South Korea face the higher 12.5% rate.",
+      "category": "Economy",
+      "difficulty": "hard",
+      "sourceUrl": "https://www.gktoday.in/india-gets-lower-us-tariff-rate-under-section-301/"
     }
   ],
   "totalQuestions": 10,
