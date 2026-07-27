@@ -1,158 +1,158 @@
 {
-  "date": "2026-07-25",
+  "date": "2026-07-26",
   "topic": "Current Affairs",
-  "source": "The Hindu / PIB / Indian Express / Drishti IAS / GKToday",
-  "lastUpdated": "2026-07-25T06:30:00+05:30",
+  "source": "Drishti IAS / GKToday / Vajiram & Ravi / Press Information Bureau",
+  "lastUpdated": "2026-07-26T06:30:00+05:30",
   "quiz": [
     {
-      "id": "ca_20260725_01",
-      "question": "Who was appointed as the Chief Executive Officer (CEO) of NITI Aayog by the Appointments Committee of the Cabinet in July 2026 for a period of two years?",
+      "id": "ca_20260726_01",
+      "question": "According to the Ministry of Heavy Industries report in July 2026, which state has emerged as the leading state under the Production Linked Incentive (PLI) Scheme for the Automobile and Auto Component Industry, with the highest number of manufacturing units established as of March 31, 2026?",
       "options": [
-        "Anurag Jain",
-        "Subrahmanyam Jaishankar",
-        "Suman Bery",
-        "B.V.R. Subrahmanyam"
-      ],
-      "correctAnswer": 0,
-      "explanation": "The Appointments Committee of the Cabinet (ACC) approved the appointment of Anurag Jain, a 1989-batch IAS officer of the Madhya Pradesh cadre, as the Chief Executive Officer (CEO) of NITI Aayog in July 2026. He succeeds B.V.R. Subrahmanyam and is appointed for a period of two years. NITI Aayog, established on January 1, 2015, is chaired by the Prime Minister of India.",
-      "category": "Polity",
-      "difficulty": "easy",
-      "sourceUrl": "https://www.drishtiias.com/statepcs/25-07-2026/maharashtra"
-    },
-    {
-      "id": "ca_20260725_02",
-      "question": "Which state-backed initiative was officially launched in Maharashtra in July 2026 to integrate local kaali-peeli and tourist taxis onto a unified digital hailing platform with standardized tariffs?",
-      "options": [
-        "Maha-Yatra",
-        "Bharat Taxi",
-        "Shiv-Safar",
-        "Lok-Vahan"
+        "Tamil Nadu",
+        "Maharashtra",
+        "Haryana",
+        "Karnataka"
       ],
       "correctAnswer": 1,
-      "explanation": "Maharashtra Chief Minister Devendra Fadnavis officially launched the 'Bharat Taxi' service in July 2026 under a state-backed public-private partnership (PPP) model. The initiative aims to onboard existing local kaali-peeli and tourist taxis, as well as new electric vehicles, onto a single platform. It includes point-to-point transit services into tier-2, tier-3, and semi-urban talukas with transparent, distance-locked tariffs.",
+      "explanation": "The Ministry of Heavy Industries informed the Lok Sabha in July 2026 that Maharashtra has emerged as the leading state under the Production Linked Incentive (PLI) Scheme for the Automobile and Auto Component Industry. As of March 31, 2026, Maharashtra has established 66 manufacturing units under the scheme, followed by Tamil Nadu with 38 units and Haryana with 35 units. The pan-India scheme has attracted total investments worth ₹44,326 crore and requires a minimum of 50% Domestic Value Addition (DVA) to qualify for incentives.",
       "category": "Maharashtra",
       "difficulty": "easy",
-      "sourceUrl": "https://www.drishtiias.com/statepcs/24-07-2026/maharashtra"
+      "sourceUrl": "https://www.drishtiias.com/state-pcs-current-affairs/maharashtra-tops-pli-auto-scheme-with-66-manufacturing-units"
     },
     {
-      "id": "ca_20260725_03",
-      "question": "Kargil Vijay Diwas is observed annually on July 26 to honor the bravery and sacrifice of soldiers who fought in the 1999 Kargil War. What was the code name of the Indian Air Force's supporting mission during this conflict?",
-      "options": [
-        "Operation Meghdoot",
-        "Operation Safed Sagar",
-        "Operation Cactus",
-        "Operation Trishul"
-      ],
-      "correctAnswer": 1,
-      "explanation": "Kargil Vijay Diwas is observed every year on July 26 to mark the success of 'Operation Vijay', where the Indian Armed Forces recaptured strategic peaks occupied by Pakistani intruders in the Kargil sector of Ladakh. The Indian Air Force supported the land operations through 'Operation Safed Sagar', utilizing its combat power to neutralize enemy targets. This joint military operation successfully concluded on July 26, 1999.",
-      "category": "Miscellaneous",
-      "difficulty": "easy",
-      "sourceUrl": "https://www.gktoday.in/daily-current-affairs-quiz-july-24-2026-2/"
-    },
-    {
-      "id": "ca_20260725_04",
-      "question": "In July 2026, a high-level review meeting was held in Mumbai to strengthen Maharashtra's sports and youth development ecosystem. Who chaired this meeting?",
-      "options": [
-        "Smt. Raksha Khadse",
-        "Shri Anurag Thakur",
-        "Shri Devendra Fadnavis",
-        "Shri Ajit Pawar"
-      ],
-      "correctAnswer": 0,
-      "explanation": "Smt. Raksha Khadse, the Union Minister of State for Youth Affairs and Sports, chaired a high-level review meeting in Mumbai in July 2026 to strengthen Maharashtra's sports and youth development. The primary agenda focused on expanding Khelo India infrastructure and implementing the National Youth Services Framework (NYSF). The initiative utilizes a collaborative funding model between the Union Ministry and the Maharashtra State Sports Department.",
-      "category": "Maharashtra",
-      "difficulty": "medium",
-      "sourceUrl": "https://www.drishtiias.com/statepcs/25-07-2026/maharashtra"
-    },
-    {
-      "id": "ca_20260725_05",
-      "question": "In July 2026, the indigenous vehicle-mounted, multi-layered counter-swarm drone system named 'Bhargavastra' was demonstrated under the Make-II category. In which city of Maharashtra was this demonstration conducted?",
+      "id": "ca_20260726_02",
+      "question": "Under India's BRICS Chairship, which city in Maharashtra will host the 3rd BRICS Transport Ministers' Meeting in July 2026 to discuss sustainable transport infrastructure and multi-modal logistics?",
       "options": [
         "Pune",
-        "Nagpur",
         "Mumbai",
-        "Nashik"
-      ],
-      "correctAnswer": 1,
-      "explanation": "Bhargavastra is an indigenous, vehicle-mounted, multi-layered Counter-Swarm Drone System developed by Solar Defence and Aerospace Ltd. (SDAL) for the Indian Army. It was demonstrated in Nagpur, Maharashtra on July 24, 2026, during a Make-II programme status review. The hard-kill system utilizes a dual-layer kill mechanism consisting of unguided micro-rockets and precision-guided micro-missiles to destroy drone swarms.",
-      "category": "Science & Tech",
-      "difficulty": "medium",
-      "sourceUrl": "https://www.gktoday.in/bhargavastra-counter-drone-system/"
-    },
-    {
-      "id": "ca_20260725_06",
-      "question": "Under India's Private FM Radio Policy Phase-III, what minimum percentage of daily broadcast content is mandatory for every private broadcaster to deliver in the local language of the city?",
-      "options": [
-        "10%",
-        "15%",
-        "20%",
-        "25%"
+        "Nagpur",
+        "Aurangabad"
       ],
       "correctAnswer": 2,
-      "explanation": "The Government of India confirmed on July 24, 2026, that 386 private FM radio channels are currently operational in the country under the Phase-III policy. The policy mandates that every broadcaster must ensure at least 20% of its daily broadcast content is in the local language of the city to promote regional culture, traditions, and folk music. It also permits private broadcasters to access Prasar Bharati towers and sites for a faster rollout.",
-      "category": "Polity",
-      "difficulty": "medium",
-      "sourceUrl": "https://www.gktoday.in/20-local-content-rule-for-private-fm-radio/"
+      "explanation": "Under India's BRICS Chairship, Nagpur in Maharashtra will host the 3rd BRICS Transport Ministers' Meeting in July 2026. The meeting will be chaired by Union Minister of Road Transport and Highways Nitin Gadkari under the theme 'Building for Resilience, Innovation, Cooperation and Sustainability (BRICS)'. Discussions will focus on sustainable transport, Sustainable Aviation Fuel (SAF), and AI-based transport technologies in alignment with Viksit Bharat 2047.",
+      "category": "Maharashtra",
+      "difficulty": "easy",
+      "sourceUrl": "https://www.drishtiias.com/statepcs/09-07-2026/maharashtra"
     },
     {
-      "id": "ca_20260725_07",
-      "question": "The 16th BRICS Health Ministers' Meeting held in Chandigarh in July 2026 announced the establishment of a BRICS Network of Centres of Excellence (CoEs) on Mental Wellness. Which Indian institution has been designated to coordinate this network?",
+      "id": "ca_20260726_03",
+      "question": "Which country clinched its second Men's FIFA World Cup title in July 2026 by defeating the defending champions Argentina 1-0 in the final held at the New York New Jersey Stadium?",
       "options": [
-        "AIIMS, New Delhi",
-        "NIMHANS, Bengaluru",
-        "PGIMER, Chandigarh",
-        "TISS, Mumbai"
+        "France",
+        "Spain",
+        "Germany",
+        "Brazil"
       ],
       "correctAnswer": 1,
-      "explanation": "The 16th BRICS Health Ministers' Meeting concluded in Chandigarh in July 2026 under India's BRICS Chairship. A key outcome was the establishment of the BRICS Network of Centres of Excellence (CoEs) on Mental Wellness, which will be coordinated by the National Institute of Mental Health and Neurosciences (NIMHANS) in Bengaluru. The meeting also launched the BRICS Mission for Healthy Lifestyle and endorsed the BRICS Expert Working Group on Traditional Medicine.",
-      "category": "International",
-      "difficulty": "medium",
-      "sourceUrl": "https://www.drishtiias.com/statepcs/25-07-2026/maharashtra"
+      "explanation": "Spain clinched their second FIFA World Cup title by defeating defending champions Argentina 1-0 in the final held at the New York New Jersey Stadium in July 2026. Forward Ferran Torres scored the decisive goal in the 106th minute of extra time. With this victory, Spain achieved the rare milestone of holding both the Men's and Women's FIFA World Cup titles simultaneously.",
+      "category": "Sports",
+      "difficulty": "easy",
+      "sourceUrl": "https://www.drishtiias.com/statepcs/20-07-2026/maharashtra"
     },
     {
-      "id": "ca_20260725_08",
-      "question": "Who resigned as the Union Minister of Education on July 25, 2026, amid student protests concerning alleged irregularities in competitive national examinations?",
+      "id": "ca_20260726_04",
+      "question": "In July 2026, which airport in Maharashtra was notified as a designated port of entry for the import of drugs under the Drugs Rules, 1945, by the Ministry of Health and Family Welfare?",
       "options": [
-        "Shri Dharmendra Pradhan",
-        "Shri Ramesh Pokhriyal",
-        "Shri Kiren Rijiju",
-        "Shri Mansukh Mandaviya"
+        "Chhatrapati Shivaji Maharaj International Airport, Mumbai",
+        "Dr. Babasaheb Ambedkar International Airport, Nagpur",
+        "Navi Mumbai International Airport",
+        "Pune International Airport"
+      ],
+      "correctAnswer": 2,
+      "explanation": "The Ministry of Health and Family Welfare notified the Navi Mumbai Airport as a designated port of entry for the import of drugs under the Drugs Rules, 1945. The government amended Rule 43A of the Drugs Rules, 1945 to facilitate smoother logistical movement and improve pharmaceutical trade. This inclusion raises the total number of designated ports of entry for drug imports across India to 42.",
+      "category": "Maharashtra",
+      "difficulty": "medium",
+      "sourceUrl": "https://www.drishtiias.com/statepcs/10-07-2026/maharashtra"
+    },
+    {
+      "id": "ca_20260726_05",
+      "question": "The Union Cabinet in July 2026 approved the 'BHAVYA Rasayan' scheme to promote the chemical industry value chain. What is the total financial outlay approved for this scheme over its five-year implementation period?",
+      "options": [
+        "₹1,530 crore",
+        "₹2,030 crore",
+        "₹3,030 crore",
+        "₹4,030 crore"
+      ],
+      "correctAnswer": 2,
+      "explanation": "The Union Cabinet approved the Bharat Audyogik Vikas Yojana Rasayan (BHAVYA Rasayan) scheme with a total financial outlay of ₹3,030 crore to establish three dedicated chemical parks. Implementing from FY 2026-27 to FY 2030-31, the scheme allocates ₹3,000 crore for common infrastructure facilities and ₹30 crore for administrative expenses. The Centre will offer up to ₹1,000 crore in financial assistance per park, requiring a minimum state contribution of ₹500 crore.",
+      "category": "Economy",
+      "difficulty": "medium",
+      "sourceUrl": "https://vajiramandravi.com/current-affairs/upsc-prelims-current-affairs/2026/07/25/"
+    },
+    {
+      "id": "ca_20260726_06",
+      "question": "Bornadi Wildlife Sanctuary, which was recently in the news after camera-trap evidence confirmed the return of the Asiatic wild dog (Dhole), is located in which Indian state?",
+      "options": [
+        "Arunachal Pradesh",
+        "Assam",
+        "Meghalaya",
+        "Tripura"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Camera-trap evidence recently confirmed the return of the endangered Asiatic wild dog (Dhole) to Bornadi Wildlife Sanctuary, located in the Udalguri and Baksa districts of Assam. Established in 1980, the sanctuary is situated on the eastern Himalayan foothills along the India-Bhutan international border. It was originally created to protect flagship species like the pygmy hog and hispid hare, and is bounded by the Bornadi and Nalapara rivers.",
+      "category": "Environment",
+      "difficulty": "medium",
+      "sourceUrl": "https://vajiramandravi.com/current-affairs/upsc-prelims-current-affairs/2026/07/25/"
+    },
+    {
+      "id": "ca_20260726_07",
+      "question": "SVEP, which supported 4.32 lakh rural enterprises across India by June 2026, is implemented as a sub-scheme of which major national program?",
+      "options": [
+        "Deendayal Antyodaya Yojana – National Rural Livelihoods Mission (DAY-NRLM)",
+        "PM Formalisation of Micro Food Processing Enterprises (PMFME)",
+        "Mahatma Gandhi National Rural Employment Guarantee Scheme (MGNREGS)",
+        "National Urban Livelihoods Mission (NULM)"
       ],
       "correctAnswer": 0,
-      "explanation": "Shri Dharmendra Pradhan resigned as the Union Education Minister on July 25, 2026, following student protests linked to alleged irregularities and paper leaks in national competitive examinations. The resignation came amidst nationwide demands for accountability and exam reform. He had previously overseen several education and skill development policies under the Ministry of Education.",
+      "explanation": "The Start-up Village Entrepreneurship Programme (SVEP) was launched in 2016 as a sub-scheme of the Deendayal Antyodaya Yojana – National Rural Livelihoods Mission (DAY-NRLM). It aims to stimulate rural economic growth and reduce poverty by helping Self-Help Groups (SHGs) and their family members establish non-farm enterprises. By June 2026, SVEP had successfully supported over 4.32 lakh rural enterprises across the country with financing and business training.",
       "category": "Polity",
       "difficulty": "medium",
-      "sourceUrl": "https://www.gktoday.in/dharmendra-pradhan-resigns-as-union-education-minister-amid-massive-student-protests/"
+      "sourceUrl": "https://vajiramandravi.com/current-affairs/upsc-prelims-current-affairs/2026/07/25/"
     },
     {
-      "id": "ca_20260725_09",
-      "question": "France became the first European Union nation to pass a nationwide ban on social media access for children under 15 years. According to this law, from which month and year will the ban on creating new accounts take effect?",
+      "id": "ca_20260726_08",
+      "question": "Which state secured the top rank in NITI Aayog's first-ever Investment Friendliness Index (IFI) 2026 released in July 2026?",
       "options": [
-        "September 2026",
-        "January 2027",
-        "September 2027",
-        "January 2028"
+        "Maharashtra",
+        "Gujarat",
+        "Tamil Nadu",
+        "Karnataka"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Gujarat secured the top rank in NITI Aayog's first-ever Investment Friendliness Index (IFI) 2026 among the 'Large States' category, followed by Maharashtra and Tamil Nadu. The index is designed as a structural tool with 84 indicators across 8 distinct pillars to drive competitive and cooperative federalism. The Infrastructure pillar holds the highest weightage at 25% in the index methodology to highlight its critical role in capital attraction.",
+      "category": "Economy",
+      "difficulty": "medium",
+      "sourceUrl": "https://www.drishtiias.com/statepcs/20-07-2026/maharashtra"
+    },
+    {
+      "id": "ca_20260726_09",
+      "question": "Scientists have discovered a new species of macronarian, long-necked dinosaur named 'Ceratocaudia antiqua' dating back to the Jurassic period. In which region of India was this fossil excavated?",
+      "options": [
+        "Kutch district, Gujarat",
+        "Chandrapur district, Maharashtra",
+        "Lahaul and Spiti, Himachal Pradesh",
+        "Udalguri district, Assam"
       ],
       "correctAnswer": 0,
-      "explanation": "France is the first EU country to introduce a nationwide ban on social media access for children under the age of 15. The law bars these children from creating new social media accounts starting September 2026, while access to existing accounts will be prohibited from January 2027. Social media companies will be legally responsible for implementing age-verification mechanisms under the new framework.",
+      "explanation": "The fossil of 'Ceratocaudia antiqua', a new species of long-necked macronarian dinosaur from the Jurassic period, was discovered in the Kaladongar Formation of the Kachchh Basin in the Kutch district of Gujarat. Living roughly 170 to 180 million years ago, this dinosaur was about seven meters long and is distinguished by a unique, curved horn-like crest atop its front tailbones. It represents one of the earliest known macronarian dinosaur species discovered globally.",
+      "category": "Science & Tech",
+      "difficulty": "hard",
+      "sourceUrl": "https://vajiramandravi.com/current-affairs/upsc-prelims-current-affairs/2026/07/25/"
+    },
+    {
+      "id": "ca_20260726_10",
+      "question": "According to the State of Food Security and Nutrition in the World (SOFI) 2026 Report, the share of undernourished Indians declined significantly over the past two decades. What was the undernourishment rate in India during the 2023-2025 period?",
+      "options": [
+        "21.1%",
+        "14.5%",
+        "9.8%",
+        "7.8%"
+      ],
+      "correctAnswer": 2,
+      "explanation": "The State of Food Security and Nutrition in the World (SOFI) 2026 Report, jointly produced by FAO, IFAD, UNICEF, WFP, and WHO, highlighted that the share of undernourished people in India more than halved over the past two decades. It declined from 21.1% in the 2004-2006 period to 9.8% in the 2023-2025 period. However, India's healthy-diet cost rose by nearly 48% since 2017, outpacing the cost rises seen in several other major global economies.",
       "category": "International",
       "difficulty": "hard",
-      "sourceUrl": "https://www.drishtiias.com/statepcs/25-07-2026/maharashtra"
-    },
-    {
-      "id": "ca_20260725_10",
-      "question": "In July 2026, the United States imposed new Section 301 tariffs on 60 countries. India was placed in a lower additional tariff bracket of 10% instead of 12.5% following which policy change enacted by India's Directorate General of Foreign Trade (DGFT) in June 2026?",
-      "options": [
-        "Prohibiting imports of goods manufactured using forced labour",
-        "Reducing customs duties on US-manufactured medical devices",
-        "Increasing subsidies for domestic semiconductor manufacturing",
-        "Exempting US agricultural products from non-tariff barriers"
-      ],
-      "correctAnswer": 0,
-      "explanation": "The United States imposed new Section 301 tariffs under the US Trade Act of 1974 on July 24, 2026. India was placed in the lower 10% tariff bracket rather than the proposed 12.5% after the DGFT amended the Foreign Trade Policy in June 2026 to prohibit imports of goods made using forced labour. This lower tariff bracket is shared with 16 other economies, while countries like China and South Korea face the higher 12.5% rate.",
-      "category": "Economy",
-      "difficulty": "hard",
-      "sourceUrl": "https://www.gktoday.in/india-gets-lower-us-tariff-rate-under-section-301/"
+      "sourceUrl": "https://vajiramandravi.com/current-affairs/upsc-prelims-current-affairs/2026/07/25/"
     }
   ],
   "totalQuestions": 10,
