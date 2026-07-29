@@ -1,0 +1,160 @@
+{
+  "date": "2026-07-26",
+  "topic": "Current Affairs",
+  "source": "Drishti IAS / GKToday / Vajiram & Ravi / Press Information Bureau",
+  "lastUpdated": "2026-07-26T06:30:00+05:30",
+  "quiz": [
+    {
+      "id": "ca_20260726_01",
+      "question": "According to the Ministry of Heavy Industries report in July 2026, which state has emerged as the leading state under the Production Linked Incentive (PLI) Scheme for the Automobile and Auto Component Industry, with the highest number of manufacturing units established as of March 31, 2026?",
+      "options": [
+        "Tamil Nadu",
+        "Maharashtra",
+        "Haryana",
+        "Karnataka"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The Ministry of Heavy Industries informed the Lok Sabha in July 2026 that Maharashtra has emerged as the leading state under the Production Linked Incentive (PLI) Scheme for the Automobile and Auto Component Industry. As of March 31, 2026, Maharashtra has established 66 manufacturing units under the scheme, followed by Tamil Nadu with 38 units and Haryana with 35 units. The pan-India scheme has attracted total investments worth ₹44,326 crore and requires a minimum of 50% Domestic Value Addition (DVA) to qualify for incentives.",
+      "category": "Maharashtra",
+      "difficulty": "easy",
+      "sourceUrl": "https://www.drishtiias.com/state-pcs-current-affairs/maharashtra-tops-pli-auto-scheme-with-66-manufacturing-units"
+    },
+    {
+      "id": "ca_20260726_02",
+      "question": "Under India's BRICS Chairship, which city in Maharashtra will host the 3rd BRICS Transport Ministers' Meeting in July 2026 to discuss sustainable transport infrastructure and multi-modal logistics?",
+      "options": [
+        "Pune",
+        "Mumbai",
+        "Nagpur",
+        "Aurangabad"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Under India's BRICS Chairship, Nagpur in Maharashtra will host the 3rd BRICS Transport Ministers' Meeting in July 2026. The meeting will be chaired by Union Minister of Road Transport and Highways Nitin Gadkari under the theme 'Building for Resilience, Innovation, Cooperation and Sustainability (BRICS)'. Discussions will focus on sustainable transport, Sustainable Aviation Fuel (SAF), and AI-based transport technologies in alignment with Viksit Bharat 2047.",
+      "category": "Maharashtra",
+      "difficulty": "easy",
+      "sourceUrl": "https://www.drishtiias.com/statepcs/09-07-2026/maharashtra"
+    },
+    {
+      "id": "ca_20260726_03",
+      "question": "Which country clinched its second Men's FIFA World Cup title in July 2026 by defeating the defending champions Argentina 1-0 in the final held at the New York New Jersey Stadium?",
+      "options": [
+        "France",
+        "Spain",
+        "Germany",
+        "Brazil"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Spain clinched their second FIFA World Cup title by defeating defending champions Argentina 1-0 in the final held at the New York New Jersey Stadium in July 2026. Forward Ferran Torres scored the decisive goal in the 106th minute of extra time. With this victory, Spain achieved the rare milestone of holding both the Men's and Women's FIFA World Cup titles simultaneously.",
+      "category": "Sports",
+      "difficulty": "easy",
+      "sourceUrl": "https://www.drishtiias.com/statepcs/20-07-2026/maharashtra"
+    },
+    {
+      "id": "ca_20260726_04",
+      "question": "In July 2026, which airport in Maharashtra was notified as a designated port of entry for the import of drugs under the Drugs Rules, 1945, by the Ministry of Health and Family Welfare?",
+      "options": [
+        "Chhatrapati Shivaji Maharaj International Airport, Mumbai",
+        "Dr. Babasaheb Ambedkar International Airport, Nagpur",
+        "Navi Mumbai International Airport",
+        "Pune International Airport"
+      ],
+      "correctAnswer": 2,
+      "explanation": "The Ministry of Health and Family Welfare notified the Navi Mumbai Airport as a designated port of entry for the import of drugs under the Drugs Rules, 1945. The government amended Rule 43A of the Drugs Rules, 1945 to facilitate smoother logistical movement and improve pharmaceutical trade. This inclusion raises the total number of designated ports of entry for drug imports across India to 42.",
+      "category": "Maharashtra",
+      "difficulty": "medium",
+      "sourceUrl": "https://www.drishtiias.com/statepcs/10-07-2026/maharashtra"
+    },
+    {
+      "id": "ca_20260726_05",
+      "question": "The Union Cabinet in July 2026 approved the 'BHAVYA Rasayan' scheme to promote the chemical industry value chain. What is the total financial outlay approved for this scheme over its five-year implementation period?",
+      "options": [
+        "₹1,530 crore",
+        "₹2,030 crore",
+        "₹3,030 crore",
+        "₹4,030 crore"
+      ],
+      "correctAnswer": 2,
+      "explanation": "The Union Cabinet approved the Bharat Audyogik Vikas Yojana Rasayan (BHAVYA Rasayan) scheme with a total financial outlay of ₹3,030 crore to establish three dedicated chemical parks. Implementing from FY 2026-27 to FY 2030-31, the scheme allocates ₹3,000 crore for common infrastructure facilities and ₹30 crore for administrative expenses. The Centre will offer up to ₹1,000 crore in financial assistance per park, requiring a minimum state contribution of ₹500 crore.",
+      "category": "Economy",
+      "difficulty": "medium",
+      "sourceUrl": "https://vajiramandravi.com/current-affairs/upsc-prelims-current-affairs/2026/07/25/"
+    },
+    {
+      "id": "ca_20260726_06",
+      "question": "Bornadi Wildlife Sanctuary, which was recently in the news after camera-trap evidence confirmed the return of the Asiatic wild dog (Dhole), is located in which Indian state?",
+      "options": [
+        "Arunachal Pradesh",
+        "Assam",
+        "Meghalaya",
+        "Tripura"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Camera-trap evidence recently confirmed the return of the endangered Asiatic wild dog (Dhole) to Bornadi Wildlife Sanctuary, located in the Udalguri and Baksa districts of Assam. Established in 1980, the sanctuary is situated on the eastern Himalayan foothills along the India-Bhutan international border. It was originally created to protect flagship species like the pygmy hog and hispid hare, and is bounded by the Bornadi and Nalapara rivers.",
+      "category": "Environment",
+      "difficulty": "medium",
+      "sourceUrl": "https://vajiramandravi.com/current-affairs/upsc-prelims-current-affairs/2026/07/25/"
+    },
+    {
+      "id": "ca_20260726_07",
+      "question": "SVEP, which supported 4.32 lakh rural enterprises across India by June 2026, is implemented as a sub-scheme of which major national program?",
+      "options": [
+        "Deendayal Antyodaya Yojana – National Rural Livelihoods Mission (DAY-NRLM)",
+        "PM Formalisation of Micro Food Processing Enterprises (PMFME)",
+        "Mahatma Gandhi National Rural Employment Guarantee Scheme (MGNREGS)",
+        "National Urban Livelihoods Mission (NULM)"
+      ],
+      "correctAnswer": 0,
+      "explanation": "The Start-up Village Entrepreneurship Programme (SVEP) was launched in 2016 as a sub-scheme of the Deendayal Antyodaya Yojana – National Rural Livelihoods Mission (DAY-NRLM). It aims to stimulate rural economic growth and reduce poverty by helping Self-Help Groups (SHGs) and their family members establish non-farm enterprises. By June 2026, SVEP had successfully supported over 4.32 lakh rural enterprises across the country with financing and business training.",
+      "category": "Polity",
+      "difficulty": "medium",
+      "sourceUrl": "https://vajiramandravi.com/current-affairs/upsc-prelims-current-affairs/2026/07/25/"
+    },
+    {
+      "id": "ca_20260726_08",
+      "question": "Which state secured the top rank in NITI Aayog's first-ever Investment Friendliness Index (IFI) 2026 released in July 2026?",
+      "options": [
+        "Maharashtra",
+        "Gujarat",
+        "Tamil Nadu",
+        "Karnataka"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Gujarat secured the top rank in NITI Aayog's first-ever Investment Friendliness Index (IFI) 2026 among the 'Large States' category, followed by Maharashtra and Tamil Nadu. The index is designed as a structural tool with 84 indicators across 8 distinct pillars to drive competitive and cooperative federalism. The Infrastructure pillar holds the highest weightage at 25% in the index methodology to highlight its critical role in capital attraction.",
+      "category": "Economy",
+      "difficulty": "medium",
+      "sourceUrl": "https://www.drishtiias.com/statepcs/20-07-2026/maharashtra"
+    },
+    {
+      "id": "ca_20260726_09",
+      "question": "Scientists have discovered a new species of macronarian, long-necked dinosaur named 'Ceratocaudia antiqua' dating back to the Jurassic period. In which region of India was this fossil excavated?",
+      "options": [
+        "Kutch district, Gujarat",
+        "Chandrapur district, Maharashtra",
+        "Lahaul and Spiti, Himachal Pradesh",
+        "Udalguri district, Assam"
+      ],
+      "correctAnswer": 0,
+      "explanation": "The fossil of 'Ceratocaudia antiqua', a new species of long-necked macronarian dinosaur from the Jurassic period, was discovered in the Kaladongar Formation of the Kachchh Basin in the Kutch district of Gujarat. Living roughly 170 to 180 million years ago, this dinosaur was about seven meters long and is distinguished by a unique, curved horn-like crest atop its front tailbones. It represents one of the earliest known macronarian dinosaur species discovered globally.",
+      "category": "Science & Tech",
+      "difficulty": "hard",
+      "sourceUrl": "https://vajiramandravi.com/current-affairs/upsc-prelims-current-affairs/2026/07/25/"
+    },
+    {
+      "id": "ca_20260726_10",
+      "question": "According to the State of Food Security and Nutrition in the World (SOFI) 2026 Report, the share of undernourished Indians declined significantly over the past two decades. What was the undernourishment rate in India during the 2023-2025 period?",
+      "options": [
+        "21.1%",
+        "14.5%",
+        "9.8%",
+        "7.8%"
+      ],
+      "correctAnswer": 2,
+      "explanation": "The State of Food Security and Nutrition in the World (SOFI) 2026 Report, jointly produced by FAO, IFAD, UNICEF, WFP, and WHO, highlighted that the share of undernourished people in India more than halved over the past two decades. It declined from 21.1% in the 2004-2006 period to 9.8% in the 2023-2025 period. However, India's healthy-diet cost rose by nearly 48% since 2017, outpacing the cost rises seen in several other major global economies.",
+      "category": "International",
+      "difficulty": "hard",
+      "sourceUrl": "https://vajiramandravi.com/current-affairs/upsc-prelims-current-affairs/2026/07/25/"
+    }
+  ],
+  "totalQuestions": 10,
+  "version": 1
+}
