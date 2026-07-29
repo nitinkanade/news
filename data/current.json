@@ -1,158 +1,158 @@
 {
-  "date": "2026-07-26",
+  "date": "2026-07-27",
   "topic": "Current Affairs",
-  "source": "Drishti IAS / GKToday / Vajiram & Ravi / Press Information Bureau",
-  "lastUpdated": "2026-07-26T06:30:00+05:30",
+  "source": "UN India, Drishti IAS, PIB, Insights IAS, The Hindu, AffairsCloud, Rediff Money",
+  "lastUpdated": "2026-07-27T06:30:00+05:30",
   "quiz": [
     {
-      "id": "ca_20260726_01",
-      "question": "According to the Ministry of Heavy Industries report in July 2026, which state has emerged as the leading state under the Production Linked Incentive (PLI) Scheme for the Automobile and Auto Component Industry, with the highest number of manufacturing units established as of March 31, 2026?",
+      "id": "ca_20260727_01",
+      "question": "At the 48th session of the UNESCO World Heritage Committee held in Busan, South Korea, in July 2026, which ancient Indian site was officially inscribed on the World Heritage List, becoming India's 45th World Heritage Site?",
       "options": [
-        "Tamil Nadu",
-        "Maharashtra",
-        "Haryana",
-        "Karnataka"
+        "Maratha Military Landscapes, Maharashtra",
+        "Ancient Buddhist Site of Sarnath, Uttar Pradesh",
+        "Moidams – the Mound-Burial System of the Ahom Dynasty, Assam",
+        "Keibul Lamjao Conservation Area, Manipur"
       ],
       "correctAnswer": 1,
-      "explanation": "The Ministry of Heavy Industries informed the Lok Sabha in July 2026 that Maharashtra has emerged as the leading state under the Production Linked Incentive (PLI) Scheme for the Automobile and Auto Component Industry. As of March 31, 2026, Maharashtra has established 66 manufacturing units under the scheme, followed by Tamil Nadu with 38 units and Haryana with 35 units. The pan-India scheme has attracted total investments worth ₹44,326 crore and requires a minimum of 50% Domestic Value Addition (DVA) to qualify for incentives.",
-      "category": "Maharashtra",
+      "explanation": "The Ancient Buddhist Site of Sarnath in Uttar Pradesh was officially inscribed as India's 45th World Heritage Site on July 25, 2026, during the 48th session of the World Heritage Committee in Busan, South Korea. Sarnath is the third site from Uttar Pradesh to be inscribed, after the Taj Mahal, Agra Fort, and Fatehpur Sikri.",
+      "category": "History",
       "difficulty": "easy",
-      "sourceUrl": "https://www.drishtiias.com/state-pcs-current-affairs/maharashtra-tops-pli-auto-scheme-with-66-manufacturing-units"
+      "sourceUrl": "https://india.un.org/en/319988-ancient-buddhist-site-sarnath-inscribed-unesco-world-heritage-list"
     },
     {
-      "id": "ca_20260726_02",
-      "question": "Under India's BRICS Chairship, which city in Maharashtra will host the 3rd BRICS Transport Ministers' Meeting in July 2026 to discuss sustainable transport infrastructure and multi-modal logistics?",
+      "id": "ca_20260727_02",
+      "question": "In July 2026, which state became the first in India to qualify for the release of the second installment under the Rashtriya Krishi Vikas Yojana (RKVY) after successfully utilizing over 75% of its initial allocation of ₹335 crore?",
+      "options": [
+        "Madhya Pradesh",
+        "Gujarat",
+        "Maharashtra",
+        "Uttar Pradesh"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Maharashtra became the first state in India to qualify for the second RKVY installment of ₹335 crore. The state successfully utilized around ₹260 crore of its first installment of ₹335 crore, crossing the mandatory 75% fund utilization threshold required by the Union Ministry of Agriculture and Farmers' Welfare.",
+      "category": "Maharashtra",
+      "difficulty": "easy",
+      "sourceUrl": "https://www.drishtiias.com/state-pcs-current-affairs/maharashtra-becomes-first-state-to-qualify-for-second-rkvu-installment"
+    },
+    {
+      "id": "ca_20260727_03",
+      "question": "In July 2026, Union Finance and Corporate Affairs Minister Nirmala Sitharaman inaugurated the new state-of-the-art office complex of the Income Tax Department named 'Aayakar Sindhu' in which city of Maharashtra?",
       "options": [
         "Pune",
-        "Mumbai",
         "Nagpur",
-        "Aurangabad"
+        "Mumbai",
+        "Navi Mumbai"
       ],
       "correctAnswer": 2,
-      "explanation": "Under India's BRICS Chairship, Nagpur in Maharashtra will host the 3rd BRICS Transport Ministers' Meeting in July 2026. The meeting will be chaired by Union Minister of Road Transport and Highways Nitin Gadkari under the theme 'Building for Resilience, Innovation, Cooperation and Sustainability (BRICS)'. Discussions will focus on sustainable transport, Sustainable Aviation Fuel (SAF), and AI-based transport technologies in alignment with Viksit Bharat 2047.",
+      "explanation": "Smt. Nirmala Sitharaman inaugurated 'Aayakar Sindhu', the new state-of-the-art office complex of the Income Tax Department at Nariman Point, Mumbai, on Kargil Vijay Diwas (July 26, 2026). The complex represents modern tax administration infrastructure and is named to reflect how taxes flow from citizens to build the ocean of national treasury.",
       "category": "Maharashtra",
       "difficulty": "easy",
-      "sourceUrl": "https://www.drishtiias.com/statepcs/09-07-2026/maharashtra"
+      "sourceUrl": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2289602"
     },
     {
-      "id": "ca_20260726_03",
-      "question": "Which country clinched its second Men's FIFA World Cup title in July 2026 by defeating the defending champions Argentina 1-0 in the final held at the New York New Jersey Stadium?",
+      "id": "ca_20260727_04",
+      "question": "Who has been appointed as the chairperson of the high-powered, multi-disciplinary task force constituted by the Prime Minister in July 2026 to overhaul the National Testing Agency (NTA) and recommend structural and technological exam reforms?",
       "options": [
-        "France",
-        "Spain",
-        "Germany",
-        "Brazil"
+        "S. Somanath",
+        "Nandan Nilekani",
+        "V. Kamakoti",
+        "Anita Karwal"
       ],
       "correctAnswer": 1,
-      "explanation": "Spain clinched their second FIFA World Cup title by defeating defending champions Argentina 1-0 in the final held at the New York New Jersey Stadium in July 2026. Forward Ferran Torres scored the decisive goal in the 106th minute of extra time. With this victory, Spain achieved the rare milestone of holding both the Men's and Women's FIFA World Cup titles simultaneously.",
-      "category": "Sports",
-      "difficulty": "easy",
-      "sourceUrl": "https://www.drishtiias.com/statepcs/20-07-2026/maharashtra"
-    },
-    {
-      "id": "ca_20260726_04",
-      "question": "In July 2026, which airport in Maharashtra was notified as a designated port of entry for the import of drugs under the Drugs Rules, 1945, by the Ministry of Health and Family Welfare?",
-      "options": [
-        "Chhatrapati Shivaji Maharaj International Airport, Mumbai",
-        "Dr. Babasaheb Ambedkar International Airport, Nagpur",
-        "Navi Mumbai International Airport",
-        "Pune International Airport"
-      ],
-      "correctAnswer": 2,
-      "explanation": "The Ministry of Health and Family Welfare notified the Navi Mumbai Airport as a designated port of entry for the import of drugs under the Drugs Rules, 1945. The government amended Rule 43A of the Drugs Rules, 1945 to facilitate smoother logistical movement and improve pharmaceutical trade. This inclusion raises the total number of designated ports of entry for drug imports across India to 42.",
-      "category": "Maharashtra",
-      "difficulty": "medium",
-      "sourceUrl": "https://www.drishtiias.com/statepcs/10-07-2026/maharashtra"
-    },
-    {
-      "id": "ca_20260726_05",
-      "question": "The Union Cabinet in July 2026 approved the 'BHAVYA Rasayan' scheme to promote the chemical industry value chain. What is the total financial outlay approved for this scheme over its five-year implementation period?",
-      "options": [
-        "₹1,530 crore",
-        "₹2,030 crore",
-        "₹3,030 crore",
-        "₹4,030 crore"
-      ],
-      "correctAnswer": 2,
-      "explanation": "The Union Cabinet approved the Bharat Audyogik Vikas Yojana Rasayan (BHAVYA Rasayan) scheme with a total financial outlay of ₹3,030 crore to establish three dedicated chemical parks. Implementing from FY 2026-27 to FY 2030-31, the scheme allocates ₹3,000 crore for common infrastructure facilities and ₹30 crore for administrative expenses. The Centre will offer up to ₹1,000 crore in financial assistance per park, requiring a minimum state contribution of ₹500 crore.",
-      "category": "Economy",
-      "difficulty": "medium",
-      "sourceUrl": "https://vajiramandravi.com/current-affairs/upsc-prelims-current-affairs/2026/07/25/"
-    },
-    {
-      "id": "ca_20260726_06",
-      "question": "Bornadi Wildlife Sanctuary, which was recently in the news after camera-trap evidence confirmed the return of the Asiatic wild dog (Dhole), is located in which Indian state?",
-      "options": [
-        "Arunachal Pradesh",
-        "Assam",
-        "Meghalaya",
-        "Tripura"
-      ],
-      "correctAnswer": 1,
-      "explanation": "Camera-trap evidence recently confirmed the return of the endangered Asiatic wild dog (Dhole) to Bornadi Wildlife Sanctuary, located in the Udalguri and Baksa districts of Assam. Established in 1980, the sanctuary is situated on the eastern Himalayan foothills along the India-Bhutan international border. It was originally created to protect flagship species like the pygmy hog and hispid hare, and is bounded by the Bornadi and Nalapara rivers.",
-      "category": "Environment",
-      "difficulty": "medium",
-      "sourceUrl": "https://vajiramandravi.com/current-affairs/upsc-prelims-current-affairs/2026/07/25/"
-    },
-    {
-      "id": "ca_20260726_07",
-      "question": "SVEP, which supported 4.32 lakh rural enterprises across India by June 2026, is implemented as a sub-scheme of which major national program?",
-      "options": [
-        "Deendayal Antyodaya Yojana – National Rural Livelihoods Mission (DAY-NRLM)",
-        "PM Formalisation of Micro Food Processing Enterprises (PMFME)",
-        "Mahatma Gandhi National Rural Employment Guarantee Scheme (MGNREGS)",
-        "National Urban Livelihoods Mission (NULM)"
-      ],
-      "correctAnswer": 0,
-      "explanation": "The Start-up Village Entrepreneurship Programme (SVEP) was launched in 2016 as a sub-scheme of the Deendayal Antyodaya Yojana – National Rural Livelihoods Mission (DAY-NRLM). It aims to stimulate rural economic growth and reduce poverty by helping Self-Help Groups (SHGs) and their family members establish non-farm enterprises. By June 2026, SVEP had successfully supported over 4.32 lakh rural enterprises across the country with financing and business training.",
+      "explanation": "Prime Minister Narendra Modi constituted a high-powered task force chaired by tech pioneer Nandan Nilekani, Infosys co-founder and former UIDAI chairman, to reform the National Testing Agency (NTA) following controversy over public examinations. The panel also includes former ISRO Chairman S. Somanath, IB Director Tapan Deka, and IIT Madras Director V. Kamakoti.",
       "category": "Polity",
       "difficulty": "medium",
-      "sourceUrl": "https://vajiramandravi.com/current-affairs/upsc-prelims-current-affairs/2026/07/25/"
+      "sourceUrl": "https://www.thehindu.com/news/national/pm-modi-announces-task-force-for-exam-reforms-nandan-nilekani-to-lead/article71269731.ece"
     },
     {
-      "id": "ca_20260726_08",
-      "question": "Which state secured the top rank in NITI Aayog's first-ever Investment Friendliness Index (IFI) 2026 released in July 2026?",
+      "id": "ca_20260727_05",
+      "question": "The 'Corporate Mitra' scheme, which was in the news in July 2026, is an initiative of which Union Ministry to train certified para-professionals to provide affordable business compliance, accounting, and advisory support services to MSMEs?",
       "options": [
-        "Maharashtra",
-        "Gujarat",
-        "Tamil Nadu",
-        "Karnataka"
+        "Ministry of Micro, Small and Medium Enterprises (MSME)",
+        "Ministry of Corporate Affairs",
+        "Ministry of Finance",
+        "Ministry of Skill Development and Entrepreneurship"
       ],
       "correctAnswer": 1,
-      "explanation": "Gujarat secured the top rank in NITI Aayog's first-ever Investment Friendliness Index (IFI) 2026 among the 'Large States' category, followed by Maharashtra and Tamil Nadu. The index is designed as a structural tool with 84 indicators across 8 distinct pillars to drive competitive and cooperative federalism. The Infrastructure pillar holds the highest weightage at 25% in the index methodology to highlight its critical role in capital attraction.",
+      "explanation": "The Corporate Mitra Scheme is a central initiative of the Ministry of Corporate Affairs, implemented by the Indian Institute of Corporate Affairs (IICA). The scheme aims to create a certified cadre of trusted para-professionals ('Corporate Mitras') to provide affordable regulatory compliance, GST, accounting, and advisory services to MSMEs in Tier-2 and Tier-3 cities.",
       "category": "Economy",
       "difficulty": "medium",
-      "sourceUrl": "https://www.drishtiias.com/statepcs/20-07-2026/maharashtra"
+      "sourceUrl": "https://www.insightsonindia.com/2026/07/27/the-corporate-mitra-scheme/"
     },
     {
-      "id": "ca_20260726_09",
-      "question": "Scientists have discovered a new species of macronarian, long-necked dinosaur named 'Ceratocaudia antiqua' dating back to the Jurassic period. In which region of India was this fossil excavated?",
+      "id": "ca_20260727_06",
+      "question": "In July 2026, Maharashtra Chief Minister Devendra Fadnavis officially launched a state-backed cooperative, driver-owned mobility service to provide a transparent, secure, and affordable transit option. What is the name of this public mobility service?",
       "options": [
-        "Kutch district, Gujarat",
-        "Chandrapur district, Maharashtra",
-        "Lahaul and Spiti, Himachal Pradesh",
-        "Udalguri district, Assam"
-      ],
-      "correctAnswer": 0,
-      "explanation": "The fossil of 'Ceratocaudia antiqua', a new species of long-necked macronarian dinosaur from the Jurassic period, was discovered in the Kaladongar Formation of the Kachchh Basin in the Kutch district of Gujarat. Living roughly 170 to 180 million years ago, this dinosaur was about seven meters long and is distinguished by a unique, curved horn-like crest atop its front tailbones. It represents one of the earliest known macronarian dinosaur species discovered globally.",
-      "category": "Science & Tech",
-      "difficulty": "hard",
-      "sourceUrl": "https://vajiramandravi.com/current-affairs/upsc-prelims-current-affairs/2026/07/25/"
-    },
-    {
-      "id": "ca_20260726_10",
-      "question": "According to the State of Food Security and Nutrition in the World (SOFI) 2026 Report, the share of undernourished Indians declined significantly over the past two decades. What was the undernourishment rate in India during the 2023-2025 period?",
-      "options": [
-        "21.1%",
-        "14.5%",
-        "9.8%",
-        "7.8%"
+        "Shivneri Cab",
+        "Lokmanya Taxi",
+        "Bharat Taxi",
+        "Maha Swari"
       ],
       "correctAnswer": 2,
-      "explanation": "The State of Food Security and Nutrition in the World (SOFI) 2026 Report, jointly produced by FAO, IFAD, UNICEF, WFP, and WHO, highlighted that the share of undernourished people in India more than halved over the past two decades. It declined from 21.1% in the 2004-2006 period to 9.8% in the 2023-2025 period. However, India's healthy-diet cost rose by nearly 48% since 2017, outpacing the cost rises seen in several other major global economies.",
+      "explanation": "Chief Minister Devendra Fadnavis launched the 'Bharat Taxi' service in Navi Mumbai. Operating as a state-backed cooperative model under the guidance of the Union Ministry of Cooperation, this service allows taxi drivers to act as direct co-owners and share dividends. Rates are fixed at ₹31 for the first 1.5 km and ₹21 per km thereafter to prevent dynamic surge pricing.",
+      "category": "Maharashtra",
+      "difficulty": "medium",
+      "sourceUrl": "https://www.drishtiias.com/state-pcs-current-affairs/maharashtra-launches-bharat-taxi-service-for-rural-and-urban-mobility"
+    },
+    {
+      "id": "ca_20260727_07",
+      "question": "In July 2026, the Maharashtra government granted administrative approval to build India's first Artificial Intelligence (AI)-powered bird sanctuary and Eco-Nature Park, with a budget of ₹45 crore, at which of the following locations?",
+      "options": [
+        "Mayureshwar Wildlife Sanctuary, Pune",
+        "Thane Creek Flamingo Sanctuary, Mumbai",
+        "Karnala Bird Sanctuary, Raigad",
+        "Jayakwadi Bird Sanctuary, Aurangabad"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The Maharashtra government approved a ₹45-crore Eco-Nature Park at the Thane Creek Flamingo Sanctuary (TCFS). The park will feature India's first AI-powered bird detection and monitoring centre, utilizing AI-based cameras and sound recognition systems to identify bird species, track migration patterns, and collect data along a 1.5 km stretch of the park.",
+      "category": "Environment",
+      "difficulty": "medium",
+      "sourceUrl": "https://www.drishtiias.com/daily-updates/daily-news-analysis/maharashtra-to-get-indias-1st-ai-powered-bird-sanctuary"
+    },
+    {
+      "id": "ca_20260727_08",
+      "question": "Which state became the first in India to introduce Artificial Intelligence (AI) as a mainstream school subject from Class I to Class XII, launched under the 'Sarbat.AI' project in July 2026?",
+      "options": [
+        "Kerala",
+        "Karnataka",
+        "Punjab",
+        "Tamil Nadu"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Punjab became the first state in India to introduce Artificial Intelligence (AI) as a mainstream core subject from Class I to XII under the 'Sarbat.AI' project. The Punjab School Education Board (PSEB) is rolling out the curriculum in a phased manner starting with Classes VIII-XII, using live online classes, a dedicated learning platform, and extensive teacher training.",
+      "category": "Science & Tech",
+      "difficulty": "medium",
+      "sourceUrl": "https://www.insightsonindia.com/2026/07/25/punjab-becomes-first-state-to-introduce-artificial-intelligence-as-mainstream-subject/"
+    },
+    {
+      "id": "ca_20260727_09",
+      "question": "At the Glasgow 2026 Commonwealth Games held in July 2026, who won India's first gold medal of the games in the women's 48kg weightlifting category with a dominant total lift of 190kg?",
+      "options": [
+        "Saikhom Mirabai Chanu",
+        "Bindyarani Devi",
+        "Harjinder Kaur",
+        "Punam Yadav"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Olympic silver medalist Saikhom Mirabai Chanu clinched India's first gold medal at the Glasgow 2026 Commonwealth Games in the women's 48kg weightlifting division. Chanu registered a dominant total lift of 190kg (85kg in snatch and 105kg in clean and jerk), successfully completing a golden treble by winning her third consecutive CWG gold medal (Gold Coast 2018, Birmingham 2022, Glasgow 2026).",
+      "category": "Sports",
+      "difficulty": "hard",
+      "sourceUrl": "https://www.drishtiias.com/state-pcs-current-affairs/mirabai-chanu-completes-golden-treble-at-glasgow-2026-commonwealth-games"
+    },
+    {
+      "id": "ca_20260727_10",
+      "question": "According to the 'Global Mining and Metals Water Dataset' report released by the International Council on Mining and Metals (ICMM) in July 2026, what percentage of global mining and metals facilities are exposed to at least one major physical water risk?",
+      "options": [
+        "38.2%",
+        "50.5%",
+        "65.7%",
+        "74.3%"
+      ],
+      "correctAnswer": 2,
+      "explanation": "The International Council on Mining and Metals (ICMM) released the Global Mining and Metals Water Dataset report, a cross-commodity analysis evaluating over 12,000 facilities across 148 countries. The report revealed that approximately 65.7% (nearly two-thirds) of mining and metals processing facilities worldwide face high physical water risk, while 38.2% operate in catchments experiencing high or extremely high baseline water stress.",
       "category": "International",
       "difficulty": "hard",
-      "sourceUrl": "https://vajiramandravi.com/current-affairs/upsc-prelims-current-affairs/2026/07/25/"
+      "sourceUrl": "https://www.insightsonindia.com/2026/07/25/the-global-mining-and-metals-water-dataset-report/"
     }
   ],
   "totalQuestions": 10,
