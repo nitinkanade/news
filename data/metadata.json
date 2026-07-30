@@ -5,6 +5,7 @@
     "currentAffairsTopicId": "current_affairs"
   },
   "availableDates": [
+    "2026-07-31",
     "2026-07-30",
     "2026-07-27",
     "2026-07-26",
@@ -19,7 +20,7 @@
   ],
   "dateRange": {
     "earliest": "2026-07-18",
-    "latest": "2026-07-30"
+    "latest": "2026-07-31"
   },
-  "totalArchivedQuizzes": 11
+  "totalArchivedQuizzes": 12
 }
