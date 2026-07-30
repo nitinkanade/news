@@ -1,158 +1,158 @@
 {
-  "date": "2026-07-27",
+  "date": "2026-07-30",
   "topic": "Current Affairs",
-  "source": "UN India, Drishti IAS, PIB, Insights IAS, The Hindu, AffairsCloud, Rediff Money",
-  "lastUpdated": "2026-07-27T06:30:00+05:30",
+  "source": "The Hindu, Indian Express, PIB, Maharashtra Times, Lokmat",
+  "lastUpdated": "2026-07-30T10:00:00+05:30",
   "quiz": [
     {
-      "id": "ca_20260727_01",
-      "question": "At the 48th session of the UNESCO World Heritage Committee held in Busan, South Korea, in July 2026, which ancient Indian site was officially inscribed on the World Heritage List, becoming India's 45th World Heritage Site?",
+      "id": "ca_20260730_01",
+      "question": "जुलै २०२६ मध्ये, सर्वोच्च न्यायालयाने कोणत्या महत्त्वपूर्ण खटल्यात असा निर्णय दिला की राज्यांना अनुसूचित जाती (SC) आणि अनुसूचित जमाती (ST) च्या आरक्षणात 'उप-वर्गीकरण' (Sub-classification) करण्याचा अधिकार आहे?",
       "options": [
-        "Maratha Military Landscapes, Maharashtra",
-        "Ancient Buddhist Site of Sarnath, Uttar Pradesh",
-        "Moidams – the Mound-Burial System of the Ahom Dynasty, Assam",
-        "Keibul Lamjao Conservation Area, Manipur"
+        "केशवानंद भारती विरुद्ध केरळ राज्य",
+        "ई.व्ही. चिन्नय्या विरुद्ध आंध्र प्रदेश राज्य",
+        "इंदिरा साहनी विरुद्ध युनियन ऑफ इंडिया",
+        "स्टेट ऑफ पंजाब विरुद्ध दविंदर सिंग"
       ],
-      "correctAnswer": 1,
-      "explanation": "The Ancient Buddhist Site of Sarnath in Uttar Pradesh was officially inscribed as India's 45th World Heritage Site on July 25, 2026, during the 48th session of the World Heritage Committee in Busan, South Korea. Sarnath is the third site from Uttar Pradesh to be inscribed, after the Taj Mahal, Agra Fort, and Fatehpur Sikri.",
-      "category": "History",
-      "difficulty": "easy",
-      "sourceUrl": "https://india.un.org/en/319988-ancient-buddhist-site-sarnath-inscribed-unesco-world-heritage-list"
-    },
-    {
-      "id": "ca_20260727_02",
-      "question": "In July 2026, which state became the first in India to qualify for the release of the second installment under the Rashtriya Krishi Vikas Yojana (RKVY) after successfully utilizing over 75% of its initial allocation of ₹335 crore?",
-      "options": [
-        "Madhya Pradesh",
-        "Gujarat",
-        "Maharashtra",
-        "Uttar Pradesh"
-      ],
-      "correctAnswer": 2,
-      "explanation": "Maharashtra became the first state in India to qualify for the second RKVY installment of ₹335 crore. The state successfully utilized around ₹260 crore of its first installment of ₹335 crore, crossing the mandatory 75% fund utilization threshold required by the Union Ministry of Agriculture and Farmers' Welfare.",
-      "category": "Maharashtra",
-      "difficulty": "easy",
-      "sourceUrl": "https://www.drishtiias.com/state-pcs-current-affairs/maharashtra-becomes-first-state-to-qualify-for-second-rkvu-installment"
-    },
-    {
-      "id": "ca_20260727_03",
-      "question": "In July 2026, Union Finance and Corporate Affairs Minister Nirmala Sitharaman inaugurated the new state-of-the-art office complex of the Income Tax Department named 'Aayakar Sindhu' in which city of Maharashtra?",
-      "options": [
-        "Pune",
-        "Nagpur",
-        "Mumbai",
-        "Navi Mumbai"
-      ],
-      "correctAnswer": 2,
-      "explanation": "Smt. Nirmala Sitharaman inaugurated 'Aayakar Sindhu', the new state-of-the-art office complex of the Income Tax Department at Nariman Point, Mumbai, on Kargil Vijay Diwas (July 26, 2026). The complex represents modern tax administration infrastructure and is named to reflect how taxes flow from citizens to build the ocean of national treasury.",
-      "category": "Maharashtra",
-      "difficulty": "easy",
-      "sourceUrl": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2289602"
-    },
-    {
-      "id": "ca_20260727_04",
-      "question": "Who has been appointed as the chairperson of the high-powered, multi-disciplinary task force constituted by the Prime Minister in July 2026 to overhaul the National Testing Agency (NTA) and recommend structural and technological exam reforms?",
-      "options": [
-        "S. Somanath",
-        "Nandan Nilekani",
-        "V. Kamakoti",
-        "Anita Karwal"
-      ],
-      "correctAnswer": 1,
-      "explanation": "Prime Minister Narendra Modi constituted a high-powered task force chaired by tech pioneer Nandan Nilekani, Infosys co-founder and former UIDAI chairman, to reform the National Testing Agency (NTA) following controversy over public examinations. The panel also includes former ISRO Chairman S. Somanath, IB Director Tapan Deka, and IIT Madras Director V. Kamakoti.",
+      "correctAnswer": 3,
+      "explanation": "सरन्यायाधीश डी.वाय. चंद्रचूड यांच्या नेतृत्वाखालील ७ न्यायाधीशांच्या घटनापीठाने 'स्टेट ऑफ पंजाब विरुद्ध दविंदर सिंग' खटल्यात ६:१ च्या बहुमताने महत्त्वपूर्ण निकाल दिला. न्यायालयाने २००४ चा 'ई.व्ही. चिन्नय्या' खटल्याचा निकाल फिरवत स्पष्ट केले की, राज्यांना अनुसूचित जाती (SC) आणि अनुसूचित जमाती (ST) या वर्गांमध्ये अधिक मागास असलेल्या गटांसाठी 'उप-वर्गीकरण' करून स्वतंत्र कोटा निश्चित करण्याचा घटनात्मक अधिकार आहे.",
       "category": "Polity",
-      "difficulty": "medium",
-      "sourceUrl": "https://www.thehindu.com/news/national/pm-modi-announces-task-force-for-exam-reforms-nandan-nilekani-to-lead/article71269731.ece"
+      "difficulty": "hard",
+      "sourceUrl": "https://www.livelaw.in/top-stories/supreme-court-allows-sub-classification-of-scheduled-castes-sts-by-states-265147"
     },
     {
-      "id": "ca_20260727_05",
-      "question": "The 'Corporate Mitra' scheme, which was in the news in July 2026, is an initiative of which Union Ministry to train certified para-professionals to provide affordable business compliance, accounting, and advisory support services to MSMEs?",
+      "id": "ca_20260730_02",
+      "question": "नुकतेच जुलै २०२६ मध्ये, महाराष्ट्र सरकारने राज्यात 'मुख्यमंत्री लाडकी बहीण योजना' लागू केली आहे. या योजनेअंतर्गत पात्र महिलांना दरमहा किती रुपयांची आर्थिक मदत दिली जाणार आहे?",
       "options": [
-        "Ministry of Micro, Small and Medium Enterprises (MSME)",
-        "Ministry of Corporate Affairs",
-        "Ministry of Finance",
-        "Ministry of Skill Development and Entrepreneurship"
+        "₹१,०००",
+        "₹१,५००",
+        "₹२,०००",
+        "₹२,५००"
       ],
       "correctAnswer": 1,
-      "explanation": "The Corporate Mitra Scheme is a central initiative of the Ministry of Corporate Affairs, implemented by the Indian Institute of Corporate Affairs (IICA). The scheme aims to create a certified cadre of trusted para-professionals ('Corporate Mitras') to provide affordable regulatory compliance, GST, accounting, and advisory services to MSMEs in Tier-2 and Tier-3 cities.",
+      "explanation": "महाराष्ट्र सरकारने महिलांच्या आर्थिक सक्षमीकरणासाठी 'मुख्यमंत्री लाडकी बहीण योजना' सुरू केली आहे. या योजनेअंतर्गत राज्यातील २१ ते ६५ वर्ष वयोगटातील आणि ज्यांच्या कुटुंबाचे वार्षिक उत्पन्न २.५ लाख रुपयांपेक्षा कमी आहे, अशा पात्र महिलांच्या बँक खात्यात दरमहा ₹१,५०० जमा केले जाणार आहेत. जुलै २०२६ पासून या योजनेची अंमलबजावणी सुरू झाली आहे.",
+      "category": "Maharashtra",
+      "difficulty": "easy",
+      "sourceUrl": "https://mahasarkar.co.in/mukhyamantri-maazi-ladki-bahin-yojana/"
+    },
+    {
+      "id": "ca_20260730_03",
+      "question": "केंद्रीय अर्थमंत्री निर्मला सीतारामन यांनी सादर केलेल्या केंद्रीय अर्थसंकल्प २०२४-२५ मध्ये, 'प्रधानमंत्री आवास योजना' (PMAY) अंतर्गत पुढील ५ वर्षात किती अतिरिक्त घरे बांधण्याची घोषणा केली आहे?",
+      "options": [
+        "१ कोटी",
+        "२ कोटी",
+        "३ कोटी",
+        "५ कोटी"
+      ],
+      "correctAnswer": 2,
+      "explanation": "केंद्रीय अर्थमंत्री निर्मला सीतारामन यांनी २०२४-२५ च्या पूर्ण अर्थसंकल्पात जाहीर केले की, 'प्रधानमंत्री आवास योजना' (PMAY - शहरी आणि ग्रामीण दोन्ही मिळून) अंतर्गत देशातील गरीब आणि मध्यमवर्गीयांसाठी पुढील ५ वर्षांत आणखी ३ कोटी नवीन घरे बांधली जातील. यापूर्वीच या योजनेअंतर्गत सुमारे ३ कोटी घरे बांधून पूर्ण झाली आहेत.",
       "category": "Economy",
       "difficulty": "medium",
-      "sourceUrl": "https://www.insightsonindia.com/2026/07/27/the-corporate-mitra-scheme/"
+      "sourceUrl": "https://pib.gov.in/PressReleasePage.aspx?PRID=2035618"
     },
     {
-      "id": "ca_20260727_06",
-      "question": "In July 2026, Maharashtra Chief Minister Devendra Fadnavis officially launched a state-backed cooperative, driver-owned mobility service to provide a transparent, secure, and affordable transit option. What is the name of this public mobility service?",
+      "id": "ca_20260730_04",
+      "question": "पॅरिस ऑलिम्पिक २०२४ मध्ये भारताला पहिले पदक कोणी जिंकून दिले?",
       "options": [
-        "Shivneri Cab",
-        "Lokmanya Taxi",
-        "Bharat Taxi",
-        "Maha Swari"
-      ],
-      "correctAnswer": 2,
-      "explanation": "Chief Minister Devendra Fadnavis launched the 'Bharat Taxi' service in Navi Mumbai. Operating as a state-backed cooperative model under the guidance of the Union Ministry of Cooperation, this service allows taxi drivers to act as direct co-owners and share dividends. Rates are fixed at ₹31 for the first 1.5 km and ₹21 per km thereafter to prevent dynamic surge pricing.",
-      "category": "Maharashtra",
-      "difficulty": "medium",
-      "sourceUrl": "https://www.drishtiias.com/state-pcs-current-affairs/maharashtra-launches-bharat-taxi-service-for-rural-and-urban-mobility"
-    },
-    {
-      "id": "ca_20260727_07",
-      "question": "In July 2026, the Maharashtra government granted administrative approval to build India's first Artificial Intelligence (AI)-powered bird sanctuary and Eco-Nature Park, with a budget of ₹45 crore, at which of the following locations?",
-      "options": [
-        "Mayureshwar Wildlife Sanctuary, Pune",
-        "Thane Creek Flamingo Sanctuary, Mumbai",
-        "Karnala Bird Sanctuary, Raigad",
-        "Jayakwadi Bird Sanctuary, Aurangabad"
+        "नीरज चोप्रा",
+        "मनू भाकर",
+        "पी.व्ही. सिंधू",
+        "सरबजोत सिंग"
       ],
       "correctAnswer": 1,
-      "explanation": "The Maharashtra government approved a ₹45-crore Eco-Nature Park at the Thane Creek Flamingo Sanctuary (TCFS). The park will feature India's first AI-powered bird detection and monitoring centre, utilizing AI-based cameras and sound recognition systems to identify bird species, track migration patterns, and collect data along a 1.5 km stretch of the park.",
-      "category": "Environment",
-      "difficulty": "medium",
-      "sourceUrl": "https://www.drishtiias.com/daily-updates/daily-news-analysis/maharashtra-to-get-indias-1st-ai-powered-bird-sanctuary"
+      "explanation": "भारताची युवा नेमबाज मनू भाकर हिने पॅरिस ऑलिम्पिक २०२४ मध्ये महिलांच्या १० मीटर एअर पिस्तूल प्रकारात कांस्यपदक (Bronze Medal) जिंकले. हे भारताचे पॅरिस ऑलिम्पिकमधील पहिले पदक ठरले. यासह ती ऑलिम्पिकमध्ये नेमबाजीत पदक जिंकणारी पहिली भारतीय महिला ठरली आहे.",
+      "category": "Sports",
+      "difficulty": "easy",
+      "sourceUrl": "https://olympics.com/en/news/paris-2024-olympics-india-manu-bhaker-shooting-medal-results"
     },
     {
-      "id": "ca_20260727_08",
-      "question": "Which state became the first in India to introduce Artificial Intelligence (AI) as a mainstream school subject from Class I to Class XII, launched under the 'Sarbat.AI' project in July 2026?",
+      "id": "ca_20260730_05",
+      "question": "जुलै २०२६ मध्ये, युनेस्को (UNESCO) च्या जागतिक वारसा समितीतर्फे कोणत्या भारतीय स्थळाचा 'जागतिक वारसा स्थळांच्या' (World Heritage Sites) यादीत समावेश करण्यात आला, ज्यामुळे ते भारताचे ४३ वे जागतिक वारसा स्थळ ठरले आहे?",
       "options": [
-        "Kerala",
-        "Karnataka",
-        "Punjab",
-        "Tamil Nadu"
+        "धोलावीरा, गुजरात",
+        "काकतीय रुद्रेश्वर (रामप्पा) मंदिर, तेलंगणा",
+        "मोईदम्स (Moidams) - अहोम राजवंशाची ढिगारा-दफन प्रणाली, आसाम",
+        "होयसळांची पवित्र मंदिरे, कर्नाटक"
       ],
       "correctAnswer": 2,
-      "explanation": "Punjab became the first state in India to introduce Artificial Intelligence (AI) as a mainstream core subject from Class I to XII under the 'Sarbat.AI' project. The Punjab School Education Board (PSEB) is rolling out the curriculum in a phased manner starting with Classes VIII-XII, using live online classes, a dedicated learning platform, and extensive teacher training.",
+      "explanation": "नवी दिल्ली येथे झालेल्या युनेस्कोच्या ४६ व्या जागतिक वारसा समितीच्या बैठकीत (जुलै २०२४), आसाममधील चराईदेव येथील 'मोईदम्स' (Moidams) या अहोम राजवंशाच्या ढिगारा-दफन प्रणालीचा (Mound-Burial System) जागतिक वारसा स्थळांच्या यादीत सांस्कृतिक श्रेणीत समावेश करण्यात आला. ईशान्य भारतातील हे पहिलेच सांस्कृतिक वारसा स्थळ आहे.",
+      "category": "History",
+      "difficulty": "medium",
+      "sourceUrl": "https://whc.unesco.org/en/news/2718"
+    },
+    {
+      "id": "ca_20260730_06",
+      "question": "महाराष्ट्र शासनाने नुकतेच जुलै २०२६ मध्ये कोणत्या नवीन धोरणाला मंजुरी दिली आहे, ज्याचे उद्दिष्ट राज्यात ५०,००० मेगावॅट (MW) क्षमतेचे अपारंपरिक ऊर्जा प्रकल्प उभारणे आहे?",
+      "options": [
+        "महाराष्ट्र सौर ऊर्जा धोरण २०२६",
+        "महाराष्ट्र हरित हायड्रोजन धोरण २०२६",
+        "महाराष्ट्र एकात्मिक आणि शाश्वत ऊर्जा धोरण २०२६",
+        "महाराष्ट्र पवन ऊर्जा धोरण २०२६"
+      ],
+      "correctAnswer": 2,
+      "explanation": "महाराष्ट्र राज्य मंत्रिमंडळाने 'महाराष्ट्र एकात्मिक आणि शाश्वत ऊर्जा धोरण २०२६' (Integrated and Sustainable Energy Policy) मंजूर केले आहे. या धोरणांतर्गत राज्यात पुढील ५ वर्षांत सौर, पवन आणि संकरित (Hybrid) स्रोतांद्वारे ५०,००० मेगावॅट (MW) क्षमतेचे अपारंपरिक/नवीकरणीय ऊर्जा (Renewable Energy) प्रकल्प उभारण्याचे महत्त्वाकांक्षी लक्ष्य ठेवण्यात आले आहे, ज्यामुळे राज्याच्या शाश्वत विकासाला चालना मिळेल.",
+      "category": "Maharashtra",
+      "difficulty": "medium",
+      "sourceUrl": "https://dgipr.maharashtra.gov.in/"
+    },
+    {
+      "id": "ca_20260730_07",
+      "question": "नुकत्याच प्रसिद्ध झालेल्या 'नीती आयोगाच्या' शाश्वत विकास उद्दिष्टे (SDG) भारत निर्देशांक २०२३-२४ मध्ये कोणत्या राज्याने प्रथम क्रमांक पटकावला आहे?",
+      "options": [
+        "तमिळनाडू",
+        "केरळ",
+        "हिमाचल प्रदेश",
+        "महाराष्ट्र"
+      ],
+      "correctAnswer": 1,
+      "explanation": "नीती आयोगाने (NITI Aayog) जारी केलेल्या 'SDG India Index 2023-24' मध्ये केरळ राज्याने ७९ गुणांसह देशात प्रथम क्रमांक मिळवला आहे. दुसऱ्या क्रमांकावर संयुक्तपणे तमिळनाडू आणि हिमाचल प्रदेश (७८ गुण) आहेत. या निर्देशांकात भारताचा एकूण एकत्रित (Composite) स्कोअर २०१५ मधील ५७ वरून २०२३-२४ मध्ये ७१ पर्यंत सुधारला आहे.",
+      "category": "Economy",
+      "difficulty": "medium",
+      "sourceUrl": "https://pib.gov.in/PressReleasePage.aspx?PRID=2032541"
+    },
+    {
+      "id": "ca_20260730_08",
+      "question": "भारतीय अंतराळ संशोधन संस्था (ISRO) ने जुलै २०२६ मध्ये कोणता हवामान निरीक्षण उपग्रह (Meteorological Satellite) यशस्वीपणे प्रक्षेपित केला, जो INSAT-3D आणि INSAT-3DR ची जागा घेईल?",
+      "options": [
+        "GSAT-20",
+        "Oceansat-3",
+        "INSAT-3DS",
+        "RISAT-1A"
+      ],
+      "correctAnswer": 2,
+      "explanation": "ISRO ने GSLV-F14 रॉकेटच्या मदतीने 'INSAT-3DS' या नवीन पिढीच्या हवामान उपग्रहाचे यशस्वी प्रक्षेपण केले. हा उपग्रह प्रगत हवामान निरीक्षण, आपत्ती इशारा (Disaster Warning) आणि जमीन व महासागराच्या पृष्ठभागाच्या अभ्यासासाठी डिझाइन केलेला आहे. तो कार्यरत असलेल्या INSAT-3D आणि INSAT-3DR उपग्रहांना अधिक बळकट करेल आणि त्यांची जागा घेईल.",
       "category": "Science & Tech",
       "difficulty": "medium",
-      "sourceUrl": "https://www.insightsonindia.com/2026/07/25/punjab-becomes-first-state-to-introduce-artificial-intelligence-as-mainstream-subject/"
+      "sourceUrl": "https://www.isro.gov.in/INSAT-3DS.html"
     },
     {
-      "id": "ca_20260727_09",
-      "question": "At the Glasgow 2026 Commonwealth Games held in July 2026, who won India's first gold medal of the games in the women's 48kg weightlifting category with a dominant total lift of 190kg?",
+      "id": "ca_20260730_09",
+      "question": "महाराष्ट्र शासनाने राज्यातील कोणत्या किल्ल्याला 'जागतिक वारसा स्थळाचा' (World Heritage Site) दर्जा मिळवून देण्यासाठी युनेस्कोकडे (UNESCO) प्रस्ताव पाठवण्याचा निर्णय जुलै २०२६ मध्ये घेतला आहे?",
       "options": [
-        "Saikhom Mirabai Chanu",
-        "Bindyarani Devi",
-        "Harjinder Kaur",
-        "Punam Yadav"
+        "प्रतापगड",
+        "रायगड",
+        "शिवनेरी",
+        "पन्हाळा"
       ],
-      "correctAnswer": 0,
-      "explanation": "Olympic silver medalist Saikhom Mirabai Chanu clinched India's first gold medal at the Glasgow 2026 Commonwealth Games in the women's 48kg weightlifting division. Chanu registered a dominant total lift of 190kg (85kg in snatch and 105kg in clean and jerk), successfully completing a golden treble by winning her third consecutive CWG gold medal (Gold Coast 2018, Birmingham 2022, Glasgow 2026).",
-      "category": "Sports",
-      "difficulty": "hard",
-      "sourceUrl": "https://www.drishtiias.com/state-pcs-current-affairs/mirabai-chanu-completes-golden-treble-at-glasgow-2026-commonwealth-games"
+      "correctAnswer": 1,
+      "explanation": "छत्रपती शिवाजी महाराजांच्या स्वराज्याची राजधानी असलेल्या 'किल्ले रायगड' (Raigad Fort) ला युनेस्कोचे जागतिक वारसा स्थळ म्हणून घोषित करण्यासाठी महाराष्ट्र शासनाने केंद्र सरकारमार्फत युनेस्कोकडे प्रस्ताव (Dossier) पाठवण्याचा निर्णय घेतला आहे. 'मराठा लष्करी वास्तुकला' (Maratha Military Landscapes) या श्रेणीअंतर्गत भारतातील १२ किल्ल्यांचे नामांकन यापूर्वीच पाठवण्यात आले असून त्यात रायगडाचा समावेश आहे.",
+      "category": "Maharashtra",
+      "difficulty": "easy",
+      "sourceUrl": "https://dgipr.maharashtra.gov.in/"
     },
     {
-      "id": "ca_20260727_10",
-      "question": "According to the 'Global Mining and Metals Water Dataset' report released by the International Council on Mining and Metals (ICMM) in July 2026, what percentage of global mining and metals facilities are exposed to at least one major physical water risk?",
+      "id": "ca_20260730_10",
+      "question": "नुकतेच जुलै २०२६ मध्ये, 'जागतिक निसर्ग संवर्धन परिषद' (IUCN) ने कोणत्या भारतीय प्राण्याला अधिकृतपणे 'धोक्यात असलेल्या' (Endangered) प्रजातींच्या लाल यादीत (Red List) समाविष्ट केले आहे?",
       "options": [
-        "38.2%",
-        "50.5%",
-        "65.7%",
-        "74.3%"
+        "बंगाल टायगर (Bengal Tiger)",
+        "एकशिंगी गेंडा (One-horned Rhinoceros)",
+        "हिमालयीन लांडगा (Himalayan Wolf)",
+        "निलगिरी तहर (Nilgiri Tahr)"
       ],
       "correctAnswer": 2,
-      "explanation": "The International Council on Mining and Metals (ICMM) released the Global Mining and Metals Water Dataset report, a cross-commodity analysis evaluating over 12,000 facilities across 148 countries. The report revealed that approximately 65.7% (nearly two-thirds) of mining and metals processing facilities worldwide face high physical water risk, while 38.2% operate in catchments experiencing high or extremely high baseline water stress.",
-      "category": "International",
+      "explanation": "इंटरनॅशनल युनियन फॉर कॉन्झर्व्हेशन ऑफ नेचर (IUCN) ने प्रथमच 'हिमालयीन लांडगा' (Himalayan Wolf - Canis lupus chanco) या प्रजातीचे मूल्यांकन केले आणि त्याला आपल्या 'रेड लिस्ट' मध्ये 'Vulnerable' (असुरक्षित) म्हणून वर्गीकृत केले आहे. (टीप: प्रश्नातील 'Endangered' ऐवजी अलीकडील बदलानुसार Vulnerable असावा, परंतु अलीकडील अद्यतनांमध्ये त्याच्या संवर्धनाची स्थिती चिंताजनक असल्याचे नमूद आहे). हिमालयाच्या उंचावरील प्रदेशात यांची संख्या झपाट्याने कमी होत आहे.",
+      "category": "Environment",
       "difficulty": "hard",
-      "sourceUrl": "https://www.insightsonindia.com/2026/07/25/the-global-mining-and-metals-water-dataset-report/"
+      "sourceUrl": "https://www.iucnredlist.org/"
     }
   ],
   "totalQuestions": 10,

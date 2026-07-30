@@ -1,0 +1,160 @@
+{
+  "date": "2026-07-27",
+  "topic": "Current Affairs",
+  "source": "UN India, Drishti IAS, PIB, Insights IAS, The Hindu, AffairsCloud, Rediff Money",
+  "lastUpdated": "2026-07-27T06:30:00+05:30",
+  "quiz": [
+    {
+      "id": "ca_20260727_01",
+      "question": "At the 48th session of the UNESCO World Heritage Committee held in Busan, South Korea, in July 2026, which ancient Indian site was officially inscribed on the World Heritage List, becoming India's 45th World Heritage Site?",
+      "options": [
+        "Maratha Military Landscapes, Maharashtra",
+        "Ancient Buddhist Site of Sarnath, Uttar Pradesh",
+        "Moidams – the Mound-Burial System of the Ahom Dynasty, Assam",
+        "Keibul Lamjao Conservation Area, Manipur"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The Ancient Buddhist Site of Sarnath in Uttar Pradesh was officially inscribed as India's 45th World Heritage Site on July 25, 2026, during the 48th session of the World Heritage Committee in Busan, South Korea. Sarnath is the third site from Uttar Pradesh to be inscribed, after the Taj Mahal, Agra Fort, and Fatehpur Sikri.",
+      "category": "History",
+      "difficulty": "easy",
+      "sourceUrl": "https://india.un.org/en/319988-ancient-buddhist-site-sarnath-inscribed-unesco-world-heritage-list"
+    },
+    {
+      "id": "ca_20260727_02",
+      "question": "In July 2026, which state became the first in India to qualify for the release of the second installment under the Rashtriya Krishi Vikas Yojana (RKVY) after successfully utilizing over 75% of its initial allocation of ₹335 crore?",
+      "options": [
+        "Madhya Pradesh",
+        "Gujarat",
+        "Maharashtra",
+        "Uttar Pradesh"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Maharashtra became the first state in India to qualify for the second RKVY installment of ₹335 crore. The state successfully utilized around ₹260 crore of its first installment of ₹335 crore, crossing the mandatory 75% fund utilization threshold required by the Union Ministry of Agriculture and Farmers' Welfare.",
+      "category": "Maharashtra",
+      "difficulty": "easy",
+      "sourceUrl": "https://www.drishtiias.com/state-pcs-current-affairs/maharashtra-becomes-first-state-to-qualify-for-second-rkvu-installment"
+    },
+    {
+      "id": "ca_20260727_03",
+      "question": "In July 2026, Union Finance and Corporate Affairs Minister Nirmala Sitharaman inaugurated the new state-of-the-art office complex of the Income Tax Department named 'Aayakar Sindhu' in which city of Maharashtra?",
+      "options": [
+        "Pune",
+        "Nagpur",
+        "Mumbai",
+        "Navi Mumbai"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Smt. Nirmala Sitharaman inaugurated 'Aayakar Sindhu', the new state-of-the-art office complex of the Income Tax Department at Nariman Point, Mumbai, on Kargil Vijay Diwas (July 26, 2026). The complex represents modern tax administration infrastructure and is named to reflect how taxes flow from citizens to build the ocean of national treasury.",
+      "category": "Maharashtra",
+      "difficulty": "easy",
+      "sourceUrl": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2289602"
+    },
+    {
+      "id": "ca_20260727_04",
+      "question": "Who has been appointed as the chairperson of the high-powered, multi-disciplinary task force constituted by the Prime Minister in July 2026 to overhaul the National Testing Agency (NTA) and recommend structural and technological exam reforms?",
+      "options": [
+        "S. Somanath",
+        "Nandan Nilekani",
+        "V. Kamakoti",
+        "Anita Karwal"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Prime Minister Narendra Modi constituted a high-powered task force chaired by tech pioneer Nandan Nilekani, Infosys co-founder and former UIDAI chairman, to reform the National Testing Agency (NTA) following controversy over public examinations. The panel also includes former ISRO Chairman S. Somanath, IB Director Tapan Deka, and IIT Madras Director V. Kamakoti.",
+      "category": "Polity",
+      "difficulty": "medium",
+      "sourceUrl": "https://www.thehindu.com/news/national/pm-modi-announces-task-force-for-exam-reforms-nandan-nilekani-to-lead/article71269731.ece"
+    },
+    {
+      "id": "ca_20260727_05",
+      "question": "The 'Corporate Mitra' scheme, which was in the news in July 2026, is an initiative of which Union Ministry to train certified para-professionals to provide affordable business compliance, accounting, and advisory support services to MSMEs?",
+      "options": [
+        "Ministry of Micro, Small and Medium Enterprises (MSME)",
+        "Ministry of Corporate Affairs",
+        "Ministry of Finance",
+        "Ministry of Skill Development and Entrepreneurship"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The Corporate Mitra Scheme is a central initiative of the Ministry of Corporate Affairs, implemented by the Indian Institute of Corporate Affairs (IICA). The scheme aims to create a certified cadre of trusted para-professionals ('Corporate Mitras') to provide affordable regulatory compliance, GST, accounting, and advisory services to MSMEs in Tier-2 and Tier-3 cities.",
+      "category": "Economy",
+      "difficulty": "medium",
+      "sourceUrl": "https://www.insightsonindia.com/2026/07/27/the-corporate-mitra-scheme/"
+    },
+    {
+      "id": "ca_20260727_06",
+      "question": "In July 2026, Maharashtra Chief Minister Devendra Fadnavis officially launched a state-backed cooperative, driver-owned mobility service to provide a transparent, secure, and affordable transit option. What is the name of this public mobility service?",
+      "options": [
+        "Shivneri Cab",
+        "Lokmanya Taxi",
+        "Bharat Taxi",
+        "Maha Swari"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Chief Minister Devendra Fadnavis launched the 'Bharat Taxi' service in Navi Mumbai. Operating as a state-backed cooperative model under the guidance of the Union Ministry of Cooperation, this service allows taxi drivers to act as direct co-owners and share dividends. Rates are fixed at ₹31 for the first 1.5 km and ₹21 per km thereafter to prevent dynamic surge pricing.",
+      "category": "Maharashtra",
+      "difficulty": "medium",
+      "sourceUrl": "https://www.drishtiias.com/state-pcs-current-affairs/maharashtra-launches-bharat-taxi-service-for-rural-and-urban-mobility"
+    },
+    {
+      "id": "ca_20260727_07",
+      "question": "In July 2026, the Maharashtra government granted administrative approval to build India's first Artificial Intelligence (AI)-powered bird sanctuary and Eco-Nature Park, with a budget of ₹45 crore, at which of the following locations?",
+      "options": [
+        "Mayureshwar Wildlife Sanctuary, Pune",
+        "Thane Creek Flamingo Sanctuary, Mumbai",
+        "Karnala Bird Sanctuary, Raigad",
+        "Jayakwadi Bird Sanctuary, Aurangabad"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The Maharashtra government approved a ₹45-crore Eco-Nature Park at the Thane Creek Flamingo Sanctuary (TCFS). The park will feature India's first AI-powered bird detection and monitoring centre, utilizing AI-based cameras and sound recognition systems to identify bird species, track migration patterns, and collect data along a 1.5 km stretch of the park.",
+      "category": "Environment",
+      "difficulty": "medium",
+      "sourceUrl": "https://www.drishtiias.com/daily-updates/daily-news-analysis/maharashtra-to-get-indias-1st-ai-powered-bird-sanctuary"
+    },
+    {
+      "id": "ca_20260727_08",
+      "question": "Which state became the first in India to introduce Artificial Intelligence (AI) as a mainstream school subject from Class I to Class XII, launched under the 'Sarbat.AI' project in July 2026?",
+      "options": [
+        "Kerala",
+        "Karnataka",
+        "Punjab",
+        "Tamil Nadu"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Punjab became the first state in India to introduce Artificial Intelligence (AI) as a mainstream core subject from Class I to XII under the 'Sarbat.AI' project. The Punjab School Education Board (PSEB) is rolling out the curriculum in a phased manner starting with Classes VIII-XII, using live online classes, a dedicated learning platform, and extensive teacher training.",
+      "category": "Science & Tech",
+      "difficulty": "medium",
+      "sourceUrl": "https://www.insightsonindia.com/2026/07/25/punjab-becomes-first-state-to-introduce-artificial-intelligence-as-mainstream-subject/"
+    },
+    {
+      "id": "ca_20260727_09",
+      "question": "At the Glasgow 2026 Commonwealth Games held in July 2026, who won India's first gold medal of the games in the women's 48kg weightlifting category with a dominant total lift of 190kg?",
+      "options": [
+        "Saikhom Mirabai Chanu",
+        "Bindyarani Devi",
+        "Harjinder Kaur",
+        "Punam Yadav"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Olympic silver medalist Saikhom Mirabai Chanu clinched India's first gold medal at the Glasgow 2026 Commonwealth Games in the women's 48kg weightlifting division. Chanu registered a dominant total lift of 190kg (85kg in snatch and 105kg in clean and jerk), successfully completing a golden treble by winning her third consecutive CWG gold medal (Gold Coast 2018, Birmingham 2022, Glasgow 2026).",
+      "category": "Sports",
+      "difficulty": "hard",
+      "sourceUrl": "https://www.drishtiias.com/state-pcs-current-affairs/mirabai-chanu-completes-golden-treble-at-glasgow-2026-commonwealth-games"
+    },
+    {
+      "id": "ca_20260727_10",
+      "question": "According to the 'Global Mining and Metals Water Dataset' report released by the International Council on Mining and Metals (ICMM) in July 2026, what percentage of global mining and metals facilities are exposed to at least one major physical water risk?",
+      "options": [
+        "38.2%",
+        "50.5%",
+        "65.7%",
+        "74.3%"
+      ],
+      "correctAnswer": 2,
+      "explanation": "The International Council on Mining and Metals (ICMM) released the Global Mining and Metals Water Dataset report, a cross-commodity analysis evaluating over 12,000 facilities across 148 countries. The report revealed that approximately 65.7% (nearly two-thirds) of mining and metals processing facilities worldwide face high physical water risk, while 38.2% operate in catchments experiencing high or extremely high baseline water stress.",
+      "category": "International",
+      "difficulty": "hard",
+      "sourceUrl": "https://www.insightsonindia.com/2026/07/25/the-global-mining-and-metals-water-dataset-report/"
+    }
+  ],
+  "totalQuestions": 10,
+  "version": 1
+}
