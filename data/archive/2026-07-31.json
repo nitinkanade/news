@@ -1,0 +1,160 @@
+{
+  "date": "2026-07-31",
+  "topic": "Current Affairs",
+  "source": "PIB, The Hindu, Indian Express, Maharashtra Times, Chronicle India",
+  "lastUpdated": "2026-07-31T09:00:00+05:30",
+  "quiz": [
+    {
+      "id": "ca_20260731_01",
+      "question": "महाराष्ट्र सरकारच्या 'मुख्यमंत्री रोजगार निर्मिती कार्यक्रम' (CMEGP) अंतर्गत कोणत्या वयोगटातील बेरोजगार तरुणांना व्यवसाय सुरू करण्यासाठी आर्थिक मदत दिली जाते?",
+      "options": [
+        "१८-३५ वर्षे",
+        "१८-४५ वर्षे",
+        "२१-५० वर्षे",
+        "२५-५५ वर्षे"
+      ],
+      "correctAnswer": 1,
+      "explanation": "महाराष्ट्र शासनाचा मुख्यमंत्री रोजगार निर्मिती कार्यक्रम (CMEGP) १८ ते ४५ वयोगटातील बेरोजगार तरुणांना नवीन उद्योग सुरू करण्यासाठी कर्ज आणि सबसिडी या स्वरूपात आर्थिक मदत प्रदान करतो.",
+      "category": "Maharashtra",
+      "difficulty": "easy",
+      "sourceUrl": "https://www.policybazaar.com/investment-plans/government-schemes/maharashtra/"
+    },
+    {
+      "id": "ca_20260731_02",
+      "question": "नुकतेच 'आयकर सिंधू' (Aayakar Sindhu) नावाचे आयकर विभागाचे नवीन कार्यालय संकुल (Office Complex) कोठे सुरू करण्यात आले आहे?",
+      "options": [
+        "पुणे",
+        "नागपूर",
+        "मुंबई",
+        "छत्रपती संभाजीनगर"
+      ],
+      "correctAnswer": 2,
+      "explanation": "मुंबईमध्ये आयकर विभागाच्या नवीन 'आयकर सिंधू' या कार्यालय संकुलाचे नुकतेच उद्घाटन करण्यात आले. हे संकुल अत्याधुनिक सोयीसुविधांनी युक्त असून करदात्यांना चांगल्या सेवा देण्यासाठी उभारण्यात आले आहे.",
+      "category": "Maharashtra",
+      "difficulty": "medium",
+      "sourceUrl": "https://www.chronicleindia.in/current-affairs/monthly/july-2026"
+    },
+    {
+      "id": "ca_20260731_03",
+      "question": "महाराष्ट्र शासनाच्या इंदिरा गांधी राष्ट्रीय दिव्यांग पेन्शन योजनेअंतर्गत, पेन्शन मिळवण्यासाठी लाभार्थ्याला किमान किती टक्के दिव्यांगत्व असणे आवश्यक आहे?",
+      "options": [
+        "४० टक्के",
+        "६० टक्के",
+        "८० टक्के",
+        "१०० टक्के"
+      ],
+      "correctAnswer": 2,
+      "explanation": "इंदिरा गांधी राष्ट्रीय दिव्यांग पेन्शन योजनेंतर्गत १८ वर्षांवरील आणि ८० टक्के किंवा त्याहून अधिक दिव्यांगत्व असलेल्या व्यक्तींना महाराष्ट्र सरकारतर्फे दरमहा पेन्शन दिले जाते.",
+      "category": "Maharashtra",
+      "difficulty": "medium",
+      "sourceUrl": "https://www.policybazaar.com/investment-plans/government-schemes/maharashtra/"
+    },
+    {
+      "id": "ca_20260731_04",
+      "question": "'कुशा' (Kusha) क्षेपणास्त्र प्रणालीबद्दल खालीलपैकी कोणते विधान योग्य आहे?",
+      "options": [
+        "हे एक बॅलेस्टिक क्षेपणास्त्र आहे.",
+        "ही भारताची लांब पल्ल्याची पृष्ठभागावरून हवेत मारा करणारी (LR-SAM) क्षेपणास्त्र प्रणाली आहे.",
+        "हे हवेतून हवेत मारा करणारे क्षेपणास्त्र आहे.",
+        "ही एक पाणबुडीविरोधी टॉर्पेडो प्रणाली आहे."
+      ],
+      "correctAnswer": 1,
+      "explanation": "'कुशा' (प्रोजेक्ट कुशा) ही संरक्षण संशोधन आणि विकास संस्थेने (DRDO) विकसित केलेली भारताची लांब पल्ल्याची पृष्ठभागावरून हवेत मारा करणारी (Long-Range Surface-to-Air Missile) प्रणाली आहे, जी हवाई धोक्यांपासून संरक्षण करेल.",
+      "category": "Science & Tech",
+      "difficulty": "medium",
+      "sourceUrl": "https://www.pmfias.com/current-affairs-july-26-2026/"
+    },
+    {
+      "id": "ca_20260731_05",
+      "question": "नुकतेच भारतीय संशोधकांनी 'बोरोफीन' (Borophene) वर आधारित एक नवीन जैव-वंगण (Bio-Lubricant) विकसित केले आहे. बोरोफीन हा खालीलपैकी कोणत्या मूलद्रव्याचा द्विमितीय (2D) रूप आहे?",
+      "options": [
+        "ब्रोमिन (Bromine)",
+        "बोरॉन (Boron)",
+        "बेरिलियम (Beryllium)",
+        "बिस्मथ (Bismuth)"
+      ],
+      "correctAnswer": 1,
+      "explanation": "बोरोफीन हे बोरॉन (Boron) या मूलद्रव्याचे एक द्विमितीय (2D) रूप आहे. अलीकडेच संशोधकांनी बोरोफीन आधारित जैव-वंगण विकसित केलेন্তে, जे पर्यावरणास अनुकूल असून यंत्रांमधील घर्षण कमी करण्यासाठी प्रभावी आहे.",
+      "category": "Science & Tech",
+      "difficulty": "hard",
+      "sourceUrl": "https://www.chronicleindia.in/current-affairs/monthly/july-2026"
+    },
+    {
+      "id": "ca_20260731_06",
+      "question": "नुकतीच १६ वी ब्रिक्स (BRICS) आरोग्य मंत्र्यांची बैठक कोठे संपन्न झाली?",
+      "options": [
+        "दक्षिण आफ्रिका",
+        "ब्राझील",
+        "रशिया",
+        "चीन"
+      ],
+      "correctAnswer": 2,
+      "explanation": "१६ वी ब्रिक्स (BRICS) आरोग्य मंत्र्यांची बैठक रशियामध्ये आयोजित करण्यात आली होती. यामध्ये सदस्य देशांच्या आरोग्य धोरणांवर आणि वैद्यकीय सहकार्यावर चर्चा करण्यात आली.",
+      "category": "International",
+      "difficulty": "medium",
+      "sourceUrl": "https://www.chronicleindia.in/current-affairs/monthly/july-2026"
+    },
+    {
+      "id": "ca_20260731_07",
+      "question": "२३ व्या राष्ट्रकुल क्रीडा स्पर्धा (Commonwealth Games) जुलै २०२६ मध्ये कोणत्या शहरात सुरू झाल्या आहेत?",
+      "options": [
+        "बर्मिंगहॅम",
+        "ग्लासगो",
+        "मेलबर्न",
+        "नवी दिल्ली"
+      ],
+      "correctAnswer": 1,
+      "explanation": "२३ व्या राष्ट्रकुल क्रीडा स्पर्धा (Commonwealth Games २०२६) स्कॉटलंडमधील ग्लासगो शहरात सुरू झाल्या आहेत. यामध्ये जगभरातील अनेक देश सहभागी होत आहेत.",
+      "category": "Sports",
+      "difficulty": "easy",
+      "sourceUrl": "https://www.chronicleindia.in/current-affairs/monthly/july-2026"
+    },
+    {
+      "id": "ca_20260731_08",
+      "question": "'InvenTree-meta' हा नुकताच लाँच झालेला डेटाबेस खालीलपैकी कशाशी संबंधित आहे?",
+      "options": [
+        "वाघ आणि बिबट्यांच्या प्रजाती",
+        "सागरी जैवविविधता",
+        "जंगलातील वृक्षांच्या प्रजातींचे जतन",
+        "हवामान बदलाचा अंदाज"
+      ],
+      "correctAnswer": 2,
+      "explanation": "'InvenTree-meta' हा एक नवीन फॉरेस्ट डेटाबेस आहे, ज्याचा उद्देश जंगलातील वृक्षांच्या प्रजातींची नोंदणी, जतन आणि त्यांच्या डेटाचे संकलन करणे हा आहे.",
+      "category": "Environment",
+      "difficulty": "hard",
+      "sourceUrl": "https://www.chronicleindia.in/current-affairs/monthly/july-2026"
+    },
+    {
+      "id": "ca_20260731_09",
+      "question": "प्राथमिक शाळांमधील शिक्षणाचा दर्जा सुधारण्यासाठी आणि डिजिटल साक्षरता वाढवण्यासाठी नुकताच कोणता उपक्रम सुरू करण्यात आला आहे?",
+      "options": [
+        "डिजिटल इंडिया",
+        "डिजिटल स्क्वेअर (Digital Square)",
+        "ई-विद्या",
+        "ज्ञानदीप"
+      ],
+      "correctAnswer": 1,
+      "explanation": "'डिजिटल स्क्वेअर' (Digital Square) उपक्रम प्राथमिक शाळांमधील विद्यार्थ्यांमध्ये डिजिटल साक्षरता आणि तंत्रज्ञानाचा वापर वाढवण्यासाठी सुरू करण्यात आला आहे.",
+      "category": "Miscellaneous",
+      "difficulty": "easy",
+      "sourceUrl": "https://www.chronicleindia.in/current-affairs/monthly/july-2026"
+    },
+    {
+      "id": "ca_20260731_10",
+      "question": "परीक्षांमधील गैरप्रकार रोखण्यासाठी आणि अँटी-पेपर लीक (Anti-Paper Leak) कायदा अधिक कडक करण्यासाठी कोणत्या संस्थेने/मंत्रिमंडळाने नुकतेच विधेयक मंजूर केले आहे?",
+      "options": [
+        "केंद्रीय मंत्रिमंडळ (Union Cabinet)",
+        "सर्वोच्च न्यायालय",
+        "निवडणूक आयोग",
+        "विद्यापीठ अनुदान आयोग (UGC)"
+      ],
+      "correctAnswer": 0,
+      "explanation": "अलीकडच्या काळातील परीक्षांमधील पेपरफुटीच्या घटना लक्षात घेता, केंद्रीय मंत्रिमंडळाने (Union Cabinet) परीक्षांमधील गैरप्रकार रोखण्यासाठी आणि अँटी-पेपर लीक कायदा अधिक कडक करण्यासाठी नवीन विधेयक मंजूर केले आहे.",
+      "category": "Polity",
+      "difficulty": "medium",
+      "sourceUrl": "https://www.chronicleindia.in/current-affairs/monthly/july-2026"
+    }
+  ],
+  "totalQuestions": 10,
+  "version": 1
+}
