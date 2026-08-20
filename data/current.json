@@ -1,158 +1,158 @@
 {
-  "date": "2026-08-18",
+  "date": "2026-08-20",
   "topic": "Current Affairs",
-  "source": "Drishti IAS, PMF IAS, Next IAS",
-  "lastUpdated": "2026-08-20T01:42:41+05:30",
+  "source": "AffairsCloud, PIB",
+  "lastUpdated": "2026-08-21T10:00:00+05:30",
   "quiz": [
     {
-      "id": "ca_20260818_01",
-      "question": "नुकतेच भारताने कोणत्या शहरात 'BRICS ICT Track' चे आयोजन करण्याची घोषणा केली आहे?",
+      "id": "ca_20260820_01",
+      "question": "नुकतेच ICID ने कोणत्या राज्यातील 'आष्टी मध्यम प्रकल्प' (Ashti Medium Project) ला 'वर्ल्ड हेरिटेज इरिगेशन स्ट्रक्चर' (WHIS) म्हणून मान्यता दिली आहे?",
       "options": [
-        "मुंबई",
-        "पुणे",
-        "नागपूर",
-        "नाशिक"
+        "मध्य प्रदेश",
+        "महाराष्ट्र",
+        "उत्तर प्रदेश",
+        "राजस्थान"
       ],
       "correctAnswer": 1,
-      "explanation": "भारताच्या २०२६ च्या ब्रिक्स (BRICS) अध्यक्षपदाचा एक भाग म्हणून, दूरसंचार विभाग (DoT) ऑगस्ट २०२६ मध्ये पुण्यात 'BRICS ICT Track' चे आयोजन करणार आहे. याची थीम 'Innovate, Cooperate and Transform (ICT) for a Resilient Future' अशी आहे.",
+      "explanation": "इंटरनॅशनल कमिशन ऑन इरिगेशन अँड ड्रेनेज (ICID) ने महाराष्ट्रातील 'आष्टी मध्यम प्रकल्प', उत्तर प्रदेशातील परीछा विअर, राजस्थानमधील छापरा धरण आणि तामिळनाडूतील पेचीपराई धरण यांना WHIS पुरस्कार 2026 साठी निवडले आहे.",
       "category": "Maharashtra",
+      "difficulty": "medium",
+      "sourceUrl": "https://affairscloud.com/current-affairs-20-august-2026/"
+    },
+    {
+      "id": "ca_20260820_02",
+      "question": "कोणत्या संस्थेला राष्ट्रीय खेळ प्रोत्साहन पुरस्कार 2025 ने सन्मानित करण्यात आले आहे?",
+      "options": [
+        "टाटा स्टील स्पोर्ट्स फाऊंडेशन",
+        "आर्मी पॅरालिम्पिक नोड, पुणे",
+        "रिलायन्स फाऊंडेशन",
+        "जेएसडब्ल्यू स्पोर्ट्स"
+      ],
+      "correctAnswer": 1,
+      "explanation": "पुण्यातील (महाराष्ट्र) 'आर्मी पॅरालिम्पिक नोड' (Army Paralympic Node) ला क्रीडा विकासाला चालना देण्यासाठी आणि पॅरा-अॅथलीट्सना पाठिंबा दिल्याबद्दल राष्ट्रीय खेळ प्रोत्साहन पुरस्कार 2025 ने सन्मानित करण्यात आले.",
+      "category": "Maharashtra",
+      "difficulty": "medium",
+      "sourceUrl": "https://affairscloud.com/current-affairs-20-august-2026/"
+    },
+    {
+      "id": "ca_20260820_03",
+      "question": "केंद्र सरकारने देशांतर्गत पीएनजी (PNG) जोडण्यांना प्रोत्साहन देण्यासाठी कोणती योजना मंजूर केली आहे?",
+      "options": [
+        "उज्ज्वला योजना 2.0",
+        "पीएनजी प्रोत्साहन योजना",
+        "स्वच्छ इंधन योजना",
+        "हरित ऊर्जा मिशन"
+      ],
+      "correctAnswer": 1,
+      "explanation": "केंद्र सरकारने 1 सप्टेंबर 2026 पासून लागू होणाऱ्या देशांतर्गत पाइप्ड नॅचरल गॅस (PNG) जोडण्यांना प्रोत्साहन देण्यासाठी (Incentive Scheme for Promotion of Domestic PNG Connections) योजना मंजूर केली आहे.",
+      "category": "Economy",
       "difficulty": "easy",
-      "sourceUrl": "https://www.drishtiias.com/statepcs/18-08-2026/maharashtra"
+      "sourceUrl": "https://affairscloud.com/current-affairs-20-august-2026/"
     },
     {
-      "id": "ca_20260818_02",
-      "question": "नुकतेच १९४६ च्या 'रॉयल इंडियन नेव्ही' (Royal Indian Navy - RIN) बंडाला ८० वर्षे पूर्ण झाली. हे बंड कोणत्या जहाजावरील नाविकांनी (ratings) सुरू केले होते?",
+      "id": "ca_20260820_04",
+      "question": "कोणत्या मंत्रालयाने 'इलेक्ट्रॉनिक्स कंपोनेंट्स मॅन्युफॅक्चरिंग स्कीम' (ECMS) अंतर्गत 31 नवीन प्रकल्पांना मंजुरी दिली आहे?",
       "options": [
-        "HMIS तलवार (Talwar)",
-        "HMIS बॉम्बे (Bombay)",
-        "HMIS हिंदुस्थान (Hindustan)",
-        "HMIS बंगाल (Bengal)"
+        "वाणिज्य आणि उद्योग मंत्रालय",
+        "इलेक्ट्रॉनिक्स आणि माहिती तंत्रज्ञान मंत्रालय (MeitY)",
+        "सूक्ष्म, लघु आणि मध्यम उद्योग मंत्रालय",
+        "विज्ञान आणि तंत्रज्ञान मंत्रालय"
+      ],
+      "correctAnswer": 1,
+      "explanation": "MeitY ने ECMS अंतर्गत 7,877 कोटी रुपयांच्या 31 नवीन प्रस्तावांना मंजुरी दिली आहे. यामुळे मंजूर प्रकल्पांची एकूण संख्या 106 झाली आहे.",
+      "category": "Economy",
+      "difficulty": "medium",
+      "sourceUrl": "https://affairscloud.com/current-affairs-20-august-2026/"
+    },
+    {
+      "id": "ca_20260820_05",
+      "question": "संरक्षण मंत्रालयाने 6 व्या 'पॉझिटिव्ह इंडिजिनिझेशन लिस्ट' (PIL) मध्ये किती धोरणात्मक वस्तूंचा समावेश केला आहे?",
+      "options": [
+        "305",
+        "405",
+        "505",
+        "205"
+      ],
+      "correctAnswer": 1,
+      "explanation": "संरक्षण मंत्रालयाने (MoD) 6 व्या पॉझिटिव्ह इंडिजिनिझेशन लिस्ट (PIL) अधिसूचित केली आहे, ज्यामध्ये संरक्षण सार्वजनिक क्षेत्रातील उपक्रमांच्या (DPSUs) 389 वस्तू आणि भारतीय तटरक्षक दलाच्या (ICG) 16 वस्तूंसह 405 संरक्षण वस्तूंचा समावेश आहे.",
+      "category": "Science & Tech",
+      "difficulty": "hard",
+      "sourceUrl": "https://affairscloud.com/current-affairs-20-august-2026/"
+    },
+    {
+      "id": "ca_20260820_06",
+      "question": "भारत आणि कोणत्या देशादरम्यान 'मैत्री-XV' (MAITREE-XV) संयुक्त लष्करी सराव आयोजित केला जात आहे?",
+      "options": [
+        "थायलंड",
+        "इंडोनेशिया",
+        "मलेशिया",
+        "सिंगापूर"
       ],
       "correctAnswer": 0,
-      "explanation": "१८ फेब्रुवारी १९४६ रोजी, बॉम्बे (मुंबई) मधील HMIS तलवार वरील नाविकांनी (ratings) ब्रिटिश अधिकाऱ्यांच्या भेदभावाविरुद्ध आणि निकृष्ट सेवेच्या अटींविरुद्ध संप पुकारला, ज्याचे रुपांतर मोठ्या बंडात झाले.",
-      "category": "Maharashtra",
-      "difficulty": "medium",
-      "sourceUrl": "https://www.pmfias.com/current-affairs-august-18-2026/"
-    },
-    {
-      "id": "ca_20260818_03",
-      "question": "नॅशनल सेंटर फॉर कोस्टल रिसर्च (NCCR) च्या अभ्यासानुसार, भारतातील कोणत्या राज्याच्या किनारपट्टीची सर्वाधिक धूप (Coastal Erosion) झाली आहे?",
-      "options": [
-        "ओडिशा",
-        "पश्चिम बंगाल",
-        "केरळ",
-        "तमिळनाडू"
-      ],
-      "correctAnswer": 1,
-      "explanation": "NCCR च्या अहवालानुसार, पश्चिम बंगालमध्ये भारतातील सर्वाधिक किनारपट्टीची धूप झाली आहे (६०% पेक्षा जास्त), त्यापाठोपाठ पुडुचेरी (५६.२%), केरळ आणि तमिळनाडू (४०% पेक्षा जास्त) यांचा क्रमांक लागतो.",
-      "category": "Geography",
-      "difficulty": "medium",
-      "sourceUrl": "https://www.pmfias.com/current-affairs-august-18-2026/"
-    },
-    {
-      "id": "ca_20260818_04",
-      "question": "केंद्र सरकारने कोणत्या योजनेअंतर्गत चंदीगड आणि दादरा आणि नगर हवेलीमध्ये 'सेंट्रल बँक डिजिटल करन्सी' (CBDC) आधारित 'थेट लाभ हस्तांतरण' (DBT) सुरू केले आहे?",
-      "options": [
-        "पंतप्रधान किसान सन्मान निधी (PM-KISAN)",
-        "पंतप्रधान गरीब कल्याण अन्न योजना (PM-GKAY)",
-        "महात्मा गांधी राष्ट्रीय ग्रामीण रोजगार हमी कायदा (MGNREGA)",
-        "पंतप्रधान आवास योजना (PMAY)"
-      ],
-      "correctAnswer": 1,
-      "explanation": "भारत सरकारने अन्न अनुदानासाठी बँक खात्यातील कल्याणकारी हस्तांतरणांचे रूपांतर उद्देश-बद्ध (purpose-bound) डिजिटल रुपी (e₹) टोकनमध्ये करण्यासाठी PM-GKAY अंतर्गत CBDC-आधारित DBT सुरू केले आहे.",
-      "category": "Economy",
-      "difficulty": "hard",
-      "sourceUrl": "https://www.pmfias.com/current-affairs-august-18-2026/"
-    },
-    {
-      "id": "ca_20260818_05",
-      "question": "नुकतेच मंगोलिया (Ulaanbaatar) मध्ये UNCCD COP17 दरम्यान, भारताने कोणत्या परिसंस्थेबाबत आपले पहिले मार्गदर्शक तत्त्व (Guide) लाँच केले?",
-      "options": [
-        "खारफुटी वने (Mangrove Forests)",
-        "गवताळ प्रदेश आणि इतर मुक्त नैसर्गिक परिसंस्था (Grasslands and Other Open Natural Ecosystems)",
-        "प्रवाळ भित्तिका (Coral Reefs)",
-        "उष्णकटिबंधीय पर्जन्यवने (Tropical Rainforests)"
-      ],
-      "correctAnswer": 1,
-      "explanation": "MoEFCC च्या नेतृत्वाखाली, भारताने UNCCD COP17 मध्ये गवताळ प्रदेश आणि इतर मुक्त नैसर्गिक परिसंस्था (ONEs) वरील पहिले मार्गदर्शक तत्त्व लाँच केले, जे भारताच्या भौगोलिक क्षेत्राच्या १०% पेक्षा जास्त भाग व्यापतात.",
-      "category": "Environment",
-      "difficulty": "medium",
-      "sourceUrl": "https://www.pmfias.com/current-affairs-august-18-2026/"
-    },
-    {
-      "id": "ca_20260818_06",
-      "question": "नुकतीच इराणच्या किनाऱ्यावर झालेल्या तेल गळतीमुळे (Oil Spill) धोक्यात आलेली 'हरा खारफुटी वने' (Hara Mangrove Forests) प्रामुख्याने कोणत्या भागात आढळतात?",
-      "options": [
-        "ओमानचे आखात (Gulf of Oman)",
-        "हॉर्मुझची सामुद्रधुनी (Strait of Hormuz)",
-        "एडनचे आखात (Gulf of Aden)",
-        "कच्छचे आखात (Gulf of Kutch)"
-      ],
-      "correctAnswer": 1,
-      "explanation": "इराणच्या दक्षिण किनाऱ्यावर, प्रामुख्याने हॉर्मुझच्या सामुद्रधुनीतील केश्म (Qeshm) बेटाभोवती 'हरा खारफुटी वने' आढळतात. हे एक युनेस्को (UNESCO) बायोस्फीअर रिझर्व्ह आहे.",
-      "category": "Geography",
-      "difficulty": "medium",
-      "sourceUrl": "https://www.pmfias.com/current-affairs-august-18-2026/"
-    },
-    {
-      "id": "ca_20260818_07",
-      "question": "'ग्रीनिअम' (Greenium) या शब्दाचा अर्थ काय आहे, जो नुकताच भारताच्या 'सॉव्हरिन ग्रीन बाँड्स' (Sovereign Green Bonds) च्या संदर्भात चर्चेत होता?",
-      "options": [
-        "ग्रीन बाँड्सवरील कर सवलत",
-        "गुंतवणूकदारांनी ग्रीन बाँडवर पारंपरिक बाँडपेक्षा कमी परतावा (yield) स्वीकारण्याची तयारी",
-        "ग्रीन प्रकल्पांसाठी सरकारद्वारे दिले जाणारे जास्तीचे व्याज",
-        "केवळ विदेशी गुंतवणूकदारांसाठी जारी केलेले बाँड्स"
-      ],
-      "correctAnswer": 1,
-      "explanation": "ग्रीनिअम (Greenium = Green + Premium) म्हणजे अशी स्थिती जिथे गुंतवणूकदार पर्यावरणपूरक प्रकल्पांसाठी असलेल्या ग्रीन बाँडवर, तशाच पारंपरिक सरकारी बाँडच्या तुलनेत कमी परतावा (yield) स्वीकारण्यास तयार असतात.",
-      "category": "Economy",
-      "difficulty": "hard",
-      "sourceUrl": "https://www.pmfias.com/current-affairs-august-18-2026/"
-    },
-    {
-      "id": "ca_20260818_08",
-      "question": "साफ्टा (SAFTA - South Asian Free Trade Area) कराराअंतर्गत सुपारीच्या (Areca nuts) आयातीवर किती सीमाशुल्क (customs duty) आकारले जाते?",
-      "options": [
-        "पूर्णपणे सूट (Fully exempt)",
-        "१०%",
-        "५०%",
-        "१००%"
-      ],
-      "correctAnswer": 0,
-      "explanation": "SAFTA कराराअंतर्गत पात्र सुपारीच्या आयातीला सीमाशुल्कातून पूर्णपणे सूट आहे. नुकतेच DRI ने या तरतुदीचा गैरवापर करून बांगलादेशी मूळ असल्याचे भासवून दक्षिण-पूर्व आशियातून सुपारी आयात करणाऱ्या नेटवर्कचा पर्दाफाश केला.",
+      "explanation": "भारत आणि थायलंड दरम्यान 15 वा संयुक्त वार्षिक लष्करी सराव 'मैत्री-XV' 18 ते 31 ऑगस्ट 2026 दरम्यान थायलंडमधील सुरत थानी येथे आयोजित केला जात आहे.",
       "category": "International",
-      "difficulty": "medium",
-      "sourceUrl": "https://www.pmfias.com/current-affairs-august-18-2026/"
+      "difficulty": "easy",
+      "sourceUrl": "https://affairscloud.com/current-affairs-20-august-2026/"
     },
     {
-      "id": "ca_20260818_09",
-      "question": "सर्वोच्च न्यायालयासमोर सादर केलेल्या अहवालानुसार, देशभरात आजी-माजी खासदार (MPs) आणि आमदार (MLAs) यांच्याविरुद्ध किती खटले प्रलंबित (pending trial) आहेत?",
+      "id": "ca_20260820_07",
+      "question": "कोणत्या बँकेने ग्राहकांना विमा पर्याय उपलब्ध करून देण्यासाठी HDFC Life सोबत भागीदारी केली आहे?",
       "options": [
-        "१,५४३",
-        "२,८९०",
-        "४,१९२",
-        "५,१२०"
+        "स्टेट बँक ऑफ इंडिया",
+        "जम्मू आणि काश्मीर बँक",
+        "बँक ऑफ बडोदा",
+        "पंजाब नॅशनल बँक"
+      ],
+      "correctAnswer": 1,
+      "explanation": "जम्मू आणि काश्मीर (J&K) बँकेने ग्राहकांना विस्तृत विमा उत्पादने (life, protection, savings) ऑफर करण्यासाठी HDFC Life सोबत कॉर्पोरेट एजन्सी करार (Corporate Agency Agreement) केला आहे.",
+      "category": "Economy",
+      "difficulty": "medium",
+      "sourceUrl": "https://affairscloud.com/current-affairs-20-august-2026/"
+    },
+    {
+      "id": "ca_20260820_08",
+      "question": "भारतातील पहिले AI-आधारित पेमेंट्स फाउंडेशन मॉडेल 'व्हल्कन' (Vulcan) कोणत्या कंपनीने लाँच केले आहे?",
+      "options": [
+        "पेटीएम (Paytm)",
+        "रेझरपे (Razorpay)",
+        "फोनपे (PhonePe)",
+        "भारतपे (BharatPe)"
+      ],
+      "correctAnswer": 1,
+      "explanation": "फिनटेक कंपनी रेझरपे (Razorpay) ने भारतातील पहिले AI-संचालित पेमेंट्स फाउंडेशन मॉडेल 'रेझरपे व्हल्कन' (Razorpay Vulcan) लाँच केले आहे, जे डिजिटल व्यवहार अधिक सुरक्षित आणि विश्वासार्ह करण्यासाठी डिझाइन केलेले आहे.",
+      "category": "Science & Tech",
+      "difficulty": "hard",
+      "sourceUrl": "https://affairscloud.com/current-affairs-20-august-2026/"
+    },
+    {
+      "id": "ca_20260820_09",
+      "question": "जुलै 2026 मधील पीएलएफएस (PLFS) मासिक बुलेटिननुसार, भारतातील बेरोजगारीचा दर (Unemployment Rate) किती टक्के आहे?",
+      "options": [
+        "4.5%",
+        "5.5%",
+        "5.1%",
+        "6.7%"
       ],
       "correctAnswer": 2,
-      "explanation": "सर्वोच्च न्यायालयासमोर सादर केलेल्या अहवालानुसार, देशभरात आजी-माजी खासदार आणि आमदार यांच्याविरुद्ध एकूण ४,१९२ गुन्हेगारी खटले प्रलंबित आहेत.",
-      "category": "Polity",
-      "difficulty": "easy",
-      "sourceUrl": "https://www.nextias.com/ca/current-affairs/18-08-2026"
+      "explanation": "राष्ट्रीय सांख्यिकी कार्यालयाच्या (NSO) PLFS जुलै 2026 च्या मासिक बुलेटिननुसार, भारतातील बेरोजगारीचा दर जूनमधील 5.5% वरून 5.1% पर्यंत खाली आला आहे.",
+      "category": "Economy",
+      "difficulty": "medium",
+      "sourceUrl": "https://affairscloud.com/current-affairs-20-august-2026/"
     },
     {
-      "id": "ca_20260818_10",
-      "question": "फ्लोरेस बेट (Flores Island), जिथे नुकताच ७.७ तीव्रतेचा शक्तिशाली भूकंप झाला, ते कोणत्या देशात स्थित आहे?",
+      "id": "ca_20260820_10",
+      "question": "सद्भावना दिवस (Sadbhavana Divas) दरवर्षी कोणत्या तारखेला साजरा केला जातो?",
       "options": [
-        "फिलिपिन्स",
-        "इंडोनेशिया",
-        "जपान",
-        "पापुआ न्यू गिनी"
+        "15 ऑगस्ट",
+        "19 ऑगस्ट",
+        "20 ऑगस्ट",
+        "21 ऑगस्ट"
       ],
-      "correctAnswer": 1,
-      "explanation": "फ्लोरेस बेट हे इंडोनेशियाच्या पूर्व नुसा टेंगारा (East Nusa Tenggara) प्रांतातील लेसर सुंदा बेटांपैकी (Lesser Sunda Islands) एक आहे, जे पॅसिफिक 'रिंग ऑफ फायर' चा भाग आहे.",
-      "category": "Geography",
+      "correctAnswer": 2,
+      "explanation": "माजी पंतप्रधान राजीव गांधी यांच्या जयंतीनिमित्त दरवर्षी 20 ऑगस्ट रोजी सद्भावना दिवस साजरा केला जातो. हा दिवस शांतता, एकता आणि सामाजिक सलोखा वाढवण्यासाठी समर्पित आहे.",
+      "category": "Miscellaneous",
       "difficulty": "easy",
-      "sourceUrl": "https://www.pmfias.com/current-affairs-august-18-2026/"
+      "sourceUrl": "https://affairscloud.com/current-affairs-20-august-2026/"
     }
   ],
   "totalQuestions": 10,
