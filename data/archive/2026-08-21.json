@@ -1,0 +1,160 @@
+{
+  "date": "2026-08-21",
+  "topic": "Current Affairs",
+  "source": "Shankar IAS, AffairsCloud, Drishti IAS",
+  "lastUpdated": "2026-08-21T10:00:00+05:30",
+  "quiz": [
+    {
+      "id": "ca_20260821_01",
+      "question": "नुकतेच महाराष्ट्रात कोणत्या आजाराला 'अधिसूचित आजार' (Notifiable Disease) म्हणून घोषित करण्यात आले आहे?",
+      "options": [
+        "डेंग्यू",
+        "सर्पदंश (Snakebite)",
+        "मलेरिया",
+        "क्षयरोग"
+      ],
+      "correctAnswer": 1,
+      "explanation": "महाराष्ट्राच्या सार्वजनिक आरोग्य विभागाने सर्पदंशाने (Snakebite) होणाऱ्या मृत्यूंना 'अधिसूचित आजार' म्हणून घोषित केले आहे, जेणेकरून वेळेवर उपचार आणि प्रतिबंधात्मक उपाययोजना सुनिश्चित करता येतील.",
+      "category": "Maharashtra",
+      "difficulty": "medium",
+      "sourceUrl": "https://www.shankariasparliament.com/current-affairs/gs-i/upsc-daily-current-affairs-one-liners-20-08-2026"
+    },
+    {
+      "id": "ca_20260821_02",
+      "question": "ऑगस्ट 2026 मध्ये 'BRICS ICT Track' कोणत्या शहरात आयोजित केले जाणार आहे?",
+      "options": [
+        "मुंबई",
+        "पुणे",
+        "नागपूर",
+        "नवी दिल्ली"
+      ],
+      "correctAnswer": 1,
+      "explanation": "भारताच्या 2026 च्या BRICS अध्यक्षतेखाली, दूरसंचार विभाग (DoT) ऑगस्ट 2026 मध्ये पुणे येथे 'BRICS ICT Track' आयोजित करेल.",
+      "category": "Maharashtra",
+      "difficulty": "medium",
+      "sourceUrl": "https://www.drishtiias.com/statepcs/19-08-2026/maharashtra"
+    },
+    {
+      "id": "ca_20260821_03",
+      "question": "दक्षिण विभागीय परिषदेची (Southern Zonal Council) 31 वी बैठक कोणत्या शहरात आयोजित करण्यात आली?",
+      "options": [
+        "चेन्नई",
+        "बंगळुरू",
+        "महाबलीपुरम",
+        "हैदराबाद"
+      ],
+      "correctAnswer": 2,
+      "explanation": "केंद्रीय गृहमंत्री तामिळनाडूमधील महाबलीपुरम येथे दक्षिण विभागीय परिषदेच्या 31 व्या बैठकीचे अध्यक्षस्थान भूषवणार आहेत.",
+      "category": "Polity",
+      "difficulty": "medium",
+      "sourceUrl": "https://www.shankariasparliament.com/current-affairs/gs-i/upsc-daily-current-affairs-one-liners-20-08-2026"
+    },
+    {
+      "id": "ca_20260821_04",
+      "question": "नुकतेच भारतीय रिझर्व्ह बँकेने (RBI) कोणत्या बँकेत आपला हिस्सा 9.99% पर्यंत वाढवण्यासाठी LIC ला मान्यता दिली आहे?",
+      "options": [
+        "ICICI बँक",
+        "HDFC बँक",
+        "स्टेट बँक ऑफ इंडिया",
+        "अॅक्सिस बँक"
+      ],
+      "correctAnswer": 1,
+      "explanation": "भारतीय रिझर्व्ह बँकेने (RBI) भारतीय आयुर्विमा महामंडळाला (LIC) भारतातील प्रमुख खाजगी क्षेत्रातील बँक असलेल्या HDFC बँकेतील आपला हिस्सा 9.99% पर्यंत वाढवण्यास मान्यता दिली आहे.",
+      "category": "Economy",
+      "difficulty": "easy",
+      "sourceUrl": "https://affairscloud.com/current-affairs-21-august-2026/"
+    },
+    {
+      "id": "ca_20260821_05",
+      "question": "आर्थिक वर्ष 2026-27 (FY27) साठी Ind-Ra ने भारताचा आर्थिक विकास दर किती राहण्याचा अंदाज वर्तवला आहे?",
+      "options": [
+        "6.5%",
+        "6.8%",
+        "7.0%",
+        "7.2%"
+      ],
+      "correctAnswer": 1,
+      "explanation": "India Ratings and Research (Ind-Ra) ने कच्च्या तेलाच्या कमी किमतींमुळे FY27 साठी भारताचा GDP वाढीचा अंदाज 10 बेसिस पॉईंट्सने वाढवून 6.8% केला आहे.",
+      "category": "Economy",
+      "difficulty": "medium",
+      "sourceUrl": "https://affairscloud.com/current-affairs-21-august-2026/"
+    },
+    {
+      "id": "ca_20260821_06",
+      "question": "कोणत्या दोन कंपन्यांनी भारताच्या AMCA (Advanced Medium Combat Aircraft) कार्यक्रमासाठी स्वदेशी इंजिन विकसित करण्यासाठी भागीदारी केली आहे?",
+      "options": [
+        "टाटा आणि बोईंग",
+        "रिलायन्स आणि रोल्स-रॉयस (Rolls-Royce)",
+        "महिंद्रा आणि एअरबस",
+        "HAL आणि लॉकहीड मार्टिन"
+      ],
+      "correctAnswer": 1,
+      "explanation": "रिलायन्स इंडस्ट्रीज लिमिटेड (RIL) ने भारताच्या AMCA कार्यक्रमासाठी स्वदेशी लढाऊ इंजिन विकसित करण्यासाठी ब्रिटिश कंपनी रोल्स-रॉयससोबत भागीदारी केली आहे.",
+      "category": "Science & Tech",
+      "difficulty": "hard",
+      "sourceUrl": "https://affairscloud.com/current-affairs-21-august-2026/"
+    },
+    {
+      "id": "ca_20260821_07",
+      "question": "जागतिक डास दिवस (World Mosquito Day) दरवर्षी कोणत्या दिवशी साजरा केला जातो?",
+      "options": [
+        "15 ऑगस्ट",
+        "18 ऑगस्ट",
+        "20 ऑगस्ट",
+        "22 ऑगस्ट"
+      ],
+      "correctAnswer": 2,
+      "explanation": "1897 मध्ये सर रोनाल्ड रॉस यांनी केलेल्या शोधाच्या स्मरणार्थ दरवर्षी 20 ऑगस्ट रोजी जागतिक डास दिवस साजरा केला जातो.",
+      "category": "Miscellaneous",
+      "difficulty": "easy",
+      "sourceUrl": "https://affairscloud.com/current-affairs-21-august-2026/"
+    },
+    {
+      "id": "ca_20260821_08",
+      "question": "भारतातील पहिली कोणती नॉन-बँकिंग फायनान्शिअल कंपनी (NBFC) बनली आहे जिने केवळ 'सिल्व्हर लोन' (Silver Loan) साठी विशेष शाखा सुरू केल्या आहेत?",
+      "options": [
+        "मुथूट फायनान्स",
+        "पॉल मर्चंट्स फायनान्स (Paul Merchants Finance)",
+        "मणप्पुरम फायनान्स",
+        "बजाज फायनान्स"
+      ],
+      "correctAnswer": 1,
+      "explanation": "पॉल मर्चंट्स फायनान्स (Paul Merchants Finance) ही केवळ सिल्व्हर लोन (चांदीच्या बदल्यात कर्ज) साठी विशेष शाखा सुरू करणारी भारतातील पहिली NBFC बनली आहे. या सेवेची सुरुवात चंदीगड येथून झाली आहे.",
+      "category": "Economy",
+      "difficulty": "medium",
+      "sourceUrl": "https://affairscloud.com/current-affairs-21-august-2026/"
+    },
+    {
+      "id": "ca_20260821_09",
+      "question": "गिनीज वर्ल्ड रेकॉर्ड्सनुसार 16 वर्षांच्या वयात जगातील सर्वात तरुण पुरुष चार्टर्ड अकाउंटंट (CA) कोण बनले आहे?",
+      "options": [
+        "लक्ष्मणन मेयप्पन",
+        "प्रणव मिस्त्री",
+        "आर्यन सिंग",
+        "रोहन कपूर"
+      ],
+      "correctAnswer": 0,
+      "explanation": "भारतीय वंशाचे दुबईस्थित लक्ष्मणन मेयप्पन (Lakshmanan Meyyappan) हे वयाच्या 16 व्या वर्षी जगातील सर्वात तरुण पुरुष CA बनले आहेत.",
+      "category": "Miscellaneous",
+      "difficulty": "easy",
+      "sourceUrl": "https://affairscloud.com/current-affairs-21-august-2026/"
+    },
+    {
+      "id": "ca_20260821_10",
+      "question": "नुकतेच शास्त्रज्ञांना कोणत्या क्रॅटनमध्ये (Craton) 3.497 अब्ज वर्षे जुने सूक्ष्मजीव जीवनाचे (microbial life) सर्वात जुने अवशेष आढळले आहेत?",
+      "options": [
+        "धारवाड क्रॅटन",
+        "बस्तर क्रॅटन",
+        "सिंगभूम क्रॅटन",
+        "बुंदेलखंड क्रॅटन"
+      ],
+      "correctAnswer": 2,
+      "explanation": "झारखंड-ओडिशामधील सिंगभूम क्रॅटन (Singhbhum Craton) मधील खडकांमध्ये शास्त्रज्ञांना थेट डेटिंगद्वारे प्रमाणित 3.497 अब्ज वर्षे जुने सूक्ष्मजीव जीवनाचे पुरावे आढळले आहेत.",
+      "category": "Science & Tech",
+      "difficulty": "hard",
+      "sourceUrl": "https://www.shankariasparliament.com/current-affairs/gs-i/upsc-daily-current-affairs-one-liners-20-08-2026"
+    }
+  ],
+  "totalQuestions": 10,
+  "version": 1
+}

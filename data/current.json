@@ -1,158 +1,158 @@
 {
-  "date": "2026-08-21",
+  "date": "2026-08-22",
   "topic": "Current Affairs",
-  "source": "Shankar IAS, AffairsCloud, Drishti IAS",
-  "lastUpdated": "2026-08-21T10:00:00+05:30",
+  "source": "AffairsCloud, NEXT IAS",
+  "lastUpdated": "2026-08-22T10:00:00+05:30",
   "quiz": [
     {
-      "id": "ca_20260821_01",
-      "question": "नुकतेच महाराष्ट्रात कोणत्या आजाराला 'अधिसूचित आजार' (Notifiable Disease) म्हणून घोषित करण्यात आले आहे?",
+      "id": "ca_20260822_01",
+      "question": "महाराष्ट्र सरकार कोणत्या सणाला युनेस्कोची अमूर्त सांस्कृतिक वारसा (UNESCO Intangible Cultural Heritage) मान्यता मिळवण्यासाठी प्रयत्न करत आहे?",
       "options": [
-        "डेंग्यू",
-        "सर्पदंश (Snakebite)",
-        "मलेरिया",
-        "क्षयरोग"
+        "गणेशोत्सव",
+        "दहीहंडी",
+        "मकर संक्रांत",
+        "गुढीपाडवा"
       ],
       "correctAnswer": 1,
-      "explanation": "महाराष्ट्राच्या सार्वजनिक आरोग्य विभागाने सर्पदंशाने (Snakebite) होणाऱ्या मृत्यूंना 'अधिसूचित आजार' म्हणून घोषित केले आहे, जेणेकरून वेळेवर उपचार आणि प्रतिबंधात्मक उपाययोजना सुनिश्चित करता येतील.",
+      "explanation": "महाराष्ट्र सरकार दहीहंडी सणाला युनेस्कोची अमूर्त सांस्कृतिक वारसा मान्यता मिळावी यासाठी प्रयत्नशील आहे, जेणेकरून या सणाचे सांस्कृतिक महत्त्व जागतिक स्तरावर पोहोचवता येईल.",
       "category": "Maharashtra",
-      "difficulty": "medium",
-      "sourceUrl": "https://www.shankariasparliament.com/current-affairs/gs-i/upsc-daily-current-affairs-one-liners-20-08-2026"
+      "difficulty": "easy",
+      "sourceUrl": "https://www.nextias.com/ca/current-affairs/18-08-2026"
     },
     {
-      "id": "ca_20260821_02",
-      "question": "ऑगस्ट 2026 मध्ये 'BRICS ICT Track' कोणत्या शहरात आयोजित केले जाणार आहे?",
+      "id": "ca_20260822_02",
+      "question": "केंद्र सरकारने 1 सप्टेंबर 2026 पासून कोणत्या घरगुती इंधन जोडणीच्या विस्ताराला गती देण्यासाठी नवीन प्रोत्साहन योजना सुरू करण्यास मान्यता दिली आहे?",
       "options": [
-        "मुंबई",
-        "पुणे",
-        "नागपूर",
-        "नवी दिल्ली"
-      ],
-      "correctAnswer": 1,
-      "explanation": "भारताच्या 2026 च्या BRICS अध्यक्षतेखाली, दूरसंचार विभाग (DoT) ऑगस्ट 2026 मध्ये पुणे येथे 'BRICS ICT Track' आयोजित करेल.",
-      "category": "Maharashtra",
-      "difficulty": "medium",
-      "sourceUrl": "https://www.drishtiias.com/statepcs/19-08-2026/maharashtra"
-    },
-    {
-      "id": "ca_20260821_03",
-      "question": "दक्षिण विभागीय परिषदेची (Southern Zonal Council) 31 वी बैठक कोणत्या शहरात आयोजित करण्यात आली?",
-      "options": [
-        "चेन्नई",
-        "बंगळुरू",
-        "महाबलीपुरम",
-        "हैदराबाद"
+        "LPG गॅस सिलेंडर",
+        "बायोगॅस",
+        "पाइप्ड नॅचरल गॅस (PNG)",
+        "सौर चुली"
       ],
       "correctAnswer": 2,
-      "explanation": "केंद्रीय गृहमंत्री तामिळनाडूमधील महाबलीपुरम येथे दक्षिण विभागीय परिषदेच्या 31 व्या बैठकीचे अध्यक्षस्थान भूषवणार आहेत.",
-      "category": "Polity",
+      "explanation": "केंद्र सरकारने 1 सप्टेंबर 2026 पासून घरगुती पाइप्ड नॅचरल गॅस (PNG) जोडणीच्या विस्ताराला गती देण्यासाठी नवीन प्रोत्साहन योजना सुरू केली आहे, ज्याचा उद्देश स्वच्छ आणि परवडणारे इंधन उपलब्ध करून देणे हा आहे.",
+      "category": "Economy",
       "difficulty": "medium",
-      "sourceUrl": "https://www.shankariasparliament.com/current-affairs/gs-i/upsc-daily-current-affairs-one-liners-20-08-2026"
+      "sourceUrl": "https://affairscloud.com/current-affairs-20-august-2026/"
     },
     {
-      "id": "ca_20260821_04",
-      "question": "नुकतेच भारतीय रिझर्व्ह बँकेने (RBI) कोणत्या बँकेत आपला हिस्सा 9.99% पर्यंत वाढवण्यासाठी LIC ला मान्यता दिली आहे?",
+      "id": "ca_20260822_03",
+      "question": "नुकतेच भारताचे पहिले AI-आधारित पेमेंट्स फाउंडेशन मॉडेल 'व्हल्कन' (Vulcan) कोणत्या फिनटेक कंपनीने लाँच केले आहे?",
       "options": [
-        "ICICI बँक",
-        "HDFC बँक",
-        "स्टेट बँक ऑफ इंडिया",
-        "अॅक्सिस बँक"
+        "Paytm",
+        "PhonePe",
+        "Razorpay",
+        "BharatPe"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Razorpay ने 'Vulcan' हे भारताचे पहिले AI-आधारित पेमेंट्स फाउंडेशन मॉडेल लाँच केले आहे, जे डिजिटल व्यवहार अधिक सुरक्षित आणि विश्वासार्ह बनवण्यासाठी डिझाइन केले आहे.",
+      "category": "Economy",
+      "difficulty": "medium",
+      "sourceUrl": "https://affairscloud.com/current-affairs-20-august-2026/"
+    },
+    {
+      "id": "ca_20260822_04",
+      "question": "इलेक्ट्रॉनिक्स आणि माहिती तंत्रज्ञान मंत्रालयाने (MeitY) इलेक्ट्रॉनिक्स घटक उत्पादन योजनेअंतर्गत (ECMS) नुकतेच किती नवीन प्रकल्पांना मान्यता दिली आहे?",
+      "options": [
+        "15",
+        "25",
+        "31",
+        "40"
+      ],
+      "correctAnswer": 2,
+      "explanation": "MeitY ने इलेक्ट्रॉनिक्स घटक उत्पादन योजनेअंतर्गत (ECMS) रु. 7,877 कोटींच्या 31 नवीन प्रकल्पांना मान्यता दिली आहे, ज्यामुळे एकूण मंजूर प्रकल्पांची संख्या 106 झाली आहे.",
+      "category": "Science & Tech",
+      "difficulty": "hard",
+      "sourceUrl": "https://affairscloud.com/current-affairs-20-august-2026/"
+    },
+    {
+      "id": "ca_20260822_05",
+      "question": "वाणिज्य आणि उद्योग मंत्रालयाच्या आकडेवारीनुसार, जुलै 2026 मध्ये भारताची एकूण निर्यात (Total Exports) किती अब्ज डॉलर्सपर्यंत वाढली आहे?",
+      "options": [
+        "70.72 अब्ज डॉलर्स",
+        "80.14 अब्ज डॉलर्स",
+        "85.50 अब्ज डॉलर्स",
+        "95.16 अब्ज डॉलर्स"
       ],
       "correctAnswer": 1,
-      "explanation": "भारतीय रिझर्व्ह बँकेने (RBI) भारतीय आयुर्विमा महामंडळाला (LIC) भारतातील प्रमुख खाजगी क्षेत्रातील बँक असलेल्या HDFC बँकेतील आपला हिस्सा 9.99% पर्यंत वाढवण्यास मान्यता दिली आहे.",
+      "explanation": "वाणिज्य आणि उद्योग मंत्रालयाच्या आकडेवारीनुसार, जुलै 2026 मध्ये भारताची एकूण निर्यात (वस्तू आणि सेवांसह) 13.31% ने वाढून 80.14 अब्ज डॉलर्सवर पोहोचली आहे.",
       "category": "Economy",
-      "difficulty": "easy",
-      "sourceUrl": "https://affairscloud.com/current-affairs-21-august-2026/"
+      "difficulty": "medium",
+      "sourceUrl": "https://affairscloud.com/current-affairs-20-august-2026/"
     },
     {
-      "id": "ca_20260821_05",
-      "question": "आर्थिक वर्ष 2026-27 (FY27) साठी Ind-Ra ने भारताचा आर्थिक विकास दर किती राहण्याचा अंदाज वर्तवला आहे?",
+      "id": "ca_20260822_06",
+      "question": "ऑगस्ट 2026 मध्ये, संरक्षण मंत्रालयाने स्वदेशीकरणाला चालना देण्यासाठी किती धोरणात्मक संरक्षण वस्तूंची 6 वी 'सकारात्मक स्वदेशीकरण यादी' (Positive Indigenisation List) जाहीर केली?",
+      "options": [
+        "250",
+        "389",
+        "405",
+        "500"
+      ],
+      "correctAnswer": 2,
+      "explanation": "संरक्षण मंत्रालयाने 405 संरक्षण वस्तूंची 6 वी सकारात्मक स्वदेशीकरण यादी जाहीर केली आहे, ज्यामध्ये सार्वजनिक क्षेत्रातील उपक्रमांच्या 389 वस्तू आणि भारतीय तटरक्षक दलाच्या 16 वस्तूंचा समावेश आहे.",
+      "category": "Polity",
+      "difficulty": "hard",
+      "sourceUrl": "https://affairscloud.com/current-affairs-20-august-2026/"
+    },
+    {
+      "id": "ca_20260822_07",
+      "question": "जम्मू आणि काश्मीर (J&K) बँकेने आपल्या ग्राहकांना विमा पर्याय उपलब्ध करून देण्यासाठी नुकताच कोणत्या जीवन विमा कंपनीसोबत करार केला आहे?",
+      "options": [
+        "LIC",
+        "HDFC Life",
+        "SBI Life",
+        "ICICI Prudential"
+      ],
+      "correctAnswer": 1,
+      "explanation": "जम्मू आणि काश्मीर बँकेने आपल्या ग्राहकांसाठी विविध विमा योजना उपलब्ध करून देण्याच्या उद्देशाने HDFC Life सोबत कॉर्पोरेट एजन्सी करार (CAA) केला आहे.",
+      "category": "Economy",
+      "difficulty": "easy",
+      "sourceUrl": "https://affairscloud.com/current-affairs-20-august-2026/"
+    },
+    {
+      "id": "ca_20260822_08",
+      "question": "ICRA च्या अंदाजानुसार, आर्थिक वर्ष 2026-27 (FY27) च्या पहिल्या तिमाहीत (एप्रिल-जून) भारताचा GDP विकास दर किती राहण्याचा अंदाज आहे?",
       "options": [
         "6.5%",
-        "6.8%",
+        "6.7%",
         "7.0%",
-        "7.2%"
-      ],
-      "correctAnswer": 1,
-      "explanation": "India Ratings and Research (Ind-Ra) ने कच्च्या तेलाच्या कमी किमतींमुळे FY27 साठी भारताचा GDP वाढीचा अंदाज 10 बेसिस पॉईंट्सने वाढवून 6.8% केला आहे.",
-      "category": "Economy",
-      "difficulty": "medium",
-      "sourceUrl": "https://affairscloud.com/current-affairs-21-august-2026/"
-    },
-    {
-      "id": "ca_20260821_06",
-      "question": "कोणत्या दोन कंपन्यांनी भारताच्या AMCA (Advanced Medium Combat Aircraft) कार्यक्रमासाठी स्वदेशी इंजिन विकसित करण्यासाठी भागीदारी केली आहे?",
-      "options": [
-        "टाटा आणि बोईंग",
-        "रिलायन्स आणि रोल्स-रॉयस (Rolls-Royce)",
-        "महिंद्रा आणि एअरबस",
-        "HAL आणि लॉकहीड मार्टिन"
-      ],
-      "correctAnswer": 1,
-      "explanation": "रिलायन्स इंडस्ट्रीज लिमिटेड (RIL) ने भारताच्या AMCA कार्यक्रमासाठी स्वदेशी लढाऊ इंजिन विकसित करण्यासाठी ब्रिटिश कंपनी रोल्स-रॉयससोबत भागीदारी केली आहे.",
-      "category": "Science & Tech",
-      "difficulty": "hard",
-      "sourceUrl": "https://affairscloud.com/current-affairs-21-august-2026/"
-    },
-    {
-      "id": "ca_20260821_07",
-      "question": "जागतिक डास दिवस (World Mosquito Day) दरवर्षी कोणत्या दिवशी साजरा केला जातो?",
-      "options": [
-        "15 ऑगस्ट",
-        "18 ऑगस्ट",
-        "20 ऑगस्ट",
-        "22 ऑगस्ट"
+        "7.8%"
       ],
       "correctAnswer": 2,
-      "explanation": "1897 मध्ये सर रोनाल्ड रॉस यांनी केलेल्या शोधाच्या स्मरणार्थ दरवर्षी 20 ऑगस्ट रोजी जागतिक डास दिवस साजरा केला जातो.",
-      "category": "Miscellaneous",
-      "difficulty": "easy",
-      "sourceUrl": "https://affairscloud.com/current-affairs-21-august-2026/"
-    },
-    {
-      "id": "ca_20260821_08",
-      "question": "भारतातील पहिली कोणती नॉन-बँकिंग फायनान्शिअल कंपनी (NBFC) बनली आहे जिने केवळ 'सिल्व्हर लोन' (Silver Loan) साठी विशेष शाखा सुरू केल्या आहेत?",
-      "options": [
-        "मुथूट फायनान्स",
-        "पॉल मर्चंट्स फायनान्स (Paul Merchants Finance)",
-        "मणप्पुरम फायनान्स",
-        "बजाज फायनान्स"
-      ],
-      "correctAnswer": 1,
-      "explanation": "पॉल मर्चंट्स फायनान्स (Paul Merchants Finance) ही केवळ सिल्व्हर लोन (चांदीच्या बदल्यात कर्ज) साठी विशेष शाखा सुरू करणारी भारतातील पहिली NBFC बनली आहे. या सेवेची सुरुवात चंदीगड येथून झाली आहे.",
+      "explanation": "क्रेडिट रेटिंग एजन्सी ICRA ने एप्रिल-जून 2026 तिमाहीत भारताचा GDP विकास दर 7% राहण्याचा अंदाज वर्तवला आहे, जो मागील तिमाहीच्या 7.8% पेक्षा कमी आहे.",
       "category": "Economy",
       "difficulty": "medium",
-      "sourceUrl": "https://affairscloud.com/current-affairs-21-august-2026/"
+      "sourceUrl": "https://affairscloud.com/current-affairs-20-august-2026/"
     },
     {
-      "id": "ca_20260821_09",
-      "question": "गिनीज वर्ल्ड रेकॉर्ड्सनुसार 16 वर्षांच्या वयात जगातील सर्वात तरुण पुरुष चार्टर्ड अकाउंटंट (CA) कोण बनले आहे?",
+      "id": "ca_20260822_09",
+      "question": "राष्ट्रीय क्रीडा पुरस्कार 2025 अंतर्गत, लष्कराच्या पॅरालिम्पिक नोड, पुणे (महाराष्ट्र) या संस्थेला कोणता पुरस्कार प्रदान करण्यात आला?",
       "options": [
-        "लक्ष्मणन मेयप्पन",
-        "प्रणव मिस्त्री",
-        "आर्यन सिंग",
-        "रोहन कपूर"
-      ],
-      "correctAnswer": 0,
-      "explanation": "भारतीय वंशाचे दुबईस्थित लक्ष्मणन मेयप्पन (Lakshmanan Meyyappan) हे वयाच्या 16 व्या वर्षी जगातील सर्वात तरुण पुरुष CA बनले आहेत.",
-      "category": "Miscellaneous",
-      "difficulty": "easy",
-      "sourceUrl": "https://affairscloud.com/current-affairs-21-august-2026/"
-    },
-    {
-      "id": "ca_20260821_10",
-      "question": "नुकतेच शास्त्रज्ञांना कोणत्या क्रॅटनमध्ये (Craton) 3.497 अब्ज वर्षे जुने सूक्ष्मजीव जीवनाचे (microbial life) सर्वात जुने अवशेष आढळले आहेत?",
-      "options": [
-        "धारवाड क्रॅटन",
-        "बस्तर क्रॅटन",
-        "सिंगभूम क्रॅटन",
-        "बुंदेलखंड क्रॅटन"
+        "द्रोणाचार्य पुरस्कार",
+        "अर्जुन पुरस्कार",
+        "राष्ट्रीय खेल प्रोत्साहन पुरस्कार",
+        "मेजर ध्यानचंद खेलरत्न पुरस्कार"
       ],
       "correctAnswer": 2,
-      "explanation": "झारखंड-ओडिशामधील सिंगभूम क्रॅटन (Singhbhum Craton) मधील खडकांमध्ये शास्त्रज्ञांना थेट डेटिंगद्वारे प्रमाणित 3.497 अब्ज वर्षे जुने सूक्ष्मजीव जीवनाचे पुरावे आढळले आहेत.",
-      "category": "Science & Tech",
-      "difficulty": "hard",
-      "sourceUrl": "https://www.shankariasparliament.com/current-affairs/gs-i/upsc-daily-current-affairs-one-liners-20-08-2026"
+      "explanation": "पॅरा-अॅथलीट्सना प्रोत्साहन आणि समर्थन दिल्याबद्दल पुण्याच्या (महाराष्ट्र) 'आर्मी पॅरालिम्पिक नोड'ला राष्ट्रीय खेल प्रोत्साहन पुरस्कार 2025 ने सन्मानित करण्यात आले.",
+      "category": "Maharashtra",
+      "difficulty": "medium",
+      "sourceUrl": "https://affairscloud.com/current-affairs-20-august-2026/"
+    },
+    {
+      "id": "ca_20260822_10",
+      "question": "दरवर्षी भारतात 'सद्भावना दिवस' (Sadbhavana Divas) कोणत्या माजी पंतप्रधानांच्या जयंतीनिमित्त साजरा केला जातो?",
+      "options": [
+        "जवाहरलाल नेहरू",
+        "इंदिरा गांधी",
+        "लाल बहादूर शास्त्री",
+        "राजीव गांधी"
+      ],
+      "correctAnswer": 3,
+      "explanation": "भारतात दरवर्षी 20 ऑगस्ट रोजी माजी पंतप्रधान राजीव गांधी यांच्या जयंतीनिमित्त 'सद्भावना दिवस' साजरा केला जातो, ज्याचा उद्देश शांतता आणि राष्ट्रीय एकात्मता वाढवणे हा आहे.",
+      "category": "Miscellaneous",
+      "difficulty": "easy",
+      "sourceUrl": "https://affairscloud.com/current-affairs-20-august-2026/"
     }
   ],
   "totalQuestions": 10,
