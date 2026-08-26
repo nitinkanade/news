@@ -1,0 +1,160 @@
+{
+  "date": "2026-08-25",
+  "topic": "Current Affairs",
+  "source": "News on Air, The Hindu, C4S Courses",
+  "lastUpdated": "2026-08-25T20:00:00+05:30",
+  "quiz": [
+    {
+      "id": "ca_20260825_01",
+      "question": "पंतप्रधान सूर्य सरोवर योजनेचा (PM-SSY) मुख्य उद्देश काय आहे?",
+      "options": [
+        "सौर ऊर्जेवर चालणारी विमाने विकसित करणे",
+        "जलाशयांवर तरंगते सौर ऊर्जा प्रकल्प (Floating Solar) उभारणे",
+        "घरांच्या छतावर सौर पॅनेल बसवणे",
+        "शेतीसाठी सौर पंप उपलब्ध करणे"
+      ],
+      "correctAnswer": 1,
+      "explanation": "केंद्रीय मंत्रिमंडळाने ५,०७० कोटी रुपये खर्चाच्या पंतप्रधान सूर्य सरोवर योजनेला (PM-SSY) मंजुरी दिली आहे. यातून जलाशयांवर ५,००० मेगावॅट क्षमतेचे तरंगते सौर ऊर्जा प्रकल्प उभारले जातील.",
+      "category": "Economy",
+      "difficulty": "medium",
+      "sourceUrl": "https://indianexpress.com/article/explained/explained-sci-tech/floating-solar-india-pm-ssy-scheme-renewable-clean-energy-10846089/"
+    },
+    {
+      "id": "ca_20260825_02",
+      "question": "कोणत्या संस्थेने भारताचा पहिला मृदा पोत नकाशा (Soil Texture Map) विकसित केला आहे?",
+      "options": [
+        "भारतीय कृषी संशोधन परिषद (ICAR)",
+        "नॅशनल ब्युरो ऑफ सॉईल सर्व्हे अँड लँड यूज प्लॅनिंग (NBSS&LUP)",
+        "भारतीय हवामान विभाग (IMD)",
+        "नीती आयोग"
+      ],
+      "correctAnswer": 1,
+      "explanation": "नागपूर येथील नॅशनल ब्युरो ऑफ सॉईल सर्व्हे अँड लँड यूज प्लॅनिंग (NBSS&LUP) या संस्थेने भारताचा पहिला मृदा पोत नकाशा (Soil Texture Map) विकसित केला आहे.",
+      "category": "Geography",
+      "difficulty": "medium",
+      "sourceUrl": "https://newsonair.gov.in/soil-database-information-system-developed-by-nbss-lup-is-crucial-foundation-for-crop-improvement-icar-dg/"
+    },
+    {
+      "id": "ca_20260825_03",
+      "question": "नुकतीच ब्रिक्स (BRICS) पर्यटन कार्यगटाची बैठक भारतात कोठे आयोजित करण्यात आली होती?",
+      "options": [
+        "नवी दिल्ली",
+        "मुंबई",
+        "जयपूर",
+        "पुणे"
+      ],
+      "correctAnswer": 2,
+      "explanation": "भारताने दुसऱ्या ब्रिक्स (BRICS) पर्यटन कार्यगटाची बैठक जयपूर येथे आयोजित केली होती. या बैठकीत 'जयपूर घोषणापत्र' (Jaipur Declaration) स्वीकारण्यात आले.",
+      "category": "International",
+      "difficulty": "easy",
+      "sourceUrl": "https://c4scourses.in/current-affairs/daily-current-affairs-dca-25-august-2026/"
+    },
+    {
+      "id": "ca_20260825_04",
+      "question": "महाराष्ट्र राज्य आणि जर्मनीच्या कोणत्या राज्यादरम्यान गुंतवणूक, उद्योग आणि नाविन्यपूर्ण तंत्रज्ञानासाठी सामंजस्य करार (MoU) झाला आहे?",
+      "options": [
+        "बव्हेरिया (Bavaria)",
+        "बर्लिन (Berlin)",
+        "हेसे (Hesse)",
+        "सॅक्सनी (Saxony)"
+      ],
+      "correctAnswer": 2,
+      "explanation": "महाराष्ट्र आणि जर्मनीच्या हेसे (Hesse) राज्यामध्ये गुंतवणूक, उद्योग, नाविन्यपूर्ण तंत्रज्ञान आणि कौशल्य विकासासाठी सामंजस्य करार (MoU) करण्यात आला आहे.",
+      "category": "Maharashtra",
+      "difficulty": "medium",
+      "sourceUrl": "https://c4scourses.in/current-affairs/daily-current-affairs-dca-25-august-2026/"
+    },
+    {
+      "id": "ca_20260825_05",
+      "question": "नुकतेच पुण्यात 'ब्रिक्स आयसीटी ट्रॅक' (BRICS ICT Track) चे आयोजन करण्यात आले. त्याची थीम काय होती?",
+      "options": [
+        "डिजिटल इंडिया",
+        "इनोव्हेट, कोऑपरेट अँड ट्रान्सफॉर्म (ICT) फॉर अ रेझिलिएंट फ्युचर",
+        "ग्लोबल डिजिटल इकॉनॉमी",
+        "सायबर सिक्युरिटी इन ब्रिक्स"
+      ],
+      "correctAnswer": 1,
+      "explanation": "१७ ते २१ ऑगस्ट २०२६ दरम्यान पुण्यात 'ब्रिक्स आयसीटी ट्रॅक' आयोजित करण्यात आला होता, ज्याची थीम 'Innovate, Cooperate and Transform (ICT) for a Resilient Future' ही होती.",
+      "category": "Maharashtra",
+      "difficulty": "hard",
+      "sourceUrl": "https://c4scourses.in/current-affairs/daily-current-affairs-dca-25-august-2026/"
+    },
+    {
+      "id": "ca_20260825_06",
+      "question": "सिक्युरिटीज अँड एक्स्चेंज बोर्ड ऑफ इंडिया (SEBI) ने मार्केट इन्फ्रास्ट्रक्चर इन्स्टिट्यूशन्स (MIIs) साठी कोणता नवीन निर्देशांक (Index) सुरू केला आहे?",
+      "options": [
+        "मार्केट स्टॅबिलिटी इंडेक्स",
+        "इन्फॉर्मेशन टेक्नॉलॉजी रेझिलियन्स इंडेक्स (ITRI)",
+        "सायबर सिक्युरिटी इंडेक्स",
+        "इन्व्हेस्टर कॉन्फिडन्स इंडेक्स"
+      ],
+      "correctAnswer": 1,
+      "explanation": "SEBI ने स्टॉक एक्स्चेंज आणि डिपॉझिटरीज सारख्या संस्थांच्या आयटी प्रणालीची लवचिकता वाढवण्यासाठी इन्फॉर्मेशन टेक्नॉलॉजी रेझिलियन्स इंडेक्स (ITRI) सुरू केला आहे.",
+      "category": "Economy",
+      "difficulty": "hard",
+      "sourceUrl": "https://www.thehindu.com/business/sebi-introduces-it-resilience-index-for-market-infrastructure-institutions/article71385199.ece"
+    },
+    {
+      "id": "ca_20260825_07",
+      "question": "नुकताच १३५ वा ड्युरंड कप २०२६ (Durand Cup 2026) कोणी जिंकला?",
+      "options": [
+        "मोहन बागान सुपर जायंट",
+        "ईस्ट बंगाल एफसी",
+        "मुंबई सिटी एफसी",
+        "बंगळुरू एफसी"
+      ],
+      "correctAnswer": 1,
+      "explanation": "ईस्ट बंगाल एफसी ने मोहन बागान सुपर जायंटचा ४-१ ने पराभव करून १३५ वा ड्युरंड कप जिंकला. हा त्यांचा विक्रमी १७ वा ड्युरंड कप विजय आहे.",
+      "category": "Sports",
+      "difficulty": "easy",
+      "sourceUrl": "https://c4scourses.in/current-affairs/daily-current-affairs-dca-25-august-2026/"
+    },
+    {
+      "id": "ca_20260825_08",
+      "question": "अंतराळात चालणारी पहिली फ्रेंच महिला कोण ठरली आहे?",
+      "options": [
+        "समंथा क्रिस्टोफोरेट्टी",
+        "सोफी अडेनोट (Sophie Adenot)",
+        "व्हॅलेंटीना तेरेश्कोव्हा",
+        "क्रिस्टीना कोच"
+      ],
+      "correctAnswer": 1,
+      "explanation": "ईएसए (ESA) अंतराळवीर सोफी अडेनोट (Sophie Adenot) या स्पेस वॉक (Spacewalk) करणाऱ्या पहिल्या फ्रेंच महिला ठरल्या आहेत.",
+      "category": "Science & Tech",
+      "difficulty": "medium",
+      "sourceUrl": "https://c4scourses.in/current-affairs/daily-current-affairs-dca-25-august-2026/"
+    },
+    {
+      "id": "ca_20260825_09",
+      "question": "भारतीय नौदलाला नुकतेच मिळालेले 'माहे-क्लास' चे तिसरे जहाज कोणते आहे?",
+      "options": [
+        "आयएनएस विक्रांत",
+        "मंगरोल (Mangrol)",
+        "आयएनएस अरिहंत",
+        "तर्कश"
+      ],
+      "correctAnswer": 1,
+      "explanation": "भारतीय नौदलाला कोचीन शिपयार्ड लिमिटेड (CSL) कडून 'माहे-क्लास' चे तिसरे जहाज 'मंगरोल' (Mangrol) प्राप्त झाले आहे. हे पाणबुडी विरोधी युद्ध आणि किनारी पाळत ठेवण्यासाठी वापरले जाते.",
+      "category": "Science & Tech",
+      "difficulty": "medium",
+      "sourceUrl": "https://c4scourses.in/current-affairs/daily-current-affairs-dca-25-august-2026/"
+    },
+    {
+      "id": "ca_20260825_10",
+      "question": "भारतीय हवाई दलाने (IAF) नुकताच 'उदारा शक्ती २०२६' (Udara Shakti 2026) या सरावात कोणत्या देशासोबत सहभाग घेतला?",
+      "options": [
+        "ऑस्ट्रेलिया",
+        "मलेशिया",
+        "सिंगापूर",
+        "जपान"
+      ],
+      "correctAnswer": 1,
+      "explanation": "भारतीय हवाई दल (IAF) आणि रॉयल मलेशियन एअर फोर्स (RMAF) यांच्यात मलेशियामध्ये 'उदारा शक्ती २०२६' (Exercise Udara Shakti 2026) हा द्विपक्षीय सराव पार पडला.",
+      "category": "International",
+      "difficulty": "easy",
+      "sourceUrl": "https://newsonair.gov.in/iaf-concludes-high-tempo-multinational-exercises-pitch-black-and-udara-shakti-2026-2/"
+    }
+  ],
+  "totalQuestions": 10,
+  "version": 1
+}
