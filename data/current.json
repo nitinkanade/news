@@ -1,158 +1,158 @@
 {
-  "date": "2026-08-28",
+  "date": "2026-08-29",
   "topic": "Current Affairs",
-  "source": "Drishti IAS, The Hindu, GKToday, NEXT IAS",
-  "lastUpdated": "2026-08-28T20:00:00+05:30",
+  "source": "Drishti IAS, AffairsCloud, Insights IAS",
+  "lastUpdated": "2026-08-30T01:40:28+05:30",
   "quiz": [
     {
-      "id": "ca_20260828_01",
-      "question": "नुकतीच केंद्रीय आरोग्य आणि कुटुंब कल्याण मंत्रालयाने 'समग्र शिशु बाल स्वास्थ्य कार्यक्रम (SSBSK)' वरील राष्ट्रीय कार्यशाळा कुठे आयोजित केली होती?",
+      "id": "ca_20260829_01",
+      "question": "भारतीय रेल्वेने अलिकडेच कोणत्या बंदरावरून पहिली 'डबल-स्टॅक लॉंग-हॉल कंटेनर ट्रेन' (double-stack long-haul container train) यशस्वीपणे चालवली?",
       "options": [
-        "पुणे",
-        "छत्रपती संभाजीनगर",
-        "नागपूर",
-        "मुंबई"
+        "चेन्नई बंदर",
+        "जवाहरलाल नेहरू बंदर (JNPT)",
+        "कांडला बंदर",
+        "विशाखापट्टणम बंदर"
       ],
       "correctAnswer": 1,
-      "explanation": "केंद्रीय आरोग्य आणि कुटुंब कल्याण मंत्रालयाने (MoHFW) ऑगस्ट २०२६ मध्ये छत्रपती संभाजीनगर, महाराष्ट्र येथे 'समग्र शिशु बाल स्वास्थ्य कार्यक्रम (SSBSK)' वर दोन दिवसीय राष्ट्रीय कार्यशाळा आयोजित केली होती.",
+      "explanation": "भारतीय रेल्वेने महाराष्ट्रातील जवाहरलाल नेहरू बंदर (JNPT) येथून गुजरातमधील वडोदरा (Varnama) पर्यंत आपली पहिली 'डबल-स्टॅक लॉंग-हॉल कंटेनर ट्रेन' चालवली. या ट्रेनने ४२२ किमी अंतर कापले.",
       "category": "Maharashtra",
       "difficulty": "medium",
-      "sourceUrl": "https://www.drishtiias.com/statepcs/28-08-2026/maharashtra"
+      "sourceUrl": "https://www.drishtiias.com/statepcs/29-08-2026/maharashtra"
     },
     {
-      "id": "ca_20260828_02",
-      "question": "'समग्र शिशु बाल स्वास्थ्य कार्यक्रम (SSBSK)' अंतर्गत धोका असलेल्या (at-risk) बालकांची लवकर ओळख पटवण्यासाठी आणि त्यांच्यावर लक्ष ठेवण्यासाठी कोणते डिजिटल प्लॅटफॉर्म/अॅप वापरले जाणार आहे?",
+      "id": "ca_20260829_02",
+      "question": "पेट्रोलियम आणि नैसर्गिक वायू नियामक मंडळाने (PNGRB) नुकतीच सुमारे १,८०० किमी लांबीच्या ३ नवीन एलपीजी (LPG) पाईपलाईन प्रकल्पांना मंजुरी दिली आहे, यापैकी 'चेर्लापल्ली ते नागपूर' (Cherlapally-Nagpur) हा ५५६ किमीचा प्रकल्प कोणत्या दोन राज्यांना जोडेल?",
       "options": [
-        "शिशु-केअर (Shishu-Care)",
-        "बाल-सुरक्षा (Bal-Suraksha)",
-        "शैशव (Shaishav)",
-        "आरोग्य-बाल (Arogya-Bal)"
+        "महाराष्ट्र आणि मध्य प्रदेश",
+        "कर्नाटक आणि महाराष्ट्र",
+        "तेलंगणा आणि महाराष्ट्र",
+        "आंध्र प्रदेश आणि ओडिसा"
       ],
       "correctAnswer": 2,
-      "explanation": "SSBSK अंतर्गत 'शैशव' (Shaishav) अॅप हे धोका असलेल्या (at-risk) बालकांची ओळख पटवणे, डिजिटल यादी तयार करणे आणि त्यांच्या घरातील भेटींचे नियोजन करण्यासाठी वापरले जाणार आहे.",
-      "category": "Science & Tech",
+      "explanation": "PNGRB ने एलपीजी पाईपलाईन नेटवर्क वाढवण्यासाठी तीन नवीन प्रकल्पांना मंजुरी दिली आहे. यापैकी ५५६ किमी लांबीची पाईपलाईन तेलंगणातील चेर्लापल्ली ते महाराष्ट्रातील नागपूरला जोडेल, ज्यामुळे रस्ते वाहतुकीवरील ताण कमी होईल.",
+      "category": "Maharashtra",
       "difficulty": "medium",
-      "sourceUrl": "https://www.drishtiias.com/statepcs/28-08-2026/maharashtra"
+      "sourceUrl": "https://affairscloud.com/current-affairs-26-august-2026/"
     },
     {
-      "id": "ca_20260828_03",
-      "question": "नेपाळमधील कोणत्या जिल्ह्यामध्ये नुकत्याच आलेल्या महापुरात ३८९ हून अधिक लोकांचा मृत्यू झाला आहे, ज्याचा परिणाम तिबेट आणि भारतावरही होत आहे?",
-      "options": [
-        "काठमांडू",
-        "रसुवा",
-        "पोखरा",
-        "लुंबिनी"
-      ],
-      "correctAnswer": 1,
-      "explanation": "तिबेटच्या सीमेला लागून असलेल्या नेपाळच्या रसुवा (Rasuwa) जिल्ह्यामध्ये आलेल्या महापुरात ३८९ लोकांचा मृत्यू झाला असून अनेक भारतीय नागरिकही संपर्कहीन (uncontactable) झाले आहेत.",
-      "category": "Geography",
-      "difficulty": "medium",
-      "sourceUrl": "https://www.thehindu.com/news/morning-digest-august-28-2026/article71398469.ece"
-    },
-    {
-      "id": "ca_20260828_04",
-      "question": "नेपाळमधील महापुरानंतर, भारत सरकारच्या परराष्ट्र व्यवहार मंत्रालयाने (MEA) दिलेल्या माहितीनुसार सुमारे किती भारतीय नागरिक संपर्कहीन (uncontactable) झाले आहेत?",
-      "options": [
-        "१५०",
-        "२००",
-        "२९०",
-        "४००"
-      ],
-      "correctAnswer": 2,
-      "explanation": "नेपाळमध्ये आलेल्या महापुरानंतर भारताच्या परराष्ट्र व्यवहार मंत्रालयाच्या (MEA) प्राथमिक अंदाजानुसार, किमान २९० भारतीय नागरिक अद्याप संपर्कहीन (uncontactable) आहेत.",
-      "category": "International",
-      "difficulty": "hard",
-      "sourceUrl": "https://www.thehindu.com/news/morning-digest-august-28-2026/article71398469.ece"
-    },
-    {
-      "id": "ca_20260828_05",
-      "question": "भारत आणि कोणत्या देशाने त्यांच्या प्रत्यक्ष नियंत्रण रेषेवरील (LAC) समज सुधारण्याच्या मार्गांवर अलीकडेच चर्चा केली?",
-      "options": [
-        "पाकिस्तान",
-        "चीन",
-        "म्यानमार",
-        "नेपाळ"
-      ],
-      "correctAnswer": 1,
-      "explanation": "भारत आणि चीन यांनी त्यांच्या प्रत्यक्ष नियंत्रण रेषेवर (Line of Actual Control - LAC) एकमेकांची समज आणि दृष्टीकोन सुधारण्यासाठी नुकतीच चर्चा करून तोडगा काढण्याची तयारी दर्शवली आहे.",
-      "category": "International",
-      "difficulty": "easy",
-      "sourceUrl": "https://www.thehindu.com/news/morning-digest-august-28-2026/article71398469.ece"
-    },
-    {
-      "id": "ca_20260828_06",
-      "question": "'सहयोग-हॉप टॅक' (Sahyog-HOP TAC) हा भारताचा कोणत्या देशासोबतचा द्विपक्षीय सागरी सराव आहे?",
-      "options": [
-        "व्हिएतनाम",
-        "इंडोनेशिया",
-        "श्रीलंका",
-        "जपान"
-      ],
-      "correctAnswer": 0,
-      "explanation": "'सहयोग-हॉप टॅक' (Sahyog-HOP TAC) हा भारत आणि व्हिएतनाम (किंवा अन्य परदेशी) या देशांच्या तटरक्षक दलांमधील द्विपक्षीय सागरी सराव आहे.",
-      "category": "Miscellaneous",
-      "difficulty": "medium",
-      "sourceUrl": "https://www.youtube.com/watch?v=jcJx-Z-xw_0"
-    },
-    {
-      "id": "ca_20260828_07",
-      "question": "महिलांची आर्थिक सुरक्षितता आणि स्वावलंबन (women's financial security and self-reliance) वाढवण्यासाठी नुकतीच कोणत्या राज्य किंवा केंद्रशासित प्रदेशाने नवीन योजना सुरू केली आहे?",
-      "options": [
-        "महाराष्ट्र",
-        "दिल्ली",
-        "मध्य प्रदेश",
-        "कर्नाटक"
-      ],
-      "correctAnswer": 1,
-      "explanation": "दिल्ली सरकारने महिलांची आर्थिक सुरक्षितता आणि स्वावलंबन वाढवण्यासाठी नुकतीच एक नवीन योजना सुरू केली आहे.",
-      "category": "Polity",
-      "difficulty": "easy",
-      "sourceUrl": "https://www.youtube.com/watch?v=jcJx-Z-xw_0"
-    },
-    {
-      "id": "ca_20260828_08",
-      "question": "'सुरू महोत्सव' (Suru Festival) हा सण खालीलपैकी कोणत्या राज्यात/केंद्रशासित प्रदेशात साजरा केला जातो?",
-      "options": [
-        "लडाख",
-        "सिक्कीम",
-        "अरुणाचल प्रदेश",
-        "नागालँड"
-      ],
-      "correctAnswer": 0,
-      "explanation": "'सुरू महोत्सव' (Suru Festival) हा लडाख या केंद्रशासित प्रदेशात साजरा केला जाणारा एक महत्त्वाचा सांस्कृतिक सण आहे.",
-      "category": "Miscellaneous",
-      "difficulty": "medium",
-      "sourceUrl": "https://www.youtube.com/watch?v=jcJx-Z-xw_0"
-    },
-    {
-      "id": "ca_20260828_09",
-      "question": "अलीकडेच घडलेले 'खग्रास सूर्यग्रहण' (Total Solar Eclipse) कोणत्या दोन खगोलीय पिंडांमध्ये चंद्र आल्यामुळे होते?",
-      "options": [
-        "पृथ्वी आणि मंगळ",
-        "सूर्य आणि पृथ्वी",
-        "सूर्य आणि शुक्र",
-        "पृथ्वी आणि गुरु"
-      ],
-      "correctAnswer": 1,
-      "explanation": "खग्रास सूर्यग्रहण (Total Solar Eclipse) तेव्हा होते जेव्हा चंद्र हा सूर्य आणि पृथ्वीच्या बरोबर मध्ये येतो आणि चंद्राची सावली पृथ्वीवर पडल्यामुळे सूर्याचा प्रकाश पृथ्वीवरील काही भागांवर पोहोचू शकत नाही.",
-      "category": "Science & Tech",
-      "difficulty": "easy",
-      "sourceUrl": "https://www.nextias.com/ca/current-affairs/13-08-2026"
-    },
-    {
-      "id": "ca_20260828_10",
-      "question": "'सागर संवाद २०२६' (Sagar Samvad 2026) या परिषदेचे आयोजन कुठे करण्यात आले होते?",
+      "id": "ca_20260829_03",
+      "question": "दूरसंचार विभागाने (DoT) भारताच्या 'ब्रिक्स' (BRICS) अध्यक्षतेखाली 'ब्रिक्स आयसीटी ट्रॅक' (BRICS ICT Track) चे आयोजन नुकतेच कुठे केले होते?",
       "options": [
         "मुंबई",
-        "चेन्नई",
-        "कोची",
-        "नवी दिल्ली"
+        "नागपूर",
+        "नाशिक",
+        "पुणे"
       ],
       "correctAnswer": 3,
-      "explanation": "'सागर संवाद २०२६' या परिषदेचे आयोजन नवी दिल्ली येथे करण्यात आले होते, ज्यात सागरी क्षेत्र, बंदरे आणि जलवाहतुकीशी संबंधित विविध मुद्द्यांवर चर्चा करण्यात आली.",
-      "category": "Miscellaneous",
+      "explanation": "दूरसंचार विभागाने १७ ते २१ ऑगस्ट २०२६ दरम्यान पुणे, महाराष्ट्र येथे 'BRICS ICT Track' चे आयोजन केले होते. \"Innovate, Cooperate and Transform (ICT) for a Resilient Future\" ही या परिषदेची संकल्पना होती.",
+      "category": "Maharashtra",
       "difficulty": "hard",
-      "sourceUrl": "https://www.youtube.com/watch?v=jcJx-Z-xw_0"
+      "sourceUrl": "https://affairscloud.com/current-affairs-25-august-2026/"
+    },
+    {
+      "id": "ca_20260829_04",
+      "question": "केंद्र सरकारच्या पंचायत राज मंत्रालयाने सुरू केलेला 'दानवीर' (DAANVEER) हा उपक्रम कशाशी संबंधित आहे?",
+      "options": [
+        "ग्रामपंचायतींना डेस्कटॉप संगणक दान करणे",
+        "ग्रामपंचायतींमध्ये मोफत आरोग्य शिबिरे",
+        "शालेय विद्यार्थ्यांना वह्या-पुस्तके वाटप",
+        "शेतकऱ्यांना मोफत बी-बियाणे पुरवणे"
+      ],
+      "correctAnswer": 0,
+      "explanation": "'दानवीर' (DAANVEER) हा पंचायत राज मंत्रालयाचा एक लोकसहभागावर आधारित उपक्रम आहे. यामध्ये नागरिक, अनिवासी भारतीय आणि CSR संस्था थेट पडताळणी केलेल्या ग्रामपंचायतींना (verified Gram Panchayats) डेस्कटॉप संगणक दान करू शकतात.",
+      "category": "Polity",
+      "difficulty": "hard",
+      "sourceUrl": "https://www.insightsonindia.com/2026/08/28/upsc-current-affairs-28-august-2026/"
+    },
+    {
+      "id": "ca_20260829_05",
+      "question": "'समर्थक' (Samarthak) ही भारतीय नौदलाची नुकतीच समाविष्ट झालेली पहिली स्वदेशी बनावटीची युद्धनौका कोणत्या प्रकारची आहे?",
+      "options": [
+        "विमानवाहू युद्धनौका (Aircraft Carrier)",
+        "विनाशिका (Destroyer)",
+        "बहुउद्देशीय जहाज (Multi-Purpose Vessel - MPV)",
+        "पाणबुडी (Submarine)"
+      ],
+      "correctAnswer": 2,
+      "explanation": "'समर्थक' ही भारतीय नौदलाची पहिली स्वदेशी बनावटीची बहुउद्देशीय युद्धनौका (MPV) आहे. लार्सन अँड टुब्रो (L&T) ने कट्टुपल्ली शिपयार्डमध्ये तिची बांधणी केली असून ती नुकतीच नौदलाकडे सुपूर्द करण्यात आली.",
+      "category": "Science & Tech",
+      "difficulty": "medium",
+      "sourceUrl": "https://www.insightsonindia.com/2026/08/28/upsc-current-affairs-28-august-2026/"
+    },
+    {
+      "id": "ca_20260829_06",
+      "question": "'अमॅनिया तेलंगानेन्सिस' (Ammannia telanganensis) ही नुकतीच तेलंगणामध्ये शोधली गेलेली नवीन प्रजाती कशाची आहे?",
+      "options": [
+        "साप",
+        "गोड्या पाण्यातील फुलांची वनस्पती",
+        "फुलपाखरू",
+        "बेडूक"
+      ],
+      "correctAnswer": 1,
+      "explanation": "'अमॅनिया तेलंगानेन्सिस' ही एक नवीन गोड्या पाण्यातील फुलांची वनस्पती (freshwater flowering plant) तेलंगणामध्ये शोधली गेली आहे. या वनस्पतीला Phytotaxa या आंतरराष्ट्रीय नियतकालिकात वर्णन करण्यात आले आहे.",
+      "category": "Environment",
+      "difficulty": "medium",
+      "sourceUrl": "https://www.insightsonindia.com/2026/08/28/upsc-current-affairs-28-august-2026/"
+    },
+    {
+      "id": "ca_20260829_07",
+      "question": "अलीकडेच कोणत्या शेजारील देशात हिमनदी (glacier) कोसळल्यामुळे रसुआ (Rasuwa) आणि नुवाकोट (Nuwakot) जिल्ह्यांमध्ये महापूर आला?",
+      "options": [
+        "भूतान",
+        "बांगलादेश",
+        "नेपाळ",
+        "म्यानमार"
+      ],
+      "correctAnswer": 2,
+      "explanation": "नेपाळच्या उत्तर सीमेवर हिमनदी (glacier) कोसळल्यामुळे रसुआ आणि नुवाकोट जिल्ह्यांमध्ये महापूर आला. याचा परिणाम सामायिक नद्यांवर (transboundary river network) झाला आहे.",
+      "category": "Geography",
+      "difficulty": "easy",
+      "sourceUrl": "https://www.insightsonindia.com/2026/08/28/upsc-current-affairs-28-august-2026/"
+    },
+    {
+      "id": "ca_20260829_08",
+      "question": "जागतिक आरोग्य संघटनेने (WHO) अलीकडेच कोणत्या खंडातील पाच देशांना (बुरुंडी, घाना, गिनी-बिसाऊ, रिपब्लिक ऑफ द काँगो आणि युगांडा) 'पोलिओ प्रकार २' (Polio Type 2) च्या प्रादुर्भावापासून मुक्त झाल्याचे घोषित केले आहे?",
+      "options": [
+        "आफ्रिका",
+        "आशिया",
+        "दक्षिण अमेरिका",
+        "युरोप"
+      ],
+      "correctAnswer": 0,
+      "explanation": "जागतिक आरोग्य संघटनेच्या (WHO) आफ्रिकन प्रादेशिक कार्यालयाने जानेवारी ते जून २०२६ दरम्यान केलेल्या मूल्यमापनानंतर, आफ्रिकेतील बुरुंडी, घाना, गिनी-बिसाऊ, काँगो आणि युगांडा हे पाच देश पोलिओ प्रकार २ च्या प्रादुर्भावापासून मुक्त झाल्याचे जाहीर केले.",
+      "category": "International",
+      "difficulty": "medium",
+      "sourceUrl": "https://affairscloud.com/current-affairs-25-august-2026/"
+    },
+    {
+      "id": "ca_20260829_09",
+      "question": "संयुक्त राष्ट्रांद्वारे (UN) 'गुलामगिरीच्या व्यापाराच्या स्मरणार्थ आणि त्याच्या निर्मूलनासाठी आंतरराष्ट्रीय दिवस' (International Day for the Remembrance of the Slave Trade and its Abolition) कधी साजरा केला जातो?",
+      "options": [
+        "१५ ऑगस्ट",
+        "२० ऑगस्ट",
+        "२३ ऑगस्ट",
+        "२८ ऑगस्ट"
+      ],
+      "correctAnswer": 2,
+      "explanation": "२३ ऑगस्ट रोजी 'गुलामगिरीच्या व्यापाराच्या स्मरणार्थ आणि त्याच्या निर्मूलनासाठी आंतरराष्ट्रीय दिवस' पाळला जातो. २२-२३ ऑगस्ट १७९१ रोजी हैती (Haiti) मध्ये झालेल्या ऐतिहासिक उठावाच्या स्मरणार्थ हा दिवस साजरा केला जातो.",
+      "category": "Miscellaneous",
+      "difficulty": "easy",
+      "sourceUrl": "https://affairscloud.com/current-affairs-26-august-2026/"
+    },
+    {
+      "id": "ca_20260829_10",
+      "question": "नुकत्याच पार पडलेल्या 'आयआयएम अहमदाबाद हेल्थकेअर समिट २०२६' (IIMA Healthcare Summit 2026) मध्ये आरोग्यसेवा क्षेत्रात कोणत्या उदयोन्मुख तंत्रज्ञानाचा (emerging technology) प्रगतीवर भर देण्यात आला?",
+      "options": [
+        "कृत्रिम बुद्धिमत्ता (Artificial Intelligence - AI)",
+        "ब्लॉकचेन (Blockchain)",
+        "नॅनो टेक्नॉलॉजी (Nanotechnology)",
+        "व्हर्च्युअल रियालिटी (VR)"
+      ],
+      "correctAnswer": 0,
+      "explanation": "'आयआयएम अहमदाबाद हेल्थकेअर समिट २०२६' (IIMA Healthcare Summit 2026) मध्ये \"Advancing AI in Healthcare\" या संकल्पनेवर भर देण्यात आला. या परिषदेत आरोग्यसेवा क्षेत्रात कृत्रिम बुद्धिमत्तेचा (AI) वापर वाढवण्यावर चर्चा झाली.",
+      "category": "Science & Tech",
+      "difficulty": "easy",
+      "sourceUrl": "https://affairscloud.com/current-affairs-25-august-2026/"
     }
   ],
   "totalQuestions": 10,
