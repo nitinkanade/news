@@ -1,0 +1,160 @@
+{
+  "date": "2026-08-31",
+  "topic": "Current Affairs",
+  "source": "Chronicle India",
+  "lastUpdated": "2026-08-31T10:00:00+05:30",
+  "quiz": [
+    {
+      "id": "ca_20260831_01",
+      "question": "नुकतेच भारतीय नौदलाला सुपूर्द करण्यात आलेले 'समर्थक' (Samarthak) हे पहिले स्वदेशी बहुउद्देशीय जहाज कोणत्या कंपनीने बांधले आहे?",
+      "options": [
+        "माझगाव डॉक शिपबिल्डर्स लिमिटेड (MDL)",
+        "लार्सन अँड टुब्रो (L&T)",
+        "गार्डन रीच शिपबिल्डर्स अँड इंजिनियर्स (GRSE)",
+        "हिंदुस्तान एयरोनॉटिक्स लिमिटेड (HAL)"
+      ],
+      "correctAnswer": 1,
+      "explanation": "२७ ऑगस्ट २०२६ रोजी भारतीय नौदलाला 'समर्थक' हे पहिले स्वदेशी बहुउद्देशीय जहाज प्राप्त झाले, जे लार्सन अँड टुब्रो (L&T) ने तामिळनाडूतील कट्टुपल्ली येथे बांधले आहे.",
+      "category": "Science & Tech",
+      "difficulty": "medium",
+      "sourceUrl": "https://www.chronicleindia.in/current-affairs/17873-samarthak-multi-purpose-vessel"
+    },
+    {
+      "id": "ca_20260831_02",
+      "question": "ऑगस्ट २०२६ मध्ये कोणत्या भारतीय ग्रँडमास्टरने ग्रँड चेस टूर जिंकून हा विक्रम करणारा पहिला भारतीय ठरला?",
+      "options": [
+        "विश्वनाथन आनंद",
+        "डी. गुकेश",
+        "आर. प्रज्ञानंद",
+        "विदित गुजराती"
+      ],
+      "correctAnswer": 2,
+      "explanation": "२७ ऑगस्ट २०२६ रोजी भारतीय ग्रँडमास्टर आर. प्रज्ञानंदने फायनलमध्ये फॅबियानो कारुआनाचा पराभव करत ग्रँड चेस टूर जिंकली आणि हा विक्रम करणारा तो पहिला भारतीय ठरला.",
+      "category": "Sports",
+      "difficulty": "easy",
+      "sourceUrl": "https://www.chronicleindia.in/current-affairs/17872-r-praggnanandhaa-wins-grand-chess-tour"
+    },
+    {
+      "id": "ca_20260831_03",
+      "question": "कोणत्या राज्य सरकारने नुकतेच स्टार्टअप्सना प्रोत्साहन देण्यासाठी नवीन 'स्टार्टअप धोरण-२०२६' (Startup Policy-2026) आणि मिशन पोर्टल लाँच केले आहे?",
+      "options": [
+        "महाराष्ट्र",
+        "कर्नाटक",
+        "गुजरात",
+        "उत्तर प्रदेश"
+      ],
+      "correctAnswer": 3,
+      "explanation": "२७ ऑगस्ट २०२६ रोजी उत्तर प्रदेशच्या मुख्यमंत्र्यांनी 'उत्तर प्रदेश स्टार्टअप मिशन पोर्टल' आणि 'स्टार्टअप धोरण-२०२६' लाँच केले.",
+      "category": "Economy",
+      "difficulty": "medium",
+      "sourceUrl": "https://www.chronicleindia.in/current-affairs/17871-uttar-pradesh-startup-mission-portal-and-startup-policy-2026"
+    },
+    {
+      "id": "ca_20260831_04",
+      "question": "२५ ऑगस्ट २०२६ रोजी वयाच्या ८० व्या वर्षी निधन झालेल्या अमेरिकन आयकॉनिक गायिका डॉली पार्टन (Dolly Parton) या कोणत्या संगीत प्रकारासाठी प्रसिद्ध होत्या?",
+      "options": [
+        "रॉक",
+        "कंट्री (Country)",
+        "पॉप",
+        "जॅझ"
+      ],
+      "correctAnswer": 1,
+      "explanation": "डौली पार्टन या अमेरिकन कंट्री संगीत गायिका, गीतकार आणि अभिनेत्री होत्या. त्यांच्या कारकिर्दीत त्यांनी ११ ग्रॅमी पुरस्कार जिंकले आहेत.",
+      "category": "Miscellaneous",
+      "difficulty": "hard",
+      "sourceUrl": "https://www.chronicleindia.in/current-affairs/17870-dolly-parton"
+    },
+    {
+      "id": "ca_20260831_05",
+      "question": "ऑगस्ट २०२६ मध्ये अमेरिका सरकारने कोणत्या 'ग्रेट लेक' (Great Lake) चे नाव बदलून 'लेक अमेरिका' (Lake America) ठेवण्याचा निर्णय घेतला?",
+      "options": [
+        "लेक सुपीरियर",
+        "लेक मिशिगन",
+        "लेक ह्युरॉन",
+        "लेक ओंटारियो"
+      ],
+      "correctAnswer": 3,
+      "explanation": "२७ ऑगस्ट २०२६ रोजी अमेरिकेचे अध्यक्ष डोनाल्ड ट्रम्प यांनी लेक ओंटारियोचे नाव बदलून 'लेक अमेरिका' करण्यासाठी एका कार्यकारी आदेशावर स्वाक्षरी केली.",
+      "category": "International",
+      "difficulty": "medium",
+      "sourceUrl": "https://www.chronicleindia.in/current-affairs/17869-lake-ontario-renamed-lake-america-by-the-u-s"
+    },
+    {
+      "id": "ca_20260831_06",
+      "question": "भारत आणि जपानने कोणत्या क्षेत्रात 'डीप-टेक कॅपिटल कॉरिडॉर' (Deep-Tech Capital Corridor) उभारण्याचा प्रस्ताव ठेवला आहे?",
+      "options": [
+        "अवकाश संशोधन",
+        "संरक्षण उत्पादन",
+        "स्टार्टअप्स आणि नवकल्पना",
+        "कृषी तंत्रज्ञान"
+      ],
+      "correctAnswer": 2,
+      "explanation": "२६ ऑगस्ट २०२६ रोजी भारत आणि जपानने टोकियो येथील राउंडटेबलमध्ये स्टार्टअप्स आणि 'डीप-टेक' क्षेत्रासाठी 'डीप-टेक कॅपिटल कॉरिडॉर'चा प्रस्ताव मांडला.",
+      "category": "International",
+      "difficulty": "hard",
+      "sourceUrl": "https://www.chronicleindia.in/current-affairs/17863-india-japan-startup-and-innovation-cooperation"
+    },
+    {
+      "id": "ca_20260831_07",
+      "question": "२५ ऑगस्ट २०२६ रोजी भारताने कोणत्या देशासोबत 'ब्लू इकॉनॉमी' (Blue Economy) आणि शाश्वत सागरी विकासासाठी सहकार्याची पुष्टी केली?",
+      "options": [
+        "मालदीव",
+        "मॉरिशस",
+        "सेशेल्स",
+        "श्रीलंका"
+      ],
+      "correctAnswer": 2,
+      "explanation": "भारत आणि सेशेल्स यांनी मत्स्यव्यवसाय आणि 'ब्लू इकॉनॉमी' क्षेत्रातील शाश्वत विकास आणि अन्न सुरक्षेसाठी सहकार्याची पुष्टी केली आहे.",
+      "category": "International",
+      "difficulty": "medium",
+      "sourceUrl": "https://www.chronicleindia.in/current-affairs/17862-india-seychelles-cooperation-in-blue-economy"
+    },
+    {
+      "id": "ca_20260831_08",
+      "question": "शालेय मुलांमधील पायाभूत वाचन कौशल्ये सुधारण्यासाठी 'CM-IMPACT Read & Rise' हा कार्यक्रम कोणत्या राज्याने सुरू केला आहे?",
+      "options": [
+        "आसाम",
+        "मेघालय",
+        "मिझोराम",
+        "सिक्कीम"
+      ],
+      "correctAnswer": 1,
+      "explanation": "मेघालय सरकारने २६ ऑगस्ट २०२६ रोजी 'CM-IMPACT Read & Rise Meghalaya' कार्यक्रम लाँच केला, ज्याचा उद्देश ग्रामीण आणि दुर्गम भागातील विद्यार्थ्यांची वाचन कौशल्ये सुधारणे हा आहे.",
+      "category": "Polity",
+      "difficulty": "medium",
+      "sourceUrl": "https://www.chronicleindia.in/current-affairs/17861-cm-impact-read-amp-rise-meghalaya-programme"
+    },
+    {
+      "id": "ca_20260831_09",
+      "question": "ऑगस्ट २०२६ मध्ये कोणत्या शेजारील देशात त्रिशुली नदीच्या (Trishuli River) खोऱ्यात हिमनदी फुटल्याने भीषण पूर आला?",
+      "options": [
+        "भूतान",
+        "नेपाळ",
+        "चीन (तिबेट)",
+        "म्यानमार"
+      ],
+      "correctAnswer": 1,
+      "explanation": "२६ ऑगस्ट २०२६ रोजी नेपाळ-तिबेट सीमेजवळ त्रिशुली नदीच्या खोऱ्यात भीषण पूर आला, ज्यात भारतीय नागरिकांसह अनेक बेपत्ता झाले. भूकंपानंतर हिमनदी फुटल्याने हा पूर आल्याची शक्यता आहे.",
+      "category": "Geography",
+      "difficulty": "easy",
+      "sourceUrl": "https://www.chronicleindia.in/current-affairs/17860-nepal"
+    },
+    {
+      "id": "ca_20260831_10",
+      "question": "सूक्ष्म, लघु आणि मध्यम उपक्रमांसाठी (MSME) कर्ज वितरणाचा विस्तार करण्यासाठी SIDBI ने कोणासोबत सह-कर्ज (Co-Lending) करारावर चर्चा केली?",
+      "options": [
+        "खासगी बँका (Private Banks)",
+        "प्रादेशिक ग्रामीण बँका (RRBs)",
+        "लघु वित्त बँका (SFBs)",
+        "सहकारी बँका (Cooperative Banks)"
+      ],
+      "correctAnswer": 1,
+      "explanation": "२५ ऑगस्ट २०२६ रोजी SIDBI ने ग्रामीण आणि निमशहरी भागात कर्ज पुरवठा वाढवण्यासाठी २८ प्रादेशिक ग्रामीण बँकांसोबत (RRBs) सह-कर्ज कराराबाबत नवी दिल्लीत कॉन्क्लेव्ह आयोजित केली.",
+      "category": "Economy",
+      "difficulty": "easy",
+      "sourceUrl": "https://www.chronicleindia.in/current-affairs/17859-sidbi-ndash-rrb-msme-co-lending-arrangement"
+    }
+  ],
+  "totalQuestions": 10,
+  "version": 1
+}
