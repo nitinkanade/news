@@ -1,130 +1,160 @@
 {
-  "date": "2026-09-01",
+  "date": "2026-09-02",
   "topic": "Current Affairs",
-  "source": "NEXT IAS, PMF IAS, GKToday",
-  "lastUpdated": "2026-09-01T20:00:00+05:30",
+  "source": "The Hindu, Drishti IAS, Various",
+  "lastUpdated": "2026-09-02T20:00:00+05:30",
   "quiz": [
     {
-      "id": "ca_20260901_01",
-      "question": "नुकतेच केंद्र सरकारने अधिकृत आणि व्यावसायिक वापरासाठी कोणता वेळ संदर्भ अनिवार्य केला आहे?",
+      "id": "ca_20260902_01",
+      "question": "नुकतेच महाराष्ट्र मंत्रिमंडळाने कोणत्या वर्षापर्यंत राज्याला 'अमली पदार्थमुक्त' (drug-free) बनवण्याचे धोरण मंजूर केले आहे?",
       "options": [
-        "ग्रीनविच मीन टाइम (GMT)",
-        "भारतीय मानक वेळ (IST)",
-        "जागतिक समन्वयित वेळ (UTC)",
-        "पॅसिफिक मानक वेळ (PST)"
-      ],
-      "correctAnswer": 1,
-      "explanation": "केंद्रीय ग्राहक व्यवहार मंत्रालयाने लीगल मेट्रोलॉजी (भारतीय मानक वेळ) नियम, 2026 अधिसूचित केले आहेत, ज्यामुळे IST हा भारतासाठी एकमेव अधिकृत वेळ संदर्भ बनला आहे. हे नियम लीगल मेट्रोलॉजी कायदा, 2009 अंतर्गत येतात.",
-      "category": "Polity",
-      "difficulty": "medium",
-      "sourceUrl": "https://www.nextias.com/ca/current-affairs/01-09-2026"
-    },
-    {
-      "id": "ca_20260901_02",
-      "question": "2026-27 या आर्थिक वर्षाच्या पहिल्या तिमाहीत (एप्रिल-जून) भारताचा वास्तविक GDP विकास दर किती नोंदवला गेला?",
-      "options": [
-        "7.0%",
-        "7.2%",
-        "7.8%",
-        "8.3%"
+        "2027",
+        "2028",
+        "2029",
+        "2030"
       ],
       "correctAnswer": 2,
-      "explanation": "भारताने 2026-27 च्या पहिल्या तिमाहीत (एप्रिल-जून) 7.8% वास्तविक GDP विकास दर नोंदवला. हा दर रिझर्व्ह बँक ऑफ इंडियाच्या (RBI) 7% च्या अंदाजापेक्षा जास्त आहे.",
-      "category": "Economy",
+      "explanation": "महाराष्ट्र मंत्रिमंडळाने 2029 पर्यंत राज्याला 'अमली पदार्थमुक्त' (drug-free) बनवण्याचे धोरण नुकतेच मंजूर केले आहे.",
+      "category": "Maharashtra",
       "difficulty": "medium",
-      "sourceUrl": "https://www.nextias.com/ca/current-affairs/01-09-2026"
+      "sourceUrl": "https://www.thehindu.com/news/national/maharashtra/maharashtra-cabinet-approves-policy-to-make-state-drug-free-by-2029/article71415985.ece"
     },
     {
-      "id": "ca_20260901_03",
-      "question": "कोणत्या राज्याच्या अन्न व औषध प्रशासन (FDA) विभागाने नुकतीच अन्न भेसळीवर आक्रमक कारवाई सुरू केली आहे?",
+      "id": "ca_20260902_02",
+      "question": "महाराष्ट्र विधानसभेच्या सर्व 288 मतदारसंघांसाठी नुकतीच कोणती यादी प्रसिद्ध करण्यात आली?",
       "options": [
-        "गुजरात",
-        "महाराष्ट्र",
-        "कर्नाटक",
-        "उत्तर प्रदेश"
+        "उमेदवारांची यादी",
+        "अंतिम मतदार यादी",
+        "प्रारूप मतदार यादी (Draft electoral roll)",
+        "मतदान केंद्रांची यादी"
       ],
-      "correctAnswer": 1,
-      "explanation": "महाराष्ट्राच्या अन्न व औषध प्रशासनाने (FDA) अन्न भेसळीवर कडक कारवाई सुरू केली आहे. यामुळे भारतातील वाढत्या अन्न सुरक्षा चिंता आणि कडक अंमलबजावणीच्या गरजेवर प्रकाश पडतो.",
+      "correctAnswer": 2,
+      "explanation": "महाराष्ट्र विधानसभेच्या सर्व 288 मतदारसंघांसाठी प्रारूप मतदार यादी (Draft electoral roll) नुकतीच प्रसिद्ध करण्यात आली आहे.",
       "category": "Maharashtra",
       "difficulty": "easy",
-      "sourceUrl": "https://www.nextias.com/ca/current-affairs/01-09-2026"
+      "sourceUrl": "https://www.thehindu.com/news/national/maharashtra/maharashtra-draft-electoral-roll-for-all-288-assembly-constituencies-out-check-your-name-on-the-voter-list/article71411810.ece"
     },
     {
-      "id": "ca_20260901_04",
-      "question": "चिप उत्पादन परिसंस्थेला चालना देण्यासाठी सरकारने अधिसूचित केलेल्या 'सेमीकॉन 2.0' (Semicon 2.0) योजनेचा खर्च किती आहे?",
+      "id": "ca_20260902_03",
+      "question": "केंद्रीय मंत्रिमंडळाने नुकत्याच मंजूर केलेल्या 'BioE3' धोरणाचा मुख्य उद्देश काय आहे?",
       "options": [
-        "रु. 76,000 कोटी",
-        "रु. 1.05 लाख कोटी",
-        "रु. 1.27 लाख कोटी",
-        "रु. 2.00 लाख कोटी"
+        "अंतराळ संशोधन",
+        "उच्च-कार्यक्षमता जैव-उत्पादन (High-Performance Biomanufacturing)",
+        "इलेक्ट्रिक वाहने",
+        "सौर ऊर्जा प्रकल्प"
       ],
-      "correctAnswer": 2,
-      "explanation": "सरकारने देशातील चिप उत्पादन परिसंस्थेला चालना देण्यासाठी 1.27 लाख कोटी रुपयांच्या खर्चासह 'सेमीकॉन 2.0' योजना अधिसूचित केली आहे. इंडिया सेमीकंडक्टर मिशन 1.0 ची सुरुवात 2021 मध्ये झाली होती.",
+      "correctAnswer": 1,
+      "explanation": "केंद्रीय मंत्रिमंडळाने जैवतंत्रज्ञान विभागाच्या (DBT) 'BioE3 (Biotechnology for Economy, Environment and Employment) Policy for Fostering High-Performance Biomanufacturing' या प्रस्तावाला मंजुरी दिली आहे.",
       "category": "Science & Tech",
-      "difficulty": "medium",
-      "sourceUrl": "https://www.nextias.com/ca/current-affairs/01-09-2026"
-    },
-    {
-      "id": "ca_20260901_05",
-      "question": "माजुली आणि तवांग मॉडेल्स नुकतेच बातम्यांमध्ये होते, ते कशाशी संबंधित आहेत?",
-      "options": [
-        "जलसंधारण",
-        "घनकचरा व्यवस्थापन",
-        "सौर ऊर्जा",
-        "वन्यजीव संरक्षण"
-      ],
-      "correctAnswer": 1,
-      "explanation": "माजुली (आसाम) आणि तवांग (अरुणाचल प्रदेश) येथील ग्रामीण कचरा व्यवस्थापन मॉडेल्सनी दाखवून दिले आहे की लोकसहभाग, विकेंद्रित प्रणाली आणि स्थानिक पातळीवर अनुकूलित वित्तपोषण मॉडेल्स कचरा व्यवस्थापन कसे सुधारू शकतात.",
-      "category": "Environment",
       "difficulty": "hard",
-      "sourceUrl": "https://www.nextias.com/ca/current-affairs/01-09-2026"
+      "sourceUrl": "https://www.drishtiias.com/current-affairs-news-analysis-editorials/news-analysis/02-09-2024"
     },
     {
-      "id": "ca_20260901_06",
-      "question": "अलिकडील अभ्यासानुसार, गढवाल हिमालयातील अलकनंदा खोऱ्यात किती 'हँगिंग ग्लेशियर्स' (Hanging Glaciers) आहेत?",
+      "id": "ca_20260902_04",
+      "question": "नुकतीच सर्वोच्च न्यायालयाच्या स्थापनेची किती वर्षे पूर्ण झाल्यानिमित्त राष्ट्रपतींनी नवीन ध्वज आणि बोधचिन्हाचे अनावरण केले?",
       "options": [
-        "105",
-        "150",
-        "219",
-        "300"
+        "50 वर्षे",
+        "60 वर्षे",
+        "75 वर्षे",
+        "100 वर्षे"
       ],
       "correctAnswer": 2,
-      "explanation": "अलीकडील अभ्यासानुसार गढवाल हिमालयातील अलकनंदा खोऱ्यात तब्बल 219 हँगिंग ग्लेशियर्स आहेत. हँगिंग ग्लेशियर्स हे खड्या उतारांवर वसलेले बर्फाचे वस्तुमान आहेत जे तुटून मोठे हिमस्खलन होऊ शकतात.",
-      "category": "Geography",
-      "difficulty": "hard",
-      "sourceUrl": "https://www.nextias.com/ca/current-affairs/01-09-2026"
-    },
-    {
-      "id": "ca_20260901_07",
-      "question": "एकत्मिक खत व्यवस्थापन प्रणाली (iFMS) कोणत्या संस्थेने विकसित केली आहे?",
-      "options": [
-        "भारतीय अंतराळ संशोधन संस्था (ISRO)",
-        "राष्ट्रीय माहिती विज्ञान केंद्र (NIC)",
-        "नीती आयोग (NITI Aayog)",
-        "डिजिटल इंडिया कॉर्पोरेशन (DIC)"
-      ],
-      "correctAnswer": 1,
-      "explanation": "एकत्मिक खत व्यवस्थापन प्रणाली (iFMS) राष्ट्रीय माहिती विज्ञान केंद्र (NIC) द्वारे खत विभागासाठी विकसित केली गेली आहे. या प्रणालीमध्ये खतांचा पुरवठा, उत्पादन, आयात, वाहतूक आणि विक्री यांची माहिती असते.",
+      "explanation": "भारताच्या सर्वोच्च न्यायालयाच्या स्थापनेची (26 जानेवारी 1950) 75 वर्षे पूर्ण झाल्यानिमित्त नुकतेच राष्ट्रपतींनी सर्वोच्च न्यायालयाच्या नवीन ध्वज आणि बोधचिन्हाचे अनावरण केले.",
       "category": "Polity",
-      "difficulty": "easy",
-      "sourceUrl": "https://www.gktoday.in/daily-current-affairs-quiz-september-12026/"
+      "difficulty": "medium",
+      "sourceUrl": "https://www.drishtiias.com/current-affairs-news-analysis-editorials/news-analysis/02-09-2024"
     },
     {
-      "id": "ca_20260901_08",
-      "question": "कमलांग व्याघ्र प्रकल्प (Kamlang Tiger Reserve) कोणत्या राज्यात स्थित आहे?",
+      "id": "ca_20260902_05",
+      "question": "Aero India 2027 चे आयोजन फेब्रुवारी महिन्यात कोणत्या शहरात होणार आहे?",
       "options": [
-        "सिक्कीम",
-        "मेघालय",
-        "अरुणाचल प्रदेश",
-        "त्रिपुरा"
+        "हैदराबाद",
+        "पुणे",
+        "बेंगळुरू",
+        "नवी दिल्ली"
       ],
       "correctAnswer": 2,
-      "explanation": "कमलांग व्याघ्र प्रकल्प भारताच्या अरुणाचल प्रदेश राज्यात स्थित आहे. अलीकडेच हा प्रकल्प संवर्धनाच्या बातम्यांमुळे चर्चेत आला आहे.",
-      "category": "Environment",
+      "explanation": "Aero India 2027 हे प्रदर्शन 8 फेब्रुवारीपासून बेंगळुरू येथे आयोजित केले जाणार आहे, ज्यासाठी नोंदणी सप्टेंबरमध्ये सुरू होत आहे.",
+      "category": "Miscellaneous",
+      "difficulty": "medium",
+      "sourceUrl": "https://www.thehindu.com/news/national/aero-india-2027-to-be-held-in-bengaluru-from-february-8-registrations-set-to-open-from-september-3/article71420272.ece"
+    },
+    {
+      "id": "ca_20260902_06",
+      "question": "भारत आणि थायलंड दरम्यान 'जिवंत प्राण्यांची तस्करी' (Live Animal Trafficking) या विषयावर दोन दिवसीय बैठक कोणत्या संस्थेने आयोजित केली?",
+      "options": [
+        "रॉ (RAW)",
+        "सीबीआय (CBI)",
+        "एनआयए (NIA)",
+        "वन्यजीव गुन्हे नियंत्रण ब्युरो (WCCB)"
+      ],
+      "correctAnswer": 1,
+      "explanation": "केंद्रीय अन्वेषण ब्युरो (CBI) ने भारत आणि थायलंड दरम्यान 'जिवंत प्राण्यांची तस्करी' (Live Animal Trafficking) या विषयावर दोन दिवसीय बैठक आयोजित केली.",
+      "category": "International",
+      "difficulty": "medium",
+      "sourceUrl": "https://www.thehindu.com/news/national/cbi-organises-two-day-india-thailand-meeting-on-live-animal-trafficking/article71420155.ece"
+    },
+    {
+      "id": "ca_20260902_07",
+      "question": "ग्राहक व्यवहार विभागाने (DoCA) नुकतीच मोबाईल आणि इलेक्ट्रॉनिक क्षेत्रासाठी कोणत्या फ्रेमवर्कवर राष्ट्रीय कार्यशाळा आयोजित केली?",
+      "options": [
+        "राईट टू रिपेअर (Right to Repair)",
+        "राईट टू इन्फॉर्मेशन",
+        "राईट टू एज्युकेशन",
+        "राईट टू प्रायव्हसी"
+      ],
+      "correctAnswer": 0,
+      "explanation": "ग्राहक व्यवहार विभागाने (DoCA) मोबाईल आणि इलेक्ट्रॉनिक क्षेत्रासाठी 'राईट टू रिपेअर' (Right to Repair) फ्रेमवर्कवर राष्ट्रीय कार्यशाळा आयोजित केली होती.",
+      "category": "Economy",
+      "difficulty": "medium",
+      "sourceUrl": "https://www.drishtiias.com/current-affairs-news-analysis-editorials/news-analysis/02-09-2024"
+    },
+    {
+      "id": "ca_20260902_08",
+      "question": "तामिळनाडूच्या मुख्यमंत्र्यांनी चेन्नई आणि इतर शहरी भागात रस्त्यांच्या दुरुस्तीसाठी किती रुपयांची घोषणा केली आहे?",
+      "options": [
+        "₹1,000 कोटी",
+        "₹1,500 कोटी",
+        "₹1,850 कोटी",
+        "₹2,000 कोटी"
+      ],
+      "correctAnswer": 2,
+      "explanation": "तामिळनाडूच्या मुख्यमंत्र्यांनी चेन्नई आणि इतर शहरी भागात रस्त्यांच्या दुरुस्तीसाठी ₹1,850 कोटी निधीची घोषणा केली आहे.",
+      "category": "Miscellaneous",
       "difficulty": "easy",
-      "sourceUrl": "https://www.gktoday.in/daily-current-affairs-quiz-september-12026/"
+      "sourceUrl": "https://www.thehindu.com/news/national/cm-announces-1850-cr-for-road-repairs-in-chennai-and-other-urban-areas/article71420753.ece"
+    },
+    {
+      "id": "ca_20260902_09",
+      "question": "गोंडवाना विद्यापीठ, गडचिरोली येथे अलीकडेच समन्वयक म्हणून कुणाची नियुक्ती झाली आहे जे पूर्वी माओवादी होते?",
+      "options": [
+        "गणपती",
+        "मल्लोजीला वेणुगोपाल राव ऊर्फ भूपती",
+        "किशनजी",
+        "नंदकुमार"
+      ],
+      "correctAnswer": 1,
+      "explanation": "मल्लोजीला वेणुगोपाल राव ऊर्फ भूपती, जे पूर्वी एक माओवादी होते, त्यांची आता गडचिरोलीतील गोंडवाना विद्यापीठात समन्वयक म्हणून नियुक्ती करण्यात आली आहे.",
+      "category": "Maharashtra",
+      "difficulty": "hard",
+      "sourceUrl": "https://www.thehindu.com/news/national/from-dreaded-maoist-to-gondwana-university-coordinator-in-gadchiroli/article71419656.ece"
+    },
+    {
+      "id": "ca_20260902_10",
+      "question": "2025 मध्ये सरकारी विभागांविरुद्ध आलेल्या एकूण 70,584 भ्रष्टाचार तक्रारींमध्ये कोणत्या क्षेत्रांचा सर्वाधिक वाटा आहे?",
+      "options": [
+        "शिक्षण आणि आरोग्य",
+        "बँका आणि रेल्वे",
+        "पोलीस आणि महसूल",
+        "संरक्षण आणि कृषी"
+      ],
+      "correctAnswer": 1,
+      "explanation": "2025 मध्ये सरकारी विभागांविरुद्ध एकूण 70,584 भ्रष्टाचार तक्रारी प्राप्त झाल्या, ज्यामध्ये बँका आणि रेल्वे क्षेत्रांचा सर्वाधिक वाटा आहे.",
+      "category": "Miscellaneous",
+      "difficulty": "easy",
+      "sourceUrl": "https://www.thehindu.com/news/national/a-total-of-70584-corruption-complaints-received-against-government-departments-in-2025-banks-railways-top-chart/article71419312.ece"
     }
   ],
-  "totalQuestions": 8,
+  "totalQuestions": 10,
   "version": 1
 }
