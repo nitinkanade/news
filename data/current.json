@@ -1,158 +1,158 @@
 {
-  "date": "2026-09-02",
+  "date": "2026-09-03",
   "topic": "Current Affairs",
-  "source": "The Hindu, Drishti IAS, Various",
-  "lastUpdated": "2026-09-02T20:00:00+05:30",
+  "source": "AffairsCloud",
+  "lastUpdated": "2026-09-03T20:00:00+05:30",
   "quiz": [
     {
-      "id": "ca_20260902_01",
-      "question": "नुकतेच महाराष्ट्र मंत्रिमंडळाने कोणत्या वर्षापर्यंत राज्याला 'अमली पदार्थमुक्त' (drug-free) बनवण्याचे धोरण मंजूर केले आहे?",
+      "id": "ca_20260903_01",
+      "question": "नुकतीच ईस्पोर्ट्स गेम्स फेडरेशन (ESGF) चे अध्यक्ष म्हणून कोणाची निवड झाली आहे?",
       "options": [
-        "2027",
-        "2028",
-        "2029",
-        "2030"
-      ],
-      "correctAnswer": 2,
-      "explanation": "महाराष्ट्र मंत्रिमंडळाने 2029 पर्यंत राज्याला 'अमली पदार्थमुक्त' (drug-free) बनवण्याचे धोरण नुकतेच मंजूर केले आहे.",
-      "category": "Maharashtra",
-      "difficulty": "medium",
-      "sourceUrl": "https://www.thehindu.com/news/national/maharashtra/maharashtra-cabinet-approves-policy-to-make-state-drug-free-by-2029/article71415985.ece"
-    },
-    {
-      "id": "ca_20260902_02",
-      "question": "महाराष्ट्र विधानसभेच्या सर्व 288 मतदारसंघांसाठी नुकतीच कोणती यादी प्रसिद्ध करण्यात आली?",
-      "options": [
-        "उमेदवारांची यादी",
-        "अंतिम मतदार यादी",
-        "प्रारूप मतदार यादी (Draft electoral roll)",
-        "मतदान केंद्रांची यादी"
-      ],
-      "correctAnswer": 2,
-      "explanation": "महाराष्ट्र विधानसभेच्या सर्व 288 मतदारसंघांसाठी प्रारूप मतदार यादी (Draft electoral roll) नुकतीच प्रसिद्ध करण्यात आली आहे.",
-      "category": "Maharashtra",
-      "difficulty": "easy",
-      "sourceUrl": "https://www.thehindu.com/news/national/maharashtra/maharashtra-draft-electoral-roll-for-all-288-assembly-constituencies-out-check-your-name-on-the-voter-list/article71411810.ece"
-    },
-    {
-      "id": "ca_20260902_03",
-      "question": "केंद्रीय मंत्रिमंडळाने नुकत्याच मंजूर केलेल्या 'BioE3' धोरणाचा मुख्य उद्देश काय आहे?",
-      "options": [
-        "अंतराळ संशोधन",
-        "उच्च-कार्यक्षमता जैव-उत्पादन (High-Performance Biomanufacturing)",
-        "इलेक्ट्रिक वाहने",
-        "सौर ऊर्जा प्रकल्प"
+        "देवेंद्र फडणवीस",
+        "आशिष शेलार",
+        "नितीन गडकरी",
+        "सुधीर मुनगंटीवार"
       ],
       "correctAnswer": 1,
-      "explanation": "केंद्रीय मंत्रिमंडळाने जैवतंत्रज्ञान विभागाच्या (DBT) 'BioE3 (Biotechnology for Economy, Environment and Employment) Policy for Fostering High-Performance Biomanufacturing' या प्रस्तावाला मंजुरी दिली आहे.",
-      "category": "Science & Tech",
-      "difficulty": "hard",
-      "sourceUrl": "https://www.drishtiias.com/current-affairs-news-analysis-editorials/news-analysis/02-09-2024"
+      "explanation": "महाराष्ट्राचे इलेक्ट्रॉनिक्स, माहिती तंत्रज्ञान आणि सांस्कृतिक कार्य मंत्री आशिष शेलार यांची नवी दिल्ली येथे झालेल्या सर्वसाधारण सभेत ईस्पोर्ट्स गेम्स फेडरेशन (ESGF) चे अध्यक्ष म्हणून निवड झाली आहे.",
+      "category": "Maharashtra",
+      "difficulty": "medium",
+      "sourceUrl": "https://affairscloud.com/current-affairs-1-september-2026/"
     },
     {
-      "id": "ca_20260902_04",
-      "question": "नुकतीच सर्वोच्च न्यायालयाच्या स्थापनेची किती वर्षे पूर्ण झाल्यानिमित्त राष्ट्रपतींनी नवीन ध्वज आणि बोधचिन्हाचे अनावरण केले?",
+      "id": "ca_20260903_02",
+      "question": "अलीकडेच कोणत्या मंत्रालयाने 'लीगल मेट्रोलॉजी (भारतीय प्रमाण वेळ) नियम, 2026' अधिसूचित केले आहेत?",
       "options": [
-        "50 वर्षे",
-        "60 वर्षे",
-        "75 वर्षे",
-        "100 वर्षे"
+        "विज्ञान आणि तंत्रज्ञान मंत्रालय",
+        "ग्राहक व्यवहार विभाग (DoCA)",
+        "माहिती व प्रसारण मंत्रालय",
+        "इलेक्ट्रॉनिक्स आणि माहिती तंत्रज्ञान मंत्रालय"
       ],
-      "correctAnswer": 2,
-      "explanation": "भारताच्या सर्वोच्च न्यायालयाच्या स्थापनेची (26 जानेवारी 1950) 75 वर्षे पूर्ण झाल्यानिमित्त नुकतेच राष्ट्रपतींनी सर्वोच्च न्यायालयाच्या नवीन ध्वज आणि बोधचिन्हाचे अनावरण केले.",
+      "correctAnswer": 1,
+      "explanation": "ग्राहक व्यवहार विभागाने (DoCA) 'लीगल मेट्रोलॉजी (भारतीय प्रमाण वेळ) नियम, 2026' अधिसूचित केले आहेत, जे देशभरातील सर्व कायदेशीर आणि अधिकृत उद्देशांसाठी भारतीय प्रमाण वेळ (IST) अनिवार्य करते.",
       "category": "Polity",
-      "difficulty": "medium",
-      "sourceUrl": "https://www.drishtiias.com/current-affairs-news-analysis-editorials/news-analysis/02-09-2024"
-    },
-    {
-      "id": "ca_20260902_05",
-      "question": "Aero India 2027 चे आयोजन फेब्रुवारी महिन्यात कोणत्या शहरात होणार आहे?",
-      "options": [
-        "हैदराबाद",
-        "पुणे",
-        "बेंगळुरू",
-        "नवी दिल्ली"
-      ],
-      "correctAnswer": 2,
-      "explanation": "Aero India 2027 हे प्रदर्शन 8 फेब्रुवारीपासून बेंगळुरू येथे आयोजित केले जाणार आहे, ज्यासाठी नोंदणी सप्टेंबरमध्ये सुरू होत आहे.",
-      "category": "Miscellaneous",
-      "difficulty": "medium",
-      "sourceUrl": "https://www.thehindu.com/news/national/aero-india-2027-to-be-held-in-bengaluru-from-february-8-registrations-set-to-open-from-september-3/article71420272.ece"
-    },
-    {
-      "id": "ca_20260902_06",
-      "question": "भारत आणि थायलंड दरम्यान 'जिवंत प्राण्यांची तस्करी' (Live Animal Trafficking) या विषयावर दोन दिवसीय बैठक कोणत्या संस्थेने आयोजित केली?",
-      "options": [
-        "रॉ (RAW)",
-        "सीबीआय (CBI)",
-        "एनआयए (NIA)",
-        "वन्यजीव गुन्हे नियंत्रण ब्युरो (WCCB)"
-      ],
-      "correctAnswer": 1,
-      "explanation": "केंद्रीय अन्वेषण ब्युरो (CBI) ने भारत आणि थायलंड दरम्यान 'जिवंत प्राण्यांची तस्करी' (Live Animal Trafficking) या विषयावर दोन दिवसीय बैठक आयोजित केली.",
-      "category": "International",
-      "difficulty": "medium",
-      "sourceUrl": "https://www.thehindu.com/news/national/cbi-organises-two-day-india-thailand-meeting-on-live-animal-trafficking/article71420155.ece"
-    },
-    {
-      "id": "ca_20260902_07",
-      "question": "ग्राहक व्यवहार विभागाने (DoCA) नुकतीच मोबाईल आणि इलेक्ट्रॉनिक क्षेत्रासाठी कोणत्या फ्रेमवर्कवर राष्ट्रीय कार्यशाळा आयोजित केली?",
-      "options": [
-        "राईट टू रिपेअर (Right to Repair)",
-        "राईट टू इन्फॉर्मेशन",
-        "राईट टू एज्युकेशन",
-        "राईट टू प्रायव्हसी"
-      ],
-      "correctAnswer": 0,
-      "explanation": "ग्राहक व्यवहार विभागाने (DoCA) मोबाईल आणि इलेक्ट्रॉनिक क्षेत्रासाठी 'राईट टू रिपेअर' (Right to Repair) फ्रेमवर्कवर राष्ट्रीय कार्यशाळा आयोजित केली होती.",
-      "category": "Economy",
-      "difficulty": "medium",
-      "sourceUrl": "https://www.drishtiias.com/current-affairs-news-analysis-editorials/news-analysis/02-09-2024"
-    },
-    {
-      "id": "ca_20260902_08",
-      "question": "तामिळनाडूच्या मुख्यमंत्र्यांनी चेन्नई आणि इतर शहरी भागात रस्त्यांच्या दुरुस्तीसाठी किती रुपयांची घोषणा केली आहे?",
-      "options": [
-        "₹1,000 कोटी",
-        "₹1,500 कोटी",
-        "₹1,850 कोटी",
-        "₹2,000 कोटी"
-      ],
-      "correctAnswer": 2,
-      "explanation": "तामिळनाडूच्या मुख्यमंत्र्यांनी चेन्नई आणि इतर शहरी भागात रस्त्यांच्या दुरुस्तीसाठी ₹1,850 कोटी निधीची घोषणा केली आहे.",
-      "category": "Miscellaneous",
-      "difficulty": "easy",
-      "sourceUrl": "https://www.thehindu.com/news/national/cm-announces-1850-cr-for-road-repairs-in-chennai-and-other-urban-areas/article71420753.ece"
-    },
-    {
-      "id": "ca_20260902_09",
-      "question": "गोंडवाना विद्यापीठ, गडचिरोली येथे अलीकडेच समन्वयक म्हणून कुणाची नियुक्ती झाली आहे जे पूर्वी माओवादी होते?",
-      "options": [
-        "गणपती",
-        "मल्लोजीला वेणुगोपाल राव ऊर्फ भूपती",
-        "किशनजी",
-        "नंदकुमार"
-      ],
-      "correctAnswer": 1,
-      "explanation": "मल्लोजीला वेणुगोपाल राव ऊर्फ भूपती, जे पूर्वी एक माओवादी होते, त्यांची आता गडचिरोलीतील गोंडवाना विद्यापीठात समन्वयक म्हणून नियुक्ती करण्यात आली आहे.",
-      "category": "Maharashtra",
       "difficulty": "hard",
-      "sourceUrl": "https://www.thehindu.com/news/national/from-dreaded-maoist-to-gondwana-university-coordinator-in-gadchiroli/article71419656.ece"
+      "sourceUrl": "https://affairscloud.com/current-affairs-1-september-2026/"
     },
     {
-      "id": "ca_20260902_10",
-      "question": "2025 मध्ये सरकारी विभागांविरुद्ध आलेल्या एकूण 70,584 भ्रष्टाचार तक्रारींमध्ये कोणत्या क्षेत्रांचा सर्वाधिक वाटा आहे?",
+      "id": "ca_20260903_03",
+      "question": "भारतीय नौदलाने नुकतीच कोणती दुसरी स्वदेशी 'डायव्हिंग सपोर्ट व्हेसल' (DSV) कार्यान्वित केली आहे?",
       "options": [
-        "शिक्षण आणि आरोग्य",
-        "बँका आणि रेल्वे",
-        "पोलीस आणि महसूल",
-        "संरक्षण आणि कृषी"
+        "विक्रांत",
+        "निपुण",
+        "निसार",
+        "वरुण"
       ],
       "correctAnswer": 1,
-      "explanation": "2025 मध्ये सरकारी विभागांविरुद्ध एकूण 70,584 भ्रष्टाचार तक्रारी प्राप्त झाल्या, ज्यामध्ये बँका आणि रेल्वे क्षेत्रांचा सर्वाधिक वाटा आहे.",
+      "explanation": "भारतीय नौदलाने 'निपुण' ही दुसरी स्वदेशी डायव्हिंग सपोर्ट व्हेसल (DSV) मुंबईतील नेव्हल डॉकयार्ड येथे कार्यान्वित केली आहे, जी हिंदुस्थान शिपयार्ड लिमिटेडने बांधली आहे.",
+      "category": "Science & Tech",
+      "difficulty": "medium",
+      "sourceUrl": "https://affairscloud.com/current-affairs-1-september-2026/"
+    },
+    {
+      "id": "ca_20260903_04",
+      "question": "नुकतेच नासाने (NASA) विश्वाची रहस्ये उलगडण्यासाठी कोणता नवीन अवकाश दुर्बिण (Space Telescope) प्रक्षेपित केला?",
+      "options": [
+        "जेम्स वेब दुर्बिण",
+        "हबल दुर्बिण",
+        "नॅन्सी ग्रेस रोमन दुर्बिण",
+        "केप्लर दुर्बिण"
+      ],
+      "correctAnswer": 2,
+      "explanation": "नासाने (NASA) अलीकडेच 'नॅन्सी ग्रेस रोमन स्पेस टेलिस्कोप' (Nancy Grace Roman Space Telescope) स्पेसएक्स फाल्कन हेवी रॉकेटद्वारे प्रक्षेपित केला आहे.",
+      "category": "Science & Tech",
+      "difficulty": "medium",
+      "sourceUrl": "https://affairscloud.com/current-affairs-1-september-2026/"
+    },
+    {
+      "id": "ca_20260903_05",
+      "question": "राष्ट्रीय लघु उद्योग दिवस (National Small Industry Day) कधी साजरा केला जातो?",
+      "options": [
+        "29 ऑगस्ट",
+        "30 ऑगस्ट",
+        "1 सप्टेंबर",
+        "3 सप्टेंबर"
+      ],
+      "correctAnswer": 1,
+      "explanation": "लघु उद्योगांचे (SSIs) आणि सूक्ष्म, लघु व मध्यम उपक्रमांचे (MSMEs) आर्थिक वाढीतील योगदान ओळखण्यासाठी भारतात दरवर्षी 30 ऑगस्ट रोजी राष्ट्रीय लघु उद्योग दिवस साजरा केला जातो.",
       "category": "Miscellaneous",
       "difficulty": "easy",
-      "sourceUrl": "https://www.thehindu.com/news/national/a-total-of-70584-corruption-complaints-received-against-government-departments-in-2025-banks-railways-top-chart/article71419312.ece"
+      "sourceUrl": "https://affairscloud.com/current-affairs-1-september-2026/"
+    },
+    {
+      "id": "ca_20260903_06",
+      "question": "ऑइल ग्रीन एनर्जी लिमिटेडने (OGEL) नुकतेच कचऱ्यातून ऊर्जा (Waste-to-Energy) प्रकल्पांसाठी कोणत्या राज्यासोबत सामंजस्य करार (MoU) केले आहेत?",
+      "options": [
+        "महाराष्ट्र",
+        "हरियाणा",
+        "पंजाब",
+        "गुजरात"
+      ],
+      "correctAnswer": 1,
+      "explanation": "ऑइल ग्रीन एनर्जी लिमिटेडने (OGEL) हरियाणातील गुरुग्राम, फरिदाबाद, हिस्सार आणि अंबाला या चार नगरपालिकांसोबत कचऱ्यातून ऊर्जा (Waste-to-Energy) प्रकल्पांसाठी सामंजस्य करार केले आहेत.",
+      "category": "Environment",
+      "difficulty": "medium",
+      "sourceUrl": "https://affairscloud.com/current-affairs-1-september-2026/"
+    },
+    {
+      "id": "ca_20260903_07",
+      "question": "एफपीएआय (FPAI) इंडियन फुटबॉल अवॉर्ड्स 2026 मध्ये 'इंडियन फुटबॉलर ऑफ द इयर' म्हणून कोणाची निवड झाली आहे?",
+      "options": [
+        "सुनील छेत्री",
+        "लालियानझुआला छांगटे",
+        "संदेश झिंगन",
+        "सहल अब्दुल समद"
+      ],
+      "correctAnswer": 1,
+      "explanation": "मिझोरामचा भारतीय मिडफिल्डर लालियानझुआला छांगटे याला एफपीएआय (FPAI) इंडियन फुटबॉल अवॉर्ड्स 2026 मध्ये 'इंडियन फुटबॉलर ऑफ द इयर' म्हणून सन्मानित करण्यात आले.",
+      "category": "Sports",
+      "difficulty": "medium",
+      "sourceUrl": "https://affairscloud.com/current-affairs-1-september-2026/"
+    },
+    {
+      "id": "ca_20260903_08",
+      "question": "ताटा ॲडव्हान्स्ड सिस्टम्स लिमिटेड (TASL) ने भारतात अँटी-टँक क्षेपणास्त्र प्रणाली (Anti-Tank Missile System) तयार करण्यासाठी कोणत्या कंपनीसोबत करार केला आहे?",
+      "options": [
+        "बोईंग (Boeing)",
+        "डसॉल्ट (Dassault)",
+        "जेव्हलिन जॉइंट व्हेंचर (JJV)",
+        "एअरबस (Airbus)"
+      ],
+      "correctAnswer": 2,
+      "explanation": "TASL ने भारतात जेव्हलिन (Javelin) अँटी-टँक क्षेपणास्त्र प्रणाली तयार करण्यासाठी रेथिऑन आणि लॉकहीड मार्टिन यांची भागीदारी असलेल्या जेव्हलिन जॉइंट व्हेंचर (JJV) सोबत सामंजस्य करार केला आहे.",
+      "category": "Economy",
+      "difficulty": "hard",
+      "sourceUrl": "https://affairscloud.com/current-affairs-1-september-2026/"
+    },
+    {
+      "id": "ca_20260903_09",
+      "question": "जबलपूर (मध्य प्रदेश) येथे टी-72 आणि टी-90 टँक ओव्हरहॉल प्रकल्पाची (Tank Overhaul Project) पायाभरणी नुकतीच कोणी केली?",
+      "options": [
+        "पंतप्रधान नरेंद्र मोदी",
+        "संरक्षण मंत्री राजनाथ सिंह",
+        "गृहमंत्री अमित शहा",
+        "मुख्यमंत्री मोहन यादव"
+      ],
+      "correctAnswer": 1,
+      "explanation": "संरक्षण मंत्री राजनाथ सिंह यांनी अलीकडेच मध्य प्रदेशातील जबलपूर येथे 472 कोटी रुपयांच्या टी-72 आणि टी-90 टँक ओव्हरहॉल प्रकल्पाची पायाभरणी केली.",
+      "category": "Miscellaneous",
+      "difficulty": "easy",
+      "sourceUrl": "https://affairscloud.com/current-affairs-1-september-2026/"
+    },
+    {
+      "id": "ca_20260903_10",
+      "question": "स्पोर्ट्स अथॉरिटी ऑफ इंडिया (SAI) ने ईशान्य भारतातील पहिले जलतरण केंद्र (Swimming NCoE) कोठे स्थापन करण्याचा निर्णय घेतला आहे?",
+      "options": [
+        "मेघालय",
+        "आसाम",
+        "सिक्कीम",
+        "त्रिपुरा"
+      ],
+      "correctAnswer": 1,
+      "explanation": "SAI, BAI आणि आसामच्या क्रीडा प्राधिकरणाने (SAA) आसाममधील अमिनगाव स्पोर्ट्स कॉम्प्लेक्समध्ये ईशान्य भारतातील पहिले 'नॅशनल सेंटर ऑफ एक्सलन्स फॉर स्विमिंग' (NCoE) स्थापन करण्यासाठी करार केला आहे.",
+      "category": "Sports",
+      "difficulty": "easy",
+      "sourceUrl": "https://affairscloud.com/current-affairs-1-september-2026/"
     }
   ],
   "totalQuestions": 10,
