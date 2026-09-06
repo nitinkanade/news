@@ -1,158 +1,158 @@
 {
-  "date": "2026-09-05",
+  "date": "2026-09-06",
   "topic": "Current Affairs",
-  "source": "AffairsCloud, AmbitiousBaba, C4S",
-  "lastUpdated": "2026-09-05T12:00:00+05:30",
+  "source": "The Hindu, ABP Majha, Times of India",
+  "lastUpdated": "2026-09-06T12:00:00+05:30",
   "quiz": [
     {
-      "id": "ca_20260905_01",
-      "question": "ISRO ने नुकताच श्रीहरिकोटा येथून कोणता पृथ्वी निरीक्षण उपग्रह (Earth Observation Satellite) यशस्वीरीत्या प्रक्षेपित केला?",
+      "id": "ca_20260906_01",
+      "question": "नुकत्याच प्रसिद्ध झालेल्या संयुक्त राष्ट्रांच्या (UN) नव्या जागतिक नकाशावर भारताने कोणत्या कारणास्तव आक्षेप घेतला आहे?",
       "options": [
-        "EOS-03",
-        "EOS-04",
-        "EOS-05",
-        "EOS-06"
-      ],
-      "correctAnswer": 2,
-      "explanation": "ISRO ने श्रीहरिकोटा येथून EOS-05 हा प्रगत पृथ्वी निरीक्षण उपग्रह यशस्वीरीत्या प्रक्षेपित केला आहे.",
-      "category": "Science & Tech",
-      "difficulty": "medium",
-      "sourceUrl": "https://affairscloud.com/current-affairs-5-september-2026/"
-    },
-    {
-      "id": "ca_20260905_02",
-      "question": "भारताच्या संरक्षण मुत्सद्देगिरीला बळकट करण्यासाठी नुकताच कोणता दस्तऐवज (Document) प्रसिद्ध करण्यात आला आहे?",
-      "options": [
-        "सुरक्षा (SURAKSHA)",
-        "रक्षा (RAKSHA)",
-        "कवच (KAVACH)",
-        "प्रहार (PRAHAR)"
+        "श्रीलंकेचे चुकीचे चित्रण",
+        "जम्मू-काश्मीर आणि लडाखचे चुकीचे चित्रण",
+        "अरुणाचल प्रदेशचे चुकीचे चित्रण",
+        "अंदमान-निकोबार बेटांचे चुकीचे चित्रण"
       ],
       "correctAnswer": 1,
-      "explanation": "संरक्षण संबंध बळकट करण्यासाठी आणि भारताचा दृष्टिकोन स्पष्ट करण्यासाठी 'रक्षा' (RAKSHA) हा धोरणात्मक दस्तऐवज नुकताच प्रसिद्ध करण्यात आला आहे.",
+      "explanation": "नव्या जागतिक नकाशामध्ये जम्मू-काश्मीर आणि लडाखचे चुकीचे चित्रण केल्यामुळे भारताने संयुक्त राष्ट्रांच्या नकाशा ठरावाला पाठिंबा देत असतानाही यावर तीव्र आक्षेप नोंदवला आहे.",
+      "category": "International",
+      "difficulty": "medium",
+      "sourceUrl": "https://timesofindia.indiatimes.com/india"
+    },
+    {
+      "id": "ca_20260906_02",
+      "question": "बालविवाह निर्मूलनासाठी संयुक्त राष्ट्रांनी (UN) कोणता दिवस निश्चित केला आहे ज्याला भारताने पाठिंबा दिला?",
+      "options": [
+        "२७ नोव्हेंबर",
+        "१५ ऑगस्ट",
+        "१० डिसेंबर",
+        "२४ जानेवारी"
+      ],
+      "correctAnswer": 0,
+      "explanation": "संयुक्त राष्ट्रांच्या आमसभेने (UNGA) २७ नोव्हेंबर हा 'बालविवाह निर्मूलन दिवस' म्हणून घोषित करण्याच्या ठरावाला भारताने पाठिंबा दिला आहे.",
+      "category": "International",
+      "difficulty": "medium",
+      "sourceUrl": "https://www.business-standard.com/category/current-affairs-news-national-1150106.htm"
+    },
+    {
+      "id": "ca_20260906_03",
+      "question": "केंद्रीय गृहमंत्री अमित शाह यांच्या मते, कोणत्या वर्षापर्यंत भारताला 'अमली पदार्थ मुक्त' (Drug-free) बनवण्याची सरकारची योजना आहे?",
+      "options": [
+        "२०२७",
+        "२०२८",
+        "२०२९",
+        "२०३०"
+      ],
+      "correctAnswer": 2,
+      "explanation": "केंद्रीय गृहमंत्री अमित शाह यांनी जाहीर केले की मोदी सरकारने २०२९ पर्यंत भारताला अमली पदार्थ मुक्त (drug-free) बनवण्यासाठी रोडमॅप तयार केला आहे.",
+      "category": "Polity",
+      "difficulty": "easy",
+      "sourceUrl": "https://www.thehindu.com/news/national/"
+    },
+    {
+      "id": "ca_20260906_04",
+      "question": "नुकतेच पुणे येथील सांगवी भागात कोणत्या उत्सवादरम्यान लोखंडी स्ट्रक्चर कोसळून एका महिलेचा दुर्दैवी मृत्यू झाला?",
+      "options": [
+        "गणेशोत्सव",
+        "दहीहंडी उत्सव",
+        "नवरात्रौत्सव",
+        "दिवाळी पहाट"
+      ],
+      "correctAnswer": 1,
+      "explanation": "पुण्यातील सांगवी भागात दहीहंडी उत्सवादरम्यान लोखंडी स्ट्रक्चर कोसळून एका महिलेचा मृत्यू झाला असून पोलिसांनी मंडळाच्या अध्यक्षांवर गुन्हा दाखल केला आहे.",
+      "category": "Maharashtra",
+      "difficulty": "easy",
+      "sourceUrl": "https://marathi.abplive.com/latest-news"
+    },
+    {
+      "id": "ca_20260906_05",
+      "question": "अंदमान आणि निकोबार बेटांचे नवे नायब राज्यपाल (Lieutenant Governor) म्हणून कोणाची नियुक्ती करण्यात आली आहे?",
+      "options": [
+        "देवेंद्र फडणवीस",
+        "दिनेश शर्मा",
+        "स्मृती इराणी",
+        "अनुराग ठाकूर"
+      ],
+      "correctAnswer": 1,
+      "explanation": "भाजपचे खासदार दिनेश शर्मा यांची अंदमान आणि निकोबार बेटांचे नायब राज्यपाल (Lt Governor) म्हणून नियुक्ती करण्यात आली आहे.",
       "category": "Polity",
       "difficulty": "medium",
-      "sourceUrl": "https://c4scourses.in/current-affairs/daily-current-affairs-dca-05-september-2026/"
+      "sourceUrl": "https://www.thehindu.com/news/national/"
     },
     {
-      "id": "ca_20260905_03",
-      "question": "२०२७ मध्ये होणारे 'एरो इंडिया' (Aero India) चे १६ वे संस्करण कोठे आयोजित केले जाणार आहे?",
+      "id": "ca_20260906_06",
+      "question": "३८ वर्षांनंतर पहिल्यांदाच भारताचे कोणते संरक्षण मंत्री श्रीलंकेच्या ३ दिवसीय दौऱ्यावर जाणार आहेत?",
       "options": [
-        "नवी दिल्ली",
-        "पुणे",
-        "बेंगळुरू",
-        "हैदराबाद"
+        "निर्मला सीतारामन",
+        "राजनाथ सिंह",
+        "एस. जयशंकर",
+        "अमित शाह"
+      ],
+      "correctAnswer": 1,
+      "explanation": "भारताचे संरक्षण मंत्री राजनाथ सिंह हे श्रीलंकेच्या ३ दिवसीय दौऱ्यावर जाणार असून ३८ वर्षांनंतर भारतीय संरक्षण मंत्र्यांची ही पहिलीच श्रीलंका भेट असणार आहे.",
+      "category": "International",
+      "difficulty": "hard",
+      "sourceUrl": "https://www.thehindu.com/news/national/"
+    },
+    {
+      "id": "ca_20260906_07",
+      "question": "खाजगी क्षेत्रातील वाढत्या सहभागामुळे कोणत्या संस्थेच्या ९ कर्मचारी संघटनांनी संस्थेच्या भविष्याबाबत अध्यक्षांकडे 'लेखी स्पष्टीकरण' मागितले आहे?",
+      "options": [
+        "DRDO",
+        "BARC",
+        "ISRO",
+        "HAL"
       ],
       "correctAnswer": 2,
-      "explanation": "एरो इंडिया २०२७ हे हवाई दल स्टेशन, येलहंका, बेंगळुरू येथे आयोजित केले जाणार आहे.",
+      "explanation": "खाजगी अंतराळ क्षेत्रातील बदलांमुळे, ISRO च्या (भारतीय अंतराळ संशोधन संस्था) ९ कर्मचारी संघटनांनी IN-SPACe चे अध्यक्ष पवन गोएंका यांच्याकडे संस्थेच्या भविष्याबाबत लेखी स्पष्टीकरण मागितले आहे.",
+      "category": "Science & Tech",
+      "difficulty": "medium",
+      "sourceUrl": "https://timesofindia.indiatimes.com/india"
+    },
+    {
+      "id": "ca_20260906_08",
+      "question": "भारतातील कोणत्या राज्यात नुकतेच १५ वर्षांनंतर 'अँटी-स्नेक व्हेनम' (सर्पदंशावरील औषध) ची निर्मिती पुन्हा सुरू होणार आहे?",
+      "options": [
+        "महाराष्ट्र",
+        "तामिळनाडू",
+        "पश्चिम बंगाल",
+        "कर्नाटक"
+      ],
+      "correctAnswer": 2,
+      "explanation": "पश्चिम बंगालमध्ये १५ वर्षांनंतर पुन्हा 'अँटी-स्नेक व्हेनम'ची निर्मिती सुरू होणार असून यासाठी ₹१५० कोटींचा प्रकल्प राबवला जाणार आहे.",
       "category": "Miscellaneous",
-      "difficulty": "easy",
-      "sourceUrl": "https://c4scourses.in/current-affairs/daily-current-affairs-dca-05-september-2026/"
+      "difficulty": "hard",
+      "sourceUrl": "https://www.lokmat.com/maharashtra/"
     },
     {
-      "id": "ca_20260905_04",
-      "question": "ट्रॅव्हल फिनटेक कंपनी 'स्केपिया' (Scapia) सोबत मिळून कोणत्या बँकेने नुकतेच को-ब्रँडेड क्रेडिट कार्ड लॉन्च केले आहे?",
+      "id": "ca_20260906_09",
+      "question": "नुकतेच नेपाळमधील पुराच्या पार्श्वभूमीवर निर्माण झालेल्या भारतविरोधी वर्णद्वेषाचा (anti-India racism) कोणत्या देशाच्या पंतप्रधानांनी तीव्र निषेध केला आहे?",
       "options": [
-        "HDFC बँक",
-        "ICICI बँक",
-        "Axis बँक",
-        "SBI"
+        "भूतान",
+        "बांगलादेश",
+        "सिंगापूर",
+        "मलेशिया"
       ],
       "correctAnswer": 2,
-      "explanation": "अॅक्सिस बँक (Axis Bank) आणि ट्रॅव्हल फिनटेक कंपनी स्केपिया (Scapia) यांनी 'स्केपिया अॅक्सिस बँक क्रेडिट कार्ड' लॉन्च केले आहे.",
-      "category": "Economy",
+      "explanation": "सिंगापूरचे पंतप्रधान लॉरेन्स वोंग आणि त्यांच्या प्रमुख मंत्र्यांनी नेपाळमधील पुराच्या पार्श्वभूमीवर ऑनलाइन पसरत असलेल्या भारतविरोधी वर्णद्वेषाचा तीव्र निषेध केला आहे.",
+      "category": "International",
       "difficulty": "medium",
-      "sourceUrl": "https://ambitiousbaba.com/current-affairs-today-5th-september-2026-daily-gk-update/?amp"
+      "sourceUrl": "https://timesofindia.indiatimes.com/india"
     },
     {
-      "id": "ca_20260905_05",
-      "question": "नुकतेच गव्हर्नमेंट ई-मार्केटप्लेस (GeM) आणि टेक्सटाइल्स कमिटीने एक सामंजस्य करार (MoU) केला. टेक्सटाइल्स कमिटीचे मुख्यालय कोठे आहे?",
+      "id": "ca_20260906_10",
+      "question": "रायगड जिल्ह्यात कोणत्या विभागातील निकृष्ट आहाराची तक्रार केल्यामुळे मानसिक छळ झाल्याने एका मदतनीसने राजीनामा दिला?",
       "options": [
-        "सुरत",
-        "अहमदाबाद",
-        "नवी दिल्ली",
-        "मुंबई"
+        "अंगणवाडी",
+        "शालेय पोषण आहार",
+        "रुग्णालय आहार",
+        "आश्रमशाळा"
       ],
-      "correctAnswer": 3,
-      "explanation": "गव्हर्नमेंट ई-मार्केटप्लेस (GeM) आणि मुंबई (महाराष्ट्र) येथे मुख्यालय असलेल्या टेक्सटाइल्स कमिटीने सामंजस्य करार केला आहे.",
+      "correctAnswer": 0,
+      "explanation": "रायगड जिल्ह्यात अंगणवाडीतील निकृष्ट आहाराची तक्रार केल्याने वरिष्ठांकडून मानसिक छळ झाल्याचा आरोप करत एका अंगणवाडी मदतनीसने राजीनामा दिला आहे.",
       "category": "Maharashtra",
-      "difficulty": "hard",
-      "sourceUrl": "https://affairscloud.com/current-affairs-5-september-2026/"
-    },
-    {
-      "id": "ca_20260905_06",
-      "question": "कोणत्या बँकेने नुकतेच 'ICICI प्रुडेन्शियल लाइफ इन्शुरन्स' मधील अतिरिक्त हिस्सा (Stake) विकत घेतला आहे?",
-      "options": [
-        "HDFC बँक",
-        "ICICI बँक",
-        "Axis बँक",
-        "कोटक महिंद्रा बँक"
-      ],
-      "correctAnswer": 1,
-      "explanation": "ICICI बँकेने 'ICICI प्रुडेन्शियल लाइफ इन्शुरन्स' मधील अतिरिक्त हिस्सा विकत घेतला आहे, ज्यामुळे त्यांचा एकूण हिस्सा वाढला आहे.",
-      "category": "Economy",
-      "difficulty": "medium",
-      "sourceUrl": "https://affairscloud.com/current-affairs-5-september-2026/"
-    },
-    {
-      "id": "ca_20260905_07",
-      "question": "नुकतेच निधन झालेले प्रख्यात गुजराती संगीतकार गौरांग व्यास यांचा जन्म महाराष्ट्रातील कोणत्या शहरात झाला होता?",
-      "options": [
-        "पुणे",
-        "नागपूर",
-        "नाशिक",
-        "मुंबई"
-      ],
-      "correctAnswer": 3,
-      "explanation": "प्रख्यात गुजराती संगीतकार गौरांग व्यास, ज्यांचे नुकतेच वयाच्या ८७ व्या वर्षी निधन झाले, त्यांचा जन्म २४ नोव्हेंबर १९३८ रोजी महाराष्ट्रातील मुंबई शहरात झाला होता.",
-      "category": "Maharashtra",
-      "difficulty": "medium",
-      "sourceUrl": "https://affairscloud.com/current-affairs-5-september-2026/"
-    },
-    {
-      "id": "ca_20260905_08",
-      "question": "जपान क्रेडिट रेटिंग एजन्सी (JCR) ने भारताचे सार्वभौम क्रेडिट रेटिंग (Sovereign Credit Rating) 'BBB+' वरून काय केले आहे?",
-      "options": [
-        "A+",
-        "A-",
-        "A",
-        "AA-"
-      ],
-      "correctAnswer": 1,
-      "explanation": "जपान क्रेडिट रेटिंग एजन्सी (JCR) ने भारताचे सार्वभौम क्रेडिट रेटिंग सुधारून 'A-' केले आहे.",
-      "category": "Economy",
-      "difficulty": "hard",
-      "sourceUrl": "https://ambitiousbaba.com/current-affairs-today-5th-september-2026-daily-gk-update/?amp"
-    },
-    {
-      "id": "ca_20260905_09",
-      "question": "राष्ट्रीय वन्यजीव दिवस (National Wildlife Day) दरवर्षी कोणत्या तारखेला पाळला जातो?",
-      "options": [
-        "२ सप्टेंबर",
-        "३ सप्टेंबर",
-        "४ सप्टेंबर",
-        "५ सप्टेंबर"
-      ],
-      "correctAnswer": 2,
-      "explanation": "वन्यजीवांचे संरक्षण आणि संवर्धन याबद्दल जागरूकता निर्माण करण्यासाठी दरवर्षी ४ सप्टेंबर रोजी 'राष्ट्रीय वन्यजीव दिवस' पाळला जातो.",
-      "category": "Environment",
       "difficulty": "easy",
-      "sourceUrl": "https://ambitiousbaba.com/current-affairs-today-5th-september-2026-daily-gk-update/?amp"
-    },
-    {
-      "id": "ca_20260905_10",
-      "question": "नुकत्याच झालेल्या IPF जागतिक चॅम्पियनशिपमध्ये केया बॅनर्जी (Keyaa Banerji) हिने कोणत्या खेळात रौप्य पदक जिंकले?",
-      "options": [
-        "वेटलिफ्टिंग",
-        "पॉवरलिफ्टिंग",
-        "कुस्ती",
-        "बॉक्सिंग"
-      ],
-      "correctAnswer": 1,
-      "explanation": "भारतीय पॉवरलिफ्टर केया बॅनर्जी हिने IPF जागतिक चॅम्पियनशिपमध्ये रौप्य पदक पटकावले आहे.",
-      "category": "Sports",
-      "difficulty": "medium",
-      "sourceUrl": "https://ambitiousbaba.com/current-affairs-today-5th-september-2026-daily-gk-update/?amp"
+      "sourceUrl": "https://marathi.abplive.com/latest-news"
     }
   ],
   "totalQuestions": 10,
