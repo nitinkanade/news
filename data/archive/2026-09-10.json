@@ -1,0 +1,160 @@
+{
+  "date": "2026-09-10",
+  "topic": "Current Affairs",
+  "source": "AffairsCloud, Lokmat, Wikipedia Current Events",
+  "lastUpdated": "2026-09-10T12:00:00+05:30",
+  "quiz": [
+    {
+      "id": "ca_20260910_01",
+      "question": "नुकतेच भारताच्या राष्ट्रपती द्रौपदी मुर्मू यांनी कोणत्या राज्याच्या/केंद्रशासित प्रदेशाच्या नायब राज्यपालांना जम्मू आणि काश्मीरचा अतिरिक्त कार्यभार सोपवला आहे?",
+      "options": [
+        "दिल्ली",
+        "लडाख",
+        "पुद्दुचेरी",
+        "अंदमान आणि निकोबार"
+      ],
+      "correctAnswer": 1,
+      "explanation": "सप्टेंबर २०२६ मध्ये, राष्ट्रपती द्रौपदी मुर्मू यांनी लडाखचे नायब राज्यपाल विनय कुमार सक्सेना यांच्याकडे जम्मू आणि काश्मीरच्या नायब राज्यपाल पदाचा अतिरिक्त कार्यभार सोपवला आहे.",
+      "category": "Polity",
+      "difficulty": "medium",
+      "sourceUrl": "https://affairscloud.com/current-affairs-10-september-2026/"
+    },
+    {
+      "id": "ca_20260910_02",
+      "question": "नुकतेच केंद्रीय गृहमंत्री अमित शहा यांनी कोणत्या राज्याच्या पोलिसांना 'प्रेसिडेंट्स कलर' (President's Colour) हा सन्मान प्रदान केला?",
+      "options": [
+        "महाराष्ट्र",
+        "गोवा",
+        "गुजरात",
+        "उत्तर प्रदेश"
+      ],
+      "correctAnswer": 1,
+      "explanation": "केंद्रीय गृहमंत्री अमित शहा यांनी पणजी येथे गोवा पोलिसांना 'प्रेसिडेंट्स कलर' हा सन्मान प्रदान केला. हा लष्करी आणि पोलीस दलांना दिला जाणारा सर्वोच्च सन्मान आहे.",
+      "category": "Polity",
+      "difficulty": "easy",
+      "sourceUrl": "https://affairscloud.com/current-affairs-10-september-2026/"
+    },
+    {
+      "id": "ca_20260910_03",
+      "question": "संरक्षण संशोधन आणि विकास संस्थेने (DRDO) नुकतेच मायक्रोवेव्ह डिफेन्स टेस्टिंगसाठी कोणता नवीन कार्यक्रम सुरू केला आहे?",
+      "options": [
+        "कवच (KAVACH)",
+        "शिल्ड (SHIELD)",
+        "प्रहार (PRAHAR)",
+        "रक्षक (RAKSHAK)"
+      ],
+      "correctAnswer": 1,
+      "explanation": "DRDO ने S-band हाय-पॉवर मायक्रोवेव्ह इन्टिग्रेटेड इव्हॅल्युएशनसाठी 'शिल्ड' (SHIELD) हा नवीन कार्यक्रम सुरू केला आहे.",
+      "category": "Science & Tech",
+      "difficulty": "medium",
+      "sourceUrl": "https://affairscloud.com/current-affairs-10-september-2026/"
+    },
+    {
+      "id": "ca_20260910_04",
+      "question": "कोणता भारतीय स्टार्टअप नुकताच सॅटेलाइट इमेजिंग तंत्रज्ञानासाठी यूएस पेटंट मिळवणारा पहिला स्टार्टअप ठरला आहे?",
+      "options": [
+        "पिक्सेल (Pixxel)",
+        "स्कायरूट एरोस्पेस (Skyroot Aerospace)",
+        "अग्निकुल कॉसमॉस (Agnikul Cosmos)",
+        "गॅलेक्सआय (GalaxEye)"
+      ],
+      "correctAnswer": 3,
+      "explanation": "गॅलेक्सआय (GalaxEye) हा सॅटेलाइट इमेजिंग तंत्रज्ञानासाठी यूएस पेटंट मिळवणारा पहिला भारतीय स्पेसटेक स्टार्टअप बनला आहे.",
+      "category": "Science & Tech",
+      "difficulty": "medium",
+      "sourceUrl": "https://affairscloud.com/current-affairs-10-september-2026/"
+    },
+    {
+      "id": "ca_20260910_05",
+      "question": "नुकतेच केरळच्या मथिकेतन शोला नॅशनल पार्कमध्ये (Mathikettan Shola National Park) संशोधकांनी कोणत्या नवीन प्रजातीचा शोध लावला आहे?",
+      "options": [
+        "दगडफूल (Lichen)",
+        "बेडूक (Frog)",
+        "फुलपाखरू (Butterfly)",
+        "साप (Snake)"
+      ],
+      "correctAnswer": 0,
+      "explanation": "संशोधकांनी केरळच्या मथिकेतन शोला नॅशनल पार्कमध्ये 'Buellia maharajensis' या नवीन दगडफूल (Lichen) प्रजातीचा शोध लावला आहे.",
+      "category": "Environment",
+      "difficulty": "hard",
+      "sourceUrl": "https://affairscloud.com/current-affairs-10-september-2026/"
+    },
+    {
+      "id": "ca_20260910_06",
+      "question": "नुकतेच व्हिएतनाम येथे पार पडलेल्या पिकलबॉल विश्वचषक २०२६ मध्ये (Pickleball World Cup 2026) भारताने कोणते स्थान पटकावले?",
+      "options": [
+        "पहिले",
+        "दुसरे",
+        "तिसरे",
+        "चौथे"
+      ],
+      "correctAnswer": 3,
+      "explanation": "व्हिएतनामच्या दा नांग येथे आयोजित पिकलबॉल विश्वचषक २०२६ मध्ये भारताने ७ सुवर्णपदकांसह एकूण ४१ पदके जिंकत चौथे स्थान मिळवले.",
+      "category": "Sports",
+      "difficulty": "easy",
+      "sourceUrl": "https://affairscloud.com/current-affairs-10-september-2026/"
+    },
+    {
+      "id": "ca_20260910_07",
+      "question": "महाराष्ट्र राज्य सरकारने नुकतेच MPSC विद्यार्थ्यांच्या मागण्या मान्य करत परीक्षा प्रक्रियेतील त्रुटी दूर करण्यासाठी कोणत्या समितीची स्थापना केली आहे?",
+      "options": [
+        "व्ही. राधा समिती",
+        "अमिताभ कांत समिती",
+        "माधव गाडगीळ समिती",
+        "रघुराम राजन समिती"
+      ],
+      "correctAnswer": 0,
+      "explanation": "MPSC विद्यार्थ्यांच्या आंदोलनानंतर महाराष्ट्र सरकारने परीक्षा प्रक्रियेतील त्रुटी दूर करण्यासाठी आणि पारदर्शकता आणण्यासाठी 'व्ही. राधा' समितीची स्थापना केली आहे.",
+      "category": "Maharashtra",
+      "difficulty": "easy",
+      "sourceUrl": "https://www.lokmat.com/latestnews/"
+    },
+    {
+      "id": "ca_20260910_08",
+      "question": "महाराष्ट्र शासनाने नुकताच कोणता ऐतिहासिक निर्णय घेतल्यानंतर अग्निवीरांना (Agniveers) सेवामुक्तीनंतर सरकारी नोकरीत सामावून घेण्याची घोषणा केली आहे?",
+      "options": [
+        "पोलीस भरतीत आरक्षण",
+        "राज्य सरकारच्या विविध विभागांमध्ये संधी",
+        "शिक्षण क्षेत्रात नोकरी",
+        "फक्त ग्रामपंचायतीत नोकरी"
+      ],
+      "correctAnswer": 1,
+      "explanation": "महाराष्ट्र राज्य सरकारने एक ऐतिहासिक निर्णय घेत सेवामुक्तीनंतर अग्निवीरांना राज्य सरकारच्या विविध विभागांमध्ये सरकारी नोकरीत सामावून घेण्याची घोषणा केली आहे.",
+      "category": "Maharashtra",
+      "difficulty": "medium",
+      "sourceUrl": "https://www.lokmat.com/maharashtra/"
+    },
+    {
+      "id": "ca_20260910_09",
+      "question": "नुकतेच लंडनच्या भूमीवर महाराष्ट्राचे मुख्यमंत्री/उपमुख्यमंत्री यांना ब्रिटिश संसदेत कोणता पुरस्कार देऊन गौरविण्यात आले?",
+      "options": [
+        "स्टेट्समनशिप अवॉर्ड (Statesmanship Award)",
+        "ग्लोबल लीडरशिप अवॉर्ड (Global Leadership Award)",
+        "चॅम्पियन्स ऑफ द अर्थ (Champions of the Earth)",
+        "आंतरराष्ट्रीय शांतता पुरस्कार (International Peace Award)"
+      ],
+      "correctAnswer": 0,
+      "explanation": "महाराष्ट्राचे उपमुख्यमंत्री एकनाथ शिंदे यांना लंडनमध्ये ब्रिटिश संसदेत 'स्टेट्समनशिप अवॉर्ड' (Statesmanship Award) ने सन्मानित करण्यात आले.",
+      "category": "Maharashtra",
+      "difficulty": "medium",
+      "sourceUrl": "https://www.lokmat.com/latestnews/"
+    },
+    {
+      "id": "ca_20260910_10",
+      "question": "सप्टेंबर २०२६ मध्ये भारतातील पर्यावरण, वन आणि हवामान बदल मंत्रालयाने (MoEFCC) 'निळ्या आकाशासाठी स्वच्छ हवेचा आंतरराष्ट्रीय दिवस' कोणत्या नावाने साजरा केला?",
+      "options": [
+        "स्वच्छ भारत दिवस",
+        "स्वच्छ वायू दिवस (Swachh Vayu Diwas)",
+        "हरित भारत दिवस",
+        "स्वच्छ पर्यावरण दिवस"
+      ],
+      "correctAnswer": 1,
+      "explanation": "भारतात, पर्यावरण, वन आणि हवामान बदल मंत्रालयाने ७ सप्टेंबर २०२६ रोजी 'निळ्या आकाशासाठी स्वच्छ हवेचा आंतरराष्ट्रीय दिवस' राष्ट्रीय स्तरावर 'स्वच्छ वायू दिवस' (Swachh Vayu Diwas) म्हणून साजरा केला.",
+      "category": "Environment",
+      "difficulty": "hard",
+      "sourceUrl": "https://affairscloud.com/current-affairs-10-september-2026/"
+    }
+  ],
+  "totalQuestions": 10,
+  "version": 1
+}
