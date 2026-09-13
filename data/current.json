@@ -1,158 +1,158 @@
 {
-  "date": "2026-09-12",
+  "date": "2026-09-13",
   "topic": "Current Affairs",
   "source": "Times of India",
-  "lastUpdated": "2026-09-13T01:23:28+05:30",
+  "lastUpdated": "2026-09-14T01:05:19+05:30",
   "quiz": [
     {
-      "id": "ca_20260912_01",
-      "question": "नुकत्याच झालेल्या ब्रिक्स (BRICS) परिषदेत कोणत्या दोन देशांमधील मतभेद दूर करण्यात भारताने महत्त्वाची भूमिका बजावली, ज्यामुळे संयुक्त जाहीरनामा प्रसिद्ध करणे शक्य झाले?",
+      "id": "ca_20260913_01",
+      "question": "भारताचा २,८४३ किमी लांबीचा 'डेडिकेटेड फ्रेट कॉरिडॉर' (Dedicated Freight Corridor) प्रकल्प नुकताच पूर्ण झाला आहे. या प्रकल्पाचा मुख्य उद्देश काय आहे?",
       "options": [
-        "इराण आणि सौदी अरेबिया",
-        "इराण आणि संयुक्त अरब अमिराती (UAE)",
-        "रशिया आणि युक्रेन",
-        "चीन आणि भारत"
+        "प्रवासी गाड्यांचा वेग वाढवणे",
+        "मालवाहतुकीसाठी स्वतंत्र रेल्वे मार्ग तयार करणे",
+        "शहरी मेट्रो नेटवर्कचा विस्तार करणे",
+        "बुलेट ट्रेनसाठी पायाभूत सुविधा उभारणे"
       ],
       "correctAnswer": 1,
-      "explanation": "ब्रिक्स (BRICS) परिषदेत इराण आणि संयुक्त अरब अमिराती (UAE) यांच्यातील मतभेद दूर करून सहमती घडवून आणण्यात भारताने महत्त्वाची भूमिका बजावली, ज्यामुळे संयुक्त जाहीरनामा (joint declaration) प्रसिद्ध करणे शक्य झाले.",
-      "category": "International",
-      "difficulty": "medium",
-      "sourceUrl": "https://timesofindia.indiatimes.com/india"
-    },
-    {
-      "id": "ca_20260912_02",
-      "question": "कोणत्या जागतिक मंचाने (forum) नुकतेच फरार गुन्हेगारांचे प्रत्यार्पण (extradite fugitives) करण्यासाठी संयुक्त यंत्रणा (joint mechanism) उभारण्याचा ठराव केला आहे?",
-      "options": [
-        "G20",
-        "क्वाड (QUAD)",
-        "ब्रिक्स (BRICS)",
-        "शांघाय सहकार्य संघटना (SCO)"
-      ],
-      "correctAnswer": 2,
-      "explanation": "ब्रिक्स (BRICS) देशांनी नुकतेच सदस्य देशांमधील फरार आर्थिक गुन्हेगारांचे प्रत्यार्पण सुलभ करण्यासाठी एक संयुक्त यंत्रणा स्थापन करण्याचा संकल्प केला आहे.",
-      "category": "International",
-      "difficulty": "easy",
-      "sourceUrl": "https://timesofindia.indiatimes.com/india"
-    },
-    {
-      "id": "ca_20260912_03",
-      "question": "अलीकडील अहवालानुसार, भारताच्या डेटा सेंटर (Data centre) पायाभूत सुविधांमधील गुंतवणुकीची संधी किती अब्ज डॉलर्सपर्यंत पोहोचण्याची शक्यता आहे?",
-      "options": [
-        "५० अब्ज डॉलर्स",
-        "७० अब्ज डॉलर्स",
-        "९० अब्ज डॉलर्स",
-        "१०० अब्ज डॉलर्स"
-      ],
-      "correctAnswer": 2,
-      "explanation": "भारतात वाढत्या डिजिटल वापरामुळे डेटा सेंटर क्षेत्रात मोठी वाढ होत असून, या पायाभूत सुविधांमधील (infrastructure) गुंतवणुकीची संधी सुमारे ९० अब्ज डॉलर्सपर्यंत पोहोचण्याची शक्यता आहे.",
-      "category": "Economy",
-      "difficulty": "medium",
-      "sourceUrl": "https://timesofindia.indiatimes.com/business"
-    },
-    {
-      "id": "ca_20260912_04",
-      "question": "कोणत्या भारतीय अन्न वितरण (Food delivery) कंपनीने नुकतेच 'कॅश ऑन डिलिव्हरी' (cash-on-delivery) ऑर्डरवर अतिरिक्त शुल्क (additional fee) लागू करण्याची घोषणा केली आहे?",
-      "options": [
-        "स्विगी (Swiggy)",
-        "झोमॅटो (Zomato)",
-        "डन्झो (Dunzo)",
-        "उबर ईट्स (Uber Eats)"
-      ],
-      "correctAnswer": 1,
-      "explanation": "झोमॅटो (Zomato) या कंपनीने आता 'कॅश ऑन डिलिव्हरी' द्वारे केल्या जाणाऱ्या ऑर्डर्सवर अतिरिक्त शुल्क (additional fee) आकारण्याचा निर्णय घेतला आहे.",
+      "explanation": "भारताचा २,८४३ किलोमीटर लांबीचा 'डेडिकेटेड फ्रेट कॉरिडॉर' (DFC) प्रकल्प पूर्ण झाला असून, याचा उद्देश मालवाहतुकीसाठी स्वतंत्र आणि जलद रेल्वे मार्ग उपलब्ध करून देणे हा आहे.",
       "category": "Economy",
       "difficulty": "easy",
-      "sourceUrl": "https://timesofindia.indiatimes.com/business"
+      "sourceUrl": "https://timesofindia.indiatimes.com/business/india-business/india-completes-its-2843-km-dedicated-freight-corridor-network-why-its-a-game-changer-for-railways/articleshow/134202894.cms"
     },
     {
-      "id": "ca_20260912_05",
-      "question": "सिक्युरिटीज अँड एक्सचेंज बोर्ड ऑफ इंडिया (SEBI) ने 'CAS' च्या क्लोजिंग प्राईसच्या पुनरावलोकनांतर्गत कोणत्या सेटलमेंटसाठी २ पर्यायांचा प्रस्ताव दिला आहे?",
+      "id": "ca_20260913_02",
+      "question": "नुकत्याच आलेल्या अहवालानुसार, भारतातील सेमीकंडक्टर (Semiconductor) क्षेत्रात किती कंपन्यांमध्ये १.४ अब्ज डॉलर्सची गुंतवणूक झाली आहे?",
       "options": [
-        "एक्सपायरी सेटलमेंट (Expiry settlement)",
-        "टी+१ सेटलमेंट (T+1 settlement)",
-        "रोलिंग सेटलमेंट (Rolling settlement)",
-        "ट्रेड-टू-ट्रेड सेटलमेंट (Trade-to-trade settlement)"
-      ],
-      "correctAnswer": 0,
-      "explanation": "सेबी (SEBI) ने 'कन्सोलिडेटेड अकाउंट स्टेटमेंट' (CAS) च्या क्लोजिंग प्राईसचा आढावा घेत, एक्सपायरी सेटलमेंटसाठी (expiry settlement) बाजाराला दोन नवीन पर्यायांचा प्रस्ताव दिला आहे.",
-      "category": "Economy",
-      "difficulty": "hard",
-      "sourceUrl": "https://timesofindia.indiatimes.com/business"
-    },
-    {
-      "id": "ca_20260912_06",
-      "question": "मुंबई उच्च न्यायालयाने (Bombay High Court) अलीकडेच दिलेल्या आदेशानुसार, कोणत्या महानगरपालिकेला त्यांच्या ४७९ कंत्राटी/तदर्थ (ad hoc) कर्मचाऱ्यांना कायमस्वरूपी (regularise) करण्याचे निर्देश दिले आहेत?",
-      "options": [
-        "बृहन्मुंबई महानगरपालिका (BMC)",
-        "पुणे महानगरपालिका (PMC)",
-        "वसई-विरार शहर महानगरपालिका (VVCMC)",
-        "ठाणे महानगरपालिका (TMC)"
+        "१५०",
+        "२००",
+        "२८१",
+        "३५०"
       ],
       "correctAnswer": 2,
-      "explanation": "मुंबई उच्च न्यायालयाने वसई-विरार शहर महानगरपालिकेला (VVCMC) तदर्थ (ad hoc) नियुक्त्या थांबवण्याचे आणि सध्याच्या ४७९ कर्मचाऱ्यांना नियमित करण्याचे निर्देश दिले आहेत.",
-      "category": "Maharashtra",
+      "explanation": "भारताच्या सेमीकंडक्टर क्षेत्राने २८१ कंपन्यांमध्ये १.४ अब्ज डॉलर्सची गुंतवणूक आकर्षित केली आहे. बेंगळुरू हे सेमीकंडक्टर उद्योगाचे प्रमुख केंद्र म्हणून उदयास आले आहे.",
+      "category": "Science & Tech",
       "difficulty": "medium",
-      "sourceUrl": "https://timesofindia.indiatimes.com/city/mumbai"
+      "sourceUrl": "https://timesofindia.indiatimes.com/business/india-business/indias-semiconductor-sector-attracts-1-4-billion-in-funding-across-281-companies/articleshow/134197886.cms"
     },
     {
-      "id": "ca_20260912_07",
-      "question": "नुकतेच प्रिन्स रहीम आगा खान पाचवे (Prince Rahim Aga Khan V) यांनी कोणत्या देशाचा आपला पहिला दौरा पूर्ण केला, ज्यामध्ये सामाजिक सेवा कार्यक्रमांवर भर दिला गेला?",
+      "id": "ca_20260913_03",
+      "question": "युक्रेनच्या ड्रोन हल्ल्यांमुळे रशियातील इंधन उत्पादनात घट झाली असताना, कोणत्या देशाने रशियाला सर्वाधिक (७०%) इंधनाचा पुरवठा केला आहे?",
       "options": [
-        "पाकिस्तान",
+        "चीन",
         "भारत",
-        "बांगलादेश",
-        "अफगाणिस्तान"
+        "सौदी अरेबिया",
+        "इराण"
       ],
       "correctAnswer": 1,
-      "explanation": "प्रिन्स रहीम आगा खान पाचवे यांनी नुकतीच भारताला पहिली भेट दिली. त्यांच्या या भेटीत सामाजिक सेवा आणि विविध विकासकामांवर लक्ष केंद्रित करण्यात आले.",
-      "category": "International",
-      "difficulty": "easy",
-      "sourceUrl": "https://timesofindia.indiatimes.com/city/mumbai"
-    },
-    {
-      "id": "ca_20260912_08",
-      "question": "सध्या जम्मू आणि काश्मीरमधील कोणत्या जिल्ह्यांमध्ये स्टेट इन्व्हेस्टिगेशन एजन्सी (SIA) कडून 'कट्टरतावाद' (radicalisation) प्रकरणाच्या तपासासाठी छापे टाकले जात आहेत?",
-      "options": [
-        "श्रीनगर आणि बारामुल्ला",
-        "पुंछ आणि उधमपूर",
-        "अनंतनाग आणि पुलवामा",
-        "कठुआ आणि सांबा"
-      ],
-      "correctAnswer": 1,
-      "explanation": "स्टेट इन्व्हेस्टिगेशन एजन्सीने (SIA) जम्मू-काश्मीरमधील पुंछ आणि उधमपूर जिल्ह्यांमध्ये कट्टरतावादाशी (radicalisation) संबंधित एका प्रकरणाच्या चौकशीसाठी अनेक ठिकाणी छापे टाकले आहेत.",
-      "category": "Polity",
+      "explanation": "युक्रेनच्या ड्रोन हल्ल्यांमुळे रशियाच्या देशांतर्गत इंधन उत्पादनात मोठी घट झाली असताना, ऑगस्टमध्ये भारताने रशियाच्या एकूण इंधन आयातीपैकी तब्बल ७०% पुरवठा केला.",
+      "category": "Economy",
       "difficulty": "medium",
-      "sourceUrl": "https://timesofindia.indiatimes.com/india"
+      "sourceUrl": "https://timesofindia.indiatimes.com/business/india-business/india-supplies-70-of-russias-record-fuel-imports-as-ukrainian-drones-hit-refineries/articleshow/134192421.cms"
     },
     {
-      "id": "ca_20260912_09",
-      "question": "अलीकडेच कोणत्या राज्यातील एका मंत्र्याने 'गँगस्टरचे मोल्डोव्हामधून (Moldova) प्रत्यार्पण हे राज्य सरकारच्या दृढ संकल्पाचे प्रतीक आहे' असे विधान केले?",
+      "id": "ca_20260913_04",
+      "question": "बँकिंग क्षेत्रातील अलीकडील घडामोडींनुसार, कोणत्या बँकेने आपल्या एमडी (MD) आणि सीईओ (CEO) पदासाठी दोन उमेदवारांची नावे आरबीआयकडे (RBI) मंजुरीसाठी पाठवली आहेत?",
       "options": [
-        "महाराष्ट्र",
-        "हरियाणा",
-        "पंजाब",
-        "उत्तर प्रदेश"
+        "आयसीआयसीआय बँक (ICICI Bank)",
+        "स्टेट बँक ऑफ इंडिया (SBI)",
+        "एचडीएफसी बँक (HDFC Bank)",
+        "अॅक्सिस बँक (Axis Bank)"
       ],
       "correctAnswer": 2,
-      "explanation": "पंजाब राज्याच्या एका मंत्र्याने नुकतेच मोल्डोव्हा या देशातून एका गँगस्टरचे यशस्वीपणे प्रत्यार्पण (extradition) केल्याबद्दल पंजाब सरकारच्या गुन्हेगारीविरुद्धच्या संकल्पाचे कौतुक केले.",
-      "category": "Polity",
-      "difficulty": "hard",
-      "sourceUrl": "https://timesofindia.indiatimes.com/india"
+      "explanation": "एचडीएफसी बँकेने आगामी व्यवस्थापकीय संचालक आणि मुख्य कार्यकारी अधिकारी पदासाठी दोन उमेदवारांची नावे भारतीय रिझर्व्ह बँकेकडे (RBI) पाठवली आहेत.",
+      "category": "Economy",
+      "difficulty": "easy",
+      "sourceUrl": "https://timesofindia.indiatimes.com/business/india-business/hdfc-bank-sends-names-of-2-ceo-candidates-to-rbi/articleshow/134163788.cms"
     },
     {
-      "id": "ca_20260912_10",
-      "question": "बेंगळुरूमध्ये यंदाच्या गणेशोत्सवादरम्यान पर्यावरण संवर्धनासाठी कोणत्या प्रकारच्या गणेशमूर्तींचा वापर मोठ्या प्रमाणावर वाढला आहे?",
+      "id": "ca_20260913_05",
+      "question": "भारतीय रिझर्व्ह बँकेने (RBI) अलीकडेच कोणत्या समूहाची (Group) कंपनीला 'प्रायव्हेट' (खाजगी) राहण्याची विनंती फेटाळून लावली आणि शेअर बाजारात लिस्टिंग (Listing) करण्याचे निर्देश दिले?",
       "options": [
-        "प्लास्टर ऑफ पॅरिस (PoP) च्या मूर्ती",
-        "हाताने बनवलेल्या पर्यावरणपूरक (eco-friendly) मूर्ती",
-        "प्लॅस्टिकच्या मूर्ती",
-        "फायबरग्लासच्या मूर्ती"
+        "अदानी समूह (Adani Group)",
+        "रिलायन्स इंडस्ट्रीज (Reliance Industries)",
+        "टाटा सन्स (Tata Sons)",
+        "महिंद्रा समूह (Mahindra Group)"
+      ],
+      "correctAnswer": 2,
+      "explanation": "आरबीआयने 'टाटा सन्स' ला खाजगी कंपनी म्हणून राहण्याची विनंती फेटाळली असून, त्यांच्या कोअर इन्व्हेस्टमेंट कंपनीला शेअर बाजारात नोंदणी (Listing) करण्याचे निर्देश दिले आहेत.",
+      "category": "Economy",
+      "difficulty": "hard",
+      "sourceUrl": "https://timesofindia.indiatimes.com/business/india-business/rbi-rejects-tata-sons-bid-to-stay-private-directs-listing/articleshow/134163398.cms"
+    },
+    {
+      "id": "ca_20260913_06",
+      "question": "नुकत्याच झालेल्या महिला आशिया कप (Women's Asia Cup) स्पर्धेत भारतीय महिला क्रिकेट संघाने विजेतेपद पटकावल्यानंतर कोणत्या अधिकाऱ्याकडून चषक (Trophy) स्वीकारण्यास नकार दिला?",
+      "options": [
+        "जय शाह",
+        "मोहसीन नक्वी",
+        "नजम सेठी",
+        "रमीझ राजा"
       ],
       "correctAnswer": 1,
-      "explanation": "पर्यावरणाचे रक्षण करण्यासाठी बेंगळुरू शहरातील नागरिक या सणासुदीच्या काळात हाताने बनवलेल्या, पर्यावरणपूरक (eco-friendly) गणेशमूर्तींकडे मोठ्या प्रमाणावर वळले आहेत.",
-      "category": "Environment",
+      "explanation": "हरमनप्रीत कौरच्या नेतृत्वाखालील भारतीय महिला संघाने आठव्यांदा आशिया कप जिंकला, परंतु सादरीकरण समारंभात त्यांनी मोहसीन नक्वी यांच्याकडून चषक स्वीकारण्यास नकार दिला.",
+      "category": "Sports",
       "difficulty": "medium",
-      "sourceUrl": "https://timesofindia.indiatimes.com/city/pune"
+      "sourceUrl": "https://timesofindia.indiatimes.com/sports/cricket/news/india-womens-team-refuses-asia-cup-trophy-from-mohsin-naqvi-after-title-win/articleshow/134220894.cms"
+    },
+    {
+      "id": "ca_20260913_07",
+      "question": "नुकत्याच झालेल्या ब्रिक्स (BRICS) २०२६ परिषदेत कोणत्या जाहीरनाम्याला (Declaration) एकमताने मान्यता देण्यात आली, ज्याचे केंद्रीय मंत्री पीयूष गोयल यांनी स्वागत केले?",
+      "options": [
+        "केपटाऊन जाहीरनामा",
+        "नवी दिल्ली जाहीरनामा",
+        "बीजिंग जाहीरनामा",
+        "मॉस्को जाहीरनामा"
+      ],
+      "correctAnswer": 1,
+      "explanation": "ब्रिक्स नेत्यांनी २०२६ च्या परिषदेत 'नवी दिल्ली जाहीरनामा' (New Delhi Declaration) एकमताने मंजूर केला. यामध्ये डिजिटल इन्फ्रास्ट्रक्चर आणि सप्लाय चेन मजबूत करण्यावर भर देण्यात आला आहे.",
+      "category": "International",
+      "difficulty": "medium",
+      "sourceUrl": "https://timesofindia.indiatimes.com/business/india-business/brics-2026-piyush-goyal-hails-unanimous-adoption-of-new-delhi-declaration/articleshow/134174075.cms"
+    },
+    {
+      "id": "ca_20260913_08",
+      "question": "गेल्या वर्षी लेह (Leh) मध्ये झालेल्या गोळीबारात मृत्युमुखी पडलेल्या चार आंदोलकांच्या कुटुंबीयांना लडाख प्रशासनाने प्रत्येकी किती लाख रुपयांची मदत जाहीर केली आहे?",
+      "options": [
+        "५ लाख रुपये",
+        "१० लाख रुपये",
+        "१५ लाख रुपये",
+        "२० लाख रुपये"
+      ],
+      "correctAnswer": 2,
+      "explanation": "लडाखच्या नायब राज्यपालांनी (Lieutenant Governor) लेह गोळीबारात मरण पावलेल्या ४ आंदोलकांच्या कुटुंबीयांना प्रत्येकी १५ लाख रुपयांची मदत (ex gratia) देण्याची घोषणा केली आहे.",
+      "category": "Polity",
+      "difficulty": "medium",
+      "sourceUrl": "https://timesofindia.indiatimes.com/india/a-year-on-rs-15-lakh-for-kin-of-4-killed-in-leh-firing/articleshow/134202111.cms"
+    },
+    {
+      "id": "ca_20260913_09",
+      "question": "महाराष्ट्र शासनाने महिलांच्या सक्षमीकरणासाठी नुकत्याच जाहीर केलेल्या 'माझी लाडकी बहीण' योजनेअंतर्गत पात्र महिलांना दरमहा किती आर्थिक मदत दिली जाणार आहे?",
+      "options": [
+        "१००० रुपये",
+        "१५०० रुपये",
+        "२००० रुपये",
+        "२५०० रुपये"
+      ],
+      "correctAnswer": 1,
+      "explanation": "महाराष्ट्र सरकारने महिलांना आर्थिकदृष्ट्या स्वावलंबी बनवण्यासाठी 'मुख्यमंत्री माझी लाडकी बहीण योजना' सुरू केली असून, यामध्ये पात्र महिलांच्या बँक खात्यात दरमहा १५०० रुपये जमा केले जातील.",
+      "category": "Maharashtra",
+      "difficulty": "easy",
+      "sourceUrl": "https://maharashtra.gov.in"
+    },
+    {
+      "id": "ca_20260913_10",
+      "question": "परदेशी पोर्टफोलिओ गुंतवणूकदारांनी (FPIs) भारतीय इक्विटी मार्केटमधून नुकतेच किती कोटी रुपये काढून घेतले आहेत, जे जागतिक अनिश्चिततेचे कारण मानले जात आहे?",
+      "options": [
+        "५,१३८ कोटी रुपये",
+        "१०,५०० कोटी रुपये",
+        "१३,१३८ कोटी रुपये",
+        "१५,२०० कोटी रुपये"
+      ],
+      "correctAnswer": 2,
+      "explanation": "सप्टेंबरच्या सुरुवातीला अमेरिकेतील वाढते बाँड उत्पन्न आणि जागतिक अनिश्चिततेमुळे परदेशी पोर्टफोलिओ गुंतवणूकदारांनी (FPIs) भारतीय शेअर बाजारातून १३,१३८ कोटी रुपये काढून घेतले आहेत.",
+      "category": "Economy",
+      "difficulty": "hard",
+      "sourceUrl": "https://timesofindia.indiatimes.com/business/india-business/fpis-turn-sellers-again-rs-13138-crore-pulled-out-of-indian-equities/articleshow/134195608.cms"
     }
   ],
   "totalQuestions": 10,
