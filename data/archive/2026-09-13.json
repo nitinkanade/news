@@ -1,0 +1,160 @@
+{
+  "date": "2026-09-13",
+  "topic": "Current Affairs",
+  "source": "Times of India",
+  "lastUpdated": "2026-09-14T01:05:19+05:30",
+  "quiz": [
+    {
+      "id": "ca_20260913_01",
+      "question": "भारताचा २,८४३ किमी लांबीचा 'डेडिकेटेड फ्रेट कॉरिडॉर' (Dedicated Freight Corridor) प्रकल्प नुकताच पूर्ण झाला आहे. या प्रकल्पाचा मुख्य उद्देश काय आहे?",
+      "options": [
+        "प्रवासी गाड्यांचा वेग वाढवणे",
+        "मालवाहतुकीसाठी स्वतंत्र रेल्वे मार्ग तयार करणे",
+        "शहरी मेट्रो नेटवर्कचा विस्तार करणे",
+        "बुलेट ट्रेनसाठी पायाभूत सुविधा उभारणे"
+      ],
+      "correctAnswer": 1,
+      "explanation": "भारताचा २,८४३ किलोमीटर लांबीचा 'डेडिकेटेड फ्रेट कॉरिडॉर' (DFC) प्रकल्प पूर्ण झाला असून, याचा उद्देश मालवाहतुकीसाठी स्वतंत्र आणि जलद रेल्वे मार्ग उपलब्ध करून देणे हा आहे.",
+      "category": "Economy",
+      "difficulty": "easy",
+      "sourceUrl": "https://timesofindia.indiatimes.com/business/india-business/india-completes-its-2843-km-dedicated-freight-corridor-network-why-its-a-game-changer-for-railways/articleshow/134202894.cms"
+    },
+    {
+      "id": "ca_20260913_02",
+      "question": "नुकत्याच आलेल्या अहवालानुसार, भारतातील सेमीकंडक्टर (Semiconductor) क्षेत्रात किती कंपन्यांमध्ये १.४ अब्ज डॉलर्सची गुंतवणूक झाली आहे?",
+      "options": [
+        "१५०",
+        "२००",
+        "२८१",
+        "३५०"
+      ],
+      "correctAnswer": 2,
+      "explanation": "भारताच्या सेमीकंडक्टर क्षेत्राने २८१ कंपन्यांमध्ये १.४ अब्ज डॉलर्सची गुंतवणूक आकर्षित केली आहे. बेंगळुरू हे सेमीकंडक्टर उद्योगाचे प्रमुख केंद्र म्हणून उदयास आले आहे.",
+      "category": "Science & Tech",
+      "difficulty": "medium",
+      "sourceUrl": "https://timesofindia.indiatimes.com/business/india-business/indias-semiconductor-sector-attracts-1-4-billion-in-funding-across-281-companies/articleshow/134197886.cms"
+    },
+    {
+      "id": "ca_20260913_03",
+      "question": "युक्रेनच्या ड्रोन हल्ल्यांमुळे रशियातील इंधन उत्पादनात घट झाली असताना, कोणत्या देशाने रशियाला सर्वाधिक (७०%) इंधनाचा पुरवठा केला आहे?",
+      "options": [
+        "चीन",
+        "भारत",
+        "सौदी अरेबिया",
+        "इराण"
+      ],
+      "correctAnswer": 1,
+      "explanation": "युक्रेनच्या ड्रोन हल्ल्यांमुळे रशियाच्या देशांतर्गत इंधन उत्पादनात मोठी घट झाली असताना, ऑगस्टमध्ये भारताने रशियाच्या एकूण इंधन आयातीपैकी तब्बल ७०% पुरवठा केला.",
+      "category": "Economy",
+      "difficulty": "medium",
+      "sourceUrl": "https://timesofindia.indiatimes.com/business/india-business/india-supplies-70-of-russias-record-fuel-imports-as-ukrainian-drones-hit-refineries/articleshow/134192421.cms"
+    },
+    {
+      "id": "ca_20260913_04",
+      "question": "बँकिंग क्षेत्रातील अलीकडील घडामोडींनुसार, कोणत्या बँकेने आपल्या एमडी (MD) आणि सीईओ (CEO) पदासाठी दोन उमेदवारांची नावे आरबीआयकडे (RBI) मंजुरीसाठी पाठवली आहेत?",
+      "options": [
+        "आयसीआयसीआय बँक (ICICI Bank)",
+        "स्टेट बँक ऑफ इंडिया (SBI)",
+        "एचडीएफसी बँक (HDFC Bank)",
+        "अॅक्सिस बँक (Axis Bank)"
+      ],
+      "correctAnswer": 2,
+      "explanation": "एचडीएफसी बँकेने आगामी व्यवस्थापकीय संचालक आणि मुख्य कार्यकारी अधिकारी पदासाठी दोन उमेदवारांची नावे भारतीय रिझर्व्ह बँकेकडे (RBI) पाठवली आहेत.",
+      "category": "Economy",
+      "difficulty": "easy",
+      "sourceUrl": "https://timesofindia.indiatimes.com/business/india-business/hdfc-bank-sends-names-of-2-ceo-candidates-to-rbi/articleshow/134163788.cms"
+    },
+    {
+      "id": "ca_20260913_05",
+      "question": "भारतीय रिझर्व्ह बँकेने (RBI) अलीकडेच कोणत्या समूहाची (Group) कंपनीला 'प्रायव्हेट' (खाजगी) राहण्याची विनंती फेटाळून लावली आणि शेअर बाजारात लिस्टिंग (Listing) करण्याचे निर्देश दिले?",
+      "options": [
+        "अदानी समूह (Adani Group)",
+        "रिलायन्स इंडस्ट्रीज (Reliance Industries)",
+        "टाटा सन्स (Tata Sons)",
+        "महिंद्रा समूह (Mahindra Group)"
+      ],
+      "correctAnswer": 2,
+      "explanation": "आरबीआयने 'टाटा सन्स' ला खाजगी कंपनी म्हणून राहण्याची विनंती फेटाळली असून, त्यांच्या कोअर इन्व्हेस्टमेंट कंपनीला शेअर बाजारात नोंदणी (Listing) करण्याचे निर्देश दिले आहेत.",
+      "category": "Economy",
+      "difficulty": "hard",
+      "sourceUrl": "https://timesofindia.indiatimes.com/business/india-business/rbi-rejects-tata-sons-bid-to-stay-private-directs-listing/articleshow/134163398.cms"
+    },
+    {
+      "id": "ca_20260913_06",
+      "question": "नुकत्याच झालेल्या महिला आशिया कप (Women's Asia Cup) स्पर्धेत भारतीय महिला क्रिकेट संघाने विजेतेपद पटकावल्यानंतर कोणत्या अधिकाऱ्याकडून चषक (Trophy) स्वीकारण्यास नकार दिला?",
+      "options": [
+        "जय शाह",
+        "मोहसीन नक्वी",
+        "नजम सेठी",
+        "रमीझ राजा"
+      ],
+      "correctAnswer": 1,
+      "explanation": "हरमनप्रीत कौरच्या नेतृत्वाखालील भारतीय महिला संघाने आठव्यांदा आशिया कप जिंकला, परंतु सादरीकरण समारंभात त्यांनी मोहसीन नक्वी यांच्याकडून चषक स्वीकारण्यास नकार दिला.",
+      "category": "Sports",
+      "difficulty": "medium",
+      "sourceUrl": "https://timesofindia.indiatimes.com/sports/cricket/news/india-womens-team-refuses-asia-cup-trophy-from-mohsin-naqvi-after-title-win/articleshow/134220894.cms"
+    },
+    {
+      "id": "ca_20260913_07",
+      "question": "नुकत्याच झालेल्या ब्रिक्स (BRICS) २०२६ परिषदेत कोणत्या जाहीरनाम्याला (Declaration) एकमताने मान्यता देण्यात आली, ज्याचे केंद्रीय मंत्री पीयूष गोयल यांनी स्वागत केले?",
+      "options": [
+        "केपटाऊन जाहीरनामा",
+        "नवी दिल्ली जाहीरनामा",
+        "बीजिंग जाहीरनामा",
+        "मॉस्को जाहीरनामा"
+      ],
+      "correctAnswer": 1,
+      "explanation": "ब्रिक्स नेत्यांनी २०२६ च्या परिषदेत 'नवी दिल्ली जाहीरनामा' (New Delhi Declaration) एकमताने मंजूर केला. यामध्ये डिजिटल इन्फ्रास्ट्रक्चर आणि सप्लाय चेन मजबूत करण्यावर भर देण्यात आला आहे.",
+      "category": "International",
+      "difficulty": "medium",
+      "sourceUrl": "https://timesofindia.indiatimes.com/business/india-business/brics-2026-piyush-goyal-hails-unanimous-adoption-of-new-delhi-declaration/articleshow/134174075.cms"
+    },
+    {
+      "id": "ca_20260913_08",
+      "question": "गेल्या वर्षी लेह (Leh) मध्ये झालेल्या गोळीबारात मृत्युमुखी पडलेल्या चार आंदोलकांच्या कुटुंबीयांना लडाख प्रशासनाने प्रत्येकी किती लाख रुपयांची मदत जाहीर केली आहे?",
+      "options": [
+        "५ लाख रुपये",
+        "१० लाख रुपये",
+        "१५ लाख रुपये",
+        "२० लाख रुपये"
+      ],
+      "correctAnswer": 2,
+      "explanation": "लडाखच्या नायब राज्यपालांनी (Lieutenant Governor) लेह गोळीबारात मरण पावलेल्या ४ आंदोलकांच्या कुटुंबीयांना प्रत्येकी १५ लाख रुपयांची मदत (ex gratia) देण्याची घोषणा केली आहे.",
+      "category": "Polity",
+      "difficulty": "medium",
+      "sourceUrl": "https://timesofindia.indiatimes.com/india/a-year-on-rs-15-lakh-for-kin-of-4-killed-in-leh-firing/articleshow/134202111.cms"
+    },
+    {
+      "id": "ca_20260913_09",
+      "question": "महाराष्ट्र शासनाने महिलांच्या सक्षमीकरणासाठी नुकत्याच जाहीर केलेल्या 'माझी लाडकी बहीण' योजनेअंतर्गत पात्र महिलांना दरमहा किती आर्थिक मदत दिली जाणार आहे?",
+      "options": [
+        "१००० रुपये",
+        "१५०० रुपये",
+        "२००० रुपये",
+        "२५०० रुपये"
+      ],
+      "correctAnswer": 1,
+      "explanation": "महाराष्ट्र सरकारने महिलांना आर्थिकदृष्ट्या स्वावलंबी बनवण्यासाठी 'मुख्यमंत्री माझी लाडकी बहीण योजना' सुरू केली असून, यामध्ये पात्र महिलांच्या बँक खात्यात दरमहा १५०० रुपये जमा केले जातील.",
+      "category": "Maharashtra",
+      "difficulty": "easy",
+      "sourceUrl": "https://maharashtra.gov.in"
+    },
+    {
+      "id": "ca_20260913_10",
+      "question": "परदेशी पोर्टफोलिओ गुंतवणूकदारांनी (FPIs) भारतीय इक्विटी मार्केटमधून नुकतेच किती कोटी रुपये काढून घेतले आहेत, जे जागतिक अनिश्चिततेचे कारण मानले जात आहे?",
+      "options": [
+        "५,१३८ कोटी रुपये",
+        "१०,५०० कोटी रुपये",
+        "१३,१३८ कोटी रुपये",
+        "१५,२०० कोटी रुपये"
+      ],
+      "correctAnswer": 2,
+      "explanation": "सप्टेंबरच्या सुरुवातीला अमेरिकेतील वाढते बाँड उत्पन्न आणि जागतिक अनिश्चिततेमुळे परदेशी पोर्टफोलिओ गुंतवणूकदारांनी (FPIs) भारतीय शेअर बाजारातून १३,१३८ कोटी रुपये काढून घेतले आहेत.",
+      "category": "Economy",
+      "difficulty": "hard",
+      "sourceUrl": "https://timesofindia.indiatimes.com/business/india-business/fpis-turn-sellers-again-rs-13138-crore-pulled-out-of-indian-equities/articleshow/134195608.cms"
+    }
+  ],
+  "totalQuestions": 10,
+  "version": 1
+}
