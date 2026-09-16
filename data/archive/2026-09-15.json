@@ -1,0 +1,160 @@
+{
+  "date": "2026-09-15",
+  "topic": "Current Affairs",
+  "source": "Times of India",
+  "lastUpdated": "2026-09-15T08:00:00+05:30",
+  "quiz": [
+    {
+      "id": "ca_20260915_01",
+      "question": "ऑगस्ट २०२६ मध्ये भारताच्या अमेरिकेतील आणि चीनमधील निर्यातीत अनुक्रमे किती टक्क्यांनी वाढ झाली आहे?",
+      "options": [
+        "२१.८३% आणि ५२.३५%",
+        "१५.५०% आणि ३८.७१%",
+        "१०.००% आणि ४५.२०%",
+        "२५.००% आणि ६०.००%"
+      ],
+      "correctAnswer": 0,
+      "explanation": "वाणिज्य मंत्रालयाच्या आकडेवारीनुसार, ऑगस्ट २०२६ मध्ये भारताच्या अमेरिकेतील निर्यातीत २१.८३% आणि चीनमधील निर्यातीत ५२.३५% वाढ झाली आहे.",
+      "category": "Economy",
+      "difficulty": "medium",
+      "sourceUrl": "https://timesofindia.indiatimes.com/business/india-business/indias-exports-to-us-china-surge-in-august-amid-stronger-global-trade/articleshow/134268244.cms"
+    },
+    {
+      "id": "ca_20260915_02",
+      "question": "अलीकडेच अफगाणिस्तानविरुद्धच्या टी-२० मालिकेत संजू सॅमसनने किती चेंडूत ५७ धावा करत भारताला विजय मिळवून दिला?",
+      "options": [
+        "३० चेंडूत",
+        "२२ चेंडूत",
+        "२५ चेंडूत",
+        "१८ चेंडूत"
+      ],
+      "correctAnswer": 1,
+      "explanation": "संजू सॅमसनने अफगाणिस्तानविरुद्धच्या दुसऱ्या टी-२० सामन्यात फक्त २२ चेंडूत ५७ धावा करत भारताला मालिका विजयाकडे नेले.",
+      "category": "Sports",
+      "difficulty": "easy",
+      "sourceUrl": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-afghanistan/sanju-samsons-57-off-22-establishes-his-role-of-the-preferred-opener-as-india-beat-afghanistan-by-seven-wickets-to-seal-t20i-series/articleshow/134269649.cms"
+    },
+    {
+      "id": "ca_20260915_03",
+      "question": "उझबेकिस्तानमधील समरकंद येथे ४६व्या बुद्धिबळ ऑलिम्पियाडच्या (Chess Olympiad) आधी भारतीय खेळाडूंना कोणत्या समस्येचा सामना करावा लागला?",
+      "options": [
+        "विमानाला उशीर",
+        "हॉटेलच्या खोल्या मिळण्यास विलंब",
+        "स्पर्धेचे नियम बदलणे",
+        "खेळाडूंची प्रकृती बिघडणे"
+      ],
+      "correctAnswer": 1,
+      "explanation": "समरकंदमध्ये भारतीय बुद्धिबळ संघाला हॉटेलमधील बुकिंगच्या संप्रेषण अभावामुळे खोल्या मिळण्यास विलंब झाला, ज्यावर 'अखिल भारतीय बुद्धिबळ महासंघाने' (AICF) मध्यस्थी करून तोडगा काढला.",
+      "category": "Sports",
+      "difficulty": "medium",
+      "sourceUrl": "https://timesofindia.indiatimes.com/sports/chess/olympiad-mess-indian-chess-players-get-rooms-after-aicf-intervention-in-samarkand/articleshow/134266159.cms"
+    },
+    {
+      "id": "ca_20260915_04",
+      "question": "बृहन्मुंबई महानगरपालिकेच्या (BMC) आकडेवारीनुसार, मुंबईत २०१५ ते २०२५ या कालावधीत कोणत्या मलेरियाच्या प्रकारात ५३५% वाढ झाली आहे?",
+      "options": [
+        "प्लाझमोडियम फॅल्सीफेरम (Plasmodium falciparum)",
+        "प्लाझमोडियम व्हायवॅक्स (Plasmodium vivax)",
+        "प्लाझमोडियम ओव्हेल (Plasmodium ovale)",
+        "प्लाझमोडियम मलेरिया (Plasmodium malariae)"
+      ],
+      "correctAnswer": 0,
+      "explanation": "मुंबईत २०१५ ते २०२५ या काळात प्लाझमोडियम फॅल्सीफेरम या सर्वात घातक मलेरियाच्या प्रकरणांमध्ये ५३५.२% वाढ झाली आहे. याचे एक प्रमुख कारण म्हणजे स्थलांतर आणि वाढलेल्या चाचण्या.",
+      "category": "Maharashtra",
+      "difficulty": "medium",
+      "sourceUrl": "https://timesofindia.indiatimes.com/city/mumbai/cases-of-high-risk-malaria-strain-in-mumbai-jump-535-in-10-years-to-2382/articleshow/134272221.cms"
+    },
+    {
+      "id": "ca_20260915_05",
+      "question": "महाराष्ट्र राज्याच्या मंत्रिमंडळाच्या बैठकीत अलीकडेच मुख्यमंत्री देवेंद्र फडणवीस यांनी कोणत्या समस्येवर मात करण्यासाठी सर्वसमावेशक कृती आराखडा तयार करण्याचे निर्देश दिले?",
+      "options": [
+        "पूर परिस्थिती",
+        "वाहतूक कोंडी",
+        "दुष्काळ परिस्थिती",
+        "आरोग्य आणीबाणी"
+      ],
+      "correctAnswer": 2,
+      "explanation": "मुख्यमंत्री देवेंद्र फडणवीस यांनी राज्याच्या अनेक जिल्ह्यांमध्ये पावसाअभावी निर्माण होत असलेल्या दुष्काळसदृश परिस्थितीला तोंड देण्यासाठी कृती आराखडा तयार करण्याची घोषणा केली आहे.",
+      "category": "Maharashtra",
+      "difficulty": "easy",
+      "sourceUrl": "https://timesofindia.indiatimes.com/city/pune/govt-chalking-out-plan-to-tackle-drought-situation-fadnavis/articleshow/134272554.cms"
+    },
+    {
+      "id": "ca_20260915_06",
+      "question": "भारताचा ऑगस्ट २०२६ मधील एकूण व्यापारी तूट (Merchandise Trade Deficit) किती अब्ज डॉलर्सवर घसरला आहे, जो पाच महिन्यांतील नीचांकी स्तर आहे?",
+      "options": [
+        "$२०.०० अब्ज",
+        "$२६.८६ अब्ज",
+        "$३०.५० अब्ज",
+        "$१५.७५ अब्ज"
+      ],
+      "correctAnswer": 1,
+      "explanation": "सोन्याच्या आयातीत ५७.७५% घट झाल्यामुळे ऑगस्ट २०२६ मध्ये भारताची व्यापारी तूट $२६.८६ अब्ज इतकी नोंदवली गेली, जी पाच महिन्यांतील सर्वात कमी आहे.",
+      "category": "Economy",
+      "difficulty": "hard",
+      "sourceUrl": "https://timesofindia.indiatimes.com/business/india-business/indias-exports-to-us-china-surge-in-august-amid-stronger-global-trade/articleshow/134268244.cms"
+    },
+    {
+      "id": "ca_20260915_07",
+      "question": "अमेरिका आणि चीन व्यतिरिक्त, ऑगस्टमध्ये भारताची सिंगापूरमध्ये झालेली निर्यात किती टक्क्यांनी वाढली आहे?",
+      "options": [
+        "५०.००%",
+        "१००.२५%",
+        "१६०.९६%",
+        "७५.५०%"
+      ],
+      "correctAnswer": 2,
+      "explanation": "ऑगस्टमध्ये भारताची सिंगापूरमधील निर्यात वर्ष-दर-वर्ष १६०.९६% ने वाढून १.९ अब्ज डॉलर्सवर पोहोचली आहे.",
+      "category": "Economy",
+      "difficulty": "medium",
+      "sourceUrl": "https://timesofindia.indiatimes.com/business/india-business/indias-exports-to-us-china-surge-in-august-amid-stronger-global-trade/articleshow/134268244.cms"
+    },
+    {
+      "id": "ca_20260915_08",
+      "question": "अफगाणिस्तानविरुद्धच्या टी-२० मालिकेत ३/२४ अशी प्रभावी गोलंदाजी कोणी केली, ज्यामुळे 'सीमर ऑलराऊंडर'चा शोध थांबण्याची आशा निर्माण झाली आहे?",
+      "options": [
+        "हार्दिक पांड्या",
+        "शिवम दुबे",
+        "नितीश कुमार रेड्डी",
+        "अक्षर पटेल"
+      ],
+      "correctAnswer": 2,
+      "explanation": "नितीश कुमार रेड्डी याने अफगाणिस्तानविरुद्धच्या दुसऱ्या टी-२० सामन्यात ३/२४ अशी उत्तम कामगिरी केली, ज्याने संघाच्या व्यवस्थापनाला आशा मिळवून दिली.",
+      "category": "Sports",
+      "difficulty": "easy",
+      "sourceUrl": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-afghanistan/sanju-samsons-57-off-22-establishes-his-role-of-the-preferred-opener-as-india-beat-afghanistan-by-seven-wickets-to-seal-t20i-series/articleshow/134269649.cms"
+    },
+    {
+      "id": "ca_20260915_09",
+      "question": "अमेरिकेतील मॅसॅच्युसेट्समध्ये क्रॅनबेरी (Cranberry) शेतीसाठी वापरल्या जाणाऱ्या जुन्या धरणांच्या जागी कोणती महत्त्वाची पर्यावरण पुनरुज्जीवन प्रक्रिया पार पडली?",
+      "options": [
+        "नवे धरण बांधणे",
+        "धरणे पाडून पाथळ जमीन (Wetlands) आणि मूळ परिसंस्था पुन्हा निर्माण करणे",
+        "तिथे मोठी शहरे उभारणे",
+        "पाण्याचा साठा वाढवण्यासाठी कालवे बांधणे"
+      ],
+      "correctAnswer": 1,
+      "explanation": "मॅसॅच्युसेट्समध्ये २०१८ मध्ये जुनी धरणे काढून २०२० पर्यंत ५६ एकर पाथळ जमीन पुनर्संचयित करण्यात आली, ज्यामुळे २०० हून अधिक मूळ वनस्पती आणि माशांच्या प्रजाती पुन्हा तेथे वाढू लागल्या.",
+      "category": "Environment",
+      "difficulty": "hard",
+      "sourceUrl": "https://timesofindia.indiatimes.com/world/us/in-2018-massachusetts-removed-the-first-of-two-old-dams-from-former-cranberry-bogs-by-2020-56-acres-of-wetlands-had-been-rebuilt-and-200-native-plant-species-had/articleshow/134271451.cms"
+    },
+    {
+      "id": "ca_20260915_10",
+      "question": "बृहन्मुंबई महानगरपालिकेच्या (BMC) आकडेवारीनुसार, मुंबईत मलेरियाच्या चाचण्यांमध्ये गेल्या दहा वर्षांत किती टक्क्यांनी वाढ झाली आहे?",
+      "options": [
+        "३२.३%",
+        "५०.०%",
+        "१०.५%",
+        "२५.०%"
+      ],
+      "correctAnswer": 0,
+      "explanation": "गेल्या दशकात मुंबईत मलेरियाच्या चाचण्यांमध्ये ३२.३% ची वाढ झाली आहे (१४,२८,२६५ वरून १८,८९,०१२), ज्याचा परिणाम म्हणून अधिक रुग्णांचे निदान होत आहे.",
+      "category": "Maharashtra",
+      "difficulty": "medium",
+      "sourceUrl": "https://timesofindia.indiatimes.com/city/mumbai/cases-of-high-risk-malaria-strain-in-mumbai-jump-535-in-10-years-to-2382/articleshow/134272221.cms"
+    }
+  ],
+  "totalQuestions": 10,
+  "version": 1
+}
