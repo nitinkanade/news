@@ -1,0 +1,160 @@
+{
+  "date": "2026-09-16",
+  "topic": "Current Affairs",
+  "source": "Times of India",
+  "lastUpdated": "2026-09-16T23:59:00+05:30",
+  "quiz": [
+    {
+      "id": "ca_20260916_01",
+      "question": "सप्टेंबर २०२६ मध्ये यूएस फेडरल रिझर्व्हने (US Federal Reserve) व्याजदरात किती टक्क्यांपर्यंत वाढ केली, जी २०२३ नंतरची पहिली वाढ आहे?",
+      "options": [
+        "३.५०% - ३.७५%",
+        "३.७५% - ४.००%",
+        "४.००% - ४.२५%",
+        "४.२५% - ४.५०%"
+      ],
+      "correctAnswer": 1,
+      "explanation": "अमेरिकेच्या फेडरल रिझर्व्हचे अध्यक्ष केविन वॉर्श यांच्या नेतृत्वाखालील समितीने २०२३ नंतर प्रथमच व्याजदर ३.७५% ते ४.००% च्या श्रेणीत वाढवले आहेत.",
+      "category": "Economy",
+      "difficulty": "medium",
+      "sourceUrl": "https://timesofindia.indiatimes.com/business/international-business/us-federal-reserve-chair-kevin-warsh-led-fomc-hikes-interest-rate-to-3-75-4-range-first-time-since-2023/articleshow/134292267.cms"
+    },
+    {
+      "id": "ca_20260916_02",
+      "question": "ब्लूमबर्ग बिलियनेअर्स इंडेक्सनुसार (Bloomberg Billionaires Index), गौतम अदानी यांना मागे टाकून अलीकडेच आशियातील सर्वात श्रीमंत व्यक्ती कोण बनले आहे?",
+      "options": [
+        "जॅक मा",
+        "मुकेश अंबानी",
+        "झांग यिमिंग",
+        "मा हुआतेंग"
+      ],
+      "correctAnswer": 2,
+      "explanation": "टिकटॉकचे (TikTok) संस्थापक झांग यिमिंग (Zhang Yiming) हे १०५ अब्ज डॉलर्सच्या संपत्तीसह गौतम अदानी यांना मागे टाकून आशियातील सर्वात श्रीमंत व्यक्ती बनले आहेत.",
+      "category": "International",
+      "difficulty": "easy",
+      "sourceUrl": "https://timesofindia.indiatimes.com/business/india-business/who-is-zhang-yiming-meet-tiktok-billionaire-who-has-overtaken-gautam-adani-as-asias-richest-person/articleshow/134290568.cms"
+    },
+    {
+      "id": "ca_20260916_03",
+      "question": "अलीकडेच जाहीर झालेल्या आयसीसी टी-२० (ICC T20I) गोलंदाजांच्या क्रमवारीत कोणत्या भारतीय गोलंदाजाने पहिल्या १० मध्ये (Top 10) स्थान मिळवले आहे?",
+      "options": [
+        "मोहम्मद सिराज",
+        "जसप्रीत बुमराह",
+        "कुलदीप यादव",
+        "रविचंद्रन अश्विन"
+      ],
+      "correctAnswer": 1,
+      "explanation": "आयसीसीच्या ताज्या टी-२० क्रमवारीत जसप्रीत बुमराहने आपल्या उत्कृष्ट कामगिरीच्या जोरावर पहिल्या १० गोलंदाजांमध्ये प्रवेश केला आहे.",
+      "category": "Sports",
+      "difficulty": "easy",
+      "sourceUrl": "https://timesofindia.indiatimes.com/sports/cricket/news/icc-t20i-rankings-abhishek-sharma-leaps-past-pakistans-sahibzada-farhan-jasprit-bumrah-breaks-into-top-10/articleshow/134284639.cms"
+    },
+    {
+      "id": "ca_20260916_04",
+      "question": "आयपीएलचे (IPL) अध्यक्ष अरुण धुमाळ यांच्या घोषणेनुसार, कोणत्या वर्षीचा आयपीएल लिलाव (IPL Auction) पुन्हा भारतात आयोजित करण्याचा प्रयत्न सुरू आहे?",
+      "options": [
+        "२०२६",
+        "२०२७",
+        "२०२८",
+        "२०२९"
+      ],
+      "correctAnswer": 1,
+      "explanation": "आयपीएलचे अध्यक्ष अरुण धुमाळ यांनी पुष्टी केली आहे की २०२७ चा आयपीएल लिलाव पुन्हा भारतात आयोजित करण्यासाठी प्रयत्न केले जात आहेत.",
+      "category": "Sports",
+      "difficulty": "medium",
+      "sourceUrl": "https://timesofindia.indiatimes.com/sports/cricket/news/ipl-chairman-arun-dhumal-confirms-push-to-bring-2027-auction-back-to-india/articleshow/134288995.cms"
+    },
+    {
+      "id": "ca_20260916_05",
+      "question": "नुकत्याच झालेल्या एफआयडीई (FIDE) जागतिक बुद्धिबळ ऑलिम्पियाडमध्ये, कोणत्या देशाने इस्रायलविरुद्ध खेळण्यास नकार दिल्याने इस्रायलला ४-० असा विजय मिळाला?",
+      "options": [
+        "इराण",
+        "कतार",
+        "सौदी अरेबिया",
+        "पाकिस्तान"
+      ],
+      "correctAnswer": 3,
+      "explanation": "पाकिस्तानने इस्रायलला मान्यता न देण्याच्या आपल्या धोरणावर ठाम राहत एफआयडीई जागतिक बुद्धिबळ ऑलिम्पियाडमध्ये इस्रायलविरुद्ध खेळण्यास नकार दिला, ज्यामुळे इस्रायलला ४-० ने विजयी घोषित करण्यात आले.",
+      "category": "International",
+      "difficulty": "medium",
+      "sourceUrl": "https://timesofindia.indiatimes.com/sports/chess/pakistan-hand-israel-4-0-win-after-refusing-to-play-at-fide-world-chess-olympiad/articleshow/134291730.cms"
+    },
+    {
+      "id": "ca_20260916_06",
+      "question": "वेस्ट इंडिजविरुद्धच्या आगामी एकदिवसीय (ODI) मालिकेसाठी भारतीय संघाचा कर्णधार म्हणून कोणाची निवड करण्यात आली आहे?",
+      "options": [
+        "रोहित शर्मा",
+        "शुभमन गिल",
+        "विराट कोहली",
+        "श्रेयस अय्यर"
+      ],
+      "correctAnswer": 1,
+      "explanation": "वेस्ट इंडिजविरुद्धच्या मायदेशातील एकदिवसीय (ODI) मालिकेसाठी शुभमन गिलकडे कर्णधारपद सोपवण्यात आले आहे, तर टी-२० मालिकेसाठी श्रेयस अय्यर कर्णधार असेल.",
+      "category": "Sports",
+      "difficulty": "easy",
+      "sourceUrl": "https://timesofindia.indiatimes.com/sports/cricket/news/ravindra-jadeja-returns-to-odi-squad-dhruv-jurel-pips-rishabh-pant-rohit-sharma-stays/articleshow/134291088.cms"
+    },
+    {
+      "id": "ca_20260916_07",
+      "question": "अमेरिकन काँग्रेसमध्ये नुकत्याच मंजूर झालेल्या रशिया निर्बंध विधेयकानुसार, कोणत्या देशावर १००% आयात शुल्क (Tariff) लागू करण्याचा विचार सुरू आहे?",
+      "options": [
+        "चीन",
+        "इराण",
+        "भारत",
+        "उत्तर कोरिया"
+      ],
+      "correctAnswer": 2,
+      "explanation": "अमेरिकेत रशियाशी संबंधित निर्बंधांच्या विधेयकाने महत्त्वाचा टप्पा पार केला असून, यामध्ये भारतावर १००% आयात शुल्क लागू करण्याची तरतूद आहे. आता यावर अंतिम मतदान होणार आहे.",
+      "category": "International",
+      "difficulty": "hard",
+      "sourceUrl": "https://timesofindia.indiatimes.com/business/international-business/100-tariff-on-india-russia-sanctions-bill-clears-key-hurdle-final-house-vote-next/articleshow/134292145.cms"
+    },
+    {
+      "id": "ca_20260916_08",
+      "question": "अमेरिकेचे माजी अध्यक्ष डोनाल्ड ट्रम्प यांनी कोणत्या देशात बेकायदेशीर अफूची (Opium) लागवड रोखण्याच्या प्रयत्नांबद्दल पंतप्रधान नरेंद्र मोदींचे कौतुक केले?",
+      "options": [
+        "अफगाणिस्तान",
+        "म्यानमार",
+        "भारत",
+        "नेपाळ"
+      ],
+      "correctAnswer": 2,
+      "explanation": "डोनाल्ड ट्रम्प यांनी भारतात बेकायदेशीर अफूची लागवड कमी करण्याच्या प्रयत्नांसाठी पंतप्रधान मोदींचे कौतुक केले, तरीही अमेरिकेने भारताला प्रमुख औषध पारगमन (Drug Transit) देशांच्या यादीत ठेवले आहे.",
+      "category": "International",
+      "difficulty": "medium",
+      "sourceUrl": "https://timesofindia.indiatimes.com/india/trump-praises-pm-modi-for-curbing-illicit-opium-cultivation-as-india-stays-on-us-drug-transit-list/articleshow/134295296.cms"
+    },
+    {
+      "id": "ca_20260916_09",
+      "question": "महाराष्ट्र राज्य मंत्रिमंडळाच्या नुकत्याच झालेल्या बैठकीत, कोणत्या शहरात नवीन 'मराठी भाषा भवन' उभारण्याचा निर्णय घेण्यात आला आहे?",
+      "options": [
+        "पुणे",
+        "मुंबई",
+        "नागपूर",
+        "छत्रपती संभाजीनगर"
+      ],
+      "correctAnswer": 1,
+      "explanation": "मराठी भाषेच्या संवर्धनासाठी आणि विकासासाठी मुंबईत 'मराठी भाषा भवन' उभारण्यास महाराष्ट्र राज्य मंत्रिमंडळाने मंजुरी दिली आहे.",
+      "category": "Maharashtra",
+      "difficulty": "medium",
+      "sourceUrl": "https://maharashtratimes.com/maharashtra/mumbai/marathi-bhasha-bhavan-in-mumbai-cabinet-decision/articleshow/134295001.cms"
+    },
+    {
+      "id": "ca_20260916_10",
+      "question": "मुख्यमंत्री लाडकी बहीण योजनेअंतर्गत (Mukhyamantri Ladki Bahin Yojana) महाराष्ट्र सरकारने महिलांना प्रति महिना किती आर्थिक मदत देण्याची घोषणा केली आहे?",
+      "options": [
+        "१००० रुपये",
+        "१२०० रुपये",
+        "१५०० रुपये",
+        "२००० रुपये"
+      ],
+      "correctAnswer": 2,
+      "explanation": "महिलांचे आर्थिक सक्षमीकरण करण्यासाठी महाराष्ट्र सरकारने 'मुख्यमंत्री लाडकी बहीण योजना' जाहीर केली असून, या अंतर्गत पात्र महिलांना दरमहा १५०० रुपये दिले जातील.",
+      "category": "Maharashtra",
+      "difficulty": "easy",
+      "sourceUrl": "https://www.loksatta.com/maharashtra/mukhyamantri-ladki-bahin-yojana-1500-rupees-per-month-to-women/articleshow/134296123.cms"
+    }
+  ],
+  "totalQuestions": 10,
+  "version": 1
+}
