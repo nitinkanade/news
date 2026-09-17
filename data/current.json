@@ -1,158 +1,158 @@
 {
-  "date": "2026-09-16",
+  "date": "2026-09-17",
   "topic": "Current Affairs",
   "source": "Times of India",
-  "lastUpdated": "2026-09-16T23:59:00+05:30",
+  "lastUpdated": "2026-09-17T23:59:00+05:30",
   "quiz": [
     {
-      "id": "ca_20260916_01",
-      "question": "सप्टेंबर २०२६ मध्ये यूएस फेडरल रिझर्व्हने (US Federal Reserve) व्याजदरात किती टक्क्यांपर्यंत वाढ केली, जी २०२३ नंतरची पहिली वाढ आहे?",
+      "id": "ca_20260917_01",
+      "question": "नुकतेच अभिषेक शर्माने कोणत्या देशाविरुद्ध टी-२० क्रिकेटमध्ये केवळ ३० चेंडूत शतक झळकावून नवा विक्रम प्रस्थापित केला?",
       "options": [
-        "३.५०% - ३.७५%",
-        "३.७५% - ४.००%",
-        "४.००% - ४.२५%",
-        "४.२५% - ४.५०%"
+        "ऑस्ट्रेलिया",
+        "दक्षिण आफ्रिका",
+        "अफगाणिस्तान",
+        "श्रीलंका"
       ],
-      "correctAnswer": 1,
-      "explanation": "अमेरिकेच्या फेडरल रिझर्व्हचे अध्यक्ष केविन वॉर्श यांच्या नेतृत्वाखालील समितीने २०२३ नंतर प्रथमच व्याजदर ३.७५% ते ४.००% च्या श्रेणीत वाढवले आहेत.",
+      "correctAnswer": 2,
+      "explanation": "भारताचा युवा फलंदाज अभिषेक शर्माने अफगाणिस्तानविरुद्धच्या टी-२० सामन्यात अवघ्या ३० चेंडूत शतक झळकावून नवा विक्रम रचला आणि भारताला मालिका ३-० अशी जिंकून दिली.",
+      "category": "Sports",
+      "difficulty": "medium",
+      "sourceUrl": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-afghanistan/abhishek-sharmas-record-30-ball-century-powers-india-to-3-0-t20i-series-sweep-vs-afghanistan/articleshow/134318394.cms"
+    },
+    {
+      "id": "ca_20260917_02",
+      "question": "कर्मचारी भविष्य निर्वाह निधी संघटनेने (EPFO) वेतन मर्यादा (Wage Ceiling) किती रुपयांपर्यंत वाढवली आहे?",
+      "options": [
+        "२०,००० रुपये",
+        "२१,००० रुपये",
+        "२५,००० रुपये",
+        "३०,००० रुपये"
+      ],
+      "correctAnswer": 2,
+      "explanation": "कर्मचारी भविष्य निर्वाह निधी संघटनेने (EPFO) कामगारांसाठी वेतन मर्यादा २१,००० रुपयांवरून २५,००० रुपये केली आहे.",
       "category": "Economy",
       "difficulty": "medium",
-      "sourceUrl": "https://timesofindia.indiatimes.com/business/international-business/us-federal-reserve-chair-kevin-warsh-led-fomc-hikes-interest-rate-to-3-75-4-range-first-time-since-2023/articleshow/134292267.cms"
+      "sourceUrl": "https://timesofindia.indiatimes.com/business/india-business/epfo-raises-wage-ceiling-rises-to-rs-25000-what-has-changed-and-will-your-take-home-pay-salary-come-down/articleshow/134307071.cms"
     },
     {
-      "id": "ca_20260916_02",
-      "question": "ब्लूमबर्ग बिलियनेअर्स इंडेक्सनुसार (Bloomberg Billionaires Index), गौतम अदानी यांना मागे टाकून अलीकडेच आशियातील सर्वात श्रीमंत व्यक्ती कोण बनले आहे?",
+      "id": "ca_20260917_03",
+      "question": "टाटा सन्स (Tata Sons) समूहाच्या अध्यक्षपदी पुढील ५ वर्षांसाठी कोणाची पुन्हा नियुक्ती करण्यात आली आहे?",
       "options": [
-        "जॅक मा",
-        "मुकेश अंबानी",
-        "झांग यिमिंग",
-        "मा हुआतेंग"
+        "रतन टाटा",
+        "एन. चंद्रशेखरन",
+        "नोएल टाटा",
+        "सायरस मिस्त्री"
+      ],
+      "correctAnswer": 1,
+      "explanation": "टाटा सन्सच्या संचालक मंडळाने एन. चंद्रशेखरन यांची समूहाचे अध्यक्ष म्हणून पुढील ५ वर्षांच्या कार्यकाळासाठी पुन्हा नियुक्ती करण्यास मंजुरी दिली आहे.",
+      "category": "Economy",
+      "difficulty": "easy",
+      "sourceUrl": "https://timesofindia.indiatimes.com/business/india-business/tata-sons-board-approves-re-appointment-of-n-chandrasekaran-as-chairman-of-tata-group-for-another-5-year-term/articleshow/134307569.cms"
+    },
+    {
+      "id": "ca_20260917_04",
+      "question": "नुकतेच बॉम्बे हायकोर्टाने (Bombay HC) कोणत्या संदर्भात मार्गदर्शक तत्त्वे जारी केली आहेत?",
+      "options": [
+        "मराठा आरक्षण",
+        "एकाहून अधिक इमारती असलेल्या लेआउटवर जमिनीचे मालकी हक्क",
+        "पोलिसांची भरती प्रक्रिया",
+        "शालेय शुल्क नियमन"
+      ],
+      "correctAnswer": 1,
+      "explanation": "एकाच लेआउटवर एकापेक्षा जास्त इमारती असल्यास, जमिनीचे मालकी हक्क कसे निश्चित करावेत यासंदर्भात बॉम्बे हायकोर्टाने महत्त्वपूर्ण मार्गदर्शक तत्त्वे निश्चित केली आहेत.",
+      "category": "Maharashtra",
+      "difficulty": "hard",
+      "sourceUrl": "https://timesofindia.indiatimes.com/city/mumbai/bombay-hc-sets-guidelines-for-land-title-on-layout-with-multiple-buildings/articleshow/134319495.cms"
+    },
+    {
+      "id": "ca_20260917_05",
+      "question": "नुकत्याच सापडलेल्या माहितीनुसार, अमेरिकन निर्बंध विधेयकाचा (US Sanctions Bill) कोणत्या देशांच्या संबंधांवर थेट परिणाम होऊ शकतो?",
+      "options": [
+        "भारत आणि रशिया",
+        "भारत आणि जपान",
+        "चीन आणि युरोप",
+        "भारत आणि ऑस्ट्रेलिया"
+      ],
+      "correctAnswer": 0,
+      "explanation": "अमेरिकेच्या नवीन निर्बंध विधेयकावर भारत, रशिया आणि चीनने प्रतिक्रिया दिल्या असून, यामुळे भारत-रशिया संबंधांवर (विशेषतः कच्च्या तेलाच्या खरेदीवर) मोठा परिणाम होऊ शकतो.",
+      "category": "International",
+      "difficulty": "medium",
+      "sourceUrl": "https://timesofindia.indiatimes.com/business/india-business/implication-for-ties-unauthorised-unfriendly-how-india-russia-and-china-reacted-to-us-sanctions-bill/articleshow/134309717.cms"
+    },
+    {
+      "id": "ca_20260917_06",
+      "question": "नॅशनल स्टॉक एक्स्चेंज (NSE) च्या आयपीओला (IPO) पहिल्या दिवशी किती टक्के सबस्क्रिप्शन मिळाले?",
+      "options": [
+        "२५%",
+        "३५%",
+        "४२%",
+        "५०%"
       ],
       "correctAnswer": 2,
-      "explanation": "टिकटॉकचे (TikTok) संस्थापक झांग यिमिंग (Zhang Yiming) हे १०५ अब्ज डॉलर्सच्या संपत्तीसह गौतम अदानी यांना मागे टाकून आशियातील सर्वात श्रीमंत व्यक्ती बनले आहेत.",
-      "category": "International",
-      "difficulty": "easy",
-      "sourceUrl": "https://timesofindia.indiatimes.com/business/india-business/who-is-zhang-yiming-meet-tiktok-billionaire-who-has-overtaken-gautam-adani-as-asias-richest-person/articleshow/134290568.cms"
-    },
-    {
-      "id": "ca_20260916_03",
-      "question": "अलीकडेच जाहीर झालेल्या आयसीसी टी-२० (ICC T20I) गोलंदाजांच्या क्रमवारीत कोणत्या भारतीय गोलंदाजाने पहिल्या १० मध्ये (Top 10) स्थान मिळवले आहे?",
-      "options": [
-        "मोहम्मद सिराज",
-        "जसप्रीत बुमराह",
-        "कुलदीप यादव",
-        "रविचंद्रन अश्विन"
-      ],
-      "correctAnswer": 1,
-      "explanation": "आयसीसीच्या ताज्या टी-२० क्रमवारीत जसप्रीत बुमराहने आपल्या उत्कृष्ट कामगिरीच्या जोरावर पहिल्या १० गोलंदाजांमध्ये प्रवेश केला आहे.",
-      "category": "Sports",
-      "difficulty": "easy",
-      "sourceUrl": "https://timesofindia.indiatimes.com/sports/cricket/news/icc-t20i-rankings-abhishek-sharma-leaps-past-pakistans-sahibzada-farhan-jasprit-bumrah-breaks-into-top-10/articleshow/134284639.cms"
-    },
-    {
-      "id": "ca_20260916_04",
-      "question": "आयपीएलचे (IPL) अध्यक्ष अरुण धुमाळ यांच्या घोषणेनुसार, कोणत्या वर्षीचा आयपीएल लिलाव (IPL Auction) पुन्हा भारतात आयोजित करण्याचा प्रयत्न सुरू आहे?",
-      "options": [
-        "२०२६",
-        "२०२७",
-        "२०२८",
-        "२०२९"
-      ],
-      "correctAnswer": 1,
-      "explanation": "आयपीएलचे अध्यक्ष अरुण धुमाळ यांनी पुष्टी केली आहे की २०२७ चा आयपीएल लिलाव पुन्हा भारतात आयोजित करण्यासाठी प्रयत्न केले जात आहेत.",
-      "category": "Sports",
+      "explanation": "नॅशनल स्टॉक एक्स्चेंज (NSE) च्या बहुप्रतिक्षित आयपीओला पहिल्याच दिवशी ४२% सबस्क्रिप्शन मिळाले आहे, जो भारतातील दुसरा सर्वात मोठा आयपीओ ठरण्याची शक्यता आहे.",
+      "category": "Economy",
       "difficulty": "medium",
-      "sourceUrl": "https://timesofindia.indiatimes.com/sports/cricket/news/ipl-chairman-arun-dhumal-confirms-push-to-bring-2027-auction-back-to-india/articleshow/134288995.cms"
+      "sourceUrl": "https://timesofindia.indiatimes.com/business/india-business/nse-ipo-subscription-status-national-stock-exchanges-offer-gets-subscribed-42-on-its-first-day/articleshow/134311873.cms"
     },
     {
-      "id": "ca_20260916_05",
-      "question": "नुकत्याच झालेल्या एफआयडीई (FIDE) जागतिक बुद्धिबळ ऑलिम्पियाडमध्ये, कोणत्या देशाने इस्रायलविरुद्ध खेळण्यास नकार दिल्याने इस्रायलला ४-० असा विजय मिळाला?",
+      "id": "ca_20260917_07",
+      "question": "सायबर गुन्हेगारीला आळा घालण्यासाठी मुंबई पोलिसांनी नुकतीच कोणत्या देशाशी संबंधित फसवणूक करणाऱ्या टोळीला अटक केली?",
       "options": [
-        "इराण",
-        "कतार",
-        "सौदी अरेबिया",
-        "पाकिस्तान"
-      ],
-      "correctAnswer": 3,
-      "explanation": "पाकिस्तानने इस्रायलला मान्यता न देण्याच्या आपल्या धोरणावर ठाम राहत एफआयडीई जागतिक बुद्धिबळ ऑलिम्पियाडमध्ये इस्रायलविरुद्ध खेळण्यास नकार दिला, ज्यामुळे इस्रायलला ४-० ने विजयी घोषित करण्यात आले.",
-      "category": "International",
-      "difficulty": "medium",
-      "sourceUrl": "https://timesofindia.indiatimes.com/sports/chess/pakistan-hand-israel-4-0-win-after-refusing-to-play-at-fide-world-chess-olympiad/articleshow/134291730.cms"
-    },
-    {
-      "id": "ca_20260916_06",
-      "question": "वेस्ट इंडिजविरुद्धच्या आगामी एकदिवसीय (ODI) मालिकेसाठी भारतीय संघाचा कर्णधार म्हणून कोणाची निवड करण्यात आली आहे?",
-      "options": [
-        "रोहित शर्मा",
-        "शुभमन गिल",
-        "विराट कोहली",
-        "श्रेयस अय्यर"
-      ],
-      "correctAnswer": 1,
-      "explanation": "वेस्ट इंडिजविरुद्धच्या मायदेशातील एकदिवसीय (ODI) मालिकेसाठी शुभमन गिलकडे कर्णधारपद सोपवण्यात आले आहे, तर टी-२० मालिकेसाठी श्रेयस अय्यर कर्णधार असेल.",
-      "category": "Sports",
-      "difficulty": "easy",
-      "sourceUrl": "https://timesofindia.indiatimes.com/sports/cricket/news/ravindra-jadeja-returns-to-odi-squad-dhruv-jurel-pips-rishabh-pant-rohit-sharma-stays/articleshow/134291088.cms"
-    },
-    {
-      "id": "ca_20260916_07",
-      "question": "अमेरिकन काँग्रेसमध्ये नुकत्याच मंजूर झालेल्या रशिया निर्बंध विधेयकानुसार, कोणत्या देशावर १००% आयात शुल्क (Tariff) लागू करण्याचा विचार सुरू आहे?",
-      "options": [
-        "चीन",
-        "इराण",
-        "भारत",
+        "नायजेरिया",
+        "कंबोडिया",
+        "रशिया",
         "उत्तर कोरिया"
       ],
-      "correctAnswer": 2,
-      "explanation": "अमेरिकेत रशियाशी संबंधित निर्बंधांच्या विधेयकाने महत्त्वाचा टप्पा पार केला असून, यामध्ये भारतावर १००% आयात शुल्क लागू करण्याची तरतूद आहे. आता यावर अंतिम मतदान होणार आहे.",
-      "category": "International",
-      "difficulty": "hard",
-      "sourceUrl": "https://timesofindia.indiatimes.com/business/international-business/100-tariff-on-india-russia-sanctions-bill-clears-key-hurdle-final-house-vote-next/articleshow/134292145.cms"
+      "correctAnswer": 1,
+      "explanation": "मुंबई पोलिसांनी कंबोडियामध्ये असलेल्या सायबर गुन्हेगारांना सिम कार्ड आणि ओटीपी (OTPs) पुरवल्याप्रकरणी तीन जणांना अटक केली आहे.",
+      "category": "Maharashtra",
+      "difficulty": "medium",
+      "sourceUrl": "https://timesofindia.indiatimes.com/city/mumbai/mumbai-police-arrest-three-for-supplying-sims-otps-to-cyber-fraudsters-in-cambodia/articleshow/134320270.cms"
     },
     {
-      "id": "ca_20260916_08",
-      "question": "अमेरिकेचे माजी अध्यक्ष डोनाल्ड ट्रम्प यांनी कोणत्या देशात बेकायदेशीर अफूची (Opium) लागवड रोखण्याच्या प्रयत्नांबद्दल पंतप्रधान नरेंद्र मोदींचे कौतुक केले?",
+      "id": "ca_20260917_08",
+      "question": "आयसीसीच्या (ICC) नवीन उपाध्यक्षपदी (Deputy Chairperson) कोणाची निवड करण्यात आली आहे?",
       "options": [
-        "अफगाणिस्तान",
-        "म्यानमार",
-        "भारत",
-        "नेपाळ"
+        "जय शहा",
+        "इमरान ख्वाजा",
+        "तवेंगवा मुकुहलानी",
+        "ग्रेग बार्कले"
       ],
       "correctAnswer": 2,
-      "explanation": "डोनाल्ड ट्रम्प यांनी भारतात बेकायदेशीर अफूची लागवड कमी करण्याच्या प्रयत्नांसाठी पंतप्रधान मोदींचे कौतुक केले, तरीही अमेरिकेने भारताला प्रमुख औषध पारगमन (Drug Transit) देशांच्या यादीत ठेवले आहे.",
-      "category": "International",
+      "explanation": "झिम्बाब्वेचे तवेंगवा मुकुहलानी यांनी सिंगापूरच्या इम्रान ख्वाजा यांच्या जागी आंतरराष्ट्रीय क्रिकेट परिषदेचे (ICC) नवे उपाध्यक्ष म्हणून पदभार स्वीकारला आहे.",
+      "category": "Sports",
       "difficulty": "medium",
-      "sourceUrl": "https://timesofindia.indiatimes.com/india/trump-praises-pm-modi-for-curbing-illicit-opium-cultivation-as-india-stays-on-us-drug-transit-list/articleshow/134295296.cms"
+      "sourceUrl": "https://timesofindia.indiatimes.com/sports/cricket/news/zimbabwes-tavengwa-mukuhlani-succeeds-singapores-khwaja-as-new-icc-deputy-chairperson/articleshow/134312669.cms"
     },
     {
-      "id": "ca_20260916_09",
-      "question": "महाराष्ट्र राज्य मंत्रिमंडळाच्या नुकत्याच झालेल्या बैठकीत, कोणत्या शहरात नवीन 'मराठी भाषा भवन' उभारण्याचा निर्णय घेण्यात आला आहे?",
+      "id": "ca_20260917_09",
+      "question": "सणासुदीच्या काळापूर्वी भारतीय मानक ब्युरोने (BIS) सोन्याच्या हॉलमार्किंग शुल्कात किती टक्के वाढ केली आहे?",
       "options": [
-        "पुणे",
-        "मुंबई",
-        "नागपूर",
-        "छत्रपती संभाजीनगर"
+        "४५%",
+        "५०%",
+        "६७%",
+        "७५%"
+      ],
+      "correctAnswer": 2,
+      "explanation": "भारतीय मानक ब्युरोने (BIS) सोन्याच्या हॉलमार्किंगचे शुल्क ४५ रुपयांवरून ७५ रुपये केले आहे, जी ६७% ची वाढ आहे. मात्र चांदीचे शुल्क ३५ रुपयेच राहील.",
+      "category": "Economy",
+      "difficulty": "hard",
+      "sourceUrl": "https://timesofindia.indiatimes.com/business/india-business/gold-hallmarking-gets-costlier-by-67-as-bis-raises-fee-from-rs-45-to-rs-75-silver-stays-at-rs-35-new-rates-take-effect-ahead-of-festive-season/articleshow/134302969.cms"
+    },
+    {
+      "id": "ca_20260917_10",
+      "question": "नुकतीच बोलिव्हियाच्या जंगलात शतकाहून अधिक काळानंतर कोणती दुर्मिळ प्रजाती पुन्हा आढळून आली आहे?",
+      "options": [
+        "दुर्मिळ गरुड",
+        "दुर्मिळ रानमांजर (Tilcayo)",
+        "दुर्मिळ कासव",
+        "दुर्मिळ साप"
       ],
       "correctAnswer": 1,
-      "explanation": "मराठी भाषेच्या संवर्धनासाठी आणि विकासासाठी मुंबईत 'मराठी भाषा भवन' उभारण्यास महाराष्ट्र राज्य मंत्रिमंडळाने मंजुरी दिली आहे.",
-      "category": "Maharashtra",
-      "difficulty": "medium",
-      "sourceUrl": "https://maharashtratimes.com/maharashtra/mumbai/marathi-bhasha-bhavan-in-mumbai-cabinet-decision/articleshow/134295001.cms"
-    },
-    {
-      "id": "ca_20260916_10",
-      "question": "मुख्यमंत्री लाडकी बहीण योजनेअंतर्गत (Mukhyamantri Ladki Bahin Yojana) महाराष्ट्र सरकारने महिलांना प्रति महिना किती आर्थिक मदत देण्याची घोषणा केली आहे?",
-      "options": [
-        "१००० रुपये",
-        "१२०० रुपये",
-        "१५०० रुपये",
-        "२००० रुपये"
-      ],
-      "correctAnswer": 2,
-      "explanation": "महिलांचे आर्थिक सक्षमीकरण करण्यासाठी महाराष्ट्र सरकारने 'मुख्यमंत्री लाडकी बहीण योजना' जाहीर केली असून, या अंतर्गत पात्र महिलांना दरमहा १५०० रुपये दिले जातील.",
-      "category": "Maharashtra",
-      "difficulty": "easy",
-      "sourceUrl": "https://www.loksatta.com/maharashtra/mukhyamantri-ladki-bahin-yojana-1500-rupees-per-month-to-women/articleshow/134296123.cms"
+      "explanation": "बोलिव्हियाच्या ढगाळ जंगलांमध्ये एक शतकाहून अधिक काळानंतर 'तिलकायो' (Tilcayo) नावाची एक अत्यंत दुर्मिळ आणि लहान रानमांजराची प्रजाती आढळून आली आहे.",
+      "category": "Environment",
+      "difficulty": "hard",
+      "sourceUrl": "https://timesofindia.indiatimes.com/science/meet-tilcayo-the-tiny-wild-cat-discovered-in-bolivias-cloud-forests-after-more-than-a-century/articleshow/134316459.cms"
     }
   ],
   "totalQuestions": 10,
