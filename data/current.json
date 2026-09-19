@@ -1,158 +1,158 @@
 {
-  "date": "2026-09-18",
+  "date": "2026-09-19",
   "topic": "Current Affairs",
   "source": "Times of India",
-  "lastUpdated": "2026-09-18T23:59:00+05:30",
+  "lastUpdated": "2026-09-19T23:59:00+05:30",
   "quiz": [
     {
-      "id": "ca_20260918_01",
-      "question": "नॅशनल स्टॉक एक्स्चेंजच्या (NSE) आयपीओला पहिल्या दिवशी किती टक्के सबस्क्रिप्शन मिळाले?",
+      "id": "ca_20260919_01",
+      "question": "आयआयटी बॉम्बे (IIT-Bombay) मधील दुसऱ्या वर्षाच्या विद्यार्थ्याच्या मृत्यूप्रकरणी कोणत्या व्यक्तीविरुद्ध प्रथम माहिती अहवाल (FIR) दाखल करण्यात आला आहे?",
       "options": [
-        "२३%",
-        "३३%",
-        "४३%",
-        "५३%"
-      ],
-      "correctAnswer": 2,
-      "explanation": "नॅशनल स्टॉक एक्स्चेंजच्या (NSE) आयपीओला पहिल्या दिवशी ४३% सबस्क्रिप्शन मिळाले आहे.",
-      "category": "Economy",
-      "difficulty": "easy",
-      "sourceUrl": "https://timesofindia.indiatimes.com/business/india-business/nse-ipo-subscribed-43-on-day-1/articleshow/134323662.cms"
-    },
-    {
-      "id": "ca_20260918_02",
-      "question": "भारतातील पहिली हायड्रोजन ट्रेन कोणत्या शहरापर्यंत वाढवली जाण्याची शक्यता आहे?",
-      "options": [
-        "मुंबई",
-        "दिल्ली",
-        "चेन्नई",
-        "कोलकाता"
+        "वसतिगृह अधीक्षक",
+        "प्राध्यापक (Professor)",
+        "विद्यापीठ कुलगुरू",
+        "सुरक्षा रक्षक"
       ],
       "correctAnswer": 1,
-      "explanation": "प्रवाशांचा कमी प्रतिसाद असल्यामुळे जुलै २०२६ मध्ये सुरू झालेली भारतातील पहिली हायड्रोजन ट्रेन आता दिल्लीपर्यंत वाढवण्याचा विचार रेल्वे करत आहे.",
-      "category": "Science & Tech",
-      "difficulty": "medium",
-      "sourceUrl": "https://timesofindia.indiatimes.com/business/india-business/in-july-2026-indias-first-hydrogen-train-was-launched-but-only-40-60-ride-it-despite-2600-capacity-two-months-later-railways-plans-to-extend-it-to-delhi/articleshow/134329608.cms"
-    },
-    {
-      "id": "ca_20260918_03",
-      "question": "गेल्या ४ वर्षांत महाराष्ट्रात अभियांत्रिकी (Engineering) क्षेत्रात मुलींच्या प्रवेशात किती टक्के वाढ झाली आहे?",
-      "options": [
-        "५०%",
-        "६५%",
-        "७५%",
-        "८५%"
-      ],
-      "correctAnswer": 2,
-      "explanation": "गेल्या ४ वर्षांच्या आकडेवारीनुसार, महाराष्ट्रात अभियांत्रिकी क्षेत्रात प्रवेश घेणाऱ्या मुलींच्या संख्येत ७५% इतकी लक्षणीय वाढ झाली आहे.",
+      "explanation": "आयआयटी बॉम्बेमधील एका दुसऱ्या वर्षाच्या विद्यार्थ्याच्या मृत्यूप्रकरणी संस्थेच्या एका प्राध्यापकावर आत्महत्येस प्रवृत्त केल्याचा गुन्हा (FIR) पहिल्यांदाच दाखल करण्यात आला आहे.",
       "category": "Maharashtra",
       "difficulty": "medium",
-      "sourceUrl": "https://timesofindia.indiatimes.com/city/mumbai/girls-enrolling-in-engineering-up-by-75-in-4-years-in-maharashtra/articleshow/134342789.cms"
+      "sourceUrl": "https://timesofindia.indiatimes.com/city/mumbai/in-a-first-abetment-fir-filed-against-iit-bombay-professor-in-second-year-students-death/articleshow/134359990.cms"
     },
     {
-      "id": "ca_20260918_04",
-      "question": "बॉम्बे हायकोर्टाने (Bombay HC) कोणत्या प्रकरणातील 'बुरशी' (Fungus) संदर्भातील खटला नुकताच रद्द केला आहे?",
+      "id": "ca_20260919_02",
+      "question": "नुकत्याच झालेल्या टी-२० (T20I) आंतरराष्ट्रीय क्रमवारीत कोणत्या देशाच्या संघाने भारताला मागे टाकून पहिले स्थान पटकावले आहे?",
       "options": [
-        "दुधाच्या पॅकेटमध्ये",
-        "चीज (Cheese) च्या उत्पादनात",
-        "ब्रेडमध्ये",
-        "पावसाळ्यातील भाज्यांमध्ये"
-      ],
-      "correctAnswer": 1,
-      "explanation": "अन्न आणि औषध प्रशासनाने (FDA) चीजच्या 'एक्सपायरी डेट'नंतर नोटीस पाठवल्याप्रकरणी, बॉम्बे हायकोर्टाने संबंधित 'फंगस'चा खटला रद्द केला आहे.",
-      "category": "Maharashtra",
-      "difficulty": "hard",
-      "sourceUrl": "https://timesofindia.indiatimes.com/city/mumbai/fda-sent-notice-after-cheeses-expiry-bombay-hc-quashes-fungus-case/articleshow/134342435.cms"
-    },
-    {
-      "id": "ca_20260918_05",
-      "question": "पुनरविकासासाठी मंजुरी मिळाल्यानंतर, मुंबईतील कोणत्या परिसराचा पुनर्विकास प्रकल्प यंदाच्या दिवाळीपासून सुरू होणार आहे?",
-      "options": [
-        "धारावी",
-        "कमाठीपुरा",
-        "बीडीडी चाळ",
-        "गोवंडी"
-      ],
-      "correctAnswer": 1,
-      "explanation": "सर्व प्रशासकीय मंजुरी मिळाल्यानंतर, मुंबईतील प्रसिद्ध 'कमाठीपुरा' परिसराचा पुनर्विकास प्रकल्प या दिवाळीपासून सुरू होणार आहे.",
-      "category": "Maharashtra",
-      "difficulty": "medium",
-      "sourceUrl": "https://timesofindia.indiatimes.com/city/mumbai/decks-cleared-kamathipura-redevelopment-work-set-to-begin-this-diwali/articleshow/134342735.cms"
-    },
-    {
-      "id": "ca_20260918_06",
-      "question": "न्यायाधिकरणाने (Tribunal) मुंबईतील एका विकासकाला किती टक्के दंड ठोठावला आहे?",
-      "options": [
-        "१%",
-        "२%",
-        "३%",
-        "५%"
-      ],
-      "correctAnswer": 1,
-      "explanation": "व्यावसायिक युनिट्सच्या विक्री उत्पन्नाची वाटणी आणि हस्तांतरण पूर्ण न केल्याबद्दल न्यायाधिकरणाने मुंबईतील विकासकाला २% दंड भरण्याचे निर्देश दिले आहेत.",
-      "category": "Economy",
-      "difficulty": "hard",
-      "sourceUrl": "https://timesofindia.indiatimes.com/city/mumbai/tribunal-directs-mumbai-developer-to-pay-2-penalty-apportion-sale-proceeds-from-commercial-units-execute-conveyance/articleshow/134343212.cms"
-    },
-    {
-      "id": "ca_20260918_07",
-      "question": "भारतीय क्रिकेट नियामक मंडळाने (BCCI) आशियाई क्रीडा स्पर्धेत (Asian Games) कोणत्या संघासाठी स्वतंत्र निवासाची व्यवस्था केली आहे?",
-      "options": [
-        "महिला क्रिकेट संघ",
-        "पुरुष क्रिकेट संघ",
-        "कबड्डी संघ",
-        "हॉकी संघ"
-      ],
-      "correctAnswer": 1,
-      "explanation": "बीसीसीआयने आशियाई क्रीडा स्पर्धेत सहभागी होणाऱ्या भारतीय पुरुष क्रिकेट संघासाठी स्वतंत्र निवासाची व्यवस्था केली आहे.",
-      "category": "Sports",
-      "difficulty": "easy",
-      "sourceUrl": "https://timesofindia.indiatimes.com/sports/cricket/asian-games-2026-mens-t20/asian-games-bcci-books-separate-accommodation-for-mens-cricket-team-women-stay-in-games-facilities/articleshow/134338494.cms"
-    },
-    {
-      "id": "ca_20260918_08",
-      "question": "डिजिटल सोन्याच्या गुंतवणुकीवर नियमन करण्यासाठी कोणते सरकारी मंडळ/संस्था नवीन नियमावली तयार करत आहे?",
-      "options": [
-        "आरबीआय (RBI) आणि सेबी (Sebi)",
-        "फक्त आरबीआय (RBI)",
-        "निती आयोग",
-        "भारतीय स्पर्धा आयोग (CCI)"
-      ],
-      "correctAnswer": 0,
-      "explanation": "सेबीने २०२५ मध्येच डिजिटल सोन्याच्या धोक्यांबाबत इशारा दिला होता, आता सरकार आरबीआय आणि सेबीच्या देखरेखीखाली डिजिटल सोन्याला भौतिक सोन्याचे पाठबळ असणे बंधनकारक करण्याच्या प्रक्रियेत आहे.",
-      "category": "Economy",
-      "difficulty": "medium",
-      "sourceUrl": "https://timesofindia.indiatimes.com/business/india-business/in-2025-sebi-warned-investors-about-digital-gold-now-your-digital-gold-may-soon-need-physical-gold-to-back-it-government-weighs-rbi-sebi-oversight-for-3-billion-industry/articleshow/134329294.cms"
-    },
-    {
-      "id": "ca_20260918_09",
-      "question": "राजकोट येथे झालेल्या युवा एकदिवसीय क्रिकेट सामन्यात भारताने कोणत्या देशाला ७ धावांनी पराभूत केले?",
-      "options": [
-        "इंग्लंड",
         "ऑस्ट्रेलिया",
+        "इंग्लंड",
         "दक्षिण आफ्रिका",
         "न्यूझीलंड"
       ],
       "correctAnswer": 1,
-      "explanation": "राजकोट येथे झालेल्या युवा (U-19) एकदिवसीय सामन्यात, यशवर्धन चौहान आणि अन्वय द्रविड यांच्या उत्कृष्ट कामगिरीच्या जोरावर भारताने ऑस्ट्रेलियाचा ७ धावांनी निसटता पराभव केला.",
+      "explanation": "इंग्लंडने श्रीलंकेविरुद्धची टी-२० मालिका ३-० अशी जिंकल्यानंतर, आयसीसी टी-२० आंतरराष्ट्रीय क्रमवारीत भारताला मागे टाकून पुन्हा पहिले स्थान मिळवले आहे.",
       "category": "Sports",
       "difficulty": "medium",
-      "sourceUrl": "https://timesofindia.indiatimes.com/sports/cricket/news/dravid-sehwag-and-yashbardhan-chauhan-shine-as-india-u-19-edge-australia-by-seven-runs-in-rajkot-youth-odi/articleshow/134337083.cms"
+      "sourceUrl": "https://timesofindia.indiatimes.com/sports/cricket/england-sweep-sri-lanka-3-0-replace-india-at-top-of-t20i-rankings/articleshow/134359801.cms"
     },
     {
-      "id": "ca_20260918_10",
-      "question": "आशियाई क्रीडा स्पर्धेत भारताची खेळाडू क्विम्सी डिसोझा (Quimcy Dsouza) कोणत्या खेळात ऐतिहासिक पदकापासून एक विजय दूर आहे?",
+      "id": "ca_20260919_03",
+      "question": "२० व्या आशियाई क्रीडा (Asian Games) स्पर्धेचे उद्घाटन जपानमधील कोणत्या शहरात झाले?",
       "options": [
-        "टेबल टेनिस",
-        "टेकबॉल (Teqball)",
-        "स्क्वॉश",
-        "बॅडमिंटन"
+        "टोकियो",
+        "ओसाका",
+        "नागोया",
+        "क्योतो"
       ],
-      "correctAnswer": 1,
-      "explanation": "आशियाई क्रीडा स्पर्धेत पहिल्यांदाच समाविष्ट झालेल्या टेकबॉल (Teqball) या खेळात भारताची क्विम्सी डिसोझा उपांत्य फेरीत पोहोचली असून ती ऐतिहासिक पदकापासून केवळ एक विजय दूर आहे.",
+      "correctAnswer": 2,
+      "explanation": "२० व्या आशियाई क्रीडा (Asian Games) स्पर्धेचे शानदार उद्घाटन जपानमधील आयची-नागोया (Aichi-Nagoya) येथे झाले.",
       "category": "Sports",
       "difficulty": "easy",
-      "sourceUrl": "https://timesofindia.indiatimes.com/sports/asian-games-2026/asian-games-indias-quimcy-dsouza-reaches-teqball-semis-one-win-away-from-historic-medal-mixed-doubles-pair-eyes-bronze/articleshow/134334516.cms"
+      "sourceUrl": "https://timesofindia.indiatimes.com/sports/asian-games-2026/asian-games-2026-open-in-nagoya-with-spectacular-opening-ceremony/articleshow/134359850.cms"
+    },
+    {
+      "id": "ca_20260919_04",
+      "question": "पुढील वर्षी मुंबईत कोणत्या ठिकाणी 'वॉक-थ्रू अक्वेरियम' (Walk-through aquarium) सुरू करण्यात येणार आहे?",
+      "options": [
+        "तारापोरवाला मत्स्यालय",
+        "भायखळा प्राणीसंग्रहालय (राणीची बाग)",
+        "संजय गांधी राष्ट्रीय उद्यान",
+        "नेहरू सायन्स सेंटर"
+      ],
+      "correctAnswer": 1,
+      "explanation": "मुंबई महानगरपालिकेने दिलेल्या माहितीनुसार, भायखळा प्राणीसंग्रहालयात (वीरमाता जिजाबाई भोसले उद्यान) पुढील वर्षीच्या सुरुवातीला एक नवीन 'वॉक-थ्रू अक्वेरियम' सुरू होणार आहे.",
+      "category": "Maharashtra",
+      "difficulty": "easy",
+      "sourceUrl": "https://timesofindia.indiatimes.com/city/mumbai/walk-through-aquarium-coming-up-at-byculla-zoo-in-mumbai-early-next-year/articleshow/134359717.cms"
+    },
+    {
+      "id": "ca_20260919_05",
+      "question": "बृहन्मुंबई महानगरपालिका (BMC) व्यावसायिक क्रीडा टर्फ्स (Sports turfs) वर नियंत्रण ठेवण्यासाठी जमिनीच्या दराच्या (Land rate) किती टक्के शुल्क आकारण्याचा विचार करत आहे?",
+      "options": [
+        "१%",
+        "२%",
+        "५%",
+        "१०%"
+      ],
+      "correctAnswer": 0,
+      "explanation": "महापालिकेच्या भूखंडांवर चालवल्या जाणाऱ्या व्यावसायिक स्पोर्ट्स टर्फ्सच्या नियमनासाठी, बीएमसी जमिनीच्या दराच्या १% शुल्क आकारण्याच्या धोरणावर काम करत্বা आहे.",
+      "category": "Maharashtra",
+      "difficulty": "hard",
+      "sourceUrl": "https://timesofindia.indiatimes.com/city/mumbai/bmc-moves-to-regulate-commercial-sports-turfs-on-civic-plots-to-charge-1-of-land-rate/articleshow/134359288.cms"
+    },
+    {
+      "id": "ca_20260919_06",
+      "question": "पुणे शहर पोलिसांनी गुन्हेगारी रेकॉर्डवरील ७६ गुन्हेगारांना ओळखण्यासाठी कोणत्या आधुनिक तंत्रज्ञानाचा वापर केला आहे?",
+      "options": [
+        "ड्रोन पाळत (Drone Surveillance)",
+        "आर्टिफिशियल इंटेलिजन्स (AI) कॅमेरे",
+        "फिंगरप्रिंट स्कॅनिंग बेस",
+        "व्हॉइस रिकग्निशन सॉफ्टवेअर"
+      ],
+      "correctAnswer": 1,
+      "explanation": "पुणे शहर पोलिसांनी बसवलेल्या आर्टिफिशियल इंटेलिजन्स (AI) आधारित सीसीटीव्ही कॅमेऱ्यांच्या मदतीने, गर्दीच्या ठिकाणी गुन्हेगारी रेकॉर्डवरील ७६ गुन्हेगारांची अचूक ओळख पटवली आहे.",
+      "category": "Science & Tech",
+      "difficulty": "medium",
+      "sourceUrl": "https://timesofindia.indiatimes.com/city/pune/pune-city-polices-ai-cameras-detect-76-criminals-on-police-records/articleshow/134359658.cms"
+    },
+    {
+      "id": "ca_20260919_07",
+      "question": "२० व्या आशियाई क्रीडा स्पर्धेच्या उद्घाटन समारंभात भारतीय पथकाचे ध्वजवाहक कोण होते?",
+      "options": [
+        "नीरज चोप्रा आणि पी.व्ही. सिंधू",
+        "मनू भाकर आणि पवन सेहरावत",
+        "मनप्रीत सिंग आणि लोव्हलिना बोरगोहेन",
+        "विनेश फोगट आणि लक्ष्य सेन"
+      ],
+      "correctAnswer": 1,
+      "explanation": "जपानमधील नागोया येथे सुरू झालेल्या आशियाई क्रीडा स्पर्धेच्या उद्घाटन समारंभात नेमबाज मनू भाकर आणि कबड्डीपटू पवन सेहरावत यांनी भारतीय पथकाचे नेतृत्व करत तिरंगा फडकवला.",
+      "category": "Sports",
+      "difficulty": "easy",
+      "sourceUrl": "https://timesofindia.indiatimes.com/sports/asian-games-2026/missed-jaspal-sir-a-lot-manu-bhaker-gets-emotional-after-opening-ceremony/articleshow/134359133.cms"
+    },
+    {
+      "id": "ca_20260919_08",
+      "question": "१८० हून अधिक शास्त्रज्ञांनी अलीकडेच कोणत्या जागतिक हवामान घटनेबाबत धोक्याचा इशारा दिला आहे, ज्यामुळे भीषण दुष्काळ आणि वणवे लागण्याची शक्यता आहे?",
+      "options": [
+        "ला निना (La Nina)",
+        "सुपर अल निनो (Super El Nino)",
+        "पोलर व्होर्टेक्स (Polar Vortex)",
+        "इंडियन ओशन डायपोल (IOD)"
+      ],
+      "correctAnswer": 1,
+      "explanation": "१८० पेक्षा जास्त जागतिक हवामान शास्त्रज्ञांनी एक अहवाल प्रसिद्ध करत 'सुपर अल निनो' (Super El Nino) बाबत धोक्याचा इशारा दिला आहे, ज्यामुळे तापमानात मोठी वाढ, भीषण दुष्काळ आणि वणव्यांचे प्रमाण वाढू शकते.",
+      "category": "Environment",
+      "difficulty": "medium",
+      "sourceUrl": "https://timesofindia.indiatimes.com/india/drought-extreme-heat-wildfires-180-scientists-sound-alarm-over-super-el-nino/articleshow/134356309.cms"
+    },
+    {
+      "id": "ca_20260919_09",
+      "question": "नुकत्याच झालेल्या दिल्ली विद्यापीठ विद्यार्थी संघटना (DUSU) निवडणुकीत कोणत्या विद्यार्थी संघटनेने विजय मिळवला आहे?",
+      "options": [
+        "NSUI",
+        "ABVP",
+        "SFI",
+        "AISA"
+      ],
+      "correctAnswer": 1,
+      "explanation": "दिल्ली विद्यापीठ विद्यार्थी संघटना (DUSU) निवडणुकीच्या निकालांमध्ये अखिल भारतीय विद्यार्थी परिषदेने (ABVP) शानदार विजय नोंदवला आहे.",
+      "category": "Polity",
+      "difficulty": "medium",
+      "sourceUrl": "https://timesofindia.indiatimes.com/india/dusu-election-results-bjp-hails-abvps-splendid-victory-congress-claim-vote-tampering/articleshow/134354651.cms"
+    },
+    {
+      "id": "ca_20260919_10",
+      "question": "मुंबईतील कोणत्या महामार्गावरील 'ब्लॅक स्पॉट्स' (अपघाती क्षेत्र) वर लक्ष ठेवण्यासाठी सीसीटीव्ही (CCTV) कॅमेरे बसवण्याची योजना आखण्यात आली आहे?",
+      "options": [
+        "मुंबई-पुणे एक्स्प्रेसवे",
+        "मुंबई-अहमदाबाद महामार्ग",
+        "मुंबई-नाशिक महामार्ग",
+        "मुंबई-गोवा महामार्ग"
+      ],
+      "correctAnswer": 1,
+      "explanation": "वाढत्या अपघातांना आळा घालण्यासाठी आणि वाहतूक नियमनासाठी, मुंबई-अहमदाबाद महामार्गावरील अपघातप्रवण क्षेत्रांवर (ब्लॅक स्पॉट्स) सीसीटीव्ही कॅमेरे बसवण्याची योजना तयार करण्यात आली आहे.",
+      "category": "Maharashtra",
+      "difficulty": "hard",
+      "sourceUrl": "https://timesofindia.indiatimes.com/city/mumbai/cctv-cameras-planned-at-black-spots-on-mumbai-ahmedabad-highway/articleshow/134359016.cms"
     }
   ],
   "totalQuestions": 10,
