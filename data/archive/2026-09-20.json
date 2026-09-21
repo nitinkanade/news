@@ -1,0 +1,160 @@
+{
+  "date": "2026-09-20",
+  "topic": "Current Affairs",
+  "source": "Times of India",
+  "lastUpdated": "2026-09-21T01:01:47+05:30",
+  "quiz": [
+    {
+      "id": "ca_2026092001",
+      "question": "नुकत्याच प्रसिद्ध झालेल्या अहवालानुसार, भारताचा या आर्थिक वर्षात (FY) अंदाजे 'वास्तविक जीडीपी' (Real GDP) वाढीचा दर किती असण्याची शक्यता आहे?",
+      "options": [
+        "५.५% ते ६.०%",
+        "६.०% ते ६.५%",
+        "६.५% ते ७.०%",
+        "७.०% ते ७.५%"
+      ],
+      "correctAnswer": 2,
+      "explanation": "जेफरीजच्या (Jefferies) अहवालानुसार, चालू आर्थिक वर्षात भारताचा 'वास्तविक जीडीपी' (Real GDP) वाढीचा दर ६.५% ते ७.०% च्या दरम्यान राहण्याची शक्यता आहे, तसेच कॉर्पोरेट उत्पन्नातही वाढ अपेक्षित आहे.",
+      "category": "Economy",
+      "difficulty": "medium",
+      "sourceUrl": "https://timesofindia.indiatimes.com/business/india-business/india-on-track-for-6-5-7-real-gdp-growth-this-fiscal-earnings-seen-accelerating-jefferies/articleshow/134367899.cms"
+    },
+    {
+      "id": "ca_2026092002",
+      "question": "कोटक महिंद्रा बँकेचे संस्थापक उदय कोटक यांच्या अंदाजानुसार, भारताची सोन्याची आयात किती अब्ज डॉलर्सपर्यंत पोहोचण्याची शक्यता आहे?",
+      "options": [
+        "५०-५५ अब्ज डॉलर्स",
+        "६०-६५ अब्ज डॉलर्स",
+        "७५-८० अब्ज डॉलर्स",
+        "८८-९० अब्ज डॉलर्स"
+      ],
+      "correctAnswer": 3,
+      "explanation": "अनुभवी बँकर उदय कोटक यांनी इशारा दिला आहे की, भारताची सोन्याची आयात ८८-९० अब्ज डॉलर्सपर्यंत वाढू शकते. त्यांनी भारतीयांच्या सोन्याच्या आवडीला 'एक कोडे' (puzzle) म्हटले आहे.",
+      "category": "Economy",
+      "difficulty": "hard",
+      "sourceUrl": "https://timesofindia.indiatimes.com/business/india-business/veteran-banker-uday-kotak-warns-indias-gold-imports-could-rise-to-88-90-billion-says-indians-and-their-gold-that-is-a-puzzle-we-have-to-find-a-way-to-solve/articleshow/134363827.cms"
+    },
+    {
+      "id": "ca_2026092003",
+      "question": "अलीकडील एका प्रस्तावानुसार, भारतात कोणत्या वयोगटाखालील मुलांसाठी खोकल्याच्या औषधांच्या (Cough syrups) बाटल्यांवर 'रेड वॉर्निंग' (Red warning) देण्याचा विचार सुरू आहे?",
+      "options": [
+        "२ वर्षांखालील",
+        "३ वर्षांखालील",
+        "४ वर्षांखालील",
+        "५ वर्षांखालील"
+      ],
+      "correctAnswer": 2,
+      "explanation": "लहान मुलांसाठी खोकल्याच्या औषधांच्या वापराबाबतच्या सल्ल्याकडे दुर्लक्ष होत असल्याने, भारत सरकार आता ४ वर्षांखालील मुलांसाठी ही औषधे न वापरण्याबाबत बाटल्यांवर 'रेड वॉर्निंग' देण्याचा विचार करत आहे.",
+      "category": "Science & Tech",
+      "difficulty": "easy",
+      "sourceUrl": "https://timesofindia.indiatimes.com/business/india-business/despite-a-2025-advisory-against-cough-syrups-for-very-young-children-prescribing-continued-india-now-weighs-a-red-warning-on-bottles-saying-they-should-not-be-used-in-children-under-4/articleshow/134363477.cms"
+    },
+    {
+      "id": "ca_2026092004",
+      "question": "तामिळनाडूचे मुख्यमंत्री एम.के. स्टॅलिन यांनी नवीन सचिवालयासाठी (Secretariat) किती कोटी रुपयांच्या आराखड्याची घोषणा केली आहे?",
+      "options": [
+        "८०० कोटी रुपये",
+        "१,००० कोटी रुपये",
+        "१,२०० कोटी रुपये",
+        "१,५०० कोटी रुपये"
+      ],
+      "correctAnswer": 2,
+      "explanation": "विद्यमान परिसरातील जागेच्या कमतरतेमुळे, तामिळनाडू सरकारने १,२०० कोटी रुपये खर्च करून नवीन सचिवालय बांधण्याचा प्रस्ताव मांडला आहे, ज्याचे मंत्र्यांनी समर्थन केले आहे.",
+      "category": "Polity",
+      "difficulty": "medium",
+      "sourceUrl": "https://timesofindia.indiatimes.com/india/space-constraints-at-existing-premises-tamil-nadu-minister-defends-cm-vijays-rs-1200-crore-secretariat-plan/articleshow/134370535.cms"
+    },
+    {
+      "id": "ca_2026092005",
+      "question": "केंद्रीय गृहमंत्री अमित शहा यांच्या मते, राष्ट्रीय लोकशाही आघाडीच्या (NDA) शासित राज्यांमध्ये कोणत्या सालापर्यंत समान नागरी कायदा (UCC) लागू करण्याचे उद्दिष्ट आहे?",
+      "options": [
+        "२०२६",
+        "२०२७",
+        "२०२८",
+        "२०२९"
+      ],
+      "correctAnswer": 3,
+      "explanation": "केंद्रीय गृहमंत्री अमित शहा यांनी २०२९ च्या आधी सर्व एनडीए (NDA) शासित राज्यांमध्ये समान नागरी कायदा (Uniform Civil Code - UCC) लागू करण्याची इच्छा व्यक्त केली आहे.",
+      "category": "Polity",
+      "difficulty": "easy",
+      "sourceUrl": "https://timesofindia.indiatimes.com/india/amit-shah-wants-ucc-in-all-nda-states-by-2029-what-will-jdu-do-in-bihar/articleshow/134366097.cms"
+    },
+    {
+      "id": "ca_2026092006",
+      "question": "आयआयटी बॉम्बे (IIT-Bombay) मधील विद्यार्थ्याच्या मृत्यूनंतर सुरू असलेल्या आंदोलनात, संस्थेच्या संचालकांनी विद्यार्थ्यांच्या किती मागण्यांच्या यादीवर स्वाक्षरी केली आहे?",
+      "options": [
+        "१० मागण्या",
+        "१२ मागण्या",
+        "१५ मागण्या",
+        "१८ मागण्या"
+      ],
+      "correctAnswer": 3,
+      "explanation": "आयआयटी बॉम्बेमधील विद्यार्थ्याच्या मृत्यूनंतर सुरू असलेल्या तीव्र आंदोलनादरम्यान, संस्थेच्या संचालकांनी विद्यार्थ्यांची भेट घेऊन त्यांच्या १८ मागण्यांच्या यादीवर स्वाक्षरी केली आहे.",
+      "category": "Maharashtra",
+      "difficulty": "medium",
+      "sourceUrl": "https://timesofindia.indiatimes.com/city/mumbai/iit-bombay-death-institute-director-meets-protesting-students-signs-list-of-18-demands/articleshow/134374550.cms"
+    },
+    {
+      "id": "ca_2026092007",
+      "question": "अलीकडेच 'नॅशनल स्टेम कॉन्टेस्ट' (National STEM contest) मध्ये अंतिम फेरीत पोहोचलेल्या 'कियानूश नवाई' (Kianoosh Nawai) या ८ वीच्या विद्यार्थ्याने कमी खर्चात कोणते उपकरण बनवले आहे?",
+      "options": [
+        "थ्रीडी-प्रिंटेड रोबोटिक पाय",
+        "थ्रीडी-प्रिंटेड बायोनिक हात",
+        "कमी खर्चाचा श्रवणयंत्र",
+        "आर्टिफिशियल इंटेलिजन्स आधारित स्मार्ट चष्मा"
+      ],
+      "correctAnswer": 1,
+      "explanation": "वेस्ट व्हर्जिनियामधील ८ वीचा विद्यार्थी कियानूश नवाई याने कमी खर्चाचा थ्रीडी-प्रिंटेड बायोनिक हात (3D-printed bionic hand) बनवला असून, तो राष्ट्रीय स्टेम स्पर्धेतील त्याच्या राज्याचा एकमेव अंतिम स्पर्धक ठरला आहे.",
+      "category": "Science & Tech",
+      "difficulty": "hard",
+      "sourceUrl": "https://timesofindia.indiatimes.com/science/discovery/meet-kianoosh-nawai-the-west-virginia-eighth-grader-who-built-a-low-cost-3d-printed-bionic-hand-and-became-his-states-only-finalist-in-a-national-stem-contest/articleshow/134364866.cms"
+    },
+    {
+      "id": "ca_2026092008",
+      "question": "कोणत्या राज्य सरकारने 'मान दा मुनाफा' (Mann Da Munafa) नावाची घरोघरी जाऊन कल्याणकारी योजनांची माहिती देणारी मोहीम सुरू केली आहे?",
+      "options": [
+        "हरियाणा",
+        "पंजाब",
+        "राजस्थान",
+        "दिल्ली"
+      ],
+      "correctAnswer": 1,
+      "explanation": "पंजाबच्या मुख्यमंत्र्यांनी राज्य सरकारच्या कल्याणकारी उपक्रमांवर प्रकाश टाकण्यासाठी घरोघरी जाऊन प्रचार करणारी 'मान दा मुनाफा' मोहीम सुरू केली आहे.",
+      "category": "Polity",
+      "difficulty": "medium",
+      "sourceUrl": "https://timesofindia.indiatimes.com/india/punjab-cm-launches-mann-da-munafa-door-to-door-campaign-highlighting-welfare-initiatives/articleshow/134373332.cms"
+    },
+    {
+      "id": "ca_2026092009",
+      "question": "कॅलिफोर्नियामध्ये नीफस गल्च (Neefus Gulch) येथील १८ फुटांचे धरण किती वर्षांनंतर हटवण्यात आले, ज्यामुळे साल्मन माशांना (Salmon) पुन्हा वरच्या प्रवाहात जाण्याचा मार्ग खुला झाला?",
+      "options": [
+        "४० वर्षे",
+        "५० वर्षे",
+        "६० वर्षे",
+        "७० वर्षे"
+      ],
+      "correctAnswer": 3,
+      "explanation": "कॅलिफोर्नियामध्ये २०२४ मध्ये नीफस गल्च येथील धरण हटवून १६०० फूट प्रवाहाचे पुनरुज्जीवन करण्यात आले, ज्यामुळे ७० वर्षांपासून अडकलेल्या साल्मन माशांना पुन्हा स्पॉनिंगसाठी (Spawning) वरच्या प्रवाहात जाणे शक्य झाले.",
+      "category": "Environment",
+      "difficulty": "medium",
+      "sourceUrl": "https://timesofindia.indiatimes.com/science/wildlife/in-2024-california-removed-an-18-foot-dam-from-neefus-gulch-and-restored-1600-feet-of-stream-by-january-2026-8-spawning-nests-were-recorded-above-barriers-salmon-had-been-unable-to-pass-for-70-years/articleshow/134354387.cms"
+    },
+    {
+      "id": "ca_2026092010",
+      "question": "अलीकडेच महाराष्ट्रातील कोणत्या शहरात मेट्रो-९ (Metro-9) प्रकल्पाच्या ठिकाणी सिमेंटचा ब्लॉक पडून एका व्यक्तीला गंभीर दुखापत झाल्याची घटना घडली आहे?",
+      "options": [
+        "पुणे",
+        "नागपूर",
+        "मुंबई",
+        "ठाणे"
+      ],
+      "correctAnswer": 2,
+      "explanation": "मुंबईत सुरू असलेल्या मेट्रो-९ (Metro 9) प्रकल्पाच्या कामाच्या ठिकाणी एक सिमेंटचा ब्लॉक पडल्याने एका व्यक्तीला डोक्याला गंभीर दुखापत झाल्याची घटना समोर आली आहे.",
+      "category": "Maharashtra",
+      "difficulty": "easy",
+      "sourceUrl": "https://timesofindia.indiatimes.com/city/mumbai/man-suffers-serious-head-injuries-after-cement-block-from-metro-9-work-site-falls-on-him/articleshow/134374719.cms"
+    }
+  ],
+  "totalQuestions": 10,
+  "version": 1
+}
