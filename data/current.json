@@ -1,158 +1,158 @@
 {
-  "date": "2026-09-21",
+  "date": "2026-09-22",
   "topic": "Current Affairs",
   "source": "Times of India",
-  "lastUpdated": "2026-09-21T19:45:34+05:30",
+  "lastUpdated": "2026-09-22T19:52:16+05:30",
   "quiz": [
     {
-      "id": "ca_2026092101",
-      "question": "नुकत्याच झालेल्या घोषणेनुसार, भारताचा स्वतःचा 350 किमी/तास वेगाचा बुलेट ट्रेन प्रकल्प कोणत्या वर्षापर्यंत पूर्ण करण्याचे नियोजन आहे?",
-      "options": [
-        "२०२७",
-        "२०२८",
-        "२०२९",
-        "२०३०"
-      ],
-      "correctAnswer": 3,
-      "explanation": "भारतीय रेल्वेने 2030 पर्यंत स्वतःची 350 किमी/तास वेगाची बुलेट ट्रेन विकसित करण्याची योजना आखली आहे, जी जपानच्या E10 सीरिजशी स्पर्धा करेल.",
-      "category": "Economy",
-      "difficulty": "medium",
-      "sourceUrl": "https://timesofindia.indiatimes.com/business/india-business/india-plans-to-make-its-own-350-kmph-speed-bullet-trains-by-2030-to-match-japans-e10-first-b28-trains-to-run-at-249-kmph-from-2027-mumbai-ahmedabad-project-cost-tops-rs-2-lakh-crore/articleshow/134387529.cms"
-    },
-    {
-      "id": "ca_2026092102",
-      "question": "नुकतेच बँक कर्मचाऱ्यांनी कोणत्या प्रमुख मागणीसाठी देशव्यापी संपाचा इशारा दिला आहे?",
-      "options": [
-        "आठवड्यातून ५ दिवस काम (5-day work week)",
-        "निवृत्ती वयात वाढ",
-        "नवीन पेन्शन योजना (NPS) रद्द करणे",
-        "आयकर सवलत"
-      ],
-      "correctAnswer": 0,
-      "explanation": "बँक युनियनने 5 दिवसांचा बँकिंग आठवडा आणि PLI योजना मागे घेण्याच्या मागणीसाठी 28-30 सप्टेंबर रोजी देशव्यापी संपाची घोषणा केली आहे, ज्यावर सरकार चर्चा करत आहे.",
-      "category": "Economy",
-      "difficulty": "medium",
-      "sourceUrl": "https://timesofindia.indiatimes.com/business/india-business/resolve-issues-through-dialogue-government-urges-bank-employees-to-call-off-september-28-30-strike/articleshow/134392791.cms"
-    },
-    {
-      "id": "ca_2026092103",
-      "question": "आयआयटी बॉम्बे (IIT-Bombay) मधील एका विद्यार्थ्याच्या मृत्यूनंतर, नातेवाईकांनी कोणत्या तपास यंत्रणेमार्फत चौकशीची मागणी केली आहे?",
-      "options": [
-        "सीबीआय (CBI)",
-        "सीआयडी (CID)",
-        "एनआयए (NIA)",
-        "ईडी (ED)"
-      ],
-      "correctAnswer": 1,
-      "explanation": "आयआयटी बॉम्बेमधील १९ वर्षीय विद्यार्थ्याच्या मृत्यूनंतर यवतमाळमधील त्याच्या नातेवाईकांनी ही आत्महत्या नसून याची सीआयडी (CID) चौकशी व्हावी अशी मागणी केली आहे.",
-      "category": "Maharashtra",
-      "difficulty": "medium",
-      "sourceUrl": "https://timesofindia.indiatimes.com/city/nagpur/yavatmal-in-shock-iit-b-boys-kin-for-cid-probe/articleshow/134397182.cms"
-    },
-    {
-      "id": "ca_2026092104",
-      "question": "नुकत्याच झालेल्या आशियाई क्रीडा स्पर्धा 2026 मध्ये भारतासाठी मिक्स्ड मार्शल आर्ट्स (MMA) मध्ये पदक जिंकून कोणी इतिहास रचला?",
-      "options": [
-        "मेरी कोम",
-        "सुचिका तरियाल",
-        "विनेश फोगट",
-        "पी.व्ही. सिंधू"
-      ],
-      "correctAnswer": 1,
-      "explanation": "आशियाई क्रीडा स्पर्धा 2026 च्या दुसऱ्या दिवशी सुचिका तरियाल हिने भारतासाठी पहिले MMA (Mixed Martial Arts) पदक जिंकून इतिहास रचला आहे.",
-      "category": "Sports",
-      "difficulty": "hard",
-      "sourceUrl": "https://timesofindia.indiatimes.com/sports/asian-games-2026/asian-games-2026-day-2-india-win-four-medals-as-shooting-delivers-three-and-suchika-tariyal-makes-mma-history-amid-heartbreak/articleshow/134389949.cms"
-    },
-    {
-      "id": "ca_2026092105",
-      "question": "अमेरिकेच्या कोणत्या अध्यक्षीय उमेदवाराने काँग्रेस (संसद) सदस्यांवर स्टॉक ट्रेडिंग बंदीचे समर्थन केले आहे, परंतु अध्यक्षांना त्यातून वगळण्याची मागणी केली आहे?",
-      "options": [
-        "जो बायडेन",
-        "डोनाल्ड ट्रम्प",
-        "कमला हॅरिस",
-        "बराक ओबामा"
-      ],
-      "correctAnswer": 1,
-      "explanation": "माजी अध्यक्ष डोनाल्ड ट्रम्प यांनी काँग्रेस सदस्यांवर स्टॉक खरेदी बंदीचे समर्थन केले आहे, परंतु अध्यक्षांना या नियमाच्या बाहेर ठेवावे अशी भूमिका घेतली आहे.",
-      "category": "International",
-      "difficulty": "medium",
-      "sourceUrl": "https://timesofindia.indiatimes.com/business/international-business/trump-traded-more-securities-than-all-congress-backs-stock-buying-ban-for-all-congress-lawmakers-but-not-president/articleshow/134391935.cms"
-    },
-    {
-      "id": "ca_2026092106",
-      "question": "अलीकडेच चेन्नई सुपर किंग्स (CSK) च्या मुख्य प्रशिक्षकपदी कोणाची नियुक्ती करण्यात आली आहे?",
-      "options": [
-        "स्टीफन फ्लेमिंग",
-        "हेमंग बदानी",
-        "झहीर खान",
-        "महेंद्रसिंग धोनी"
-      ],
-      "correctAnswer": 2,
-      "explanation": "हेमंग बदानी यांच्याशी चर्चा निष्फळ ठरल्यानंतर चेन्नई सुपर किंग्सने (CSK) आश्चर्यकारकरित्या झहीर खान याची मुख्य प्रशिक्षकपदी नियुक्ती केली आहे.",
-      "category": "Sports",
-      "difficulty": "easy",
-      "sourceUrl": "https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/inside-story-of-how-zaheer-khan-pipped-hemang-badani-for-csk-head-coach-job/articleshow/134392147.cms"
-    },
-    {
-      "id": "ca_2026092107",
-      "question": "गुगल (Google) ने भारतात किती नवीन शाश्वतता (sustainability) उपक्रमांची घोषणा केली आहे, ज्यामध्ये राजस्थानमधील सौर प्रकल्पाचा समावेश आहे?",
-      "options": [
-        "तीन",
-        "पाच",
-        "सात",
-        "दहा"
-      ],
-      "correctAnswer": 1,
-      "explanation": "गुगलने भारतात पाच नवीन शाश्वतता उपक्रम जाहीर केले आहेत, ज्यामध्ये राजस्थानमधील 150-मेगावॅट सौर प्रकल्प आणि हवामान-अनुकूल शेतीचा समावेश आहे.",
-      "category": "Environment",
-      "difficulty": "medium",
-      "sourceUrl": "https://timesofindia.indiatimes.com/technology/tech-news/google-unveils-five-new-sustainability-initiatives-in-india/articleshow/134025228.cms"
-    },
-    {
-      "id": "ca_2026092108",
-      "question": "नागपूर विद्यापीठाने (NU) विद्यार्थ्यांना पुनर्मूल्यांकनासाठी (revaluation) कोणती नवीन सुविधा देण्याचा निर्णय घेतला आहे?",
-      "options": [
-        "विनामूल्य पुनर्मूल्यांकन",
-        "स्कॅन केलेल्या उत्तरपत्रिका",
-        "ऑनलाइन निकाल",
-        "पुनर्परीक्षा"
-      ],
-      "correctAnswer": 1,
-      "explanation": "नागपूर विद्यापीठाने (NU) निवडक अभ्यासक्रमांसाठी एक पथदर्शी प्रकल्प म्हणून पुनर्मूल्यांकनाची निवड करणाऱ्या विद्यार्थ्यांना स्कॅन केलेल्या उत्तरपत्रिका (Scanned Answer Sheets) उपलब्ध करून देण्याचा निर्णय घेतला आहे.",
-      "category": "Maharashtra",
-      "difficulty": "easy",
-      "sourceUrl": "https://timesofindia.indiatimes.com/city/nagpur/nu-students-opting-revaluation-to-get-scanned-answer-sheets/articleshow/134397142.cms"
-    },
-    {
-      "id": "ca_2026092109",
-      "question": "अलीकडील एका अभ्यासानुसार, भारतातील कोणता भाग सर्वाधिक वेगाने कोरडा (drying fastest) होत असून तेथे दुष्काळाचे हॉटस्पॉट निर्माण झाले आहेत?",
+      "id": "ca_2026092201",
+      "question": "नुकत्याच झालेल्या अभ्यासानुसार, भारतातील कोणता भाग सर्वाधिक वेगाने कोरडा होत आहे आणि तिथे दुष्काळाचे 'हॉटस्पॉट' निर्माण होत आहेत?",
       "options": [
         "उत्तर भारत",
         "दक्षिण भारत",
-        "पश्चिम भारत",
-        "ईशान्य भारत"
+        "ईशान्य भारत",
+        "पश्चिम भारत"
       ],
       "correctAnswer": 1,
-      "explanation": "नुकत्याच झालेल्या एका अभ्यासानुसार, दक्षिण भारत सर्वाधिक वेगाने कोरडा होत असून पूर्व किनारपट्टीवर दुष्काळाचे हॉटस्पॉट सातत्याने वाढत आहेत.",
-      "category": "Geography",
-      "difficulty": "easy",
+      "explanation": "एका नवीन अभ्यासानुसार, दक्षिण भारत सर्वाधिक वेगाने कोरडा होत असून पूर्व किनारपट्टीवर दुष्काळाचे हॉटस्पॉट वाढत आहेत. तर उत्तर-पश्चिम भारत उष्णतेचे प्रमुख केंद्र बनला आहे.",
+      "category": "Environment",
+      "difficulty": "medium",
       "sourceUrl": "https://timesofindia.indiatimes.com/home/environment/southern-india-drying-fastest-most-persistent-drought-hotspots-along-eastern-coast-study/articleshow/134341650.cms"
     },
     {
-      "id": "ca_2026092110",
-      "question": "कॅनडामध्ये अलीकडेच कोणत्या प्रार्थनास्थळावर गोळीबार झाल्याची घटना घडली, ज्यात एक पोलीस अधिकारी जखमी झाला?",
+      "id": "ca_2026092202",
+      "question": "गुगल (Google) ने भारतात नुकतेच किती नवीन 'सस्टेनेबिलिटी' (शाश्वतता) उपक्रम जाहीर केले आहेत?",
       "options": [
-        "हिंदू मंदिर",
-        "शीख गुरुद्वारा",
-        "ज्यू सिनेगॉग (Synagogue)",
-        "इस्लामिक मशीद"
+        "तीन",
+        "चार",
+        "पाच",
+        "सात"
       ],
       "correctAnswer": 2,
-      "explanation": "कॅनडामध्ये एका सिनेगॉगवर (ज्यू प्रार्थनास्थळ) झालेल्या गोळीबारात जेफ स्मिथ नावाचा पोलीस अधिकारी जखमी झाला असून गोळीबार करणारा 29 वर्षीय संशयित गंभीर अवस्थेत आहे.",
-      "category": "International",
+      "explanation": "गुगलने भारतात ५ नवीन शाश्वतता उपक्रम जाहीर केले आहेत. यामध्ये राजस्थानमध्ये १५० मेगावॅटचा सौर ऊर्जा प्रकल्प आणि क्लायमेट-स्मार्ट शेतीचा समावेश आहे.",
+      "category": "Science & Tech",
+      "difficulty": "easy",
+      "sourceUrl": "https://timesofindia.indiatimes.com/technology/tech-news/google-unveils-five-new-sustainability-initiatives-in-india/articleshow/134025228.cms"
+    },
+    {
+      "id": "ca_2026092203",
+      "question": "UNCCD च्या बैठकीत COP17 मध्ये कोणता नवीन जागतिक इंडेक्स (निर्देशांक) सुरू करण्यात आला आहे?",
+      "options": [
+        "जागतिक हवामान बदल निर्देशांक",
+        "दुष्काळ प्रतिरोधक निर्देशांक (Drought Resilience Index)",
+        "जागतिक भूजल पातळी निर्देशांक",
+        "जागतिक प्रदूषण निर्देशांक"
+      ],
+      "correctAnswer": 1,
+      "explanation": "UNCCD च्या बैठकीत 'दुष्काळ प्रतिरोधक निर्देशांक' (Drought Resilience Index) आणि इन्व्हेस्टमेंट फॅसिलिटी सुरू करण्यात आली आहे. २०५० पर्यंत दुष्काळाचा सामना करण्यासाठी ही योजना आखण्यात आली आहे.",
+      "category": "Environment",
+      "difficulty": "medium",
+      "sourceUrl": "https://timesofindia.indiatimes.com/india/cop17-new-global-architecture-for-drought-resilience-launched-at-unccd-meet/articleshow/133554545.cms"
+    },
+    {
+      "id": "ca_2026092204",
+      "question": "नुकत्याच प्रसिद्ध झालेल्या अहवालानुसार, हवामान बदलामुळे भारतातील किती टक्के मुले अतिरिक्त 'हीट स्ट्रेस' (उष्णतेचा ताण) सहन करत आहेत?",
+      "options": [
+        "४५ टक्के",
+        "५१ टक्के",
+        "६१ टक्के",
+        "७५ टक्के"
+      ],
+      "correctAnswer": 2,
+      "explanation": "नवीन संशोधनानुसार, हवामान बदलामुळे भारतातील ६१ टक्के मुले दरवर्षी अतिरिक्त एका महिन्यासाठी उष्णतेचा धोकादायक ताण (heat stress) सहन करत आहेत.",
+      "category": "Environment",
       "difficulty": "hard",
-      "sourceUrl": "https://timesofindia.indiatimes.com/world/rest-of-world/canada-synagogue-shooting-injured-cop-identified-as-jeff-smith-shooter-29-year-old-sean-ward-in-critical-condition/articleshow/134396834.cms"
+      "sourceUrl": "https://timesofindia.indiatimes.com/india/61-of-children-in-india-exposed-to-one-more-month-of-heat-stress-due-to-climate-change-study/articleshow/133590474.cms"
+    },
+    {
+      "id": "ca_2026092205",
+      "question": "बोलीव्हियाच्या (Bolivia) जंगलात नुकतीच एका शतकानंतर कोणती नवीन लहान रानटी मांजराची प्रजाती शोधण्यात आली आहे?",
+      "options": [
+        "टिलकायो (Tilcayo)",
+        "ओसेलॉट (Ocelot)",
+        "प्यूमा (Puma)",
+        "जॅग्वारुंडी (Jaguarundi)"
+      ],
+      "correctAnswer": 0,
+      "explanation": "बोलीव्हियाच्या जंगलात एका शतकानंतर 'टिलकायो' (Tilcayo) नावाच्या लहान आणि सडपातळ रानटी मांजराची नवीन प्रजाती वैज्ञानिकांनी शोधून काढली आहे.",
+      "category": "Science & Tech",
+      "difficulty": "medium",
+      "sourceUrl": "https://timesofindia.indiatimes.com/science/meet-tilcayo-the-tiny-wild-cat-discovered-in-bolivias-cloud-forests-after-more-than-a-century/articleshow/134316459.cms"
+    },
+    {
+      "id": "ca_2026092206",
+      "question": "नुकत्याच झालेल्या घोषणेनुसार, दिल्ली सरकारने यमुनेमध्ये गणेश मूर्ती विसर्जनास आळा घालण्यासाठी किती कृत्रिम तलाव तयार केले आहेत?",
+      "options": [
+        "५०",
+        "६५",
+        "८१",
+        "१००"
+      ],
+      "correctAnswer": 2,
+      "explanation": "यमुना नदीचे प्रदूषण रोखण्यासाठी दिल्ली सरकारने गणेश मूर्ती विसर्जनासाठी ८१ कृत्रिम तलाव तयार केले आहेत.",
+      "category": "Environment",
+      "difficulty": "easy",
+      "sourceUrl": "https://timesofindia.indiatimes.com/india/delhi-govt-sets-up-81-artificial-ponds-to-discourage-ganesh-idol-immersion-in-yamuna/articleshow/134415395.cms"
+    },
+    {
+      "id": "ca_2026092207",
+      "question": "उत्तराखंडचे मुख्यमंत्री पुष्कर सिंह धामी यांनी कोणत्या कायद्यांतर्गत प्रलंबित प्रकरणांचा कालबद्ध निपटारा करण्याचे निर्देश दिले आहेत?",
+      "options": [
+        "पोक्सो (POCSO) कायदा",
+        "अनुसूचित जाती आणि जमाती (अत्याचार प्रतिबंधक) कायदा",
+        "माहिती अधिकार कायदा",
+        "भ्रष्टाचार प्रतिबंधक कायदा"
+      ],
+      "correctAnswer": 1,
+      "explanation": "उत्तराखंडचे मुख्यमंत्री पुष्कर सिंह धामी यांनी अनुसूचित जाती आणि अनुसूचित जमाती (अत्याचार प्रतिबंधक) कायदा, 1989 अंतर्गत नोंदवलेल्या प्रलंबित प्रकरणांचा कालबद्ध निपटारा करण्याचे निर्देश दिले आहेत.",
+      "category": "Polity",
+      "difficulty": "medium",
+      "sourceUrl": "https://timesofindia.indiatimes.com/india/cm-dhami-directs-time-bound-disposal-of-pending-sc/st-atrocity-cases-in-uttarakhand/articleshow/134412468.cms"
+    },
+    {
+      "id": "ca_2026092208",
+      "question": "सौदी अरेबियाच्या स्वसंरक्षणाच्या अधिकाराला अलीकडे कोणत्या देशांनी पाठिंबा दर्शवला आहे?",
+      "options": [
+        "अमेरिका, ब्रिटन, फ्रान्स, जर्मनी",
+        "तुर्कस्तान, इजिप्त, सौदी अरेबिया, पाकिस्तान",
+        "भारत, जपान, ऑस्ट्रेलिया, अमेरिका",
+        "रशिया, चीन, इराण, सीरिया"
+      ],
+      "correctAnswer": 1,
+      "explanation": "हौती बंडखोरांच्या (Houthi attacks) हल्ल्यांच्या पार्श्वभूमीवर तुर्कस्तान, इजिप्त आणि पाकिस्तान या देशांच्या परराष्ट्रमंत्र्यांनी सौदी अरेबियाच्या स्वसंरक्षणाच्या अधिकाराला पाठिंबा दिला आहे.",
+      "category": "International",
+      "difficulty": "medium",
+      "sourceUrl": "https://timesofindia.indiatimes.com/world/middle-east/turkey-egypt-saudi-arabia-pakistan-affirm-riyadhs-right-to-self-defence-amid-houthi-attacks/articleshow/134417077.cms"
+    },
+    {
+      "id": "ca_2026092209",
+      "question": "महाराष्ट्रातील एका सुनावणी दरम्यान, कोणत्या उच्च न्यायालयाने MRP पेक्षा १ रुपया जास्त घेतल्या प्रकरणी १३ वर्षांनंतर गुन्हा रद्द केला?",
+      "options": [
+        "मुंबई उच्च न्यायालय",
+        "दिल्ली उच्च न्यायालय",
+        "अलाहाबाद उच्च न्यायालय",
+        "मद्रास उच्च न्यायालय"
+      ],
+      "correctAnswer": 0,
+      "explanation": "एका थंड पेयाच्या बाटलीसाठी २५ रुपयांऐवजी २६ रुपये घेतल्याच्या आरोपाखाली एका व्यक्तीवर १३ वर्षे खटला चालला, मात्र पत्नी दुकानाची मालक असल्याने मुंबई उच्च न्यायालयाने हा खटला रद्द केला.",
+      "category": "Maharashtra",
+      "difficulty": "hard",
+      "sourceUrl": "https://timesofindia.indiatimes.com/business/india-business/wife-sold-soft-drink-for-rs-26-instead-of-rs-25-re-1-overcharge-led-to-husband-facing-case-for-13-years-bombay-hc-quashes-prosecution-because-wife-was-shop-owner/articleshow/134401326.cms"
+    },
+    {
+      "id": "ca_2026092210",
+      "question": "अमेरिकेचे अध्यक्ष डोनाल्ड ट्रम्प यांनी कोणत्या देशासोबत तेल कराराची घोषणा केली, ज्यामुळे जागतिक ऊर्जेच्या किमती कमी होण्याची शक्यता आहे?",
+      "options": [
+        "इराण",
+        "व्हेनेझुएला",
+        "रशिया",
+        "सौदी अरेबिया"
+      ],
+      "correctAnswer": 1,
+      "explanation": "अमेरिकेचे राष्ट्राध्यक्ष डोनाल्ड ट्रम्प यांनी व्हेनेझुएला (Venezuela) सोबत महत्त्वपूर्ण तेल कराराची घोषणा केली, ज्याअंतर्गत ६५ अब्ज बॅरल तेलाचा करार झाला आहे.",
+      "category": "International",
+      "difficulty": "easy",
+      "sourceUrl": "https://timesofindia.indiatimes.com/business/international-business/unga-address-donald-trump-touts-venezuela-oil-deal-says-it-will-drive-down-energy-prices-worldwide/articleshow/134415730.cms"
     }
   ],
   "totalQuestions": 10,
