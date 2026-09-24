@@ -1,0 +1,160 @@
+{
+  "date": "2026-09-24",
+  "topic": "Current Affairs",
+  "source": "Times of India",
+  "lastUpdated": "2026-09-24T10:00:00+05:30",
+  "quiz": [
+    {
+      "id": "ca_2026092401",
+      "question": "नुकत्याच झालेल्या अमेरिकेच्या फेडरल रिझर्व्ह (Fed) व्याजदर कपातीचा भारतीय रिझर्व्ह बँक (RBI) च्या ऑक्टोबरमधील धोरणावर काय परिणाम होण्याची शक्यता आहे?",
+      "options": [
+        "RBI तातडीने व्याजदर वाढवेल",
+        "RBI ला व्याजदर कपातीसाठी अधिक लवचिकता मिळेल",
+        "RBI सर्व विदेशी गुंतवणूक थांबवेल",
+        "RBI रेपो रेट शून्यावर आणेल"
+      ],
+      "correctAnswer": 1,
+      "explanation": "अमेरिकेच्या फेडरल रिझर्व्हने नुकतीच व्याजदरात पाव टक्क्याची (0.25%) वाढ केली आहे, ज्यामुळे ऑक्टोबरच्या पतधोरण आढाव्यात RBI समोर नवीन आव्हाने निर्माण झाली आहेत आणि त्यांना आपल्या धोरणात लवचिकता आणावी लागेल.",
+      "category": "Economy",
+      "difficulty": "medium",
+      "sourceUrl": "https://timesofindia.indiatimes.com/business/india-business/your-loan-emi-has-a-washington-problem-how-the-fed-quietly-influences-rbi-rate-decisions/articleshow/134432773.cms"
+    },
+    {
+      "id": "ca_2026092402",
+      "question": "अलीकडेच 'CosmicWatch' या $100 च्या पॉकेट-आकाराच्या उपकरणाची निर्मिती कशासाठी करण्यात आली आहे?",
+      "options": [
+        "भूकंप मोजण्यासाठी",
+        "अंतराळातील अदृश्य कणांचा (Muons) मागोवा घेण्यासाठी",
+        "हवामानाचा अचूक अंदाज लावण्यासाठी",
+        "समुद्राची पातळी मोजण्यासाठी"
+      ],
+      "correctAnswer": 1,
+      "explanation": "CosmicWatch हे $100 मधील स्वस्त आणि खिशाच्या आकाराचे 'म्युऑन डिटेक्टर' (Muon Detector) आहे जे अंतराळातून वेगाने येणाऱ्या अदृश्य कणांचा मागोवा घेण्यासाठी तयार केले आहे.",
+      "category": "Science & Tech",
+      "difficulty": "easy",
+      "sourceUrl": "https://timesofindia.indiatimes.com/science/discovery/a-student-built-a-particle-detector-for-just-100-the-pocket-sized-device-can-track-invisible-particles-raining-down-from-space-at-lights-speed-it-is-now-being-used-in-high-altitude-balloon-missions-and-major-physics-experiments/articleshow/134434469.cms"
+    },
+    {
+      "id": "ca_2026092403",
+      "question": "बद्रीनाथ धामने यावर्षी (सप्टेंबरपर्यंत) भाविकांच्या संख्येचा कोणता नवीन विक्रम प्रस्थापित केला आहे?",
+      "options": [
+        "१५ लाख",
+        "१७.७९ लाख",
+        "२० लाख",
+        "२५ लाख"
+      ],
+      "correctAnswer": 1,
+      "explanation": "उत्तराखंडमधील बद्रीनाथ धामने यावर्षी भाविकांच्या संख्येचा विक्रम मोडला असून सप्टेंबरअखेर तब्बल १७.७९ लाख भाविकांनी दर्शन घेतले आहे.",
+      "category": "Miscellaneous",
+      "difficulty": "easy",
+      "sourceUrl": "https://timesofindia.indiatimes.com/india/badrinath-dham-sees-record-17-79-lakh-pilgrims-so-far-this-year/articleshow/134443001.cms"
+    },
+    {
+      "id": "ca_2026092404",
+      "question": "भारतातील कोणत्या वित्तीय सेवा कंपनीच्या संस्थापकाने मुंबईतील जुहूमध्ये ७११ कोटी रुपयांना संपूर्ण निवासी टॉवर खरेदी करून नवा विक्रम केला आहे?",
+      "options": [
+        "झिरोधा (Zerodha)",
+        "अपस्टॉक्स (Upstox)",
+        "एंजल वन (Angel One)",
+        "ग्रो (Groww)"
+      ],
+      "correctAnswer": 2,
+      "explanation": "एंजल वन (Angel One) चे संस्थापक दिनेश ठक्कर यांनी मुंबईतील जुहू येथे ७११ कोटी रुपयांना एक संपूर्ण आलिशान निवासी टॉवर खरेदी केला आहे, जो भारतातील सर्वात महागड्या घर खरेदींपैकी एक मानला जातो.",
+      "category": "Maharashtra",
+      "difficulty": "medium",
+      "sourceUrl": "https://timesofindia.indiatimes.com/business/india-business/angel-one-founder-dinesh-thakkar-buys-entire-63000-sq-ft-juhu-tower-for-rs-711-crore-74-3-million-deal-at-rs-1-13-lakh/sq-ft-sets-new-record-making-it-indias-costliest-known-single-home-purchase/articleshow/134440961.cms"
+    },
+    {
+      "id": "ca_2026092405",
+      "question": "कोणत्या आफ्रिकन अब्जाधीशाने केनियामधील १६ अब्ज डॉलरच्या रिफायनरी प्रकल्पाच्या बांधकामासाठी 'इंजिनिअर्स इंडिया लिमिटेड' (EIL) या भारतीय सार्वजनिक उपक्रमाची निवड केली आहे?",
+      "options": [
+        "नॅसिफ साविरीस",
+        "जोहान रुर्ट",
+        "अलिको डांगोटे (Aliko Dangote)",
+        "पॅट्रिस मोत्सेपे"
+      ],
+      "correctAnswer": 2,
+      "explanation": "आफ्रिकेतील सर्वात श्रीमंत व्यक्ती 'अलिको डांगोटे' यांनी केनियामधील त्यांच्या १६ अब्ज डॉलरच्या रिफायनरी प्रकल्पाचे काम पाहण्यासाठी 'इंजिनिअर्स इंडिया लिमिटेड' (EIL) या भारतीय सार्वजनिक उपक्रमाला ४५० दशलक्ष डॉलरचे कंत्राट दिले आहे.",
+      "category": "Economy",
+      "difficulty": "hard",
+      "sourceUrl": "https://timesofindia.indiatimes.com/business/india-business/africas-richest-man-picks-indian-psu-for-450-million-refinery-contract-in-kenya/articleshow/134432368.cms"
+    },
+    {
+      "id": "ca_2026092406",
+      "question": "निवडणूक आयुक्तांच्या नेमणुकीसंदर्भात नुकत्याच उद्भवलेल्या 'असहमती' (dissent) वादामुळे विरोधकांनी कुणाला पदावरून हटवण्याची मागणी केली आहे?",
+      "options": [
+        "पंतप्रधान",
+        "मुख्य निवडणूक आयुक्त (CEC)",
+        "सरन्यायाधीश",
+        "राष्ट्रपती"
+      ],
+      "correctAnswer": 1,
+      "explanation": "निवडणूक आयुक्तांच्या नेमणुकीच्या कायद्यावर सर्वोच्च न्यायालयाने नुकताच विभाजित (split) निर्णय दिला आहे. याच पार्श्वभूमीवर निवडणूक आयुक्तांच्या आक्षेपामुळे विरोधकांनी 'मुख्य निवडणूक आयुक्त' (CEC) यांना पदावरून हटवण्याची मागणी केली आहे.",
+      "category": "Polity",
+      "difficulty": "medium",
+      "sourceUrl": "https://timesofindia.indiatimes.com/india/evening-news-wrap-ec-dissent-row-triggers-opposition-demands-for-cecs-removal-india-rejects-oic-remarks-on-jk-more/articleshow/134438872.cms"
+    },
+    {
+      "id": "ca_2026092407",
+      "question": "अलीकडेच ओमानच्या किनाऱ्याजवळ कोणत्या व्यापारी जहाजावर हल्ला झाला, ज्यामध्ये एका भारतीयाचा मृत्यू झाला आणि भारताने शिपिंगवरील हल्ले थांबवण्याचे आवाहन केले?",
+      "options": [
+        "MV Chem Pluto",
+        "MV Sai Baba",
+        "MV Cape Dao",
+        "MV True Confidence"
+      ],
+      "correctAnswer": 2,
+      "explanation": "भारताकडे येत असताना ओमानच्या किनाऱ्याजवळ 'MV Cape Dao' या व्यापारी जहाजावर हल्ला झाला. यात एका भारतीय खलाशाचा मृत्यू झाला असून १९ जणांना वाचवण्यात आले आहे. यानंतर भारताने (MEA) असे हल्ले थांबवण्याचे आवाहन केले आहे.",
+      "category": "International",
+      "difficulty": "medium",
+      "sourceUrl": "https://timesofindia.indiatimes.com/india/1-indian-killed-19-rescued-after-mv-cape-dao-attacked-off-oman-mea-calls-for-end-to-shipping-attacks/articleshow/134442340.cms"
+    },
+    {
+      "id": "ca_2026092408",
+      "question": "आयकर अपीलीय न्यायाधिकरण (ITAT) च्या मुंबई खंडपीठाने नुकत्याच दिलेल्या निकालानुसार, पुनर्विकासात (redevelopment) भाडेकरू हक्क सोडून मिळणाऱ्या फ्लॅट्सवर कोणता कर लागू होणार नाही?",
+      "options": [
+        "वस्तू व सेवा कर (GST)",
+        "मालमत्ता कर",
+        "भांडवली नफा कर (Capital Gains Tax)",
+        "इन्कम टॅक्स (उत्पन्न म्हणून ग्राह्य धरणार नाही)"
+      ],
+      "correctAnswer": 3,
+      "explanation": "आयकर अपीलीय न्यायाधिकरण (ITAT) मुंबईने स्पष्ट केले आहे की, पुनर्विकासात भाडेकरूने आपले हक्क सोडून बदल्यात फ्लॅट मिळवणे, हे 'उत्पन्न' मानले जाणार नाही आणि त्यामुळे त्यावर इन्कम टॅक्स लावला जाऊ शकत नाही.",
+      "category": "Maharashtra",
+      "difficulty": "hard",
+      "sourceUrl": "https://timesofindia.indiatimes.com/business/india-business/he-surrendered-tenancy-rights-for-redevelopment-and-got-2-flats-worth-rs-1-38-crore-taxman-added-it-as-income-why-itat-mumbai-gave-him-relief/articleshow/134428280.cms"
+    },
+    {
+      "id": "ca_2026092409",
+      "question": "बँक कर्मचाऱ्यांच्या युनियन्सनी आपल्या मागण्यांसाठी सप्टेंबर २०२६ च्या अखेरीस किती दिवसांचा देशव्यापी संप पुकारला आहे?",
+      "options": [
+        "दोन दिवस",
+        "तीन दिवस",
+        "पाच दिवस",
+        "एक आठवडा"
+      ],
+      "correctAnswer": 1,
+      "explanation": "बँक युनियन्सनी २८ ते ३० सप्टेंबर दरम्यान तीन दिवसांचा देशव्यापी संप पुकारला आहे. शनिवार आणि रविवारच्या सुट्ट्या जोडून यामुळे बँका सलग पाच दिवस बंद राहण्याची शक्यता आहे.",
+      "category": "Economy",
+      "difficulty": "easy",
+      "sourceUrl": "https://timesofindia.indiatimes.com/business/india-business/nationwide-strike-banks-to-remain-shut-from-monday-for-three-days-what-customers-need-to-know/articleshow/134426007.cms"
+    },
+    {
+      "id": "ca_2026092410",
+      "question": "तेलंगणा 'रेरा' (RERA) च्या नुकत्याच झालेल्या आदेशानुसार, बिल्डरने फ्लॅटचा ताबा देण्यास १८ महिने उशीर केल्यामुळे ग्राहकाला किती टक्के दराने व्याज भरपाई देण्याचे आदेश दिले आहेत?",
+      "options": [
+        "८%",
+        "९.५%",
+        "१०.७%",
+        "१२%"
+      ],
+      "correctAnswer": 2,
+      "explanation": "फ्लॅटचा ताबा देण्यास उशीर केल्याबद्दल तेलंगणा रेराने (RERA) एका बिल्डरला ग्राहकाने भरलेल्या रकमेवर १०.७% दराने व्याज भरपाई देण्याचे आदेश दिले आहेत.",
+      "category": "Polity",
+      "difficulty": "medium",
+      "sourceUrl": "https://timesofindia.indiatimes.com/business/india-business/builder-delayed-rs-44-36-lakh-flat-possession-by-18-months-and-charged-rs-30000-debris-fee-telangana-rera-orders-him-to-pay-homebuyer-10-7-interest-compensation-for-delay/articleshow/134416038.cms"
+    }
+  ],
+  "totalQuestions": 10,
+  "version": 1
+}
