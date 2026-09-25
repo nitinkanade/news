@@ -1,0 +1,160 @@
+{
+  "date": "2026-09-25",
+  "topic": "Current Affairs",
+  "source": "Times of India",
+  "lastUpdated": "2026-09-25T10:00:00+05:30",
+  "quiz": [
+    {
+      "id": "ca_2026092501",
+      "question": "अलीकडेच पंतप्रधानांनी पर्यावरण आणि हवामान गतिशीलतेवरील कोणत्या जागतिक परिषदेचे उद्घाटन केले?",
+      "options": [
+        "जागतिक हवामान शिखर परिषद",
+        "पर्यावरण, हवामान आणि ऊर्जा परिषद (Global conference on environment, climate dynamics)",
+        "जागतिक वन्यजीव संमेलन",
+        "आंतरराष्ट्रीय जलवायू परिषद"
+      ],
+      "correctAnswer": 1,
+      "explanation": "पंतप्रधान नरेंद्र मोदी यांनी अलिकडेच पर्यावरण आणि हवामान गतिशीलतेवरील जागतिक परिषदेचे उद्घाटन केले असून यात शाश्वत विकासावर भर दिला गेला आहे.",
+      "category": "Environment",
+      "difficulty": "medium",
+      "sourceUrl": "https://timesofindia.indiatimes.com/india/pm-modi-inaugurates-global-conference-on-environment-climate-dynamics/articleshow/134348630.cms"
+    },
+    {
+      "id": "ca_2026092502",
+      "question": "नुकत्याच झालेल्या एका अभ्यासानुसार, भारतातील कोणता भाग वेगाने कोरडा (drying fastest) होत असून तो दुष्काळाचा केंद्रबिंदू बनत आहे?",
+      "options": [
+        "उत्तर भारत",
+        "पश्चिम भारत",
+        "दक्षिण भारत",
+        "पूर्व भारत"
+      ],
+      "correctAnswer": 2,
+      "explanation": "एका नवीन अभ्यासानुसार, दक्षिण भारत हा सर्वाधिक वेगाने कोरडा होत असून भारताच्या पूर्व किनारपट्टीवर सातत्याने दुष्काळाची परिस्थिती निर्माण होत आहे.",
+      "category": "Geography",
+      "difficulty": "medium",
+      "sourceUrl": "https://timesofindia.indiatimes.com/home/environment/southern-india-drying-fastest-most-persistent-drought-hotspots-along-eastern-coast-study/articleshow/134341650.cms"
+    },
+    {
+      "id": "ca_2026092503",
+      "question": "FSSAI (भारतीय अन्न सुरक्षा आणि मानके प्राधिकरण) ने अलीकडेच कोणत्या उत्पादनासाठी 'पनीर' (paneer) या शब्दाचा वापर प्रतिबंधित करण्याचा निर्णय घेतला आहे?",
+      "options": [
+        "टोफू (Tofu)",
+        "प्लांट-बेस्ड मीट (Plant-based meat)",
+        "नॉन-डेअरी ॲनालॉग्स (Non-dairy analogues)",
+        "चीज (Cheese)"
+      ],
+      "correctAnswer": 2,
+      "explanation": "FSSAI ने नॉन-डेअरी ॲनालॉग्ससाठी (जे दुधापासून बनलेले नाहीत अशा उत्पादनांसाठी) 'पनीर' या शब्दाचा वापर प्रतिबंधित करण्याचे पाऊल उचलले आहे, जेणेकरून ग्राहकांची फसवणूक टळेल.",
+      "category": "Economy",
+      "difficulty": "medium",
+      "sourceUrl": "https://timesofindia.indiatimes.com/india/fssai-moves-to-bar-use-of-paneer-for-non-dairy-analogues/articleshow/134466893.cms"
+    },
+    {
+      "id": "ca_2026092504",
+      "question": "उत्तराखंडचे मुख्यमंत्री पुष्कर सिंह धामी यांनी नुकत्याच कोणत्या संस्थेच्या ४ यशस्वी गिर्यारोहण मोहिमांना हिरवा झेंडा दाखवला?",
+      "options": [
+        "हिमालयन माउंटेनिअरिंग इन्स्टिट्यूट (HMI)",
+        "नेहरू इन्स्टिट्यूट ऑफ माउंटेनिअरिंग (NIM)",
+        "इंडियन माउंटेनिअरिंग फाऊंडेशन (IMF)",
+        "अटल बिहारी वाजपेयी इन्स्टिट्यूट ऑफ माउंटेनिअरिंग"
+      ],
+      "correctAnswer": 1,
+      "explanation": "उत्तराखंडचे मुख्यमंत्री पुष्कर सिंह धामी यांनी नेहरू इन्स्टिट्यूट ऑफ माउंटेनिअरिंग (NIM) च्या ४ यशस्वी पर्वतारोहण मोहिमांना हिरवा झेंडा दाखवून पर्वतारोहकांचे कौतुक केले.",
+      "category": "Miscellaneous",
+      "difficulty": "easy",
+      "sourceUrl": "https://timesofindia.indiatimes.com/india/uttarakhand-cm-dhami-flags-off-4-successful-nim-mountaineering-expeditions-lauds-climbers-courage-and-team-spirit/articleshow/134467539.cms"
+    },
+    {
+      "id": "ca_2026092505",
+      "question": "गुगल (Google) ने नुकतेच भारतात किती नवीन 'शाश्वतता उपक्रम' (Sustainability initiatives) सुरू करण्याची घोषणा केली आहे?",
+      "options": [
+        "दोन",
+        "तीन",
+        "पाच",
+        "सात"
+      ],
+      "correctAnswer": 2,
+      "explanation": "गुगलने भारतात ५ नवीन शाश्वतता उपक्रमांचे अनावरण केले आहे, ज्याचे उद्दिष्ट पर्यावरणीय शाश्वतता आणि हवामान बदल रोखण्यासाठी प्रयत्न करणे आहे.",
+      "category": "Environment",
+      "difficulty": "easy",
+      "sourceUrl": "https://timesofindia.indiatimes.com/technology/tech-news/google-unveils-five-new-sustainability-initiatives-in-india/articleshow/134025228.cms"
+    },
+    {
+      "id": "ca_2026092506",
+      "question": "सर्वोच्च न्यायालयाने (SC) अलीकडेच वैवाहिक विवादांमधील कोणत्या कायद्यांतर्गत दाखल होणाऱ्या 'खोट्या प्रकरणांवर' (false cases) चिंता व्यक्त केली आहे?",
+      "options": [
+        "हुंडा प्रतिबंधक कायदा",
+        "पोक्सो कायदा (POCSO Act)",
+        "कौटुंबिक हिंसाचार प्रतिबंधक कायदा",
+        "हिंदू विवाह कायदा"
+      ],
+      "correctAnswer": 1,
+      "explanation": "सर्वोच्च न्यायालयाने वैवाहिक वादातून दाखल होणाऱ्या खोट्या POCSO प्रकरणांवर चिंता व्यक्त केली असून अशा प्रकरणात आरोपी पालकाला तत्काळ अटक करण्यावर बंदी घातली आहे.",
+      "category": "Polity",
+      "difficulty": "medium",
+      "sourceUrl": "https://timesofindia.indiatimes.com/india/sc-flags-false-pocso-cases-in-marital-disputes-bars-immediate-arrest-of-accused-parent/articleshow/134466036.cms"
+    },
+    {
+      "id": "ca_2026092507",
+      "question": "काश्मीरमध्ये अक्रोड (Walnut) उत्पादनाला चालना देण्यासाठी आता कोणत्या प्रकारच्या झाडांची लागवड करण्यावर भर दिला जात आहे?",
+      "options": [
+        "केवळ हायब्रिड बियाणे",
+        "मध्यम आकाराची, कलमी झाडे (Medium-sized, grafted trees)",
+        "अति उंच झाडे",
+        "देशी-गावरान प्रजाती"
+      ],
+      "correctAnswer": 1,
+      "explanation": "काश्मीरमधील अक्रोड उत्पादकांनी यश मिळवत आता पारंपारिक मोठ्या झाडांऐवजी मध्यम आकाराच्या आणि कलमी (grafted) झाडांची लागवड करण्यास सुरुवात केली आहे, ज्यामुळे उत्पादन वाढेल.",
+      "category": "Economy",
+      "difficulty": "easy",
+      "sourceUrl": "https://timesofindia.indiatimes.com/india/kashmir-cracks-walnut-success-code-turns-to-medium-sized-grafted-trees/articleshow/134320993.cms"
+    },
+    {
+      "id": "ca_2026092508",
+      "question": "महाराष्ट्रातील कलिना (Kalina) जमीन घोटाळा प्रकरणात कोणत्या राजकीय नेत्याला नुकतेच आरोपमुक्त (discharged) करण्यात आले आहे?",
+      "options": [
+        "अजित पवार",
+        "छगन भुजबळ",
+        "अशोक चव्हाण",
+        "नवाब मलिक"
+      ],
+      "correctAnswer": 1,
+      "explanation": "महाराष्ट्राचे मंत्री छगन भुजबळ यांना मुंबईतील कलिना जमीन घोटाळा प्रकरणातून दोषमुक्त करण्यात आले असून हे त्यांच्यावरील प्रलंबित असलेले शेवटचे मोठे प्रकरण होते.",
+      "category": "Maharashtra",
+      "difficulty": "hard",
+      "sourceUrl": "https://timesofindia.indiatimes.com/city/mumbai/bhujbal-discharged-in-kalina-land-scam-case-last-one-pending-against-him/articleshow/134468404.cms"
+    },
+    {
+      "id": "ca_2026092509",
+      "question": "ठाणे (Thane) परिवहन विभागाने अलीकडेच प्रवाशांच्या सोयीसाठी रेल्वे स्थानकावर कोणती नवीन सुविधा सुरू केली आहे?",
+      "options": [
+        "मोफत बस सेवा",
+        "प्रिपेड ऑटो सुविधा (Prepaid auto facility)",
+        "हेलिकॉप्टर टॅक्सी",
+        "स्मार्ट पार्किंग"
+      ],
+      "correctAnswer": 1,
+      "explanation": "ठाणे परिवहन विभागाने प्रवाशांची सोय आणि रिक्षाचालकांकडून होणारी लूट थांबवण्यासाठी ठाणे रेल्वे स्टेशनवर प्रिपेड ऑटो (Prepaid auto) सुविधा सुरू केली आहे.",
+      "category": "Maharashtra",
+      "difficulty": "easy",
+      "sourceUrl": "https://timesofindia.indiatimes.com/city/mumbai/thane-transport-department-launches-prepaid-auto-facility-at-station/articleshow/134468318.cms"
+    },
+    {
+      "id": "ca_2026092510",
+      "question": "दुबईतील एका भारतीयाने मुंबईत खरेदी केलेले दोन फ्लॅट्स रद्द केल्यावर, बिल्डरने कपातीचा दावा केला होता. यावर 'MahaREAT' ने कोणता महत्त्वपूर्ण निर्णय दिला?",
+      "options": [
+        "ग्राहकाला पूर्ण परतावा मिळणार नाही",
+        "१.१५ कोटी रुपये संपूर्ण परतावा आणि त्यावरील व्याज देण्याचे आदेश दिले",
+        "फक्त ५०% रक्कम परत मिळेल",
+        "बिल्डरला कपातीचा अधिकार दिला"
+      ],
+      "correctAnswer": 1,
+      "explanation": "मालमत्तेचा ताबा देण्यास उशीर झाल्याने एका एनआरआय ग्राहकाने आपले फ्लॅट रद्द केले होते. महाराष्ट्र रिअल इस्टेट अपीलेट ट्रिब्युनल (MahaREAT) ने बिल्डरला १.१५ कोटी रुपयांचा पूर्ण परतावा आणि त्यावरील व्याज देण्याचे आदेश दिले आहेत.",
+      "category": "Maharashtra",
+      "difficulty": "hard",
+      "sourceUrl": "https://timesofindia.indiatimes.com/business/india-business/dubai-based-indian-bought-two-mumbai-flats-but-later-cancelled-them-after-delayed-possession-builder-sought-deductions-but-mahareat-orders-full-rs-1-15-crore-refund-plus-interest/articleshow/134464196.cms"
+    }
+  ],
+  "totalQuestions": 10,
+  "version": 1
+}

@@ -1,158 +1,158 @@
 {
-  "date": "2026-09-25",
+  "date": "2026-09-26",
   "topic": "Current Affairs",
-  "source": "Times of India",
-  "lastUpdated": "2026-09-25T10:00:00+05:30",
+  "source": "Times of India, News On AIR",
+  "lastUpdated": "2026-09-26T10:00:00+05:30",
   "quiz": [
     {
-      "id": "ca_2026092501",
-      "question": "अलीकडेच पंतप्रधानांनी पर्यावरण आणि हवामान गतिशीलतेवरील कोणत्या जागतिक परिषदेचे उद्घाटन केले?",
+      "id": "ca_2026092601",
+      "question": "निवडणूक आयोगाने (ECI) अलीकडेच किती राज्ये आणि केंद्रशासित प्रदेशांमध्ये मतदार यादी विशेष संक्षिप्त पुनरिक्षण (SIR) फेज-III ची घोषणा केली आहे?",
       "options": [
-        "जागतिक हवामान शिखर परिषद",
-        "पर्यावरण, हवामान आणि ऊर्जा परिषद (Global conference on environment, climate dynamics)",
-        "जागतिक वन्यजीव संमेलन",
-        "आंतरराष्ट्रीय जलवायू परिषद"
+        "१० राज्ये आणि २ केंद्रशासित प्रदेश",
+        "१६ राज्ये आणि ३ केंद्रशासित प्रदेश",
+        "१२ राज्ये आणि १ केंद्रशासित प्रदेश",
+        "२० राज्ये आणि ४ केंद्रशासित प्रदेश"
       ],
       "correctAnswer": 1,
-      "explanation": "पंतप्रधान नरेंद्र मोदी यांनी अलिकडेच पर्यावरण आणि हवामान गतिशीलतेवरील जागतिक परिषदेचे उद्घाटन केले असून यात शाश्वत विकासावर भर दिला गेला आहे.",
-      "category": "Environment",
-      "difficulty": "medium",
-      "sourceUrl": "https://timesofindia.indiatimes.com/india/pm-modi-inaugurates-global-conference-on-environment-climate-dynamics/articleshow/134348630.cms"
-    },
-    {
-      "id": "ca_2026092502",
-      "question": "नुकत्याच झालेल्या एका अभ्यासानुसार, भारतातील कोणता भाग वेगाने कोरडा (drying fastest) होत असून तो दुष्काळाचा केंद्रबिंदू बनत आहे?",
-      "options": [
-        "उत्तर भारत",
-        "पश्चिम भारत",
-        "दक्षिण भारत",
-        "पूर्व भारत"
-      ],
-      "correctAnswer": 2,
-      "explanation": "एका नवीन अभ्यासानुसार, दक्षिण भारत हा सर्वाधिक वेगाने कोरडा होत असून भारताच्या पूर्व किनारपट्टीवर सातत्याने दुष्काळाची परिस्थिती निर्माण होत आहे.",
-      "category": "Geography",
-      "difficulty": "medium",
-      "sourceUrl": "https://timesofindia.indiatimes.com/home/environment/southern-india-drying-fastest-most-persistent-drought-hotspots-along-eastern-coast-study/articleshow/134341650.cms"
-    },
-    {
-      "id": "ca_2026092503",
-      "question": "FSSAI (भारतीय अन्न सुरक्षा आणि मानके प्राधिकरण) ने अलीकडेच कोणत्या उत्पादनासाठी 'पनीर' (paneer) या शब्दाचा वापर प्रतिबंधित करण्याचा निर्णय घेतला आहे?",
-      "options": [
-        "टोफू (Tofu)",
-        "प्लांट-बेस्ड मीट (Plant-based meat)",
-        "नॉन-डेअरी ॲनालॉग्स (Non-dairy analogues)",
-        "चीज (Cheese)"
-      ],
-      "correctAnswer": 2,
-      "explanation": "FSSAI ने नॉन-डेअरी ॲनालॉग्ससाठी (जे दुधापासून बनलेले नाहीत अशा उत्पादनांसाठी) 'पनीर' या शब्दाचा वापर प्रतिबंधित करण्याचे पाऊल उचलले आहे, जेणेकरून ग्राहकांची फसवणूक टळेल.",
-      "category": "Economy",
-      "difficulty": "medium",
-      "sourceUrl": "https://timesofindia.indiatimes.com/india/fssai-moves-to-bar-use-of-paneer-for-non-dairy-analogues/articleshow/134466893.cms"
-    },
-    {
-      "id": "ca_2026092504",
-      "question": "उत्तराखंडचे मुख्यमंत्री पुष्कर सिंह धामी यांनी नुकत्याच कोणत्या संस्थेच्या ४ यशस्वी गिर्यारोहण मोहिमांना हिरवा झेंडा दाखवला?",
-      "options": [
-        "हिमालयन माउंटेनिअरिंग इन्स्टिट्यूट (HMI)",
-        "नेहरू इन्स्टिट्यूट ऑफ माउंटेनिअरिंग (NIM)",
-        "इंडियन माउंटेनिअरिंग फाऊंडेशन (IMF)",
-        "अटल बिहारी वाजपेयी इन्स्टिट्यूट ऑफ माउंटेनिअरिंग"
-      ],
-      "correctAnswer": 1,
-      "explanation": "उत्तराखंडचे मुख्यमंत्री पुष्कर सिंह धामी यांनी नेहरू इन्स्टिट्यूट ऑफ माउंटेनिअरिंग (NIM) च्या ४ यशस्वी पर्वतारोहण मोहिमांना हिरवा झेंडा दाखवून पर्वतारोहकांचे कौतुक केले.",
-      "category": "Miscellaneous",
-      "difficulty": "easy",
-      "sourceUrl": "https://timesofindia.indiatimes.com/india/uttarakhand-cm-dhami-flags-off-4-successful-nim-mountaineering-expeditions-lauds-climbers-courage-and-team-spirit/articleshow/134467539.cms"
-    },
-    {
-      "id": "ca_2026092505",
-      "question": "गुगल (Google) ने नुकतेच भारतात किती नवीन 'शाश्वतता उपक्रम' (Sustainability initiatives) सुरू करण्याची घोषणा केली आहे?",
-      "options": [
-        "दोन",
-        "तीन",
-        "पाच",
-        "सात"
-      ],
-      "correctAnswer": 2,
-      "explanation": "गुगलने भारतात ५ नवीन शाश्वतता उपक्रमांचे अनावरण केले आहे, ज्याचे उद्दिष्ट पर्यावरणीय शाश्वतता आणि हवामान बदल रोखण्यासाठी प्रयत्न करणे आहे.",
-      "category": "Environment",
-      "difficulty": "easy",
-      "sourceUrl": "https://timesofindia.indiatimes.com/technology/tech-news/google-unveils-five-new-sustainability-initiatives-in-india/articleshow/134025228.cms"
-    },
-    {
-      "id": "ca_2026092506",
-      "question": "सर्वोच्च न्यायालयाने (SC) अलीकडेच वैवाहिक विवादांमधील कोणत्या कायद्यांतर्गत दाखल होणाऱ्या 'खोट्या प्रकरणांवर' (false cases) चिंता व्यक्त केली आहे?",
-      "options": [
-        "हुंडा प्रतिबंधक कायदा",
-        "पोक्सो कायदा (POCSO Act)",
-        "कौटुंबिक हिंसाचार प्रतिबंधक कायदा",
-        "हिंदू विवाह कायदा"
-      ],
-      "correctAnswer": 1,
-      "explanation": "सर्वोच्च न्यायालयाने वैवाहिक वादातून दाखल होणाऱ्या खोट्या POCSO प्रकरणांवर चिंता व्यक्त केली असून अशा प्रकरणात आरोपी पालकाला तत्काळ अटक करण्यावर बंदी घातली आहे.",
+      "explanation": "भारतीय निवडणूक आयोगाने (ECI) १६ राज्ये आणि ३ केंद्रशासित प्रदेशांमध्ये मतदार यादीच्या विशेष संक्षिप्त पुनरिक्षणाची (Special Intensive Revision - SIR) तिसरी फेरी जाहीर केली आहे.",
       "category": "Polity",
       "difficulty": "medium",
-      "sourceUrl": "https://timesofindia.indiatimes.com/india/sc-flags-false-pocso-cases-in-marital-disputes-bars-immediate-arrest-of-accused-parent/articleshow/134466036.cms"
+      "sourceUrl": "https://newsonair.gov.in/"
     },
     {
-      "id": "ca_2026092507",
-      "question": "काश्मीरमध्ये अक्रोड (Walnut) उत्पादनाला चालना देण्यासाठी आता कोणत्या प्रकारच्या झाडांची लागवड करण्यावर भर दिला जात आहे?",
+      "id": "ca_2026092602",
+      "question": "नुकतेच परराष्ट्र मंत्री एस. जयशंकर यांनी भारत जागतिक भागीदारांसोबत कोणत्या भूमिकेतून (position) संलग्न होत असल्याचे म्हटले आहे?",
       "options": [
-        "केवळ हायब्रिड बियाणे",
-        "मध्यम आकाराची, कलमी झाडे (Medium-sized, grafted trees)",
-        "अति उंच झाडे",
-        "देशी-गावरान प्रजाती"
+        "Position of Strength (बळकट स्थितीतून)",
+        "Position of Neutrality (तटस्थतेतून)",
+        "Position of Compromise (तडजोडीतून)",
+        "Position of Weakness (कमकुवत स्थितीतून)"
       ],
-      "correctAnswer": 1,
-      "explanation": "काश्मीरमधील अक्रोड उत्पादकांनी यश मिळवत आता पारंपारिक मोठ्या झाडांऐवजी मध्यम आकाराच्या आणि कलमी (grafted) झाडांची लागवड करण्यास सुरुवात केली आहे, ज्यामुळे उत्पादन वाढेल.",
-      "category": "Economy",
+      "correctAnswer": 0,
+      "explanation": "परराष्ट्र मंत्री एस. जयशंकर यांनी म्हटले आहे की, भारत आज जागतिक स्तरावर 'बळकट स्थितीतून' (Position of Strength) आपल्या भागीदारांसोबत धोरणात्मक चर्चा आणि सहकार्य करत आहे.",
+      "category": "International",
       "difficulty": "easy",
-      "sourceUrl": "https://timesofindia.indiatimes.com/india/kashmir-cracks-walnut-success-code-turns-to-medium-sized-grafted-trees/articleshow/134320993.cms"
+      "sourceUrl": "https://newsonair.gov.in/"
     },
     {
-      "id": "ca_2026092508",
-      "question": "महाराष्ट्रातील कलिना (Kalina) जमीन घोटाळा प्रकरणात कोणत्या राजकीय नेत्याला नुकतेच आरोपमुक्त (discharged) करण्यात आले आहे?",
+      "id": "ca_2026092603",
+      "question": "संरक्षण मंत्रालयाने (Defence Ministry) अलीकडेच सैन्यदलासाठी किती कोटी रुपयांच्या करारावर स्वाक्षरी केली आहे?",
       "options": [
-        "अजित पवार",
-        "छगन भुजबळ",
-        "अशोक चव्हाण",
-        "नवाब मलिक"
+        "५०० कोटी",
+        "७५० कोटी",
+        "८१० कोटी",
+        "१००० कोटी"
       ],
-      "correctAnswer": 1,
-      "explanation": "महाराष्ट्राचे मंत्री छगन भुजबळ यांना मुंबईतील कलिना जमीन घोटाळा प्रकरणातून दोषमुक्त करण्यात आले असून हे त्यांच्यावरील प्रलंबित असलेले शेवटचे मोठे प्रकरण होते.",
+      "correctAnswer": 2,
+      "explanation": "संरक्षण मंत्रालयाने भारतीय लष्करासाठी विशिष्ट उपकरणे/सुविधा पुरवण्यासाठी ८१० कोटी रुपयांच्या नव्या करारावर स्वाक्षरी केली आहे.",
+      "category": "Science & Tech",
+      "difficulty": "medium",
+      "sourceUrl": "https://www.bhaskarenglish.com/"
+    },
+    {
+      "id": "ca_2026092604",
+      "question": "कोणत्या कंपनीने अलीकडेच महाराष्ट्रातील आपली सौर ऊर्जा क्षमता (Solar Capacity) १० मेगावॅट (10 MW) पर्यंत वाढवण्याची घोषणा केली आहे?",
+      "options": [
+        "टाटा पॉवर",
+        "अदानी ग्रीन",
+        "सीगल इंडिया (Ceigall India)",
+        "रिलायन्स इंडस्ट्रीज"
+      ],
+      "correctAnswer": 2,
+      "explanation": "पायाभूत सुविधा क्षेत्रातील कंपनी सीगल इंडियाने (Ceigall India) महाराष्ट्रातील आपली सौर ऊर्जा निर्मिती क्षमता वाढवून ती १० मेगावॅटपर्यंत नेण्याची घोषणा केली आहे.",
       "category": "Maharashtra",
       "difficulty": "hard",
-      "sourceUrl": "https://timesofindia.indiatimes.com/city/mumbai/bhujbal-discharged-in-kalina-land-scam-case-last-one-pending-against-him/articleshow/134468404.cms"
+      "sourceUrl": "https://www.themachinemaker.com/"
     },
     {
-      "id": "ca_2026092509",
-      "question": "ठाणे (Thane) परिवहन विभागाने अलीकडेच प्रवाशांच्या सोयीसाठी रेल्वे स्थानकावर कोणती नवीन सुविधा सुरू केली आहे?",
+      "id": "ca_2026092605",
+      "question": "महाराष्ट्रातील कोणत्या जिल्ह्यात दुष्काळसदृश परिस्थितीमुळे (drought-like conditions) अधिकाऱ्यांच्या रजेवर निर्बंध घालण्यात आले आहेत?",
       "options": [
-        "मोफत बस सेवा",
-        "प्रिपेड ऑटो सुविधा (Prepaid auto facility)",
-        "हेलिकॉप्टर टॅक्सी",
-        "स्मार्ट पार्किंग"
+        "पुणे",
+        "नांदेड",
+        "नाशिक",
+        "नागपूर"
       ],
       "correctAnswer": 1,
-      "explanation": "ठाणे परिवहन विभागाने प्रवाशांची सोय आणि रिक्षाचालकांकडून होणारी लूट थांबवण्यासाठी ठाणे रेल्वे स्टेशनवर प्रिपेड ऑटो (Prepaid auto) सुविधा सुरू केली आहे.",
+      "explanation": "नांदेड जिल्ह्यात निर्माण झालेल्या दुष्काळसदृश परिस्थितीच्या पार्श्वभूमीवर, प्रशासकीय कामकाज सुरळीत राहावे यासाठी अधिकाऱ्यांच्या रजा घेण्यावर निर्बंध लागू करण्यात आले आहेत.",
       "category": "Maharashtra",
       "difficulty": "easy",
-      "sourceUrl": "https://timesofindia.indiatimes.com/city/mumbai/thane-transport-department-launches-prepaid-auto-facility-at-station/articleshow/134468318.cms"
+      "sourceUrl": "https://www.mid-day.com/"
     },
     {
-      "id": "ca_2026092510",
-      "question": "दुबईतील एका भारतीयाने मुंबईत खरेदी केलेले दोन फ्लॅट्स रद्द केल्यावर, बिल्डरने कपातीचा दावा केला होता. यावर 'MahaREAT' ने कोणता महत्त्वपूर्ण निर्णय दिला?",
+      "id": "ca_2026092606",
+      "question": "महाराष्ट्र अन्न आणि औषध प्रशासन (FDA) ने नुकतीच नांदेडमध्ये किती रुपयांची भेसळयुक्त अन्न उत्पादने जप्त केली?",
       "options": [
-        "ग्राहकाला पूर्ण परतावा मिळणार नाही",
-        "१.१५ कोटी रुपये संपूर्ण परतावा आणि त्यावरील व्याज देण्याचे आदेश दिले",
-        "फक्त ५०% रक्कम परत मिळेल",
-        "बिल्डरला कपातीचा अधिकार दिला"
+        "१ लाख रुपये",
+        "१.५ लाख रुपये",
+        "२.९ लाख रुपये",
+        "५ लाख रुपये"
+      ],
+      "correctAnswer": 2,
+      "explanation": "महाराष्ट्र अन्न आणि औषध प्रशासनाने (FDA) कारवाई करत नांदेडमध्ये ६७५ किलो वजनाची आणि सुमारे २.९ लाख रुपये किमतीची बनावट अन्न उत्पादने जप्त केली आहेत.",
+      "category": "Maharashtra",
+      "difficulty": "medium",
+      "sourceUrl": "https://www.mid-day.com/"
+    },
+    {
+      "id": "ca_2026092607",
+      "question": "नुकत्याच फिनिश गावात (Finnish village) एका व्यक्तीने मेटल डिटेक्टरचा वापर करून कोणत्या युगातील (Age) ४००० हून अधिक चांदीची नाणी शोधून काढली आहेत?",
+      "options": [
+        "रोमन युग (Roman Age)",
+        "व्हायकिंग युग (Viking Age)",
+        "कांस्य युग (Bronze Age)",
+        "लोह युग (Iron Age)"
       ],
       "correctAnswer": 1,
-      "explanation": "मालमत्तेचा ताबा देण्यास उशीर झाल्याने एका एनआरआय ग्राहकाने आपले फ्लॅट रद्द केले होते. महाराष्ट्र रिअल इस्टेट अपीलेट ट्रिब्युनल (MahaREAT) ने बिल्डरला १.१५ कोटी रुपयांचा पूर्ण परतावा आणि त्यावरील व्याज देण्याचे आदेश दिले आहेत.",
-      "category": "Maharashtra",
+      "explanation": "फिनलंडमधील एका गावात एका व्यक्तीला मेटल डिटेक्टरच्या मदतीने व्हायकिंग युगातील (Viking Age) ४००० हून अधिक दुर्मिळ चांदीची नाणी जमिनीखाली ३९ फूट अंतरावर पुरलेली आढळली आहेत.",
+      "category": "Miscellaneous",
+      "difficulty": "medium",
+      "sourceUrl": "https://timesofindia.indiatimes.com/"
+    },
+    {
+      "id": "ca_2026092608",
+      "question": "नुकत्याच अमेरिकन रिपब्लिकन सिनेटर्सनी आणलेल्या 'न्यू अमेरिका फर्स्ट बिल' (New America First bill) मध्ये कोणत्या गोष्टीला प्राधान्य देण्याचा प्रस्ताव आहे?",
+      "options": [
+        "रोजगार-आधारित ग्रीन कार्ड वाढवणे",
+        "इंग्रजी प्राविण्य (English proficiency) आणि रोजगार-आधारित ग्रीन कार्ड रद्द करणे",
+        "तंत्रज्ञान क्षेत्रातील व्हिसा वाढवणे",
+        "विद्यार्थी व्हिसा सुलभ करणे"
+      ],
+      "correctAnswer": 1,
+      "explanation": "अमेरिकेत नव्याने आणलेल्या 'अमेरिका फर्स्ट बिल'मध्ये रोजगार-आधारित ग्रीन कार्ड प्रणाली रद्द करून इमिग्रेशनमध्ये इंग्रजी भाषेतील प्राविण्याला (English proficiency) प्राधान्य देण्याचा प्रस्ताव मांडण्यात आला आहे.",
+      "category": "International",
       "difficulty": "hard",
-      "sourceUrl": "https://timesofindia.indiatimes.com/business/india-business/dubai-based-indian-bought-two-mumbai-flats-but-later-cancelled-them-after-delayed-possession-builder-sought-deductions-but-mahareat-orders-full-rs-1-15-crore-refund-plus-interest/articleshow/134464196.cms"
+      "sourceUrl": "https://timesofindia.indiatimes.com/"
+    },
+    {
+      "id": "ca_2026092609",
+      "question": "अमेरिकेतील एका अहवालानुसार, १९८४ मध्ये नासाने (NASA) कोणते बियाणे अंतराळात पाठवले होते, ज्याची नंतर ३० देशांतील शाळांमध्ये लागवड करण्यात आली?",
+      "options": [
+        "गव्हाचे बियाणे",
+        "सफरचंदाच्या बिया",
+        "टोमॅटोचे बियाणे (Tomato seeds)",
+        "कापसाचे बियाणे"
+      ],
+      "correctAnswer": 2,
+      "explanation": "१९८४ मध्ये नासाने १२.५ दशलक्ष टोमॅटोचे बियाणे अंतराळात पाठवले होते आणि नंतर १९९० च्या दशकात ते पृथ्वीवर आणून ३० देशांमधील ४०,००० हून अधिक शाळांमध्ये त्याची लागवड करण्यात आली होती.",
+      "category": "Science & Tech",
+      "difficulty": "medium",
+      "sourceUrl": "https://timesofindia.indiatimes.com/"
+    },
+    {
+      "id": "ca_2026092610",
+      "question": "अलीकडील एका अभ्यासानुसार, महिलांच्या शरीरातील कोणत्या भागाची (body part) १०० वर्षे उपेक्षा झाल्यानंतर आता तो अंडाशयाच्या कार्यासाठी (ovary function) महत्त्वपूर्ण असल्याचे मानले जात आहे?",
+      "options": [
+        "फेलोपियन ट्यूब (Fallopian tube)",
+        "रेटे ओव्हारी (Rete ovarii)",
+        "गर्भाशय (Uterus)",
+        "सर्विक्स (Cervix)"
+      ],
+      "correctAnswer": 1,
+      "explanation": "शास्त्रज्ञांनी शंभर वर्षांपासून दुर्लक्षित केलेल्या 'रेटे ओव्हारी' (Rete ovarii) या अवयवाचे महत्त्व नुकतेच ओळखले असून ते महिलांच्या अंडाशयाच्या कार्यासाठी अत्यंत महत्त्वपूर्ण असल्याचे नवीन संशोधनातून समोर आले आहे.",
+      "category": "Science & Tech",
+      "difficulty": "easy",
+      "sourceUrl": "https://timesofindia.indiatimes.com/"
     }
   ],
   "totalQuestions": 10,
