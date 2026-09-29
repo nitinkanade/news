@@ -1,0 +1,160 @@
+{
+  "date": "2026-09-29",
+  "topic": "Current Affairs",
+  "source": "The Times of India, The Indian Express, Google News, NDTV, Fortune India",
+  "lastUpdated": "2026-09-29T08:00:00+05:30",
+  "quiz": [
+    {
+      "id": "ca_2026092901",
+      "question": "नुकतेच अमेरिकेच्या 'FBI' ने (Federal Bureau of Investigation) कोणत्या कुख्यात गँगस्टरचा आपल्या 'टेन मोस्ट वाँटेड' (Top 10 Most Wanted) गुन्हेगारांच्या यादीत समावेश केला आहे?",
+      "options": [
+        "लॉरेन्स बिश्नोई",
+        "दाऊद इब्राहिम",
+        "गोल्डी ब्रार",
+        "अर्श दल्ला"
+      ],
+      "correctAnswer": 2,
+      "explanation": "अमेरिकेच्या 'FBI' ने (Federal Bureau of Investigation) संघटित गुन्हेगारी, खंडणी आणि टार्गेट किलिंगमधील सहभागाबद्दल कुख्यात गँगस्टर सतिंदरजित सिंग ऊर्फ 'गोल्डी ब्रार' याचा आपल्या टॉप १० 'मोस्ट वाँटेड' गुन्हेगारांच्या यादीत समावेश केला आहे.",
+      "category": "International",
+      "difficulty": "easy",
+      "sourceUrl": "https://timesofindia.indiatimes.com/india/fbi-puts-gangster-goldy-brar-on-ten-most-wanted-fugitives-list/articleshow/113745265.cms"
+    },
+    {
+      "id": "ca_2026092902",
+      "question": "भारताची स्वदेशी 'NavIC' नेव्हिगेशन प्रणाली पुन्हा सक्रिय करण्यासाठी 'इस्रो' (ISRO) ऑक्टोबर महिन्यात कोणता नवीन उपग्रह प्रक्षेपित करणार आहे?",
+      "options": [
+        "NVS-01",
+        "NVS-02",
+        "NVS-03",
+        "IRNSS-1K"
+      ],
+      "correctAnswer": 2,
+      "explanation": "भारताची प्रादेशिक नेव्हिगेशन प्रणाली 'NavIC' च्या सेवा आणखी मजबूत करण्यासाठी आणि सुरक्षा दलांना मदत करण्यासाठी 'इस्रो' ऑक्टोबरमध्ये 'NVS-03' हा नेव्हिगेशन उपग्रह प्रक्षेपित करणार आहे.",
+      "category": "Science & Tech",
+      "difficulty": "medium",
+      "sourceUrl": "https://timesofindia.indiatimes.com/india/isros-navigation-satellite-nvs-03-launch-in-oct-to-reactivate-navic-spell-good-news-for-security-forces/articleshow/113735165.cms"
+    },
+    {
+      "id": "ca_2026092903",
+      "question": "पृथ्वीवरील पाण्याच्या साठ्यांचे मॅपिंग (Mapping) करण्यासाठी भारत कोणत्या देशासोबत मिळून 'तृष्णा' (Trishna) या संयुक्त अंतराळ मोहिमेवर काम करत आहे?",
+      "options": [
+        "जपान",
+        "रशिया",
+        "फ्रान्स",
+        "अमेरिका"
+      ],
+      "correctAnswer": 2,
+      "explanation": "हवामान बदल समजून घेण्यासाठी आणि पृथ्वीवरील पाण्याच्या साठ्यांचे निरीक्षण करण्यासाठी भारत आणि फ्रान्स हे देश संयुक्तपणे 'तृष्णा' (Trishna) उपग्रह मोहिमेवर वेगाने काम करत असल्याची माहिती केंद्रीय मंत्री जितेंद्र सिंग यांनी दिली.",
+      "category": "Science & Tech",
+      "difficulty": "easy",
+      "sourceUrl": "https://www.ndtv.com/"
+    },
+    {
+      "id": "ca_2026092904",
+      "question": "नुकत्याच जाहीर झालेल्या 'MoSPI' च्या आकडेवारीनुसार, उत्पादन (Manufacturing) क्षेत्रात झालेल्या वाढीमुळे ऑगस्ट महिन्यात भारताच्या औद्योगिक उत्पादनात (IIP) किती टक्के वाढ नोंदवली गेली आहे?",
+      "options": [
+        "६.५%",
+        "७.२%",
+        "८.०%",
+        "९.३%"
+      ],
+      "correctAnswer": 2,
+      "explanation": "सण आणि उत्सवांच्या पार्श्वभूमीवर मागणी वाढल्याने, प्रामुख्याने 'मॅन्युफॅक्चरिंग' क्षेत्रातील दमदार कामगिरीमुळे ऑगस्ट महिन्यात भारताचा औद्योगिक उत्पादन निर्देशांक (IIP - Index of Industrial Production) ८ टक्क्यांनी वाढला आहे.",
+      "category": "Economy",
+      "difficulty": "medium",
+      "sourceUrl": "https://indianexpress.com/"
+    },
+    {
+      "id": "ca_2026092905",
+      "question": "ग्रामीण भागातील रस्ते बांधणी प्रकल्पांच्या 'DPR' ची (Detailed Project Report) छाननी करण्यासाठी केंद्र सरकारने नुकतेच कशाचा वापर करण्याचा निर्णय घेतला आहे?",
+      "options": [
+        "ड्रोन तंत्रज्ञान (Drone Technology)",
+        "कृत्रिम बुद्धिमत्ता (AI Tool)",
+        "इस्रो सॅटेलाईट डेटा",
+        "ब्लॉकचेन तंत्रज्ञान (Blockchain)"
+      ],
+      "correctAnswer": 1,
+      "explanation": "ग्रामीण रस्ते प्रकल्पांची गुणवत्ता सुधारण्यासाठी आणि कामाला गती देण्यासाठी, केंद्र सरकारने आता रस्ते प्रकल्पांच्या सविस्तर प्रकल्प अहवालांची (DPR) तपासणी करण्यासाठी 'आर्टिफिशियल इंटेलिजन्स' (AI Tool) चा वापर सुरु केला आहे.",
+      "category": "Science & Tech",
+      "difficulty": "medium",
+      "sourceUrl": "https://timesofindia.indiatimes.com/india/government-deploys-ai-tool-to-scrutinise-rural-road-project-dprs/articleshow/113745281.cms"
+    },
+    {
+      "id": "ca_2026092906",
+      "question": "'रिझर्व्ह बँक ऑफ इंडिया'च्या (RBI) अनिवार्य लिस्टिंग नियमातून (Listing mandate) वाचण्यासाठी 'टाटा ट्रस्ट'ने (Tata Trusts) कोणत्या दोन कंपन्यांचे 'टाटा सन्स'मध्ये विलीनीकरण करण्याचा प्रस्ताव ठेवला आहे?",
+      "options": [
+        "टीसीएस आणि टाटा मोटर्स",
+        "दोन ऑपरेटिंग कंपन्या (Operating firms)",
+        "टाटा स्टील आणि टाटा पॉवर",
+        "टाटा कम्युनिकेशन्स आणि टाटा केमिकल"
+      ],
+      "correctAnswer": 1,
+      "explanation": "आरबीआयच्या नियमानुसार 'अप्पर लेअर एनबीएफसी' (Upper Layer NBFCs) संस्थांना शेअर बाजारात सूचिबद्ध होणे सक्तीचे असते. यातून सूट मिळवण्यासाठी 'टाटा ट्रस्ट'ने आपल्या दोन ऑपरेटिंग संस्थांचे 'टाटा सन्स'मध्ये विलीनीकरण करण्याचा निर्णय घेतला आहे.",
+      "category": "Economy",
+      "difficulty": "hard",
+      "sourceUrl": "https://timesofindia.indiatimes.com/business/india-business/tata-trusts-propose-merging-2-firms-with-tata-sons-to-avoid-rbi-listing-mandate/articleshow/113745260.cms"
+    },
+    {
+      "id": "ca_2026092907",
+      "question": "गोखले इन्स्टिट्यूट ऑफ पॉलिटिक्स अँड इकॉनॉमिक्स (GIPE) च्या शॅडो मॉनेटरी पॉलिसी पॅनेलने वाढत्या अन्न आणि तेलाच्या किमतींमुळे 'आरबीआय'ला धोरणात्मक दरांबाबत (Policy Rates) काय सल्ला दिला आहे?",
+      "options": [
+        "दरात कपात करावी",
+        "दरात वाढ करावी",
+        "सध्याचे दर 'जैसे थे' (Status quo) ठेवावेत",
+        "रेपो रेट रद्द करावा"
+      ],
+      "correctAnswer": 2,
+      "explanation": "पुण्यातील 'GIPE' च्या शॅडो मॉनेटरी पॉलिसी पॅनेलने निरीक्षण नोंदवले आहे की आरबीआयच्या मागील दर कपातीचा फायदा पूर्णपणे तळापर्यंत पोहोचला नाही आणि वाढत्या अन्न व तेलाच्या किमती पाहता, आरबीआयने आगामी पतधोरणात दर 'जैसे थे' (Status quo) ठेवावेत.",
+      "category": "Maharashtra",
+      "difficulty": "medium",
+      "sourceUrl": "https://timesofindia.indiatimes.com/city/pune/gipe-shadow-monetary-policy-panel-flags-partial-rbi-rate-cut-transmission-bats-for-status-quo-as-food-amp-oil-prices-rise/articleshow/113745290.cms"
+    },
+    {
+      "id": "ca_2026092908",
+      "question": "केंद्रीय प्रत्यक्ष कर मंडळाने (CBDT) करदात्यांसाठी 'टॅक्स ऑडिट रिपोर्ट' (Tax Audit Report) भरण्याची अंतिम मुदत कोणत्या तारखेपर्यंत वाढवली आहे?",
+      "options": [
+        "३१ ऑक्टोबर २०२६",
+        "२१ ऑक्टोबर २०२६",
+        "१५ नोव्हेंबर २०२६",
+        "२१ नोव्हेंबर २०२६"
+      ],
+      "correctAnswer": 1,
+      "explanation": "तांत्रिक अडचणींमुळे 'CBDT' ने टॅक्स ऑडिट रिपोर्ट सबमिट करण्याची अंतिम मुदत २१ ऑक्टोबर २०२६ पर्यंत वाढवली आहे, तर आयकर रिटर्न (ITR) भरण्याची शेवटची तारीख २१ नोव्हेंबर २०२६ पर्यंत वाढवण्यात आली आहे.",
+      "category": "Economy",
+      "difficulty": "easy",
+      "sourceUrl": "https://timesofindia.indiatimes.com/business/india-business/cbdt-extends-tax-audit-report-deadline-till-october-21-itr-filing-last-date-to-november-21/articleshow/113745261.cms"
+    },
+    {
+      "id": "ca_2026092909",
+      "question": "१८ वर्षांच्या बंदीनंतर हत्ती आणि जिराफ परत आल्यामुळे कोणत्या देशातील 'सवाना' (Savanna) गवताळ प्रदेशातील झाडांचे आच्छादन (tree cover) कमी झाले आहे?",
+      "options": [
+        "दक्षिण आफ्रिका",
+        "केनिया",
+        "टांझानिया",
+        "नायजेरिया"
+      ],
+      "correctAnswer": 1,
+      "explanation": "केनियामध्ये (Kenya) केलेल्या एका अभ्यासानुसार, सवाना गवताळ प्रदेशात १८ वर्षांनंतर जेव्हा हत्ती आणि जिराफ यांसारख्या मोठ्या शाकाहारी प्राण्यांना परत सोडण्यात आले, तेव्हा त्यांच्या चरण्यामुळे तेथील झाडांचे आच्छादन लक्षणीयरीत्या कमी झाले आहे.",
+      "category": "Environment",
+      "difficulty": "medium",
+      "sourceUrl": "https://timesofindia.indiatimes.com/home/environment/flora-fauna/kenyan-savanna-tree-cover-falls-after-elephants-and-giraffes-return-following-18-year-exclusion/articleshow/113745270.cms"
+    },
+    {
+      "id": "ca_2026092910",
+      "question": "संयुक्त राष्ट्र लोकसंख्या निधीच्या (UNFPA) नवीन अहवालानुसार, भारतातील स्थलांतरित कामगारांच्या (Migrant workers) स्थलांतराचे मुख्य कारण कोणते आहे?",
+      "options": [
+        "उच्च शिक्षणाची इच्छा",
+        "शहरातील आधुनिक जीवनशैलीचे आकर्षण",
+        "उपजीविकेची असुरक्षितता, कमी मजुरी आणि गरिबी",
+        "राजकीय अस्थिरता"
+      ],
+      "correctAnswer": 2,
+      "explanation": "UNFPA च्या अलीकडील अहवालानुसार, चांगल्या जीवनाच्या आशेने स्थलांतर करणाऱ्या बहुतांश कामगारांसाठी उपजीविकेची असुरक्षितता (livelihood insecurity), कमी मजुरी, गरिबी आणि वाढते कर्ज हीच मूळ कारणे असल्याचे स्पष्ट झाले आहे.",
+      "category": "Miscellaneous",
+      "difficulty": "hard",
+      "sourceUrl": "https://timesofindia.indiatimes.com/india/unfpa-report-migrant-workers-cite-livelihood-insecurity-low-wages-poverty-and-debt-as-reasons-for-moving-out-for-better-life/articleshow/113745282.cms"
+    }
+  ],
+  "totalQuestions": 10,
+  "version": 1
+}
