@@ -1,12 +1,27 @@
 {
-  "date": "2026-09-30",
+  "date": "2026-10-01",
   "topic": "Current Affairs",
-  "source": "Google News, The Times of India",
-  "lastUpdated": "2026-09-30T08:00:00+05:30",
+  "source": "The Times of India, Economic Times, Loksatta",
+  "lastUpdated": "2026-10-01T10:00:00+05:30",
   "quiz": [
     {
-      "id": "ca_2026093001",
-      "question": "महाराष्ट्र मंत्रिमंडळाच्या निर्णयानुसार, माजी अग्निवीरांना शासकीय नोकरीत किती टक्के समांतर आरक्षण दिले जाणार आहे?",
+      "id": "ca_20261001_01",
+      "question": "ऑक्टोबर २०२६ पासून २०,००० रुपयांपेक्षा जास्त UPI व्यवहारांवर काय बदल होणार आहे?",
+      "options": [
+        "MDR लागू होणार नाही",
+        "MDR (Merchant Discount Rate) लागू होईल",
+        "सर्व व्यवहारांवर १% MDR",
+        "कोणताही बदल नाही"
+      ],
+      "correctAnswer": 1,
+      "explanation": "ऑक्टोबर २०२६ पासून २०,००० रुपयांपेक्षा जास्त UPI व्यवहारांवर Merchant Discount Rate (MDR) लागू होणार आहे.",
+      "category": "Economy",
+      "difficulty": "medium",
+      "sourceUrl": "https://timesofindia.indiatimes.com/business/india-business/5-money-rule-changes-from-october-2026-bulk-fd-rates-upi-mdr-starts-above-rs-2000-sbi-atm-free-limit-falls-to-5-lpg-aadhaar-kyc-new-nps-charges/articleshow/134587809.cms"
+    },
+    {
+      "id": "ca_20261001_02",
+      "question": "महाराष्ट्र शासनाने नुकत्याच घेतलेल्या निर्णयानुसार, राज्यातील माजी अग्निवीरांना शासकीय नोकरीत किती टक्के समांतर आरक्षण दिले जाणार आहे?",
       "options": [
         "५ टक्के",
         "१० टक्के",
@@ -20,8 +35,53 @@
       "sourceUrl": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPLU1CdnY2Qk45OG5PRjZ5Y1lYVXNxZW9aZUNLMXBvaDJkLTVfeGdwUURMaWFIak0tNkRtLWdZYThRWDNFZFEtenFEdDF6eVVrQWk2Rjg2UkQzUXNvdkotYXhxa3VfVHRpbUFTUTBzRmtKOHpwdUN1cXViQklVdGhvSHZDdTgzVEFRaFlYQWZqNnZuREFsYjI0OW5tOGF1VGJKblNKeEloTEFISjlwOGUycEwxbVlnN09GNVVWdExUSWdob1JCQThSMlFqdWVlWXBrWWtV0gHaAUFVX3lxTE9sVEUySUt3OFNXdW1tb0l3M2w2Yi1zTVd2YVBuU3c5ZjNiN0JVSi00Qlc0UEpISUhwWVMteno4X2EwRUs1dUJVTUFueVhoT3o4VWpsTGFjUGNadVJneVNsdHB4SUZnZkxwMU9NdF9nWWhXd0xoRnRvRXdOMVF0M0dTZUFSU1U4OFptT1ZNX3dheDdCT2I0UTExbnBORDFyNy1wTkFzSjNjWDczX051UGI3QU5YNFpPX3NycHlvaFE5cHFUcWJNVlRfd0xpYkQyNnRZcEFmMEZrV1p3?oc=5"
     },
     {
-      "id": "ca_2026093002",
-      "question": "दुष्काळी परिस्थितीच्या पार्श्वभूमीवर, महाराष्ट्र मंत्रिमंडळाने कोणते नवीन धोरण जाहीर केले आहे?",
+      "id": "ca_20261001_03",
+      "question": "दिल्लीतील वाहतूक कोंडी सोडवण्यासाठी मंत्रिमंडळाने कोणत्या नवीन प्रणालीला मंजुरी दिली आहे?",
+      "options": [
+        "नवीन मेट्रो लाईन",
+        "इंटेलिजेंट ट्रॅफिक सिस्टीम",
+        "फ्री बस सेवा",
+        "टोल टॅक्स प्रणाली"
+      ],
+      "correctAnswer": 1,
+      "explanation": "दिल्लीतील वाहतूक व्यवस्थापन सुधारण्यासाठी मंत्रिमंडळाने १,७८९ कोटी रुपयांच्या 'इंटेलिजेंट ट्रॅफिक सिस्टीम' (ITS) ला मंजुरी दिली आहे.",
+      "category": "Polity",
+      "difficulty": "easy",
+      "sourceUrl": "https://timesofindia.indiatimes.com/india/cabinet-clears-rs-1789cr-intelligent-traffic-system-for-delhi-first-planned-before-2010-cwg/articleshow/134599851.cms"
+    },
+    {
+      "id": "ca_20261001_04",
+      "question": "आरबीआय (RBI) ची नेट शॉर्ट फॉरवर्ड पोझिशन अलीकडेच किती अब्ज डॉलरवर पोहोचली आहे?",
+      "options": [
+        "$१०० अब्ज",
+        "$१५० अब्ज",
+        "$२०० अब्ज",
+        "$२५० अब्ज"
+      ],
+      "correctAnswer": 2,
+      "explanation": "आरबीआय (RBI) ची निव्वळ शॉर्ट फॉरवर्ड पोझिशन नुकतीच $२०० अब्ज डॉलरवर पोहोचली आहे.",
+      "category": "Economy",
+      "difficulty": "hard",
+      "sourceUrl": "https://economictimes.indiatimes.com/industry/banking/finance/banking/rbi-net-short-forward-position-rises-to-200-b/articleshow/134601889.cms"
+    },
+    {
+      "id": "ca_20261001_05",
+      "question": "भारत सरकार प्रथमच 'इंडिया मायनिंग वीक' चे आयोजन कोणत्या महिन्यात करणार आहे?",
+      "options": [
+        "ऑक्टोबर",
+        "नोव्हेंबर",
+        "डिसेंबर",
+        "जानेवारी"
+      ],
+      "correctAnswer": 1,
+      "explanation": "भारत सरकार जागतिक खाण कंपन्यांना आकर्षित करण्यासाठी नोव्हेंबर महिन्यात पहिल्या 'इंडिया मायनिंग वीक' चे आयोजन करणार आहे.",
+      "category": "Economy",
+      "difficulty": "medium",
+      "sourceUrl": "https://timesofindia.indiatimes.com/india/govt-invites-global-mining-majors-to-first-india-mining-week-in-nov/articleshow/134599688.cms"
+    },
+    {
+      "id": "ca_20261001_06",
+      "question": "दुष्काळी परिस्थिती आणि पशुधनाच्या चाऱ्याचा प्रश्न सोडवण्यासाठी महाराष्ट्र मंत्रिमंडळाने कोणते नवीन धोरण जाहीर केले आहे?",
       "options": [
         "जल संधारण धोरण",
         "महाराष्ट्र वैरण विकास धोरण",
@@ -31,128 +91,68 @@
       "correctAnswer": 1,
       "explanation": "दुष्काळी परिस्थिती आणि पशुधनाच्या चाऱ्याचा प्रश्न सोडवण्यासाठी महाराष्ट्र मंत्रिमंडळाने 'महाराष्ट्र वैरण विकास धोरण' जाहीर केले आहे.",
       "category": "Maharashtra",
-      "difficulty": "easy",
+      "difficulty": "medium",
       "sourceUrl": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNRUpfNG1ONklzVVJ4UThTZTBLVWdEbGhTWTNRY19URFBMOENUazBpNVhXVV9saGlZVXozVFRQcGtpTlZTc0lFSmF1angxQkdRUWlucXJzU1NFUDFsRlpvb2RnUHFWbHE4WnZpcndkMW95b21YWHJaN3ZSR0txUzVmY05fY09BZUc2V1QxejVQY3E3MWZpSi12ZmNNY2hYTzdHVG1SWm1hanlnWkZHS0NZ?oc=5"
     },
     {
-      "id": "ca_2026093003",
-      "question": "आशियाई क्रीडा स्पर्धेत भारताने महिलांच्या ४x४०० मीटर रिले शर्यतीत कोणते पदक जिंकले?",
+      "id": "ca_20261001_07",
+      "question": "एचडीएफसी (HDFC) बँकेच्या मुख्य अनुपालन अधिकारी (Chief Compliance Officer) पदी कोणाची नियुक्ती करण्यात आली आहे?",
       "options": [
-        "सुवर्ण",
-        "रौप्य",
-        "कांस्य",
-        "यापैकी कोणतेही नाही"
+        "व्ही. एन. श्रीवत्सन",
+        "शशिधर जगदीशन",
+        "दीपक पारेख",
+        "आदित्य पुरी"
       ],
       "correctAnswer": 0,
-      "explanation": "आशियाई क्रीडा स्पर्धेत भारतीय महिला संघाने ४x४०० मीटर रिले शर्यतीत उत्कृष्ट कामगिरी करत सुवर्णपदक पटकावले आहे.",
-      "category": "Sports",
-      "difficulty": "easy",
-      "sourceUrl": "https://timesofindia.indiatimes.com/sports/asian-games-2026/4x400m-womens-relay-gives-indias-first-athletics-gold-at-2026-asian-games/articleshow/134565681.cms"
+      "explanation": "एचडीएफसी बँकेने आयसीआयसीआय बँकेचे माजी अधिकारी व्ही. एन. श्रीवत्सन यांची मुख्य अनुपालन अधिकारी म्हणून नियुक्ती केली आहे.",
+      "category": "Economy",
+      "difficulty": "hard",
+      "sourceUrl": "https://economictimes.indiatimes.com/industry/banking/finance/banking/hdfc-bank-names-v-n-srivatsan-as-chief-compliance-officer/articleshow/134595459.cms"
     },
     {
-      "id": "ca_2026093004",
-      "question": "नुकतेच मध्य प्रदेश मंत्रिमंडळाने माजी अग्निवीरांना गणवेशधारी सेवांमध्ये किती टक्के समांतर आरक्षण मंजूर केले आहे?",
+      "id": "ca_20261001_08",
+      "question": "नवीन 5G स्लाइसिंग (5G slicing) आणि सेवा गुणवत्ता नियमांवरून दूरसंचार कंपन्यांचा कोणाशी वाद सुरू आहे?",
       "options": [
-        "१० टक्के",
-        "१५ टक्के",
-        "२० टक्के",
-        "२५ टक्के"
-      ],
-      "correctAnswer": 2,
-      "explanation": "मध्य प्रदेश मंत्रिमंडळाने राज्याच्या गणवेशधारी सेवांमध्ये माजी अग्निवीरांना २० टक्के क्षैतिज (समांतर) आरक्षण देण्यास मंजुरी दिली आहे.",
-      "category": "Polity",
-      "difficulty": "medium",
-      "sourceUrl": "https://timesofindia.indiatimes.com/india/mp-cabinet-approves-20-horizontal-reservation-for-former-agniveers-in-uniformed-services/articleshow/134570538.cms"
-    },
-    {
-      "id": "ca_2026093005",
-      "question": "पी.एम.-राहत (PM-RAHAT) योजनेंतर्गत आतापर्यंत किती अपघातग्रस्तांवर उपचार करण्यात आले आहेत?",
-      "options": [
-        "१५,०००",
-        "२०,०००",
-        "२५,०००",
-        "३०,०००"
-      ],
-      "correctAnswer": 2,
-      "explanation": "पी.एम.-राहत (PM-RAHAT) योजनेंतर्गत आतापर्यंत देशभरात २५,००० हून अधिक रस्ते अपघातग्रस्तांवर उपचार करण्यात आले आहेत.",
-      "category": "Polity",
-      "difficulty": "medium",
-      "sourceUrl": "https://timesofindia.indiatimes.com/india/25000-crash-victims-treated-under-pm-rahat-hospitals-reimbursed-in-13000-cases/articleshow/134571772.cms"
-    },
-    {
-      "id": "ca_2026093006",
-      "question": "कोणत्या संस्थेच्या संशोधकांनी निळ्या प्रकाशाचा (blue light) वापर करून पेशी विभाजन सुरू करण्याचे तंत्र विकसित केले आहे, जे कर्करोग संशोधनात उपयुक्त ठरू शकते?",
-      "options": [
-        "IIT बॉम्बे",
-        "IISc बंगळुरू",
-        "AIIMS दिल्ली",
-        "TIFR मुंबई"
+        "सरकार",
+        "TRAI (ट्राय)",
+        "RBI (आरबीआय)",
+        "ग्राहक गट"
       ],
       "correctAnswer": 1,
-      "explanation": "इंडियन इन्स्टिट्यूट ऑफ सायन्स (IISc) बंगळुरूच्या संशोधकांनी निळ्या प्रकाशाचा वापर करून पेशी विभाजनावर नियंत्रण मिळवण्याचे तंत्र विकसित केले आहे, जे भविष्यातील कर्करोग संशोधनात महत्त्वाची भूमिका बजावू शकते.",
+      "explanation": "नवीन 5G स्लाइसिंग आणि कव्हरेज मॅप तसेच सेवा गुणवत्तेच्या नियमांवरून दूरसंचार कंपन्या आणि ग्राहक गट यांच्यात TRAI (भारतीय दूरसंचार नियामक प्राधिकरण) शी मतभेद निर्माण झाले आहेत.",
       "category": "Science & Tech",
-      "difficulty": "hard",
-      "sourceUrl": "https://timesofindia.indiatimes.com/india/iisc-team-uses-blue-light-to-switch-on-cell-division-may-aid-cancer-research/articleshow/134571607.cms"
-    },
-    {
-      "id": "ca_2026093007",
-      "question": "आशियाई क्रीडा स्पर्धेत नीरू धांडा हिने कोणत्या खेळात सुवर्णपदक जिंकले?",
-      "options": [
-        "नेमबाजी",
-        "कुस्ती",
-        "बॉक्सिंग",
-        "अॅथलेटिक्स"
-      ],
-      "correctAnswer": 0,
-      "explanation": "आशियाई क्रीडा स्पर्धेत भारताच्या नीरू धांडा हिने नेमबाजी (Shooting) प्रकारात सुवर्णपदक मिळवून देशाची मान उंचावली आहे.",
-      "category": "Sports",
       "difficulty": "medium",
-      "sourceUrl": "https://timesofindia.indiatimes.com/sports/asian-games-2026/asian-games-2026-day-10-two-golds-from-neeru-dhanda-womens-4x400m-relay-take-india-past-50-medals/articleshow/134568551.cms"
+      "sourceUrl": "https://economictimes.indiatimes.com/industry/telecom/telecom-news/telcos-consumer-groups-clash-over-trais-5g-slicing-coverage-map-and-service-quality-rules/articleshow/134601188.cms"
     },
     {
-      "id": "ca_2026093008",
-      "question": "केंद्रीय गृह मंत्रालयाच्या (MHA) कोणत्या नोंदणी प्रक्रियेत लाच घेतल्याप्रकरणी नुकतीच अधिकाऱ्यांना अटक करण्यात आली?",
+      "id": "ca_20261001_09",
+      "question": "अंदाजापेक्षा १५% कमी दराने कंत्राट दिलेल्या किती महामार्गांची पाहणी NHAI करणार आहे?",
       "options": [
-        "पासपोर्ट नोंदणी",
-        "आधार नोंदणी",
-        "FCRA नोंदणी",
-        "पॅन कार्ड नोंदणी"
+        "१०",
+        "१५",
+        "१७",
+        "२०"
       ],
       "correctAnswer": 2,
-      "explanation": "परकीय देणगी नियमन कायदा (FCRA) नोंदणी सुलभ करण्यासाठी लाच मागितल्याच्या आरोपावरून केंद्रीय गृह मंत्रालयाच्या (MHA) काही अधिकाऱ्यांना अटक करण्यात आली आहे.",
-      "category": "Polity",
-      "difficulty": "medium",
-      "sourceUrl": "https://timesofindia.indiatimes.com/india/mha-officials-arrested-for-allegedly-seeking-bribe-to-facilitate-fcra-registration/articleshow/134570872.cms"
-    },
-    {
-      "id": "ca_2026093009",
-      "question": "नुकतेच जम्मू-काश्मीरमधील कठुआ येथील जलविद्युत प्रकल्पावर कोणत्या दलाच्या जवानाने सहकाऱ्यांवर गोळीबार केला?",
-      "options": [
-        "CRPF",
-        "BSF",
-        "CISF",
-        "ITBP"
-      ],
-      "correctAnswer": 2,
-      "explanation": "जम्मू-काश्मीरमधील कठुआ येथील जलविद्युत प्रकल्पावर तैनात असलेल्या केंद्रीय औद्योगिक सुरक्षा दलाच्या (CISF) जवानाने आपल्या सहकाऱ्यांवर गोळीबार केला, ज्यामध्ये चार जवान शहीद झाले.",
-      "category": "Polity",
+      "explanation": "भारतीय राष्ट्रीय महामार्ग प्राधिकरण (NHAI) अंदाजित खर्चापेक्षा १५% कमी दराने कंत्राट दिलेल्या १७ महामार्गांच्या गुणवत्तेची तपासणी करणार आहे.",
+      "category": "Economy",
       "difficulty": "easy",
-      "sourceUrl": "https://timesofindia.indiatimes.com/india/cisf-jawan-kills-4-colleagues-at-kathua-hydel-plant/articleshow/134572873.cms"
+      "sourceUrl": "https://timesofindia.indiatimes.com/india/nhai-to-inspect-17-highways-awarded-at-15-below-estimates/articleshow/134599299.cms"
     },
     {
-      "id": "ca_2026093010",
-      "question": "गुलवीर सिंगने आशियाई क्रीडा स्पर्धेत ५,००० मीटर धावण्याच्या शर्यतीत कोणते पदक जिंकले?",
+      "id": "ca_20261001_10",
+      "question": "सीआरआयएसआयएल (CRISIL) च्या अहवालानुसार, भारतातील उद्योग क्षेत्रावर संभाव्य ५० bps दरवाढीचा काय परिणाम होईल?",
       "options": [
-        "सुवर्ण",
-        "रौप्य",
-        "कांस्य",
-        "चौथे स्थान"
+        "मोठा फटका बसेल",
+        "कोणताही परिणाम होणार नाही",
+        "ते सहज पेलू शकतील",
+        "मंदी येईल"
       ],
       "correctAnswer": 2,
-      "explanation": "गुलवीर सिंगने आशियाई क्रीडा स्पर्धेत ५,००० मीटर धावण्याच्या शर्यतीत कांस्यपदक जिंकले असून, या स्पर्धेत त्याने आपल्या पदकांची हॅट्ट्रिक पूर्ण केली आहे.",
-      "category": "Sports",
-      "difficulty": "hard",
-      "sourceUrl": "https://timesofindia.indiatimes.com/sports/asian-games-2026/three-for-gulveer-india-distance-runner-completes-asian-games-medal-hat-trick-secures-bronze-in-5000m/articleshow/134564452.cms"
+      "explanation": "CRISIL च्या अहवालानुसार, इंडिया इंक. (भारतीय उद्योग क्षेत्र) संभाव्य ५० बेसिस पॉईंट्सची व्याजदरवाढ आणि अल निनोचा प्रभाव सहज पेलू शकेल.",
+      "category": "Economy",
+      "difficulty": "easy",
+      "sourceUrl": "https://economictimes.indiatimes.com/news/economy/indicators/india-inc-can-weather-50-bps-rate-hike-el-nino-impact-crisil/articleshow/134597055.cms"
     }
   ],
   "totalQuestions": 10,
