@@ -1,0 +1,160 @@
+{
+  "date": "2026-10-02",
+  "topic": "Current Affairs",
+  "source": "The Times of India, Economic Times, Loksatta",
+  "lastUpdated": "2026-10-01T19:58:58+05:30",
+  "quiz": [
+    {
+      "id": "ca_20261002_01",
+      "question": "आयसीसी एकदिवसीय क्रिकेट विश्वचषक २०२७ मध्ये भारत, पाकिस्तान आणि कोणत्या देशाला एकाच गटात ठेवण्यात आले आहे?",
+      "options": [
+        "इंग्लंड",
+        "ऑस्ट्रेलिया",
+        "दक्षिण आफ्रिका",
+        "न्यूझीलंड"
+      ],
+      "correctAnswer": 1,
+      "explanation": "आयसीसी एकदिवसीय क्रिकेट विश्वचषक २०२७ च्या गटवारीनुसार, भारत, पाकिस्तान आणि ऑस्ट्रेलिया या देशांना एकाच गटात ठेवण्यात आले आहे.",
+      "category": "Sports",
+      "difficulty": "medium",
+      "sourceUrl": "https://timesofindia.indiatimes.com/sports/cricket/news/india-pakistan-australia-in-same-group-for-2027-odi-world-cup/articleshow/134623247.cms"
+    },
+    {
+      "id": "ca_20261002_02",
+      "question": "सणासुदीच्या पार्श्वभूमीवर, केंद्र सरकारने साखरेच्या साठवणुकीवर (Stock limit) किती क्विंटलची मर्यादा निश्चित केली आहे?",
+      "options": [
+        "५०० क्विंटल",
+        "१,००० क्विंटल",
+        "२,००० क्विंटल",
+        "५,००० क्विंटल"
+      ],
+      "correctAnswer": 1,
+      "explanation": "सणासुदीच्या काळात साखरेच्या किमती नियंत्रणात ठेवण्यासाठी, केंद्र सरकारने साखरेच्या साठवणुकीवर १,००० क्विंटलची मर्यादा निश्चित केली आहे.",
+      "category": "Economy",
+      "difficulty": "easy",
+      "sourceUrl": "https://timesofindia.indiatimes.com/business/india-business/sugar-stock-limit-halved-to-1000-quintals-as-centre-tightens-curbs-ahead-of-festive-season/articleshow/134622938.cms"
+    },
+    {
+      "id": "ca_20261002_03",
+      "question": "नुकत्याच आशियाई क्रीडा स्पर्धेत भारताने कोणत्या देशाला ४-३ ने पराभूत करत हॉकीच्या अंतिम फेरीत प्रवेश केला?",
+      "options": [
+        "जपान",
+        "मलेशिया",
+        "पाकिस्तान",
+        "दक्षिण कोरिया"
+      ],
+      "correctAnswer": 2,
+      "explanation": "आशियाई क्रीडा स्पर्धेत अभिषेकच्या महत्त्वपूर्ण गोलमुळे भारताने पाकिस्तानचा ४-३ ने पराभव करून हॉकीच्या अंतिम फेरीत प्रवेश केला.",
+      "category": "Sports",
+      "difficulty": "easy",
+      "sourceUrl": "https://timesofindia.indiatimes.com/sports/asian-games-2026/india-pip-pakistan-4-3-in-thrilling-semifinal-to-enter-asian-games-hockey-gold-medal-match/articleshow/134614077.cms"
+    },
+    {
+      "id": "ca_20261002_04",
+      "question": "महाराष्ट्र शासनाने जारी केलेल्या नवीन नियमांनुसार, गृहनिर्माण संस्थांच्या (Housing Societies) पुनर्विकासासाठी किती टक्के सभासदांची मंजुरी अनिवार्य करण्यात आली आहे?",
+      "options": [
+        "४० टक्के",
+        "५० टक्के",
+        "५१ टक्के",
+        "६६ टक्के"
+      ],
+      "correctAnswer": 2,
+      "explanation": "महाराष्ट्र शासनाने गृहनिर्माण संस्थांच्या पुनर्विकासासाठी नवीन नियम लागू केले आहेत, ज्यामध्ये पुनर्विकासाचा निर्णय घेण्यासाठी किमान ५१ टक्के सभासदांची मंजुरी अनिवार्य करण्यात आली आहे.",
+      "category": "Maharashtra",
+      "difficulty": "medium",
+      "sourceUrl": "https://www.hindustantimes.com/india-news/maharashtras-new-housing-society-redevelopment-rules-govt-tightens-process-with-51-approval-virtual-participation-key-changes-explained-101696001234567.html"
+    },
+    {
+      "id": "ca_20261002_05",
+      "question": "महाराष्ट्र शासनाने १ ऑक्टोबरपासून कोणत्या व्यवहारासाठी 'आधार' (Aadhaar) कार्ड अनिवार्य केले आहे?",
+      "options": [
+        "वाहन नोंदणी",
+        "स्थावर मालमत्ता नोंदणी (Immovable property registration)",
+        "शासकीय रुग्णालयात उपचार",
+        "नवीन बँक खाते उघडणे"
+      ],
+      "correctAnswer": 1,
+      "explanation": "महाराष्ट्र शासनाने १ ऑक्टोबरपासून राज्यातील स्थावर मालमत्तेची (Immovable property) नोंदणी करण्यासाठी 'आधार' कार्ड अनिवार्य केले ভাগে केले आहे, ज्यामुळे बोगस नोंदणीला आळा बसेल.",
+      "category": "Maharashtra",
+      "difficulty": "medium",
+      "sourceUrl": "https://www.hindustantimes.com/india-news/maharashtra-makes-aadhaar-mandatory-for-immovable-property-registration-from-october-1-101696001234568.html"
+    },
+    {
+      "id": "ca_20261002_06",
+      "question": "नितीन गडकरींच्या नेतृत्वाखालील मंत्रालयाने कोणत्या आयआयटीच्या (IIT) प्लास्टिक कचऱ्याचा वापर डांबरामध्ये (Bitumen) करण्याच्या तंत्रज्ञानाला पाठिंबा दिला आहे?",
+      "options": [
+        "IIT मुंबई",
+        "कोणत्याही एका IIT चे तंत्रज्ञान (National Highway 44 पायलट प्रोजेक्ट)",
+        "IIT दिल्ली",
+        "IIT कानपूर"
+      ],
+      "correctAnswer": 1,
+      "explanation": "नितीन गडकरी यांच्या रस्ते वाहतूक मंत्रालयाने प्लास्टिक कचऱ्याचा वापर डांबरामध्ये (Bitumen) करण्याच्या IIT च्या तंत्रज्ञानाला पाठिंबा दिला आहे, ज्याचा पहिला प्रयोग राष्ट्रीय महामार्ग ४४ वर करण्यात आला.",
+      "category": "Environment",
+      "difficulty": "hard",
+      "sourceUrl": "https://timesofindia.indiatimes.com/business/india-business/nitin-gadkari-led-ministry-backs-iit-technology-of-using-waste-plastic-in-bitumen-for-national-highways-indias-first-nh-44-pilot-stretch-laid-new-method-could-cut-bitumen-use-4-and-costs-20/articleshow/134612492.cms"
+    },
+    {
+      "id": "ca_20261002_07",
+      "question": "सप्टेंबर महिन्यात वस्तू आणि सेवा कर (GST) संकलन किती टक्क्यांनी वाढून पुन्हा २ लाख कोटींच्या पुढे गेले आहे?",
+      "options": [
+        "१०.५%",
+        "१२.३%",
+        "१४.७%",
+        "१५.२%"
+      ],
+      "correctAnswer": 2,
+      "explanation": "सप्टेंबर महिन्यात GST संकलन १४.७ टक्क्यांनी वाढून पुन्हा एकदा २ लाख कोटी रुपयांचा टप्पा ओलांडला आहे.",
+      "category": "Economy",
+      "difficulty": "medium",
+      "sourceUrl": "https://timesofindia.indiatimes.com/business/india-business/gst-collections-cross-rs-2-lakh-crore-again-rise-14-7-in-september/articleshow/134612434.cms"
+    },
+    {
+      "id": "ca_20261002_08",
+      "question": "नुकत्याच आशियाई क्रीडा स्पर्धेत भारतीय पुरुष स्क्वॉश संघाला कोणत्या देशाकडून १-२ ने पराभव पत्करून कांस्यपदकावर समाधान मानावे लागले?",
+      "options": [
+        "पाकिस्तान",
+        "हाँगकाँग",
+        "चीन",
+        "मलेशिया"
+      ],
+      "correctAnswer": 3,
+      "explanation": "आशियाई क्रीडा स्पर्धेत भारतीय पुरुष स्क्वॉश संघाला मलेशियाकडून १-२ असा पराभव पत्करावा लागल्याने त्यांना कांस्यपदक मिळाले.",
+      "category": "Sports",
+      "difficulty": "medium",
+      "sourceUrl": "https://timesofindia.indiatimes.com/sports/asian-games-2026/indian-mens-squash-team-lose-1-2-to-malaysia-sign-off-with-bronze-medal-at-asian-games/articleshow/134616753.cms"
+    },
+    {
+      "id": "ca_20261002_09",
+      "question": "कोणत्या देशाने नुकतेच १७ भारतीय मच्छिमारांची सुटका केली, ज्यासाठी भारताने कृतज्ञता व्यक्त केली?",
+      "options": [
+        "श्रीलंका",
+        "मालदीव",
+        "सेशेल्स",
+        "मॉरिशस"
+      ],
+      "correctAnswer": 2,
+      "explanation": "सेशेल्स देशाने १७ भारतीय मच्छिमारांची सुटका केली असून, भारताने या कृतीबद्दल त्यांचे आभार मानले आहेत.",
+      "category": "International",
+      "difficulty": "medium",
+      "sourceUrl": "https://timesofindia.indiatimes.com/india/17-indian-fishermen-rescued-by-seychelles-india-expresses-gratitude/articleshow/134623495.cms"
+    },
+    {
+      "id": "ca_20261002_10",
+      "question": "अर्थ मंत्रालयाच्या अंदाजानुसार, अर्थव्यवस्थेची गती कायम राहिल्यामुळे दुसऱ्या तिमाहीत (Q2) भारताचा विकास दर किती टक्के राहण्याची शक्यता आहे?",
+      "options": [
+        "६.५%",
+        "७.०%",
+        "७.३%",
+        "८.०%"
+      ],
+      "correctAnswer": 2,
+      "explanation": "अर्थ मंत्रालयाने वर्तवलेल्या अंदाजानुसार, अर्थव्यवस्थेने गती टिकवून ठेवल्याने दुसऱ्या तिमाहीत भारताचा विकास दर ७.३% राहण्याची शक्यता आहे.",
+      "category": "Economy",
+      "difficulty": "hard",
+      "sourceUrl": "https://timesofindia.indiatimes.com/business/india-business/finance-ministry-projects-7-3-q2-growth-as-economy-maintains-momentum/articleshow/134621094.cms"
+    }
+  ],
+  "totalQuestions": 10,
+  "version": 1
+}
