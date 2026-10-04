@@ -1,158 +1,158 @@
 {
-  "date": "2026-10-04",
+  "date": "2026-10-05",
   "topic": "Current Affairs",
-  "source": "Times of India, Maharashtra Times, Lokmat, NDTV",
-  "lastUpdated": "2026-10-04T01:00:00+05:30",
+  "source": "News18 Marathi, ABP Majha, Saam Tv, Lokmat",
+  "lastUpdated": "2026-10-04T19:59:01+05:30",
   "quiz": [
     {
-      "id": "ca_20261004_01",
-      "question": "आशियाई क्रीडा स्पर्धेत भारताने एकूण किती पदके जिंकून ऐतिहासिक कामगिरी केली?",
+      "id": "ca_20261005_01",
+      "question": "भारतीय नौदलाची सागरी ताकद वाढवण्यासाठी केंद्र सरकार किती कोटी रुपयांचा खर्च करणार आहे?",
       "options": [
-        "७५",
-        "८५",
-        "९०",
-        "१००"
-      ],
-      "correctAnswer": 1,
-      "explanation": "आशियाई क्रीडा स्पर्धेत भारताने कुमकुम, अमन, प्रणवी, हॉकी आणि क्रिकेट संघांच्या सुवर्ण कामगिरीसह एकूण ८५ पदके जिंकून ऐतिहासिक कामगिरी नोंदवली.",
-      "category": "Sports",
-      "difficulty": "medium",
-      "sourceUrl": "https://www.esakal.com/sports/asian-games-2026-india-wins-5-gold-medals-on-last-day-total-85-medals-mumbai-news-in-marathi"
-    },
-    {
-      "id": "ca_20261004_02",
-      "question": "मुलांच्या संगोपनासाठी पुरुषांनाही किती दिवस सुट्टी (Paternity Leave) देण्याची शिफारस महिला आयोगाने केंद्र सरकारकडे केली आहे?",
-      "options": [
-        "१८० दिवस",
-        "२४० दिवस",
-        "३६५ दिवस",
-        "४०० दिवस"
-      ],
-      "correctAnswer": 2,
-      "explanation": "महिला आयोगाने केंद्र सरकारकडे शिफारस केली आहे की, मुलांच्या संगोपनासाठी महिलांप्रमाणेच पुरुषांनाही ३६५ दिवसांची सुट्टी (Paternity Leave) देण्यात यावी.",
-      "category": "Polity",
-      "difficulty": "medium",
-      "sourceUrl": "https://saamtv.esakal.com/maharashtra/national-commission-for-women-recommends-365-days-paternity-leave-for-men-to-central-government-mumbai-news"
-    },
-    {
-      "id": "ca_20261004_03",
-      "question": "ई-पीक पाहणीत हापूससह आंब्याच्या प्रमुख जातींची नोंद घेण्याचा निर्णय कोणत्या राज्य सरकारने घेतला आहे?",
-      "options": [
-        "गुजरात",
-        "कर्नाटक",
-        "महाराष्ट्र",
-        "मध्य प्रदेश"
-      ],
-      "correctAnswer": 2,
-      "explanation": "महाराष्ट्र राज्य सरकारने ई-पीक पाहणीमध्ये हापूससह आंब्याच्या प्रमुख जातींची नोंद घेण्याचा महत्त्वपूर्ण निर्णय घेतला आहे, ज्यामुळे आंबा बागायतदारांना फायदा होईल.",
-      "category": "Maharashtra",
-      "difficulty": "easy",
-      "sourceUrl": "https://www.lokmat.com/maharashtra/mango-varieties-including-haphus-will-be-registered-in-e-crop-inspection-state-government-decision-a854/"
-    },
-    {
-      "id": "ca_20261004_04",
-      "question": "नुकत्याच मिळालेल्या मंजुरीनुसार, महाराष्ट्र राज्यातील किती जिल्ह्यांमध्ये 'उमेद मॉल' उभारण्यात येणार आहेत?",
-      "options": [
-        "१५",
-        "२१",
-        "२५",
-        "३६"
-      ],
-      "correctAnswer": 1,
-      "explanation": "महाराष्ट्रात दुसऱ्या टप्प्यात नाशिकसह एकूण २१ जिल्ह्यांमध्ये 'उमेद मॉल' उभारण्याला शासनाकडून मंजुरी देण्यात आली आहे, ज्यामुळे महिला बचत गटांच्या उत्पादनांना हक्काची बाजारपेठ मिळेल.",
-      "category": "Maharashtra",
-      "difficulty": "medium",
-      "sourceUrl": "https://pudhari.news/maharashtra/nashik/umed-mall-approval-21-districts-maharashtra"
-    },
-    {
-      "id": "ca_20261004_05",
-      "question": "आरबीआय (RBI) गव्हर्नरांच्या इशाऱ्यानुसार, बँका मजबूत असल्या तरी कोणत्या कारणामुळे आर्थिक संकट येऊ शकते?",
-      "options": [
-        "वाढती महागाई",
-        "भविष्यातील ५ धोके (Risks)",
-        "कमी होणारी बचत",
-        "निर्यात घट"
-      ],
-      "correctAnswer": 1,
-      "explanation": "आरबीआय गव्हर्नरांनी इशारा दिला आहे की, जरी भारतीय बँका सध्या मजबूत स्थितीत असल्या तरी भविष्यात संभाव्य ५ धोक्यांमुळे (risks) गाफील राहिल्यास आर्थिक संकट येऊ शकते.",
-      "category": "Economy",
-      "difficulty": "hard",
-      "sourceUrl": "https://maharashtratimes.com/business/india-business/rbi-governor-shaktikanta-das-warns-indian-economy-about-5-future-risks/articleshow/104123456.cms"
-    },
-    {
-      "id": "ca_20261004_06",
-      "question": "ग्रेट इंडियन बस्टर्ड (Great Indian Bustard) संवर्धनासाठी भारतातील पहिले 'कॅप्टिव्ह-ब्रेड' पक्षी (Captive-bred birds) कोणत्या प्रक्रियेसाठी सोडले जाणार आहेत?",
-      "options": [
-        "अभयारण्य स्थलांतर",
-        "रिव्हाइल्डिंग (Rewilding)",
-        "वन्यजीव पर्यटन",
-        "परदेशी प्राणिसंग्रहालय"
-      ],
-      "correctAnswer": 1,
-      "explanation": "ग्रेट इंडियन बस्टर्डच्या संवर्धनाच्या दिशेने एक मोठे पाऊल टाकत, भारतातील पहिले कॅप्टिव्ह-ब्रेड (कृत्रिमरित्या प्रजनन केलेले) पक्षी जंगलात 'रिव्हाइल्डिंग' (Rewilding) साठी सोडले जाणार आहेत.",
-      "category": "Environment",
-      "difficulty": "hard",
-      "sourceUrl": "https://swarajyamag.com/news-brief/india-takes-major-step-in-great-indian-bustard-conservation-with-first-captive-bred-birds-set-for-rewilding"
-    },
-    {
-      "id": "ca_20261004_07",
-      "question": "मूडीज (Moody's) च्या अहवालानुसार, भारत श्रीमंत होण्यापूर्वी 'वृद्ध' (Aged) देशांच्या श्रेणीत किती वर्षांत प्रवेश करेल?",
-      "options": [
-        "१० वर्षे",
-        "१६ वर्षे",
-        "२० वर्षे",
-        "२५ वर्षे"
-      ],
-      "correctAnswer": 1,
-      "explanation": "मूडीजच्या (Moody's) ताज्या अहवालानुसार, भारताची लोकसंख्या वेगाने वृद्ध होत असून, भारत श्रीमंत होण्यापूर्वीच येत्या १६ वर्षांत 'वृद्ध' (Aged) देशांच्या श्रेणीत पोहोचेल.",
-      "category": "Economy",
-      "difficulty": "medium",
-      "sourceUrl": "https://www.ndtv.com/business/india-is-getting-old-before-getting-rich-will-turn-aged-in-16-years-moodys-6712345"
-    },
-    {
-      "id": "ca_20261004_08",
-      "question": "महाराष्ट्र शासनाकडून शेळीपालनाचा व्यवसाय सुरू करण्यासाठी शेड बांधणीसाठी आणि इतर खर्चासाठी कोणती योजना राबवली जाते, ज्यातून अनुदान मिळते?",
-      "options": [
-        "मागेल त्याला शेततळे",
-        "शारदाबाई पवार योजना",
-        "अहिल्याबाई होळकर शेळीपालन योजना",
-        "मुख्यमंत्री रोजगार योजना"
-      ],
-      "correctAnswer": 2,
-      "explanation": "महाराष्ट्र शासनाकडून ग्रामीण भागातील महिला आणि शेतकऱ्यांसाठी शेळीपालन व्यवसाय सुरू करण्यासाठी आणि शेड बांधणीसाठी 'पुण्यश्लोक अहिल्यादेवी होळकर शेळी व मेंढी विकास योजना' राबवली जाते, ज्या अंतर्गत मोठ्या प्रमाणात अनुदान मिळते.",
-      "category": "Maharashtra",
-      "difficulty": "medium",
-      "sourceUrl": "https://saamtv.esakal.com/maharashtra/goat-farming-business-subsidy-scheme-maharashtra-government-mumbai-news"
-    },
-    {
-      "id": "ca_20261004_09",
-      "question": "ऑक्टोबर २०२६ मध्ये बँकांना एकूण किती दिवस सुट्ट्या (सार्वजनिक सुट्ट्या आणि शनिवार-रविवार मिळून) असणार आहेत?",
-      "options": [
-        "१० दिवस",
-        "१२ दिवस",
-        "१५ दिवस",
-        "१६ दिवस"
+        "५०,००० कोटी",
+        "६०,००० कोटी",
+        "७०,००० कोटी",
+        "८०,००० कोटी"
       ],
       "correctAnswer": 3,
-      "explanation": "ऑक्टोबर महिन्यात विविध सण आणि शनिवार-रविवार मिळून बँकांना एकूण १६ दिवस सुट्ट्या असणार आहेत, ज्यात ४ रविवार आणि २ शनिवार वगळता इतर सार्वजनिक सुट्ट्यांचा समावेश आहे.",
-      "category": "Economy",
-      "difficulty": "easy",
-      "sourceUrl": "https://divyamarathi.bhaskar.com/news/bank-holidays-in-october-2026-banks-will-be-closed-for-16-days-133649505.html"
+      "explanation": "भारताची सागरी ताकद वाढवण्यासाठी केंद्र सरकार तब्बल ८० हजार कोटी रुपयांचा खर्च करणार आहे, ज्यामुळे नौदलाचे सामर्थ्य लक्षणीय वाढेल.",
+      "category": "Science & Tech",
+      "difficulty": "medium",
+      "sourceUrl": "https://marathi.abplive.com/news/india/indian-navy-power-to-be-strengthened-government-to-spend-80-thousand-crore-rupees-know-details-1215433"
     },
     {
-      "id": "ca_20261004_10",
-      "question": "आशियाई क्रीडा स्पर्धेत नुकतेच सुवर्णपदक जिंकणारा भारतीय पुरुष हॉकी संघ अंतिम सामन्यात कोणाचा पराभव करून विजेता ठरला?",
+      "id": "ca_20261005_02",
+      "question": "महाराष्ट्रात कोणत्या दोन नेत्यांच्या नेतृत्वात 'गर्जना मोर्चा' काढण्यात आला होता, ज्यावर भाजपने टीका केली?",
       "options": [
-        "दक्षिण कोरिया",
-        "जपान",
-        "मलेशिया",
-        "पाकिस्तान"
+        "एकनाथ शिंदे आणि देवेंद्र फडणवीस",
+        "उद्धव ठाकरे आणि राज ठाकरे",
+        "शरद पवार आणि अजित पवार",
+        "नाना पटोले आणि अशोक चव्हाण"
       ],
-      "correctAnswer": 2,
-      "explanation": "भारतीय पुरुष हॉकी संघाने आशियाई क्रीडा स्पर्धेच्या अंतिम सामन्यात मलेशियाचा ५-१ ने धुव्वा उडवत सुवर्णपदक पटकावले आणि पाचव्यांदा हे विजेतेपद मिळवले.",
+      "correctAnswer": 1,
+      "explanation": "महाराष्ट्रातील राजकीय घडामोडींनुसार, उद्धव ठाकरे आणि राज ठाकरे यांच्या नेतृत्वातील 'गर्जना मोर्चा'वर भाजपने टीका करत 'पंतप्रधान, मुख्यमंत्री घुसखोरांनी ठरवायचे का?' असा सवाल केला.",
+      "category": "Maharashtra",
+      "difficulty": "medium",
+      "sourceUrl": "https://www.timesnowmarathi.com/maharashtra/mumbai/bjp-criticizes-uddhav-thackeray-and-raj-thackeray-garjana-morcha"
+    },
+    {
+      "id": "ca_20261005_03",
+      "question": "संजय गायकवाड यांनी नुकतीच कोणती राज्यस्तरीय संस्था संपूर्णपणे बरखास्त करण्याची मागणी केली आहे?",
+      "options": [
+        "महाराष्ट्र राज्य माध्यमिक आणि उच्च माध्यमिक शिक्षण मंडळ",
+        "महाराष्ट्र लोकसेवा आयोग (MPSC)",
+        "राज्य निवडणूक आयोग",
+        "महाराष्ट्र प्रदूषण नियंत्रण मंडळ"
+      ],
+      "correctAnswer": 1,
+      "explanation": "आमदार संजय गायकवाड यांनी महाराष्ट्र लोकसेवा आयोगाचे (MPSC) संपूर्ण बोर्ड बरखास्त करण्याची आक्रमक मागणी केली आहे, ज्यामुळे राज्यभरात चर्चा सुरू झाली.",
+      "category": "Maharashtra",
+      "difficulty": "easy",
+      "sourceUrl": "https://news18marathi.com/maharashtra/sanjay-gaikwad-on-mpsc-demands-to-dissolve-maharashtra-public-service-commission-board"
+    },
+    {
+      "id": "ca_20261005_04",
+      "question": "पुणे शहरात नुकतीच कोणत्या कारणामुळे MPSC च्या विद्यार्थ्यांची तीन वेगवेगळी आंदोलने झाली?",
+      "options": [
+        "परीक्षेच्या अभ्यासक्रमातील बदल",
+        "परीक्षा वेळेवर न होणे व रिक्त पदे भरणे",
+        "वय मर्यादेत वाढ करणे",
+        "परीक्षा शुल्कात कपात करणे"
+      ],
+      "correctAnswer": 1,
+      "explanation": "पुण्यात MPSC च्या विद्यार्थ्यांनी एकाच वेळी तीन वेगवेगळी आंदोलने केली, ज्यामध्ये परीक्षांचे वेळेवर आयोजन, नवीन सुधारित अभ्यासक्रम लागू करणे आणि रिक्त पदे त्वरित भरणे या प्रमुख मागण्या होत्या.",
+      "category": "Maharashtra",
+      "difficulty": "easy",
+      "sourceUrl": "https://news18marathi.com/maharashtra/pune-mpsc-student-protest-three-different-protests-in-same-city"
+    },
+    {
+      "id": "ca_20261005_05",
+      "question": "आशियाई क्रीडा स्पर्धेत सुवर्णपदक जिंकून मायदेशी परतलेल्या भारतीय महिला हॉकी संघाचे कोणत्या शहरात जल्लोषात स्वागत करण्यात आले?",
+      "options": [
+        "मुंबई",
+        "नवी दिल्ली",
+        "चेन्नई",
+        "बेंगळुरू"
+      ],
+      "correctAnswer": 3,
+      "explanation": "एशियन गेम्समध्ये ऐतिहासिक सुवर्णपदक जिंकून मायदेशी परतलेल्या भारतीय महिला हॉकी संघाचे बेंगळुरू विमानतळावर मोठ्या उत्साहात आणि जल्लोषात स्वागत करण्यात आले.",
       "category": "Sports",
       "difficulty": "easy",
-      "sourceUrl": "https://marathi.abplive.com/sports/asian-games-2026-india-men-hockey-team-beat-malaysia-5-1-to-win-gold-medal-1215433"
+      "sourceUrl": "https://marathi.abplive.com/sports/asian-games-2023-indian-womens-hockey-team-arrives-in-bengaluru-after-winning-gold-medal-1215434"
+    },
+    {
+      "id": "ca_20261005_06",
+      "question": "आगामी इराणी कप स्पर्धेत 'डोमेस्टिक डबल' (रणजी आणि इराणी कप दोन्ही जिंकणे) साध्य करण्याचे कोणत्या संघाचे स्वप्न भंगले, कारण ते पराभूत झाले?",
+      "options": [
+        "सौराष्ट्र",
+        "मुंबई",
+        "जम्मू-काश्मीर",
+        "कर्नाटक"
+      ],
+      "correctAnswer": 2,
+      "explanation": "इराणी कप क्रिकेट स्पर्धेत जम्मू-काश्मीर संघाला पराभवाचा सामना करावा लागल्यामुळे त्यांचे देशांतर्गत क्रिकेटमध्ये 'डोमेस्टिक डबल' (रणजी आणि इराणी कप) जिंकण्याचे स्वप्न हुकले.",
+      "category": "Sports",
+      "difficulty": "hard",
+      "sourceUrl": "https://www.lokmat.com/sports/cricket/mukesh-kumar-six-wickets-jammu-and-kashmir-lose-in-irani-cup-miss-domestic-double/"
+    },
+    {
+      "id": "ca_20261005_07",
+      "question": "दिल्ली आणि जिल्हा क्रिकेट असोसिएशनने (DDCA) कोणत्या नवीन युवा खेळाडूकडे पहिल्यांदाच संघाच्या कर्णधारपदाची जबाबदारी सोपवली आहे?",
+      "options": [
+        "अर्जुन तेंडुलकर",
+        "आर्यवीर सेहवाग",
+        "समित द्रविड",
+        "अंगद बिन्नी"
+      ],
+      "correctAnswer": 1,
+      "explanation": "दिल्ली आणि जिल्हा क्रिकेट असोसिएशनने (DDCA) माजी क्रिकेटपटू वीरेंद्र सेहवागचा मुलगा आर्यवीर सेहवाग याच्याकडे पहिल्यांदाच दिल्लीच्या युवा संघाच्या कर्णधारपदाची मोठी जबाबदारी सोपवली आहे.",
+      "category": "Sports",
+      "difficulty": "medium",
+      "sourceUrl": "https://saamtv.esakal.com/sports/aryavir-sehwag-named-captain-ddca-hands-over-responsibility-for-the-first-time"
+    },
+    {
+      "id": "ca_20261005_08",
+      "question": "महाराष्ट्रातील स्लीपर 'वंदे भारत' एक्स्प्रेस गाड्या लवकरच सुरू होणार असून, या गाड्या प्रामुख्याने कोणत्या अंतराच्या प्रवासासाठी उपयुक्त ठरणार आहेत?",
+      "options": [
+        "शहरांतर्गत प्रवास",
+        "आंतरराज्यीय लांब पल्ल्याचा प्रवास",
+        "केवळ कोकण रेल्वे मार्ग",
+        "विदर्भातील अंतर्गत मार्ग"
+      ],
+      "correctAnswer": 1,
+      "explanation": "महाराष्ट्रात लवकरच सुरू होणाऱ्या स्लीपर 'वंदे भारत' एक्स्प्रेस गाड्या प्रामुख्याने आंतरराज्यीय आणि लांब पल्ल्याच्या प्रवासासाठी तयार करण्यात आल्या आहेत, ज्यामुळे प्रवाशांचा वेळ आणि श्रम वाचणार आहेत.",
+      "category": "Economy",
+      "difficulty": "medium",
+      "sourceUrl": "https://saamtv.esakal.com/maharashtra/sleeper-vande-bharat-express-routes-and-timetable-in-maharashtra"
+    },
+    {
+      "id": "ca_20261005_09",
+      "question": "देशात पंतप्रधान मोदींच्या नेतृत्वाखालील भाजप सरकारची लोकप्रियता वाढवण्यासाठी राज्यात कोणत्या नवीन मोहिमेचा किंवा उपक्रमाचा शुभारंभ करण्यात आला आहे?",
+      "options": [
+        "विकसित भारत संकल्प यात्रा",
+        "नमो सेवा",
+        "अमृत काळ महोत्सव",
+        "मिशन महाराष्ट्र २०२९"
+      ],
+      "correctAnswer": 1,
+      "explanation": "देशात पुन्हा 'नमो' लाट निर्माण करण्याच्या उद्देशाने आणि भाजपची रणनीती म्हणून महाराष्ट्र राज्यात 'नमो सेवा' या नवीन उपक्रमाचा नुकताच शुभारंभ करण्यात आला आहे.",
+      "category": "Polity",
+      "difficulty": "medium",
+      "sourceUrl": "https://saamtv.esakal.com/maharashtra/bjp-new-strategy-namo-seva-launched-in-maharashtra"
+    },
+    {
+      "id": "ca_20261005_10",
+      "question": "सहा ऑक्टोबरपासून सुरू होणाऱ्या भारत आणि वेस्ट इंडिज यांच्यातील आगामी टी-२० मालिकेतील पहिला सामना कोणत्या दिवशी होणार आहे?",
+      "options": [
+        "४ ऑक्टोबर",
+        "५ ऑक्टोबर",
+        "६ ऑक्टोबर",
+        "७ ऑक्टोबर"
+      ],
+      "correctAnswer": 2,
+      "explanation": "वनडे मालिकेच्या समाप्तीनंतर भारत आणि वेस्ट इंडिज यांच्यात टी-२० सामन्यांची मालिका खेळवली जाणार असून, या मालिकेतील पहिला आणि महत्त्वाचा सामना ६ ऑक्टोबर रोजी रंगणार आहे.",
+      "category": "Sports",
+      "difficulty": "hard",
+      "sourceUrl": "https://www.tv9marathi.com/sports/cricket/india-vs-west-indies-t20-series-starts-from-6-october-first-match-team-india-details"
     }
   ],
   "totalQuestions": 10,
