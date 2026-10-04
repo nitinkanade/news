@@ -1,0 +1,160 @@
+{
+  "date": "2026-10-04",
+  "topic": "Current Affairs",
+  "source": "Times of India, Maharashtra Times, Lokmat, NDTV",
+  "lastUpdated": "2026-10-04T01:00:00+05:30",
+  "quiz": [
+    {
+      "id": "ca_20261004_01",
+      "question": "आशियाई क्रीडा स्पर्धेत भारताने एकूण किती पदके जिंकून ऐतिहासिक कामगिरी केली?",
+      "options": [
+        "७५",
+        "८५",
+        "९०",
+        "१००"
+      ],
+      "correctAnswer": 1,
+      "explanation": "आशियाई क्रीडा स्पर्धेत भारताने कुमकुम, अमन, प्रणवी, हॉकी आणि क्रिकेट संघांच्या सुवर्ण कामगिरीसह एकूण ८५ पदके जिंकून ऐतिहासिक कामगिरी नोंदवली.",
+      "category": "Sports",
+      "difficulty": "medium",
+      "sourceUrl": "https://www.esakal.com/sports/asian-games-2026-india-wins-5-gold-medals-on-last-day-total-85-medals-mumbai-news-in-marathi"
+    },
+    {
+      "id": "ca_20261004_02",
+      "question": "मुलांच्या संगोपनासाठी पुरुषांनाही किती दिवस सुट्टी (Paternity Leave) देण्याची शिफारस महिला आयोगाने केंद्र सरकारकडे केली आहे?",
+      "options": [
+        "१८० दिवस",
+        "२४० दिवस",
+        "३६५ दिवस",
+        "४०० दिवस"
+      ],
+      "correctAnswer": 2,
+      "explanation": "महिला आयोगाने केंद्र सरकारकडे शिफारस केली आहे की, मुलांच्या संगोपनासाठी महिलांप्रमाणेच पुरुषांनाही ३६५ दिवसांची सुट्टी (Paternity Leave) देण्यात यावी.",
+      "category": "Polity",
+      "difficulty": "medium",
+      "sourceUrl": "https://saamtv.esakal.com/maharashtra/national-commission-for-women-recommends-365-days-paternity-leave-for-men-to-central-government-mumbai-news"
+    },
+    {
+      "id": "ca_20261004_03",
+      "question": "ई-पीक पाहणीत हापूससह आंब्याच्या प्रमुख जातींची नोंद घेण्याचा निर्णय कोणत्या राज्य सरकारने घेतला आहे?",
+      "options": [
+        "गुजरात",
+        "कर्नाटक",
+        "महाराष्ट्र",
+        "मध्य प्रदेश"
+      ],
+      "correctAnswer": 2,
+      "explanation": "महाराष्ट्र राज्य सरकारने ई-पीक पाहणीमध्ये हापूससह आंब्याच्या प्रमुख जातींची नोंद घेण्याचा महत्त्वपूर्ण निर्णय घेतला आहे, ज्यामुळे आंबा बागायतदारांना फायदा होईल.",
+      "category": "Maharashtra",
+      "difficulty": "easy",
+      "sourceUrl": "https://www.lokmat.com/maharashtra/mango-varieties-including-haphus-will-be-registered-in-e-crop-inspection-state-government-decision-a854/"
+    },
+    {
+      "id": "ca_20261004_04",
+      "question": "नुकत्याच मिळालेल्या मंजुरीनुसार, महाराष्ट्र राज्यातील किती जिल्ह्यांमध्ये 'उमेद मॉल' उभारण्यात येणार आहेत?",
+      "options": [
+        "१५",
+        "२१",
+        "२५",
+        "३६"
+      ],
+      "correctAnswer": 1,
+      "explanation": "महाराष्ट्रात दुसऱ्या टप्प्यात नाशिकसह एकूण २१ जिल्ह्यांमध्ये 'उमेद मॉल' उभारण्याला शासनाकडून मंजुरी देण्यात आली आहे, ज्यामुळे महिला बचत गटांच्या उत्पादनांना हक्काची बाजारपेठ मिळेल.",
+      "category": "Maharashtra",
+      "difficulty": "medium",
+      "sourceUrl": "https://pudhari.news/maharashtra/nashik/umed-mall-approval-21-districts-maharashtra"
+    },
+    {
+      "id": "ca_20261004_05",
+      "question": "आरबीआय (RBI) गव्हर्नरांच्या इशाऱ्यानुसार, बँका मजबूत असल्या तरी कोणत्या कारणामुळे आर्थिक संकट येऊ शकते?",
+      "options": [
+        "वाढती महागाई",
+        "भविष्यातील ५ धोके (Risks)",
+        "कमी होणारी बचत",
+        "निर्यात घट"
+      ],
+      "correctAnswer": 1,
+      "explanation": "आरबीआय गव्हर्नरांनी इशारा दिला आहे की, जरी भारतीय बँका सध्या मजबूत स्थितीत असल्या तरी भविष्यात संभाव्य ५ धोक्यांमुळे (risks) गाफील राहिल्यास आर्थिक संकट येऊ शकते.",
+      "category": "Economy",
+      "difficulty": "hard",
+      "sourceUrl": "https://maharashtratimes.com/business/india-business/rbi-governor-shaktikanta-das-warns-indian-economy-about-5-future-risks/articleshow/104123456.cms"
+    },
+    {
+      "id": "ca_20261004_06",
+      "question": "ग्रेट इंडियन बस्टर्ड (Great Indian Bustard) संवर्धनासाठी भारतातील पहिले 'कॅप्टिव्ह-ब्रेड' पक्षी (Captive-bred birds) कोणत्या प्रक्रियेसाठी सोडले जाणार आहेत?",
+      "options": [
+        "अभयारण्य स्थलांतर",
+        "रिव्हाइल्डिंग (Rewilding)",
+        "वन्यजीव पर्यटन",
+        "परदेशी प्राणिसंग्रहालय"
+      ],
+      "correctAnswer": 1,
+      "explanation": "ग्रेट इंडियन बस्टर्डच्या संवर्धनाच्या दिशेने एक मोठे पाऊल टाकत, भारतातील पहिले कॅप्टिव्ह-ब्रेड (कृत्रिमरित्या प्रजनन केलेले) पक्षी जंगलात 'रिव्हाइल्डिंग' (Rewilding) साठी सोडले जाणार आहेत.",
+      "category": "Environment",
+      "difficulty": "hard",
+      "sourceUrl": "https://swarajyamag.com/news-brief/india-takes-major-step-in-great-indian-bustard-conservation-with-first-captive-bred-birds-set-for-rewilding"
+    },
+    {
+      "id": "ca_20261004_07",
+      "question": "मूडीज (Moody's) च्या अहवालानुसार, भारत श्रीमंत होण्यापूर्वी 'वृद्ध' (Aged) देशांच्या श्रेणीत किती वर्षांत प्रवेश करेल?",
+      "options": [
+        "१० वर्षे",
+        "१६ वर्षे",
+        "२० वर्षे",
+        "२५ वर्षे"
+      ],
+      "correctAnswer": 1,
+      "explanation": "मूडीजच्या (Moody's) ताज्या अहवालानुसार, भारताची लोकसंख्या वेगाने वृद्ध होत असून, भारत श्रीमंत होण्यापूर्वीच येत्या १६ वर्षांत 'वृद्ध' (Aged) देशांच्या श्रेणीत पोहोचेल.",
+      "category": "Economy",
+      "difficulty": "medium",
+      "sourceUrl": "https://www.ndtv.com/business/india-is-getting-old-before-getting-rich-will-turn-aged-in-16-years-moodys-6712345"
+    },
+    {
+      "id": "ca_20261004_08",
+      "question": "महाराष्ट्र शासनाकडून शेळीपालनाचा व्यवसाय सुरू करण्यासाठी शेड बांधणीसाठी आणि इतर खर्चासाठी कोणती योजना राबवली जाते, ज्यातून अनुदान मिळते?",
+      "options": [
+        "मागेल त्याला शेततळे",
+        "शारदाबाई पवार योजना",
+        "अहिल्याबाई होळकर शेळीपालन योजना",
+        "मुख्यमंत्री रोजगार योजना"
+      ],
+      "correctAnswer": 2,
+      "explanation": "महाराष्ट्र शासनाकडून ग्रामीण भागातील महिला आणि शेतकऱ्यांसाठी शेळीपालन व्यवसाय सुरू करण्यासाठी आणि शेड बांधणीसाठी 'पुण्यश्लोक अहिल्यादेवी होळकर शेळी व मेंढी विकास योजना' राबवली जाते, ज्या अंतर्गत मोठ्या प्रमाणात अनुदान मिळते.",
+      "category": "Maharashtra",
+      "difficulty": "medium",
+      "sourceUrl": "https://saamtv.esakal.com/maharashtra/goat-farming-business-subsidy-scheme-maharashtra-government-mumbai-news"
+    },
+    {
+      "id": "ca_20261004_09",
+      "question": "ऑक्टोबर २०२६ मध्ये बँकांना एकूण किती दिवस सुट्ट्या (सार्वजनिक सुट्ट्या आणि शनिवार-रविवार मिळून) असणार आहेत?",
+      "options": [
+        "१० दिवस",
+        "१२ दिवस",
+        "१५ दिवस",
+        "१६ दिवस"
+      ],
+      "correctAnswer": 3,
+      "explanation": "ऑक्टोबर महिन्यात विविध सण आणि शनिवार-रविवार मिळून बँकांना एकूण १६ दिवस सुट्ट्या असणार आहेत, ज्यात ४ रविवार आणि २ शनिवार वगळता इतर सार्वजनिक सुट्ट्यांचा समावेश आहे.",
+      "category": "Economy",
+      "difficulty": "easy",
+      "sourceUrl": "https://divyamarathi.bhaskar.com/news/bank-holidays-in-october-2026-banks-will-be-closed-for-16-days-133649505.html"
+    },
+    {
+      "id": "ca_20261004_10",
+      "question": "आशियाई क्रीडा स्पर्धेत नुकतेच सुवर्णपदक जिंकणारा भारतीय पुरुष हॉकी संघ अंतिम सामन्यात कोणाचा पराभव करून विजेता ठरला?",
+      "options": [
+        "दक्षिण कोरिया",
+        "जपान",
+        "मलेशिया",
+        "पाकिस्तान"
+      ],
+      "correctAnswer": 2,
+      "explanation": "भारतीय पुरुष हॉकी संघाने आशियाई क्रीडा स्पर्धेच्या अंतिम सामन्यात मलेशियाचा ५-१ ने धुव्वा उडवत सुवर्णपदक पटकावले आणि पाचव्यांदा हे विजेतेपद मिळवले.",
+      "category": "Sports",
+      "difficulty": "easy",
+      "sourceUrl": "https://marathi.abplive.com/sports/asian-games-2026-india-men-hockey-team-beat-malaysia-5-1-to-win-gold-medal-1215433"
+    }
+  ],
+  "totalQuestions": 10,
+  "version": 1
+}
