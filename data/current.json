@@ -1,158 +1,158 @@
 {
-  "date": "2026-10-11",
+  "date": "2026-10-12",
   "topic": "Current Affairs",
-  "source": "Google News, Divya Marathi, Sarkarnama",
-  "lastUpdated": "2026-10-11T10:00:00+05:30",
+  "source": "News On AIR, Drishti IAS, Vajiram & Ravi",
+  "lastUpdated": "2026-10-12T10:00:00+05:30",
   "quiz": [
     {
-      "id": "ca_20261011_01",
-      "question": "नुकत्याच झालेल्या देशातील पहिल्या झऱ्यांच्या गणनेनुसार, कोणत्या राज्यात सर्वाधिक झरे आहेत?",
+      "id": "ca_20261012_01",
+      "question": "नुकत्याच आलेल्या एका अहवालानुसार, भारताच्या खाजगी क्षेत्राद्वारे कोणत्या अर्थव्यवस्थेची (Economy) वाढ करण्यासाठी मोठी पावले उचलली जात आहेत?",
       "options": [
-        "महाराष्ट्र",
-        "मणिपूर",
-        "उत्तराखंड",
-        "हिमाचल प्रदेश"
+        "कृषी अर्थव्यवस्था",
+        "अंतराळ अर्थव्यवस्था (Space Economy)",
+        "सागरी अर्थव्यवस्था",
+        "डिजिटल अर्थव्यवस्था"
       ],
       "correctAnswer": 1,
-      "explanation": "देशात पहिल्यांदाच १० राज्यांमध्ये झऱ्यांची गणना करण्यात आली, त्यानुसार मणिपूरमध्ये सर्वाधिक झरे आढळले आहेत.",
-      "category": "Environment",
-      "difficulty": "medium",
-      "sourceUrl": "https://news.google.com/rss/search?q=Maharashtra+India&hl=mr&gl=IN&ceid=IN:mr"
-    },
-    {
-      "id": "ca_20261011_02",
-      "question": "देशातील पहिल्या झऱ्यांच्या गणनेनुसार, १० राज्यांमध्ये एकूण किती झऱ्यांची नोंद झाली आहे?",
-      "options": [
-        "१४,४६८",
-        "१५,५६८",
-        "१२,४६८",
-        "१६,४६८"
-      ],
-      "correctAnswer": 0,
-      "explanation": "देशातील पहिल्या झऱ्यांच्या गणनेनुसार १० राज्यांमध्ये एकूण १४,४६८ झऱ्यांची नोंद करण्यात आली आहे.",
-      "category": "Environment",
-      "difficulty": "hard",
-      "sourceUrl": "https://news.google.com/rss/search?q=Maharashtra+India&hl=mr&gl=IN&ceid=IN:mr"
-    },
-    {
-      "id": "ca_20261011_03",
-      "question": "नुकत्याच आलेल्या वृत्तानुसार, मणिपूरमध्ये किती झरे धोक्यात असल्याचे सांगण्यात आले आहे?",
-      "options": [
-        "१०००",
-        "११३६",
-        "१३३६",
-        "१५३६"
-      ],
-      "correctAnswer": 2,
-      "explanation": "झऱ्यांच्या पहिल्या गणनेनुसार मणिपूरमध्ये सर्वाधिक झरे आहेत, परंतु तेथील १,३३६ झरे धोक्यात असल्याचे आढळून आले आहे.",
-      "category": "Environment",
-      "difficulty": "hard",
-      "sourceUrl": "https://news.google.com/rss/search?q=Maharashtra+India&hl=mr&gl=IN&ceid=IN:mr"
-    },
-    {
-      "id": "ca_20261011_04",
-      "question": "भारताने नुकताच अमेरिकेच्या 'Section 301' च्या छायेत किती देशांच्या उत्पादन क्षमता उपक्रमात सहभाग घेण्याचा निर्णय घेतला आहे?",
-      "options": [
-        "१० देशांच्या",
-        "१२ देशांच्या",
-        "१५ देशांच्या",
-        "२० देशांच्या"
-      ],
-      "correctAnswer": 2,
-      "explanation": "भारताने अमेरिकेच्या 'Section 301' च्या छायेत महत्त्वपूर्ण निर्णय घेत १५ देशांच्या उत्पादन क्षमता उपक्रमात (excess capacity) सहभाग नोंदवला आहे.",
+      "explanation": "नुकत्याच आलेल्या माहितीनुसार, भारताच्या खाजगी क्षेत्राच्या सहभागाद्वारे अंतराळ अर्थव्यवस्थेची (Space Economy) मोठी वाढ करण्यासाठी धोरणात्मक पावले उचलली जात आहेत.",
       "category": "Economy",
       "difficulty": "medium",
-      "sourceUrl": "https://news.google.com/rss/search?q=Maharashtra+India&hl=mr&gl=IN&ceid=IN:mr"
+      "sourceUrl": "https://news.google.com/rss/search?q=India+national+news+polity+economy+science&hl=en-IN&gl=IN&ceid=IN:en"
     },
     {
-      "id": "ca_20261011_05",
-      "question": "नुकतेच 'इंडिया' (INDIA) आघाडीच्या शिष्टमंडळाने कोणत्या प्रश्नावरून राष्ट्रपती द्रौपदी मुर्मू यांची भेट घेतली?",
+      "id": "ca_20261012_02",
+      "question": "वैज्ञानिक अभ्यास आणि जागतिक पद्धतींवर आधारित, भारत सरकारने कोणत्या मिश्रणाला (Blending) अधिक प्रोत्साहन दिले आहे?",
       "options": [
-        "निवडणूक आयोगाचा कारभार",
-        "नवीन कृषी कायदे",
-        "आरक्षण धोरण",
-        "महागाई"
-      ],
-      "correctAnswer": 0,
-      "explanation": "'इंडिया' आघाडीच्या शिष्टमंडळाने नुकतेच निवडणूक आयोगाच्या कारभारावर आक्षेप घेत आणि निवडणूक आयुक्त ज्ञानेश कुमार यांच्या राजीनाम्याच्या मागणीसाठी राष्ट्रपती द्रौपदी मुर्मू यांची भेट घेतली.",
-      "category": "Polity",
-      "difficulty": "easy",
-      "sourceUrl": "https://news.google.com/rss/search?q=Maharashtra+India&hl=mr&gl=IN&ceid=IN:mr"
-    },
-    {
-      "id": "ca_20261011_06",
-      "question": "नुकत्याच झालेल्या 'इंडिया' आघाडीच्या आंदोलनाला कोणत्या राज्यातील काँग्रेस खासदारांनी दांडी मारल्याची चर्चा आहे?",
-      "options": [
-        "कर्नाटक",
-        "महाराष्ट्र",
-        "राजस्थान",
-        "मध्य प्रदेश"
+        "पेट्रोल-डिझेल मिश्रण",
+        "इथेनॉल मिश्रण (Ethanol Blending)",
+        "बायोगॅस मिश्रण",
+        "हायड्रोजन मिश्रण"
       ],
       "correctAnswer": 1,
-      "explanation": "निवडणूक आयोगाविरोधात 'इंडिया' आघाडीने दिल्लीत पुकारलेल्या आंदोलनाला महाराष्ट्र राज्यातील काँग्रेस खासदारांनी ऐनवेळी दांडी मारल्याची माहिती समोर आली आहे.",
+      "explanation": "वैज्ञानिक अभ्यास आणि जागतिक पद्धतींवर आधारित, भारत सरकारने इथेनॉल मिश्रणाला (Ethanol Blending) प्रोत्साहन देण्याचे धोरण स्वीकारले आहे.",
+      "category": "Environment",
+      "difficulty": "medium",
+      "sourceUrl": "https://news.google.com/rss/search?q=India+national+news+polity+economy+science&hl=en-IN&gl=IN&ceid=IN:en"
+    },
+    {
+      "id": "ca_20261012_03",
+      "question": "चीनमधील सर्वात मोठ्या राजकीय बैठकीचे नुकतेच आयोजन करण्यात आले होते, तिचे नाव काय आहे?",
+      "options": [
+        "नॅशनल पीपल्स काँग्रेस (NPC)",
+        "चायना कम्युनिस्ट पार्टी समिट",
+        "सुप्रीम स्टेट कौन्सिल",
+        "पॉलिटब्युरो मीट"
+      ],
+      "correctAnswer": 0,
+      "explanation": "चीनमधील सर्वात मोठी राजकीय बैठक मानली जाणारी 'नॅशनल पीपल्स काँग्रेस (National People's Congress - NPC)' नुकतीच पार पडली.",
+      "category": "International",
+      "difficulty": "easy",
+      "sourceUrl": "https://news.google.com/rss/search?q=India+national+news+polity+economy+science&hl=en-IN&gl=IN&ceid=IN:en"
+    },
+    {
+      "id": "ca_20261012_04",
+      "question": "भारताला 'सायन्स पॉवरहाऊस' (Science Powerhouse) बनवण्याबाबत नुकताच कोणत्या प्रसिद्ध विज्ञान मासिकाने विशेष लेख प्रसिद्ध केला आहे?",
+      "options": [
+        "सायन्स (Science)",
+        "नेचर (Nature)",
+        "सायंटिफिक अमेरिकन",
+        "डिस्कव्हर"
+      ],
+      "correctAnswer": 1,
+      "explanation": "जागतिक स्तरावरील प्रसिद्ध 'नेचर' (Nature) या विज्ञान मासिकाने भारत कसा 'सायन्स पॉवरहाऊस' बनू शकतो, यावर विशेष लेख प्रकाशित केला आहे.",
+      "category": "Science & Tech",
+      "difficulty": "medium",
+      "sourceUrl": "https://news.google.com/rss/search?q=India+national+news+polity+economy+science&hl=en-IN&gl=IN&ceid=IN:en"
+    },
+    {
+      "id": "ca_20261012_05",
+      "question": "केंद्र सरकारने कोणत्या क्षेत्रातील गुंतवणुकीला चालना देण्यासाठी नवीन धोरणे आखली आहेत, ज्यामुळे भारताची अंतराळ क्षमता वाढेल?",
+      "options": [
+        "फक्त सरकारी संस्था",
+        "खाजगी क्षेत्र (Private Sector)",
+        "विदेशी संस्था",
+        "फक्त शैक्षणिक संस्था"
+      ],
+      "correctAnswer": 1,
+      "explanation": "भारताची अंतराळ क्षमता वाढवण्यासाठी केंद्र सरकारने खाजगी क्षेत्राला (Private Sector) अंतराळ अर्थव्यवस्थेत सहभागी करून घेण्यावर भर दिला आहे.",
+      "category": "Science & Tech",
+      "difficulty": "easy",
+      "sourceUrl": "https://news.google.com/rss/search?q=India+national+news+polity+economy+science&hl=en-IN&gl=IN&ceid=IN:en"
+    },
+    {
+      "id": "ca_20261012_06",
+      "question": "शाळांतील स्वयंपाकी आणि मदतनिसांसाठी राज्य सरकारने नुकताच कोणत्या योजनेंतर्गत ७४ कोटी रुपयांचा निधी मंजूर केला?",
+      "options": [
+        "माझी शाळा योजना",
+        "पीएम पोषण योजना",
+        "अन्नपूर्णा योजना",
+        "मध्यान्ह भोजन सुधार योजना"
+      ],
+      "correctAnswer": 1,
+      "explanation": "पीएम पोषण योजनेंतर्गत शाळांतील स्वयंपाकी आणि मदतनिसांसाठी राज्य सरकारने ७४ कोटी रुपयांचा निधी नुकताच मंजूर केला आहे.",
       "category": "Maharashtra",
       "difficulty": "easy",
       "sourceUrl": "https://news.google.com/rss/search?q=Maharashtra+India&hl=mr&gl=IN&ceid=IN:mr"
     },
     {
-      "id": "ca_20261011_07",
-      "question": "महाराष्ट्रात नुकतेच कोणत्या प्रश्नावरून विविध ठिकाणी आंदोलने आणि राजकीय हालचाली वाढल्या आहेत?",
+      "id": "ca_20261012_07",
+      "question": "महाराष्ट्र राज्यात कोणत्या परिस्थितीमुळे सध्या राजकीय हालचाली आणि शासनाच्या उपाययोजना वाढल्या आहेत?",
       "options": [
-        "दुष्काळ",
-        "महापूर",
-        "अवकाळी पाऊस",
-        "यापैकी नाही"
+        "दुष्काळी परिस्थिती",
+        "अतिवृष्टी",
+        "पूर परिस्थिती",
+        "भूकंप"
       ],
       "correctAnswer": 0,
-      "explanation": "महाराष्ट्रात अनेक भागांत दुष्काळी परिस्थिती निर्माण झाल्यामुळे या प्रश्नावरून राजकीय हालचाली वाढल्या असून शासनाकडून विविध उपाययोजना जाहीर केल्या जात आहेत.",
+      "explanation": "महाराष्ट्रात अनेक भागांत दुष्काळी परिस्थिती निर्माण झाल्यामुळे या प्रश्नावरून राजकीय हालचाली वाढल्या असून शासनाकडून उपाययोजना केल्या जात आहेत.",
       "category": "Maharashtra",
-      "difficulty": "easy",
-      "sourceUrl": "https://news.google.com/rss/search?q=Maharashtra+India&hl=mr&gl=IN&ceid=IN:mr"
-    },
-    {
-      "id": "ca_20261011_08",
-      "question": "नुकतेच कोणत्या नेत्याने 'सरकारच्या अध:पतनाची सुरुवात' अशी टीका करत पंतप्रधान मोदींवर निशाणा साधला?",
-      "options": [
-        "शरद पवार",
-        "उद्धव ठाकरे",
-        "संजय राऊत",
-        "राहुल गांधी"
-      ],
-      "correctAnswer": 2,
-      "explanation": "शिवसेना (ठाकरे गट) नेते संजय राऊत यांनी 'सरकारच्या अध:पतनाची सुरुवात झाली असून पंतप्रधान म्हणून मोदींचा हा शेवटचा वाढदिवस असेल' असा दावा करत टीका केली.",
-      "category": "Polity",
       "difficulty": "medium",
       "sourceUrl": "https://news.google.com/rss/search?q=Maharashtra+India&hl=mr&gl=IN&ceid=IN:mr"
     },
     {
-      "id": "ca_20261011_09",
-      "question": "काँग्रेस नेते राहुल गांधी यांनी नुकतीच केंद्र सरकार बरखास्त करण्याची मागणी करत कशाची तयारी केली आहे?",
+      "id": "ca_20261012_08",
+      "question": "केंद्र सरकारने इथेनॉल मिश्रणाच्या (Ethanol Blending) यशस्वीतेसाठी कोणत्या देशांतर्गत उत्पादन क्षेत्रावर भर दिला आहे?",
       "options": [
-        "मोठ्या आंदोलनाची",
-        "निवडणूक बहिष्काराची",
-        "न्यायालयात जाण्याची",
-        "उपोषणाची"
-      ],
-      "correctAnswer": 0,
-      "explanation": "काँग्रेस नेते राहुल गांधी यांनी केंद्र सरकार बरखास्त करण्याची गरज असल्याचे सांगत मोठ्या आंदोलनाची तयारी सुरू केली आहे.",
-      "category": "Polity",
-      "difficulty": "medium",
-      "sourceUrl": "https://news.google.com/rss/search?q=Maharashtra+India&hl=mr&gl=IN&ceid=IN:mr"
-    },
-    {
-      "id": "ca_20261011_10",
-      "question": "कोणत्या निवडणूक आयुक्तांच्या राजीनाम्यासाठी नुकतेच 'इंडिया' आघाडीने राष्ट्रपती भवनावर मार्च काढला?",
-      "options": [
-        "राजीव कुमार",
-        "ज्ञानेश कुमार",
-        "सुखबीर संधू",
-        "सुनील अरोरा"
+        "खनिज तेल उत्पादन",
+        "कृषी आणि ऊस उत्पादन",
+        "अणुऊर्जा",
+        "सौर ऊर्जा"
       ],
       "correctAnswer": 1,
-      "explanation": "निवडणूक आयोगाच्या कारभारावर आणि मतचोरीच्या आरोपांवरून निवडणूक आयुक्त ज्ञानेश कुमार यांच्या राजीनाम्यासाठी 'इंडिया' आघाडीने राष्ट्रपती भवनावर मार्च काढला.",
-      "category": "Polity",
+      "explanation": "इथेनॉल हे प्रामुख्याने उसाच्या मळीपासून आणि इतर कृषी उत्पादनांपासून तयार होत असल्यामुळे, इथेनॉल मिश्रणाच्या यशस्वीतेसाठी कृषी क्षेत्रावर भर दिला जात आहे.",
+      "category": "Economy",
+      "difficulty": "hard",
+      "sourceUrl": "https://news.google.com/rss/search?q=India+national+news+polity+economy+science&hl=en-IN&gl=IN&ceid=IN:en"
+    },
+    {
+      "id": "ca_20261012_09",
+      "question": "जगातील सर्वात मोठी अर्थव्यवस्था असलेल्या कोणत्या देशासोबत भारताचे अलीकडे व्यापार संबंध आणि उत्पादन क्षमता (excess capacity) संदर्भात करार चर्चेत आहेत?",
+      "options": [
+        "रशिया",
+        "अमेरिका",
+        "चीन",
+        "ब्रिटन"
+      ],
+      "correctAnswer": 1,
+      "explanation": "अमेरिकेसोबत भारताचे व्यापार संबंध आणि त्यांच्या 'Section 301' अंतर्गत उत्पादन क्षमता उपक्रमातील सहभाग यावर अलीकडेच महत्त्वपूर्ण चर्चा झाली आहे.",
+      "category": "International",
+      "difficulty": "hard",
+      "sourceUrl": "https://news.google.com/rss/search?q=India+national+news+polity+economy+science&hl=en-IN&gl=IN&ceid=IN:en"
+    },
+    {
+      "id": "ca_20261012_10",
+      "question": "कोणत्या वर्षीच्या शाश्वत विकास उद्दिष्टांमध्ये (SDGs) कृषी आणि अन्न सुरक्षा हे एक महत्त्वाचे उद्दिष्ट मानले गेले आहे, ज्यासाठी भारताचा कृषी विकास महत्त्वाचा आहे?",
+      "options": [
+        "२०२५",
+        "२०३०",
+        "२०३५",
+        "२०४०"
+      ],
+      "correctAnswer": 1,
+      "explanation": "संयुक्त राष्ट्रांच्या २०३० च्या शाश्वत विकास उद्दिष्टांमध्ये (SDG 2 - Zero Hunger) कृषी विकास आणि अन्न सुरक्षा हे महत्त्वाचे उद्दिष्ट आहे.",
+      "category": "Miscellaneous",
       "difficulty": "medium",
-      "sourceUrl": "https://news.google.com/rss/search?q=Maharashtra+India&hl=mr&gl=IN&ceid=IN:mr"
+      "sourceUrl": "https://news.google.com/rss/search?q=India+national+news+polity+economy+science&hl=en-IN&gl=IN&ceid=IN:en"
     }
   ],
   "totalQuestions": 10,

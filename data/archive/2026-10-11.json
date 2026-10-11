@@ -1,0 +1,160 @@
+{
+  "date": "2026-10-11",
+  "topic": "Current Affairs",
+  "source": "Google News, Divya Marathi, Sarkarnama",
+  "lastUpdated": "2026-10-11T10:00:00+05:30",
+  "quiz": [
+    {
+      "id": "ca_20261011_01",
+      "question": "नुकत्याच झालेल्या देशातील पहिल्या झऱ्यांच्या गणनेनुसार, कोणत्या राज्यात सर्वाधिक झरे आहेत?",
+      "options": [
+        "महाराष्ट्र",
+        "मणिपूर",
+        "उत्तराखंड",
+        "हिमाचल प्रदेश"
+      ],
+      "correctAnswer": 1,
+      "explanation": "देशात पहिल्यांदाच १० राज्यांमध्ये झऱ्यांची गणना करण्यात आली, त्यानुसार मणिपूरमध्ये सर्वाधिक झरे आढळले आहेत.",
+      "category": "Environment",
+      "difficulty": "medium",
+      "sourceUrl": "https://news.google.com/rss/search?q=Maharashtra+India&hl=mr&gl=IN&ceid=IN:mr"
+    },
+    {
+      "id": "ca_20261011_02",
+      "question": "देशातील पहिल्या झऱ्यांच्या गणनेनुसार, १० राज्यांमध्ये एकूण किती झऱ्यांची नोंद झाली आहे?",
+      "options": [
+        "१४,४६८",
+        "१५,५६८",
+        "१२,४६८",
+        "१६,४६८"
+      ],
+      "correctAnswer": 0,
+      "explanation": "देशातील पहिल्या झऱ्यांच्या गणनेनुसार १० राज्यांमध्ये एकूण १४,४६८ झऱ्यांची नोंद करण्यात आली आहे.",
+      "category": "Environment",
+      "difficulty": "hard",
+      "sourceUrl": "https://news.google.com/rss/search?q=Maharashtra+India&hl=mr&gl=IN&ceid=IN:mr"
+    },
+    {
+      "id": "ca_20261011_03",
+      "question": "नुकत्याच आलेल्या वृत्तानुसार, मणिपूरमध्ये किती झरे धोक्यात असल्याचे सांगण्यात आले आहे?",
+      "options": [
+        "१०००",
+        "११३६",
+        "१३३६",
+        "१५३६"
+      ],
+      "correctAnswer": 2,
+      "explanation": "झऱ्यांच्या पहिल्या गणनेनुसार मणिपूरमध्ये सर्वाधिक झरे आहेत, परंतु तेथील १,३३६ झरे धोक्यात असल्याचे आढळून आले आहे.",
+      "category": "Environment",
+      "difficulty": "hard",
+      "sourceUrl": "https://news.google.com/rss/search?q=Maharashtra+India&hl=mr&gl=IN&ceid=IN:mr"
+    },
+    {
+      "id": "ca_20261011_04",
+      "question": "भारताने नुकताच अमेरिकेच्या 'Section 301' च्या छायेत किती देशांच्या उत्पादन क्षमता उपक्रमात सहभाग घेण्याचा निर्णय घेतला आहे?",
+      "options": [
+        "१० देशांच्या",
+        "१२ देशांच्या",
+        "१५ देशांच्या",
+        "२० देशांच्या"
+      ],
+      "correctAnswer": 2,
+      "explanation": "भारताने अमेरिकेच्या 'Section 301' च्या छायेत महत्त्वपूर्ण निर्णय घेत १५ देशांच्या उत्पादन क्षमता उपक्रमात (excess capacity) सहभाग नोंदवला आहे.",
+      "category": "Economy",
+      "difficulty": "medium",
+      "sourceUrl": "https://news.google.com/rss/search?q=Maharashtra+India&hl=mr&gl=IN&ceid=IN:mr"
+    },
+    {
+      "id": "ca_20261011_05",
+      "question": "नुकतेच 'इंडिया' (INDIA) आघाडीच्या शिष्टमंडळाने कोणत्या प्रश्नावरून राष्ट्रपती द्रौपदी मुर्मू यांची भेट घेतली?",
+      "options": [
+        "निवडणूक आयोगाचा कारभार",
+        "नवीन कृषी कायदे",
+        "आरक्षण धोरण",
+        "महागाई"
+      ],
+      "correctAnswer": 0,
+      "explanation": "'इंडिया' आघाडीच्या शिष्टमंडळाने नुकतेच निवडणूक आयोगाच्या कारभारावर आक्षेप घेत आणि निवडणूक आयुक्त ज्ञानेश कुमार यांच्या राजीनाम्याच्या मागणीसाठी राष्ट्रपती द्रौपदी मुर्मू यांची भेट घेतली.",
+      "category": "Polity",
+      "difficulty": "easy",
+      "sourceUrl": "https://news.google.com/rss/search?q=Maharashtra+India&hl=mr&gl=IN&ceid=IN:mr"
+    },
+    {
+      "id": "ca_20261011_06",
+      "question": "नुकत्याच झालेल्या 'इंडिया' आघाडीच्या आंदोलनाला कोणत्या राज्यातील काँग्रेस खासदारांनी दांडी मारल्याची चर्चा आहे?",
+      "options": [
+        "कर्नाटक",
+        "महाराष्ट्र",
+        "राजस्थान",
+        "मध्य प्रदेश"
+      ],
+      "correctAnswer": 1,
+      "explanation": "निवडणूक आयोगाविरोधात 'इंडिया' आघाडीने दिल्लीत पुकारलेल्या आंदोलनाला महाराष्ट्र राज्यातील काँग्रेस खासदारांनी ऐनवेळी दांडी मारल्याची माहिती समोर आली आहे.",
+      "category": "Maharashtra",
+      "difficulty": "easy",
+      "sourceUrl": "https://news.google.com/rss/search?q=Maharashtra+India&hl=mr&gl=IN&ceid=IN:mr"
+    },
+    {
+      "id": "ca_20261011_07",
+      "question": "महाराष्ट्रात नुकतेच कोणत्या प्रश्नावरून विविध ठिकाणी आंदोलने आणि राजकीय हालचाली वाढल्या आहेत?",
+      "options": [
+        "दुष्काळ",
+        "महापूर",
+        "अवकाळी पाऊस",
+        "यापैकी नाही"
+      ],
+      "correctAnswer": 0,
+      "explanation": "महाराष्ट्रात अनेक भागांत दुष्काळी परिस्थिती निर्माण झाल्यामुळे या प्रश्नावरून राजकीय हालचाली वाढल्या असून शासनाकडून विविध उपाययोजना जाहीर केल्या जात आहेत.",
+      "category": "Maharashtra",
+      "difficulty": "easy",
+      "sourceUrl": "https://news.google.com/rss/search?q=Maharashtra+India&hl=mr&gl=IN&ceid=IN:mr"
+    },
+    {
+      "id": "ca_20261011_08",
+      "question": "नुकतेच कोणत्या नेत्याने 'सरकारच्या अध:पतनाची सुरुवात' अशी टीका करत पंतप्रधान मोदींवर निशाणा साधला?",
+      "options": [
+        "शरद पवार",
+        "उद्धव ठाकरे",
+        "संजय राऊत",
+        "राहुल गांधी"
+      ],
+      "correctAnswer": 2,
+      "explanation": "शिवसेना (ठाकरे गट) नेते संजय राऊत यांनी 'सरकारच्या अध:पतनाची सुरुवात झाली असून पंतप्रधान म्हणून मोदींचा हा शेवटचा वाढदिवस असेल' असा दावा करत टीका केली.",
+      "category": "Polity",
+      "difficulty": "medium",
+      "sourceUrl": "https://news.google.com/rss/search?q=Maharashtra+India&hl=mr&gl=IN&ceid=IN:mr"
+    },
+    {
+      "id": "ca_20261011_09",
+      "question": "काँग्रेस नेते राहुल गांधी यांनी नुकतीच केंद्र सरकार बरखास्त करण्याची मागणी करत कशाची तयारी केली आहे?",
+      "options": [
+        "मोठ्या आंदोलनाची",
+        "निवडणूक बहिष्काराची",
+        "न्यायालयात जाण्याची",
+        "उपोषणाची"
+      ],
+      "correctAnswer": 0,
+      "explanation": "काँग्रेस नेते राहुल गांधी यांनी केंद्र सरकार बरखास्त करण्याची गरज असल्याचे सांगत मोठ्या आंदोलनाची तयारी सुरू केली आहे.",
+      "category": "Polity",
+      "difficulty": "medium",
+      "sourceUrl": "https://news.google.com/rss/search?q=Maharashtra+India&hl=mr&gl=IN&ceid=IN:mr"
+    },
+    {
+      "id": "ca_20261011_10",
+      "question": "कोणत्या निवडणूक आयुक्तांच्या राजीनाम्यासाठी नुकतेच 'इंडिया' आघाडीने राष्ट्रपती भवनावर मार्च काढला?",
+      "options": [
+        "राजीव कुमार",
+        "ज्ञानेश कुमार",
+        "सुखबीर संधू",
+        "सुनील अरोरा"
+      ],
+      "correctAnswer": 1,
+      "explanation": "निवडणूक आयोगाच्या कारभारावर आणि मतचोरीच्या आरोपांवरून निवडणूक आयुक्त ज्ञानेश कुमार यांच्या राजीनाम्यासाठी 'इंडिया' आघाडीने राष्ट्रपती भवनावर मार्च काढला.",
+      "category": "Polity",
+      "difficulty": "medium",
+      "sourceUrl": "https://news.google.com/rss/search?q=Maharashtra+India&hl=mr&gl=IN&ceid=IN:mr"
+    }
+  ],
+  "totalQuestions": 10,
+  "version": 1
+}
