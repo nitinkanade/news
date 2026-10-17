@@ -1,156 +1,156 @@
 {
-  "date": "2026-10-17",
+  "date": "2026-10-18",
   "topic": "Current Affairs",
-  "source": "ABP Majha, Loksatta",
-  "lastUpdated": "2026-10-17T08:00:00+05:30",
+  "source": "Loksatta, ABP Majha, Times of India, Esakal, TV9 Marathi",
+  "lastUpdated": "2026-10-18T10:00:00+05:30",
   "quiz": [
     {
-      "id": "ca_20261017_01",
-      "question": "एमपीएससी (MPSC) परीक्षा पेपरफुटी प्रकरणाची चौकशी करण्यासाठी नुकतीच कोणाच्या अध्यक्षतेखाली समिती स्थापन करण्यात आली आहे?",
+      "id": "ca_20261018_01",
+      "question": "Which two economists won the 2026 Nobel Prize in Economics for their research on macroeconomics and how we spend money?",
       "options": [
-        "विद्यमान न्यायमूर्ती",
-        "निवृत्त न्यायमूर्ती",
-        "पोलीस महासंचालक",
-        "मुख्य सचिव"
-      ],
-      "correctAnswer": 1,
-      "explanation": "एमपीएससी परीक्षा पेपरफुटी प्रकरणाची चौकशी करण्यासाठी राज्य सरकारने नुकतीच निवृत्त न्यायमूर्तींच्या अध्यक्षतेखाली एका आयोगाची स्थापना करण्याची घोषणा केली आहे.",
-      "category": "Maharashtra",
-      "difficulty": "medium",
-      "sourceUrl": "https://marathi.abplive.com/"
-    },
-    {
-      "id": "ca_20261017_02",
-      "question": "नुकतेच महाराष्ट्र लोकसेवा आयोगाच्या (MPSC) अध्यक्षपदाचा अतिरिक्त कार्यभार कोणाकडे सोपवण्यात आला आहे?",
-      "options": [
-        "विवेक भीमनवार",
-        "सतीश वाघोले",
-        "तुकाराम मुंढे",
-        "सचिन सानप"
-      ],
-      "correctAnswer": 1,
-      "explanation": "विवेक भीमनवार रजेवर गेल्याने, एमपीएससी अध्यक्षपदाचा अतिरिक्त कार्यभार नुकताच सतीश वाघोले यांच्याकडे सोपवण्यात आला आहे.",
-      "category": "Maharashtra",
-      "difficulty": "easy",
-      "sourceUrl": "https://marathi.abplive.com/"
-    },
-    {
-      "id": "ca_20261017_03",
-      "question": "सरन्यायाधीशांवरील टिप्पणीप्रकरणी सुप्रीम कोर्टाने नुकतीच कोणाला अवमान नोटीस बजावली आहे?",
-      "options": [
-        "संजय राऊत",
-        "अजित पवार",
-        "प्रकाश आंबेडकर",
-        "राज ठाकरे"
+        "रॉबर्ट हॉल आणि मायकेल वुडफोर्ड (Robert Hall and Michael Woodford)",
+        "डॅरॉन असेमोग्लू आणि सायमन जॉन्सन (Daron Acemoglu and Simon Johnson)",
+        "क्लॉडिया गोल्डिन आणि पॉल रोमर (Claudia Goldin and Paul Romer)",
+        "बॅन बर्नांके आणि डग्लस डायमंड (Ben Bernanke and Douglas Diamond)"
       ],
       "correctAnswer": 0,
-      "explanation": "सरन्यायाधीश सूर्यकांत यांच्यावरील केलेल्या वादग्रस्त टिप्पणीप्रकरणी सुप्रीम कोर्टाने खासदार संजय राऊत यांना अवमान नोटीस बजावली असून त्यांना याबाबत स्पष्टीकरण द्यावे लागले.",
-      "category": "Polity",
+      "explanation": "२०२६ चा अर्थशास्त्रातील नोबेल पुरस्कार रॉबर्ट हॉल (Robert Hall) आणि मायकेल वुडफोर्ड (Michael Woodford) यांना त्यांच्या मॅक्रो इकॉनॉमिक्स आणि पैशाच्या खर्चावर केलेल्या संशोधनासाठी जाहीर झाला आहे.",
+      "category": "Economy",
       "difficulty": "medium",
-      "sourceUrl": "https://marathi.abplive.com/"
+      "sourceUrl": "https://www.loksatta.com/"
     },
     {
-      "id": "ca_20261017_04",
-      "question": "राज्यातील दुष्काळी परिस्थितीच्या पार्श्वभूमीवर, मुख्यमंत्री सहायता निधीला आपला एका दिवसाचा पगार देण्याचा पुढाकार कोणी घेतला आहे?",
+      "id": "ca_20261018_02",
+      "question": "Who was awarded the 2026 Nobel Peace Prize for their work on international law and human rights?",
       "options": [
-        "फक्त शिक्षक",
-        "IAS आणि IPS अधिकारी",
-        "फक्त पोलीस कर्मचारी",
-        "आमदार आणि खासदार"
+        "निहॉन हिडांक्यो (Nihon Hidankyo)",
+        "नरगेस मोहम्मदी (Narges Mohammadi)",
+        "नवनीथम 'नवी' पिल्लई (Navanethem 'Navi' Pillay)",
+        "मारिया रेसा (Maria Ressa)"
       ],
-      "correctAnswer": 1,
-      "explanation": "राज्यातील दुष्काळी परिस्थिती लक्षात घेता, बळीराजासाठी मदत म्हणून राज्यातील IAS आणि IPS अधिकाऱ्यांनी त्यांच्या एका दिवसाचे वेतन मुख्यमंत्री सहायता निधीला देण्याचा पुढाकार घेतला आहे.",
-      "category": "Maharashtra",
-      "difficulty": "easy",
-      "sourceUrl": "https://marathi.abplive.com/"
-    },
-    {
-      "id": "ca_20261017_05",
-      "question": "नुकतेच 'लहरा दो तिरंगा मार्च' या आंदोलनामागे एलॉन मस्क यांचा हात असल्याचा आणि हा भारताविरोधातील कट असल्याचा आरोप कोणी केला?",
-      "options": [
-        "नितीन गडकरी",
-        "बृजभूषण शरण सिंह",
-        "देवेंद्र फडणवीस",
-        "अमित शहा"
-      ],
-      "correctAnswer": 1,
-      "explanation": "सीजेपीच्या (CJP) 'लहरा दो तिरंगा मार्च' या आंदोलनामागे एलॉन मस्क यांचा हात असून हा भारताविरोधात मोठा कट असल्याचा खळबळजनक आरोप खासदार बृजभूषण शरण सिंह यांनी केला आहे.",
+      "correctAnswer": 2,
+      "explanation": "भारतीय वंशाच्या नवनीथम 'नवी' पिल्लई (Navi Pillay) यांना आंतरराष्ट्रीय कायदा आणि मानवाधिकारांसाठी केलेल्या महत्त्वपूर्ण कार्याबद्दल २०२६ चा 'नोबेल शांतता पुरस्कार' जाहीर झाला आहे.",
       "category": "International",
+      "difficulty": "easy",
+      "sourceUrl": "https://www.esakal.com/"
+    },
+    {
+      "id": "ca_20261018_03",
+      "question": "The Maharashtra government recently added how many more talukas to the state's drought-hit list?",
+      "options": [
+        "३० (30)",
+        "४० (40)",
+        "५० (50)",
+        "६० (60)"
+      ],
+      "correctAnswer": 1,
+      "explanation": "महाराष्ट्र सरकारने अलीकडेच ४० नवीन तालुक्यांचा दुष्काळग्रस्त यादीत समावेश केला आहे. या अंतर्गत दिवाळीपूर्वी शेतकऱ्यांना प्रत्येकी ५,००० रुपयांची मदत देण्याची घोषणा करण्यात आली आहे.",
+      "category": "Maharashtra",
+      "difficulty": "medium",
+      "sourceUrl": "https://www.tv9marathi.com/"
+    },
+    {
+      "id": "ca_20261018_04",
+      "question": "Who won the 2026 Nobel Prize in Chemistry for solving the 100-year-old puzzle on chiral molecules/mirror images?",
+      "options": [
+        "डेव्हिड बेकर आणि जॉन जम्पर (David Baker and John Jumper)",
+        "हेन्री बी. कागन आणि केन्सो सोई (Henri B. Kagan and Kenso Soai)",
+        "कॅरोलिन बर्टोझी आणि बॅरी शार्पलेस (Carolyn Bertozzi and Barry Sharpless)",
+        "बेंजामिन लिस्ट आणि डेव्हिड मॅकमिलन (Benjamin List and David MacMillan)"
+      ],
+      "correctAnswer": 1,
+      "explanation": "फ्रान्स-जपानचे शास्त्रज्ञ हेन्री बी. कागन (Henri B. Kagan) आणि केन्सो सोई (Kenso Soai) यांना अणूंच्या मिरर इमेजचे (chiral molecules) 100 वर्षे जुने कोडे उलगडल्याबद्दल २०२६ चे रसायनशास्त्रातील नोबेल मिळाले.",
+      "category": "Science & Tech",
       "difficulty": "hard",
       "sourceUrl": "https://marathi.abplive.com/"
     },
     {
-      "id": "ca_20261017_06",
-      "question": "राज्यभरातील 'आपले सरकार' पोर्टल नुकतेच कोणत्या तारखेपर्यंत बंद ठेवण्यात आल्याची घोषणा करण्यात आली आहे?",
+      "id": "ca_20261018_05",
+      "question": "Which space agency recently completed the module separation tests ahead of its first uncrewed Gaganyaan mission?",
       "options": [
-        "१८ ऑक्टोबर",
-        "२१ ऑक्टोबर",
-        "२५ ऑक्टोबर",
-        "३० ऑक्टोबर"
+        "इस्रो (ISRO)",
+        "नासा (NASA)",
+        "जाक्सा (JAXA)",
+        "ईएसए (ESA)"
+      ],
+      "correctAnswer": 0,
+      "explanation": "इस्रोने (ISRO) गगनयान (Gaganyaan) मोहिमेच्या पहिल्या मानवरहित उड्डाणापूर्वी मॉड्युल सेपरेशन चाचण्या (module separation tests) यशस्वीरीत्या पूर्ण केल्या आहेत.",
+      "category": "Science & Tech",
+      "difficulty": "easy",
+      "sourceUrl": "https://timesofindia.indiatimes.com/"
+    },
+    {
+      "id": "ca_20261018_06",
+      "question": "The Maharashtra Cabinet recently approved a new Bravery Medal for which group of personnel?",
+      "options": [
+        "आरोग्य कर्मचारी (Healthcare workers)",
+        "पोलीस कर्मचारी (Police personnel)",
+        "अग्निशमन दल (Fire brigade)",
+        "शिक्षक (Teachers)"
       ],
       "correctAnswer": 1,
-      "explanation": "तांत्रिक कारणास्तव राज्यभरातील नागरिकांसाठीचे 'आपले सरकार' पोर्टल २१ ऑक्टोबरपर्यंत बंद राहणार असल्याची माहिती देण्यात आली आहे.",
+      "explanation": "महाराष्ट्र मंत्रिमंडळाने राज्यातील पोलीस कर्मचाऱ्यांसाठी 'मुख्यमंत्री वीरता पदक' (Chief Minister’s Bravery Medal) सुरू करण्यास नुकतीच मान्यता दिली आहे.",
+      "category": "Maharashtra",
+      "difficulty": "medium",
+      "sourceUrl": "https://newsonair.gov.in/"
+    },
+    {
+      "id": "ca_20261018_07",
+      "question": "The cost of the Pune Ring Road project has recently risen to how much, as the Maharashtra government took over a stretch from NHAI?",
+      "options": [
+        "₹५,००० कोटी (₹5,000 Crore)",
+        "₹७,२०५ कोटी (₹7,205 Crore)",
+        "₹१०,५०२ कोटी (₹10,502 Crore)",
+        "₹१५,३०० कोटी (₹15,300 Crore)"
+      ],
+      "correctAnswer": 2,
+      "explanation": "महाराष्ट्र सरकारने NHAI कडून पुण्याच्या रिंगरोड (Pune Ring Road) प्रकल्पाचा काही भाग ताब्यात घेतल्याने या प्रकल्पाचा खर्च वाढून १०,५०२ कोटी रुपयांवर पोहोचला आहे.",
+      "category": "Economy",
+      "difficulty": "hard",
+      "sourceUrl": "https://swarajyamag.com/"
+    },
+    {
+      "id": "ca_20261018_08",
+      "question": "What is the financial aid announced by the Maharashtra government for farmers in the recently declared drought-hit talukas before Diwali?",
+      "options": [
+        "₹२,००० (₹2,000)",
+        "₹५,००० (₹5,000)",
+        "₹१०,००० (₹10,000)",
+        "₹१५,००० (₹15,000)"
+      ],
+      "correctAnswer": 1,
+      "explanation": "राज्यातील ८५ टक्के भाग दुष्काळग्रस्त घोषित करण्यात आला असून, दिवाळीपूर्वी दुष्काळग्रस्त शेतकऱ्यांना प्रत्येकी ५,००० रुपयांची (Rs 5,000) मदत देण्याची घोषणा महाराष्ट्र सरकारने केली आहे.",
       "category": "Maharashtra",
       "difficulty": "easy",
-      "sourceUrl": "https://marathi.abplive.com/"
+      "sourceUrl": "https://economictimes.indiatimes.com/"
     },
     {
-      "id": "ca_20261017_07",
-      "question": "नुकत्याच झालेल्या आशियाई क्रीडा स्पर्धेत भारताने एकूण किती सुवर्णपदके जिंकून आपल्या प्रवासाची सांगता केली?",
+      "id": "ca_20261018_09",
+      "question": "The 'Veer Guardian 26' military exercise is held between India and which country?",
       "options": [
-        "१५ सुवर्णपदके",
-        "१९ सुवर्णपदके",
-        "२१ सुवर्णपदके",
-        "२५ सुवर्णपदके"
+        "अमेरिका (USA)",
+        "फ्रान्स (France)",
+        "जपान (Japan)",
+        "ऑस्ट्रेलिया (Australia)"
       ],
       "correctAnswer": 2,
-      "explanation": "नुकत्याच पार पडलेल्या आशियाई क्रीडा स्पर्धेत भारताने ऐतिहासिक कामगिरी करत २१ सुवर्णपदकांसह एकूण पदकतालिकेत उत्कृष्ट कामगिरी नोंदवली.",
+      "explanation": "भारत आणि जपान या दोन देशांच्या दरम्यान 'वीर गार्डियन २६' (Veer Guardian 26) हा संयुक्त लष्करी सराव आयोजित केला जातो.",
+      "category": "International",
+      "difficulty": "medium",
+      "sourceUrl": "https://divyamarathi.bhaskar.com/"
+    },
+    {
+      "id": "ca_20261018_10",
+      "question": "Which international sports tournament involving 3 countries, 48 teams, and 104 matches is set to be a major upcoming event?",
+      "options": [
+        "आयसीसी क्रिकेट विश्वचषक (ICC Cricket World Cup)",
+        "फिफा फुटबॉल विश्वचषक (FIFA Football World Cup)",
+        "ऑलिम्पिक खेळ (Olympic Games)",
+        "कॉमनवेल्थ गेम्स (Commonwealth Games)"
+      ],
+      "correctAnswer": 1,
+      "explanation": "फिफा फुटबॉल विश्वचषक (FIFA World Cup) ही फुटबॉलच्या इतिहासातील सर्वात मोठी स्पर्धा असून यात ३ देश, ४८ संघ आणि १०४ सामने होणार आहेत.",
       "category": "Sports",
-      "difficulty": "medium",
-      "sourceUrl": "https://marathi.abplive.com/"
-    },
-    {
-      "id": "ca_20261017_08",
-      "question": "दुष्काळाच्या पार्श्वभूमीवर नुकतेच 'गाव दत्तक अभियान' राबविताना मंत्री पंकजा मुंडे यांनी कोणते गाव दत्तक घेतले आहे?",
-      "options": [
-        "राळेगण सिद्धी",
-        "अंतरवली सराटी",
-        "हिवरे बाजार",
-        "पाटोदा"
-      ],
-      "correctAnswer": 1,
-      "explanation": "दुष्काळाच्या पार्श्वभूमीवर गाव दत्तक अभियानांतर्गत, मंत्री पंकजा मुंडे यांनी जालन्यातील अंतरवली सराटी हे गाव दत्तक घेण्याची घोषणा केली आहे.",
-      "category": "Maharashtra",
-      "difficulty": "medium",
-      "sourceUrl": "https://marathi.abplive.com/"
-    },
-    {
-      "id": "ca_20261017_09",
-      "question": "बुसान आंतरराष्ट्रीय चित्रपट महोत्सवात माजिद माजिदी यांच्या कोणत्या चित्रपटाला 'सर्वोत्कृष्ट फिल्म' चा पुरस्कार मिळाला आहे, ज्याची ऑस्करसाठी एंट्री झाली आहे?",
-      "options": [
-        "चिल्ड्रेन ऑफ हेवन",
-        "बियॉन्ड द क्लाउड्स",
-        "मिड डे मिल",
-        "द साँग ऑफ स्पॅरोज"
-      ],
-      "correctAnswer": 2,
-      "explanation": "प्रसिद्ध दिग्दर्शक माजिद माजिदी यांच्या 'मिड डे मिल' या चित्रपटाला बुसान महोत्सवात सर्वोत्कृष्ट फिल्मचा पुरस्कार मिळाला असून, त्याची ऑस्करच्या शर्यतीत थेट एंट्री झाली आहे.",
-      "category": "Miscellaneous",
-      "difficulty": "hard",
-      "sourceUrl": "https://marathi.abplive.com/"
-    },
-    {
-      "id": "ca_20261017_10",
-      "question": "इंटरनेट सेवा क्षेत्रात 'स्टारलिंक' (Starlink) कंपनी भारतात प्रवेश करत असल्याने त्यांचा मुख्य व्यावसायिक संघर्ष कोणत्या भारतीय कंपनीसोबत होण्याची शक्यता आहे?",
-      "options": [
-        "एअरटेल (Airtel)",
-        "रिलायन्स जिओ (Reliance Jio)",
-        "व्होडाफोन-आयडिया (Vi)",
-        "बीएसएनएल (BSNL)"
-      ],
-      "correctAnswer": 1,
-      "explanation": "एलॉन मस्क यांच्या स्टारलिंक कंपनीने भारतात उपग्रह आधारित इंटरनेट सेवा देण्याची तयारी केल्याने, त्यांचा प्रमुख संघर्ष रिलायन्स जिओ आणि मुकेश अंबानी यांच्याशी होण्याची चिन्हे आहेत.",
-      "category": "Science & Tech",
       "difficulty": "medium",
       "sourceUrl": "https://marathi.abplive.com/"
     }
