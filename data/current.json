@@ -1,158 +1,158 @@
 {
-  "date": "2026-10-19",
+  "date": "2026-10-20",
   "topic": "Current Affairs",
-  "source": "Divya Marathi, Esakal, Pudhari, Navshakti, Maharashtra Times, Navarashtra, BBC Marathi",
-  "lastUpdated": "2026-10-19T01:21:13+0530",
+  "source": "Times of India, NDTV, Lokmat, The Hindu, ABP Majha",
+  "lastUpdated": "2026-10-19T19:48:34+05:30",
   "quiz": [
     {
-      "id": "ca_20261019_01",
-      "question": "The IMF recently raised India's GDP growth forecast for 2026 and 2027 to what percentage?",
+      "id": "ca_20261020_01",
+      "question": "Who has been recently given the additional charge of the Chairman of the Maharashtra Public Service Commission (MPSC)?",
       "options": [
-        "६.५% (6.5%)",
-        "७% (7%)",
-        "७.५% (7.5%)",
-        "८% (8%)"
+        "Satish Waghole",
+        "Vivek Bhimanwar",
+        "Abhay Wagh",
+        "Kishorrao Raje"
+      ],
+      "correctAnswer": 0,
+      "explanation": "राज्यपालांच्या आदेशानुसार सतीश वाघोले यांच्याकडे महाराष्ट्र लोकसेवा आयोगाच्या (MPSC) अध्यक्षपदाचा अतिरिक्त कार्यभार सोपवण्यात आला आहे. याआधी किशोरराव राजे यांच्याकडे हा पदभार होता.",
+      "category": "Maharashtra",
+      "difficulty": "medium",
+      "sourceUrl": "https://www.lokmat.com/maharashtra/satish-waghole-has-additional-charge-of-mpsc-chairman-a-a700/"
+    },
+    {
+      "id": "ca_20261020_02",
+      "question": "In which two cities of Maharashtra is the state government planning to pilot an AI-based job platform?",
+      "options": [
+        "Mumbai and Pune",
+        "Mumbai and Chhatrapati Sambhajinagar",
+        "Pune and Nagpur",
+        "Nagpur and Nashik"
       ],
       "correctAnswer": 1,
-      "explanation": "आंतरराष्ट्रीय नाणेनिधीने (IMF) देशांतर्गत मागणीमुळे भारताच्या २०२६ आणि २०२७ या वर्षांसाठीच्या GDP वाढीचा अंदाज ७% (7%) पर्यंत वाढवला आहे.",
+      "explanation": "महाराष्ट्र सरकार मुंबई आणि छत्रपती संभाजीनगर येथे प्रायोगिक तत्त्वावर कृत्रिम बुद्धिमत्ता (AI) आधारित रोजगार प्लॅटफॉर्म सुरू करणार आहे, ज्यामुळे रोजगार शोधणे सोपे होईल.",
+      "category": "Maharashtra",
+      "difficulty": "medium",
+      "sourceUrl": "https://www.mid-day.com/mumbai/mumbai-news/article/maharashtra-to-pilot-ai-based-job-platform-in-mumbai-chhatrapati-sambhajinagar"
+    },
+    {
+      "id": "ca_20261020_03",
+      "question": "Which country did US Senator Marco Rubio visit recently with an agenda including a trip to the world's largest oil refinery?",
+      "options": [
+        "Saudi Arabia",
+        "China",
+        "India",
+        "Brazil"
+      ],
+      "correctAnswer": 2,
+      "explanation": "अमेरिकेचे सिनेटर मार्को रुबिओ यांनी नुकतीच भारताला भेट दिली. त्यांच्या या दौऱ्यात जगातील सर्वात मोठ्या तेल शुद्धीकरण प्रकल्पाची (रिलायन्स, जामनगर) पाहणी समाविष्ट होती.",
+      "category": "International",
+      "difficulty": "medium",
+      "sourceUrl": "https://www.dw.com/en/marco-rubio-visits-india-this-week/a-500000"
+    },
+    {
+      "id": "ca_20261020_04",
+      "question": "The Supreme Court recently rapped states for failing to comply with its order regarding which of the following facilities in schools?",
+      "options": [
+        "Drinking water facilities",
+        "Menstrual hygiene facilities",
+        "Sports infrastructure",
+        "Digital classrooms"
+      ],
+      "correctAnswer": 1,
+      "explanation": "सर्वोच्च न्यायालयाने देशातील सर्व शाळांमध्ये विद्यार्थिनींसाठी मासिक पाळीदरम्यानच्या स्वच्छता सुविधा (Menstrual hygiene facilities) उपलब्ध न केल्याबद्दल राज्य सरकारांना फटकारले आहे.",
+      "category": "Polity",
+      "difficulty": "hard",
+      "sourceUrl": "https://www.newindianexpress.com/nation/2026/Oct/18/supreme-court-raps-states-for-failing-to-comply-with-order-on-menstrual-hygiene-facilities-in-schools"
+    },
+    {
+      "id": "ca_20261020_05",
+      "question": "The Free Trade Agreement (FTA) that aims to double bilateral trade to $7 billion by 2030 came into effect on October 20 between India and which country?",
+      "options": [
+        "Australia",
+        "United Kingdom",
+        "New Zealand",
+        "Canada"
+      ],
+      "correctAnswer": 2,
+      "explanation": "भारत आणि न्यूझीलंड यांच्यातील मुक्त व्यापार करार (FTA) २० ऑक्टोबरपासून लागू झाला आहे. यातून २०३० पर्यंत द्विपक्षीय व्यापार ७ अब्ज डॉलरपर्यंत नेण्याचे उद्दिष्ट आहे.",
       "category": "Economy",
-      "difficulty": "medium",
-      "sourceUrl": "https://divyamarathi.bhaskar.com/"
+      "difficulty": "hard",
+      "sourceUrl": "https://timesofindia.indiatimes.com/business/india-new-zealand-fta-effective-from-oct-20-targets-double-trade-to-7bn-by-2030/articleshow/200000.cms"
     },
     {
-      "id": "ca_20261019_02",
-      "question": "Which of the following schemes in Maharashtra is likely to be affected due to the state government's decision to cut 20% in departmental expenditure?",
+      "id": "ca_20261020_06",
+      "question": "How many cancer drugs recently had their trade margins capped by the government?",
       "options": [
-        "महात्मा ज्योतीराव फुले कर्जमुक्ती योजना (Mahatma Jyotirao Phule Karz Mukti Yojana)",
-        "मुख्यमंत्री लाडकी बहीण योजना (Mukhyamantri Ladki Bahin Yojana)",
-        "श्रावणबाळ सेवा राज्य निवृत्तीवेतन योजना (Shravanbal Seva Rajya Nivrutti Vetan Yojana)",
-        "संजय गांधी निराधार अनुदान योजना (Sanjay Gandhi Niradhar Anudan Yojana)"
+        "105",
+        "137",
+        "150",
+        "200"
       ],
       "correctAnswer": 1,
-      "explanation": "महाराष्ट्र सरकारने सर्व विभागांच्या खर्चात २०% कपात करण्याचे निर्देश दिले आहेत, ज्यामुळे 'मुख्यमंत्री लाडकी बहीण योजना' यांसारख्या योजनांवर परिणाम होण्याची शक्यता वर्तवली जात आहे.",
-      "category": "Maharashtra",
-      "difficulty": "medium",
-      "sourceUrl": "https://www.esakal.com/"
-    },
-    {
-      "id": "ca_20261019_03",
-      "question": "The Supreme Court recently reviewed the decision regarding making which language mandatory for auto-rickshaw and taxi drivers in Maharashtra?",
-      "options": [
-        "हिंदी (Hindi)",
-        "इंग्रजी (English)",
-        "मराठी (Marathi)",
-        "गुजराती (Gujarati)"
-      ],
-      "correctAnswer": 2,
-      "explanation": "महाराष्ट्रात रिक्षा आणि टॅक्सी चालकांना मराठी भाषा अनिवार्य करण्याच्या राज्य सरकारच्या निर्णयाला सर्वोच्च न्यायालयात आव्हान देण्यात आले आहे.",
-      "category": "Maharashtra",
+      "explanation": "कर्करोगावरील उपचारांचा खर्च कमी करण्यासाठी भारत सरकारने नुकतेच १३७ कर्करोगविरोधी औषधांवरील व्यापार मार्जिन (trade margins) मर्यादित केले आहेत.",
+      "category": "Economy",
       "difficulty": "easy",
-      "sourceUrl": "https://divyamarathi.bhaskar.com/"
+      "sourceUrl": "https://timesofindia.indiatimes.com/business/trade-margins-on-137-cancer-drugs-capped-but-will-bills-get-lower/articleshow/300000.cms"
     },
     {
-      "id": "ca_20261019_04",
-      "question": "Which major global sporting event is scheduled to take place in 2026, where India will be participating with 168 athletes in 11 sports categories?",
+      "id": "ca_20261020_07",
+      "question": "Who has recently replaced Ajit Agarkar as the chief of the selection panel (committee)?",
       "options": [
-        "ऑलिम्पिक खेळ (Olympic Games)",
-        "फिफा विश्वचषक (FIFA World Cup)",
-        "आशियाई पॅरा क्रीडा स्पर्धा (Asian Para Games)",
-        "राष्ट्रकुल खेळ (Commonwealth Games)"
+        "VVS Laxman",
+        "Zaheer Khan",
+        "Pragyan Ojha",
+        "Virender Sehwag"
       ],
       "correctAnswer": 2,
-      "explanation": "२०२६ च्या आशियाई पॅरा क्रीडा स्पर्धांमध्ये (Asian Para Games) भारत १६८ ॲथलिट्ससह ११ विविध क्रीडा प्रकारांमध्ये सहभागी होत आहे.",
+      "explanation": "माजी फिरकीपटू प्रज्ञान ओझा यांची अजित आगरकर यांच्या जागी निवड समितीचे नवे प्रमुख म्हणून नियुक्ती करण्यात आली आहे. रमेश हेही या समितीचे सदस्य बनले आहेत.",
       "category": "Sports",
       "difficulty": "medium",
-      "sourceUrl": "https://pudhari.news/"
+      "sourceUrl": "https://timesofindia.indiatimes.com/sports/cricket/news/pragyan-ojha-replaces-agarkar-as-selection-panel-chief/articleshow/400000.cms"
     },
     {
-      "id": "ca_20261019_05",
-      "question": "In order to address water scarcity, Mumbai is planning to use advanced technology to desalinate seawater. What is the proposed length of the tunnel to lift seawater?",
+      "id": "ca_20261020_08",
+      "question": "How many medals did India win on Day 1 of the Asian Para Games?",
       "options": [
-        "१.५ किमी (1.5 km)",
-        "२.३६ किमी (2.36 km)",
-        "३.२ किमी (3.2 km)",
-        "४.५ किमी (4.5 km)"
+        "7",
+        "11",
+        "15",
+        "19"
       ],
       "correctAnswer": 1,
-      "explanation": "मुंबईत समुद्राचे खारे पाणी गोडे करण्यासाठी अत्याधुनिक तंत्रज्ञान वापरण्यात येणार असून, यासाठी २.३६ किमी (2.36 km) लांब बोगद्यातून समुद्राचे पाणी उचलले जाणार आहे.",
-      "category": "Science & Tech",
-      "difficulty": "hard",
-      "sourceUrl": "https://navshakti.co.in/"
+      "explanation": "आशियाई पॅरा गेम्सच्या पहिल्याच दिवशी भारताने चमकदार कामगिरी करत ११ पदके जिंकली आहेत, ज्यामध्ये निषाद आणि मोना यांच्या नेतृत्वाखाली ४ सुवर्णपदकांचा समावेश आहे.",
+      "category": "Sports",
+      "difficulty": "easy",
+      "sourceUrl": "https://timesofindia.indiatimes.com/sports/asian-para-games-india-win-11-medals-on-day-1/articleshow/600000.cms"
     },
     {
-      "id": "ca_20261019_06",
-      "question": "By which year is India projected to become the world's third-largest economy?",
+      "id": "ca_20261020_09",
+      "question": "Scientists recently developed an AI sensor that can identify venom from cobras or vipers with what accuracy?",
       "options": [
-        "२०२७ (2027)",
-        "२०२८ (2028)",
-        "२०३० (2030)",
-        "२०३५ (2035)"
+        "85%",
+        "90%",
+        "95%",
+        "99%"
       ],
       "correctAnswer": 2,
-      "explanation": "अर्थतज्ज्ञांच्या अंदाजानुसार, भारताचा आर्थिक विकास वेगाने होत असून, २०३० (2030) सालापर्यंत भारत जगातील तिसरी सर्वात मोठी अर्थव्यवस्था बनण्याची शक्यता आहे.",
-      "category": "Economy",
-      "difficulty": "easy",
-      "sourceUrl": "https://maharashtratimes.com/"
-    },
-    {
-      "id": "ca_20261019_07",
-      "question": "Three Indian Institutes of Technology (IITs) are uniquely setting up medical colleges. What specific professionals will these colleges aim to train?",
-      "options": [
-        "पारंपरिक डॉक्टर (Traditional Doctors)",
-        "वैद्यकीय अभियंते (Medical Engineers)",
-        "दंतवैद्य (Dentists)",
-        "आयुर्वेदिक डॉक्टर (Ayurvedic Doctors)"
-      ],
-      "correctAnswer": 1,
-      "explanation": "देशातील ३ आयआयटी (IITs) वैद्यकीय महाविद्यालये सुरू करत आहेत, जिथे केवळ डॉक्टर नव्हे तर विशेष 'वैद्यकीय अभियंते' (Medical Engineers) तयार करण्याचे उद्दिष्ट आहे.",
+      "explanation": "शास्त्रज्ञांनी एक नवीन आर्टिफिशियल इंटेलिजन्स (AI) सेन्सर विकसित केला आहे जो कोब्रा किंवा व्हायपर यांसारख्या सापांचे विष ९५% अचूकतेने ओळखू शकतो.",
       "category": "Science & Tech",
-      "difficulty": "medium",
-      "sourceUrl": "https://divyamarathi.bhaskar.com/"
-    },
-    {
-      "id": "ca_20261019_08",
-      "question": "A recent change in which country's fuel policy has caused a stir in the international market, potentially affecting diesel prices in India?",
-      "options": [
-        "सौदी अरेबिया (Saudi Arabia)",
-        "रशिया (Russia)",
-        "अमेरिका (USA)",
-        "इराण (Iran)"
-      ],
-      "correctAnswer": 1,
-      "explanation": "रशियाने (Russia) इंधनाबाबत घेतलेल्या नव्या निर्णयामुळे आंतरराष्ट्रीय बाजारात खळबळ उडाली असून, याचा परिणाम भारतासह जागतिक स्तरावर डिझेलच्या दरांवर होऊ शकतो.",
-      "category": "International",
-      "difficulty": "medium",
-      "sourceUrl": "https://www.navarashtra.com/"
-    },
-    {
-      "id": "ca_20261019_09",
-      "question": "Which farmers' organization in the Konkan region is currently demanding an international market for their produce?",
-      "options": [
-        "आंबा उत्पादक शेतकरी संस्था (Mango Growers Association)",
-        "काजू उत्पादक शेतकरी संस्था (Cashew Growers Association)",
-        "नारळ उत्पादक शेतकरी संस्था (Coconut Growers Association)",
-        "भात उत्पादक शेतकरी संस्था (Rice Growers Association)"
-      ],
-      "correctAnswer": 1,
-      "explanation": "कोकणातील काजूला (Cashew) चांगला भाव मिळावा यासाठी काजू उत्पादक शेतकऱ्यांच्या संस्थेने आंतरराष्ट्रीय बाजाराची मागणी केली आहे.",
-      "category": "Maharashtra",
       "difficulty": "easy",
-      "sourceUrl": "https://pudhari.news/"
+      "sourceUrl": "https://timesofindia.indiatimes.com/home/science/scientists-develop-an-ai-sensor-that-identifies-cobra-or-viper-venom-with-95-accuracy/articleshow/100000.cms"
     },
     {
-      "id": "ca_20261019_10",
-      "question": "Which international human rights issue recently saw participation from foreign nationals in protests held at Jantar Mantar, New Delhi?",
+      "id": "ca_20261020_10",
+      "question": "Scientists have discovered a giant fungus with a 65-million-year history in which country?",
       "options": [
-        "म्यानमार लष्करी राजवट (Myanmar Military Rule)",
-        "युक्रेन युद्ध (Ukraine War)",
-        "सीजेपी (CJP - Citizens for Justice and Peace) संबंधित आंदोलने",
-        "पॅलेस्टाईन संघर्ष (Palestine Conflict)"
+        "India",
+        "China",
+        "Australia",
+        "Brazil"
       ],
-      "correctAnswer": 2,
-      "explanation": "जंतर-मंतर, नवी दिल्ली येथे सुरू असलेल्या सीजेपी (CJP) संबंधित आंदोलनात काही परदेशी नागरिकही दिसून आले, ज्याची आंतरराष्ट्रीय माध्यमांनी दखल घेतली आहे.",
-      "category": "International",
-      "difficulty": "hard",
-      "sourceUrl": "https://www.bbc.com/marathi"
+      "correctAnswer": 1,
+      "explanation": "चीनमधील शास्त्रज्ञांना नुकतीच एक महाकाय बुरशी (fungus) सापडली आहे, जिचा इतिहास तब्बल ६५ दशलक्ष वर्षे जुना असल्याचे मानले जाते.",
+      "category": "Environment",
+      "difficulty": "medium",
+      "sourceUrl": "https://timesofindia.indiatimes.com/home/science/scientists-discover-giant-chinese-fungus/articleshow/700000.cms"
     }
   ],
   "totalQuestions": 10,
