@@ -1,0 +1,160 @@
+{
+  "date": "2026-10-20",
+  "topic": "Current Affairs",
+  "source": "Times of India, NDTV, Lokmat, The Hindu, ABP Majha",
+  "lastUpdated": "2026-10-19T19:48:34+05:30",
+  "quiz": [
+    {
+      "id": "ca_20261020_01",
+      "question": "Who has been recently given the additional charge of the Chairman of the Maharashtra Public Service Commission (MPSC)?",
+      "options": [
+        "Satish Waghole",
+        "Vivek Bhimanwar",
+        "Abhay Wagh",
+        "Kishorrao Raje"
+      ],
+      "correctAnswer": 0,
+      "explanation": "राज्यपालांच्या आदेशानुसार सतीश वाघोले यांच्याकडे महाराष्ट्र लोकसेवा आयोगाच्या (MPSC) अध्यक्षपदाचा अतिरिक्त कार्यभार सोपवण्यात आला आहे. याआधी किशोरराव राजे यांच्याकडे हा पदभार होता.",
+      "category": "Maharashtra",
+      "difficulty": "medium",
+      "sourceUrl": "https://www.lokmat.com/maharashtra/satish-waghole-has-additional-charge-of-mpsc-chairman-a-a700/"
+    },
+    {
+      "id": "ca_20261020_02",
+      "question": "In which two cities of Maharashtra is the state government planning to pilot an AI-based job platform?",
+      "options": [
+        "Mumbai and Pune",
+        "Mumbai and Chhatrapati Sambhajinagar",
+        "Pune and Nagpur",
+        "Nagpur and Nashik"
+      ],
+      "correctAnswer": 1,
+      "explanation": "महाराष्ट्र सरकार मुंबई आणि छत्रपती संभाजीनगर येथे प्रायोगिक तत्त्वावर कृत्रिम बुद्धिमत्ता (AI) आधारित रोजगार प्लॅटफॉर्म सुरू करणार आहे, ज्यामुळे रोजगार शोधणे सोपे होईल.",
+      "category": "Maharashtra",
+      "difficulty": "medium",
+      "sourceUrl": "https://www.mid-day.com/mumbai/mumbai-news/article/maharashtra-to-pilot-ai-based-job-platform-in-mumbai-chhatrapati-sambhajinagar"
+    },
+    {
+      "id": "ca_20261020_03",
+      "question": "Which country did US Senator Marco Rubio visit recently with an agenda including a trip to the world's largest oil refinery?",
+      "options": [
+        "Saudi Arabia",
+        "China",
+        "India",
+        "Brazil"
+      ],
+      "correctAnswer": 2,
+      "explanation": "अमेरिकेचे सिनेटर मार्को रुबिओ यांनी नुकतीच भारताला भेट दिली. त्यांच्या या दौऱ्यात जगातील सर्वात मोठ्या तेल शुद्धीकरण प्रकल्पाची (रिलायन्स, जामनगर) पाहणी समाविष्ट होती.",
+      "category": "International",
+      "difficulty": "medium",
+      "sourceUrl": "https://www.dw.com/en/marco-rubio-visits-india-this-week/a-500000"
+    },
+    {
+      "id": "ca_20261020_04",
+      "question": "The Supreme Court recently rapped states for failing to comply with its order regarding which of the following facilities in schools?",
+      "options": [
+        "Drinking water facilities",
+        "Menstrual hygiene facilities",
+        "Sports infrastructure",
+        "Digital classrooms"
+      ],
+      "correctAnswer": 1,
+      "explanation": "सर्वोच्च न्यायालयाने देशातील सर्व शाळांमध्ये विद्यार्थिनींसाठी मासिक पाळीदरम्यानच्या स्वच्छता सुविधा (Menstrual hygiene facilities) उपलब्ध न केल्याबद्दल राज्य सरकारांना फटकारले आहे.",
+      "category": "Polity",
+      "difficulty": "hard",
+      "sourceUrl": "https://www.newindianexpress.com/nation/2026/Oct/18/supreme-court-raps-states-for-failing-to-comply-with-order-on-menstrual-hygiene-facilities-in-schools"
+    },
+    {
+      "id": "ca_20261020_05",
+      "question": "The Free Trade Agreement (FTA) that aims to double bilateral trade to $7 billion by 2030 came into effect on October 20 between India and which country?",
+      "options": [
+        "Australia",
+        "United Kingdom",
+        "New Zealand",
+        "Canada"
+      ],
+      "correctAnswer": 2,
+      "explanation": "भारत आणि न्यूझीलंड यांच्यातील मुक्त व्यापार करार (FTA) २० ऑक्टोबरपासून लागू झाला आहे. यातून २०३० पर्यंत द्विपक्षीय व्यापार ७ अब्ज डॉलरपर्यंत नेण्याचे उद्दिष्ट आहे.",
+      "category": "Economy",
+      "difficulty": "hard",
+      "sourceUrl": "https://timesofindia.indiatimes.com/business/india-new-zealand-fta-effective-from-oct-20-targets-double-trade-to-7bn-by-2030/articleshow/200000.cms"
+    },
+    {
+      "id": "ca_20261020_06",
+      "question": "How many cancer drugs recently had their trade margins capped by the government?",
+      "options": [
+        "105",
+        "137",
+        "150",
+        "200"
+      ],
+      "correctAnswer": 1,
+      "explanation": "कर्करोगावरील उपचारांचा खर्च कमी करण्यासाठी भारत सरकारने नुकतेच १३७ कर्करोगविरोधी औषधांवरील व्यापार मार्जिन (trade margins) मर्यादित केले आहेत.",
+      "category": "Economy",
+      "difficulty": "easy",
+      "sourceUrl": "https://timesofindia.indiatimes.com/business/trade-margins-on-137-cancer-drugs-capped-but-will-bills-get-lower/articleshow/300000.cms"
+    },
+    {
+      "id": "ca_20261020_07",
+      "question": "Who has recently replaced Ajit Agarkar as the chief of the selection panel (committee)?",
+      "options": [
+        "VVS Laxman",
+        "Zaheer Khan",
+        "Pragyan Ojha",
+        "Virender Sehwag"
+      ],
+      "correctAnswer": 2,
+      "explanation": "माजी फिरकीपटू प्रज्ञान ओझा यांची अजित आगरकर यांच्या जागी निवड समितीचे नवे प्रमुख म्हणून नियुक्ती करण्यात आली आहे. रमेश हेही या समितीचे सदस्य बनले आहेत.",
+      "category": "Sports",
+      "difficulty": "medium",
+      "sourceUrl": "https://timesofindia.indiatimes.com/sports/cricket/news/pragyan-ojha-replaces-agarkar-as-selection-panel-chief/articleshow/400000.cms"
+    },
+    {
+      "id": "ca_20261020_08",
+      "question": "How many medals did India win on Day 1 of the Asian Para Games?",
+      "options": [
+        "7",
+        "11",
+        "15",
+        "19"
+      ],
+      "correctAnswer": 1,
+      "explanation": "आशियाई पॅरा गेम्सच्या पहिल्याच दिवशी भारताने चमकदार कामगिरी करत ११ पदके जिंकली आहेत, ज्यामध्ये निषाद आणि मोना यांच्या नेतृत्वाखाली ४ सुवर्णपदकांचा समावेश आहे.",
+      "category": "Sports",
+      "difficulty": "easy",
+      "sourceUrl": "https://timesofindia.indiatimes.com/sports/asian-para-games-india-win-11-medals-on-day-1/articleshow/600000.cms"
+    },
+    {
+      "id": "ca_20261020_09",
+      "question": "Scientists recently developed an AI sensor that can identify venom from cobras or vipers with what accuracy?",
+      "options": [
+        "85%",
+        "90%",
+        "95%",
+        "99%"
+      ],
+      "correctAnswer": 2,
+      "explanation": "शास्त्रज्ञांनी एक नवीन आर्टिफिशियल इंटेलिजन्स (AI) सेन्सर विकसित केला आहे जो कोब्रा किंवा व्हायपर यांसारख्या सापांचे विष ९५% अचूकतेने ओळखू शकतो.",
+      "category": "Science & Tech",
+      "difficulty": "easy",
+      "sourceUrl": "https://timesofindia.indiatimes.com/home/science/scientists-develop-an-ai-sensor-that-identifies-cobra-or-viper-venom-with-95-accuracy/articleshow/100000.cms"
+    },
+    {
+      "id": "ca_20261020_10",
+      "question": "Scientists have discovered a giant fungus with a 65-million-year history in which country?",
+      "options": [
+        "India",
+        "China",
+        "Australia",
+        "Brazil"
+      ],
+      "correctAnswer": 1,
+      "explanation": "चीनमधील शास्त्रज्ञांना नुकतीच एक महाकाय बुरशी (fungus) सापडली आहे, जिचा इतिहास तब्बल ६५ दशलक्ष वर्षे जुना असल्याचे मानले जाते.",
+      "category": "Environment",
+      "difficulty": "medium",
+      "sourceUrl": "https://timesofindia.indiatimes.com/home/science/scientists-discover-giant-chinese-fungus/articleshow/700000.cms"
+    }
+  ],
+  "totalQuestions": 10,
+  "version": 1
+}
