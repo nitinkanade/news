@@ -1,0 +1,160 @@
+{
+  "date": "2026-10-21",
+  "topic": "Current Affairs",
+  "source": "Times of India, Press Information Bureau (PIB)",
+  "lastUpdated": "2026-10-21T12:00:00+05:30",
+  "quiz": [
+    {
+      "id": "ca_20261021_01",
+      "question": "Which states have sites recently added to the UNESCO World Heritage tentative list?",
+      "options": [
+        "Maharashtra and Gujarat",
+        "Andaman & Nicobar Islands and Chhattisgarh",
+        "Kerala and Tamil Nadu",
+        "Rajasthan and Madhya Pradesh"
+      ],
+      "correctAnswer": 1,
+      "explanation": "अलीकडेच अंदमान आणि निकोबार बेटांमधील दोन आणि छत्तीसगडमधील एक स्थळ युनेस्कोच्या जागतिक वारसा (UNESCO World Heritage) संभाव्य यादीत (tentative list) समाविष्ट करण्यात आले आहे.",
+      "category": "Environment",
+      "difficulty": "medium",
+      "sourceUrl": "https://timesofindia.indiatimes.com/india/two-andaman-one-chhattisgarh-site-added-to-unesco-world-heritage-tentative-list/articleshow/135075402.cms"
+    },
+    {
+      "id": "ca_20261021_02",
+      "question": "Who led the Indian women's cricket team to a 3-0 T20I series sweep against Zimbabwe?",
+      "options": [
+        "Smriti Mandhana",
+        "Mithali Raj",
+        "Harmanpreet Kaur",
+        "Jemimah Rodrigues"
+      ],
+      "correctAnswer": 2,
+      "explanation": "हरमनप्रीत कौरच्या नेतृत्वाखालील भारतीय महिला क्रिकेट संघाने झिम्बाब्वेविरुद्धची ३ टी-२० सामन्यांची मालिका ३-० अशी जिंकली. हरमनप्रीतने ९१ धावांची शानदार खेळी केली.",
+      "category": "Sports",
+      "difficulty": "easy",
+      "sourceUrl": "https://timesofindia.indiatimes.com/sports/cricket/news/harmanpreet-kaur-unleashes-six-hitting-blitz-as-india-thrash-zimbabwe-by-92-runs-to-complete-3-0-t20i-series-sweep/articleshow/135074015.cms"
+    },
+    {
+      "id": "ca_20261021_03",
+      "question": "In which event did India achieve a historic 1-2-3 finish at the Asian Para Games?",
+      "options": [
+        "Men's Javelin Throw",
+        "Men's Discus Throw",
+        "Men's High Jump",
+        "Men's 100m Sprint"
+      ],
+      "correctAnswer": 1,
+      "explanation": "आशियाई पॅरा गेम्समध्ये पुरुषांच्या थाळीफेक (Discus throw) स्पर्धेत देवेंद्र कुमारने सुवर्णपदक जिंकले, तर भारताने ऐतिहासिक कामगिरी करत तिन्ही (सुवर्ण, रौप्य, कांस्य) पदके जिंकली.",
+      "category": "Sports",
+      "difficulty": "medium",
+      "sourceUrl": "https://timesofindia.indiatimes.com/sports/asian-para-games-2026/asian-para-games-devender-kumar-strikes-gold-as-india-sweep-historic-1-2-3-finish-in-mens-discus-throw/articleshow/135070750.cms"
+    },
+    {
+      "id": "ca_20261021_04",
+      "question": "The US President recently granted a 60-day tariff waiver on oil imports from which country, providing temporary relief to India?",
+      "options": [
+        "Iran",
+        "Venezuela",
+        "Russia",
+        "Saudi Arabia"
+      ],
+      "correctAnswer": 2,
+      "explanation": "अमेरिकेचे राष्ट्राध्यक्ष ट्रम्प यांनी रशियन तेलावरील शुल्कात (tariff) ६० दिवसांची सवलत दिली आहे. यामुळे भारतासारख्या विकसनशील देशांना तूर्तास दिलासा मिळाला आहे.",
+      "category": "Economy",
+      "difficulty": "medium",
+      "sourceUrl": "https://timesofindia.indiatimes.com/business/india-business/does-trumps-60-day-tariff-waiver-really-give-relief-to-india-what-it-means-for-us-trade-deal-oil-prices/articleshow/135065802.cms"
+    },
+    {
+      "id": "ca_20261021_05",
+      "question": "Which Indian Union Minister stated at the SCO summit that there should be no double standards on terrorism?",
+      "options": [
+        "Amit Shah",
+        "S. Jaishankar",
+        "Rajnath Singh",
+        "Nitin Gadkari"
+      ],
+      "correctAnswer": 2,
+      "explanation": "शांघाय सहकार्य संघटनेच्या (SCO) बैठकीत भारताचे संरक्षण मंत्री राजनाथ सिंग यांनी दहशतवादाबाबत 'दुहेरी मापदंड' न ठेवता त्याच्या संपूर्ण परिसंस्थेचा (ecosystem) नाश करण्यासाठी एकत्रित कारवाईचे आवाहन केले.",
+      "category": "International",
+      "difficulty": "medium",
+      "sourceUrl": "https://timesofindia.indiatimes.com/india/no-double-standards-on-terror-need-unified-action-to-dismantle-its-entire-ecosystem-rajnath-at-sco/articleshow/135073553.cms"
+    },
+    {
+      "id": "ca_20261021_06",
+      "question": "India's External Affairs Minister recently thanked which country for handing over terrorist Tahawwur Rana?",
+      "options": [
+        "United Kingdom",
+        "Canada",
+        "United States of America",
+        "Australia"
+      ],
+      "correctAnswer": 2,
+      "explanation": "परराष्ट्र मंत्री (EAM) एस. जयशंकर यांनी तहव्वूर राणाला भारताच्या स्वाधीन केल्याबद्दल अमेरिकेचे (US) आभार मानले आणि भागीदारांनी दहशतवादावर शून्य सहनशीलता दाखवण्याची अपेक्षा व्यक्त केली.",
+      "category": "International",
+      "difficulty": "medium",
+      "sourceUrl": "https://timesofindia.indiatimes.com/india/expect-partners-to-show-zero-tolerance-on-terrorism-eam-thanks-us-for-handing-over-tahawwur-rana/articleshow/135072738.cms"
+    },
+    {
+      "id": "ca_20261021_07",
+      "question": "Which Chief Minister recently vowed not to let drought-hit farmers face a 'black Diwali'?",
+      "options": [
+        "Siddaramaiah (Karnataka)",
+        "Eknath Shinde (Maharashtra)",
+        "Bhupendra Patel (Gujarat)",
+        "Mohan Yadav (Madhya Pradesh)"
+      ],
+      "correctAnswer": 1,
+      "explanation": "महाराष्ट्राचे मुख्यमंत्री एकनाथ शिंदे यांनी दुष्काळग्रस्त शेतकऱ्यांना दिवाळीत कोणतीही अडचण येऊ देणार नाही आणि त्यांच्यासाठी योग्य ती मदत केली जाईल, असे आश्वासन दिले आहे.",
+      "category": "Maharashtra",
+      "difficulty": "easy",
+      "sourceUrl": "https://timesofindia.indiatimes.com/city/mumbai/wont-let-drought-hit-farmers-face-black-diwali-vows-eknath-shinde/articleshow/135076205.cms"
+    },
+    {
+      "id": "ca_20261021_08",
+      "question": "The tenure of the chief of which aviation investigation body was recently extended by a year to continue key probes like AI 171?",
+      "options": [
+        "DGCA (Directorate General of Civil Aviation)",
+        "AAI (Airports Authority of India)",
+        "BCAS (Bureau of Civil Aviation Security)",
+        "AAIB (Aircraft Accident Investigation Bureau)"
+      ],
+      "correctAnswer": 3,
+      "explanation": "विमान अपघात तपास ब्युरो (AAIB) प्रमुखांना एक वर्षाची मुदतवाढ देण्यात आली आहे, कारण एअर इंडियाच्या (AI 171) अपघातासारख्या अनेक महत्त्वाच्या प्रकरणांचा तपास सध्या सुरू आहे.",
+      "category": "Polity",
+      "difficulty": "hard",
+      "sourceUrl": "https://timesofindia.indiatimes.com/india/aaib-chief-gets-a-years-extension-as-many-key-probes-incl-ai-171-on/articleshow/135075656.cms"
+    },
+    {
+      "id": "ca_20261021_09",
+      "question": "Which region of Chhattisgarh received its first train since Independence as a new rail line opened?",
+      "options": [
+        "Bastar",
+        "Rowghat",
+        "Surguja",
+        "Dantewada"
+      ],
+      "correctAnswer": 1,
+      "explanation": "छत्तीसगडमधील नक्षलग्रस्त 'रावघाट' (Rowghat) या भागात नवीन रेल्वे मार्ग सुरू झाल्याने स्वातंत्र्यानंतर पहिल्यांदाच या भागात रेल्वे पोहोचली आहे.",
+      "category": "Economy",
+      "difficulty": "hard",
+      "sourceUrl": "https://timesofindia.indiatimes.com/india/chhattisgarhs-rowghat-gets-first-train-since-independence-as-new-rail-line-opens/articleshow/135071111.cms"
+    },
+    {
+      "id": "ca_20261021_10",
+      "question": "During a Dussehra event, which Maharashtra leader likened the opposition INDIA bloc to a 'ten-headed Ravana'?",
+      "options": [
+        "Devendra Fadnavis",
+        "Uddhav Thackeray",
+        "Eknath Shinde",
+        "Ajit Pawar"
+      ],
+      "correctAnswer": 2,
+      "explanation": "दसरा मेळाव्यात बोलताना महाराष्ट्राचे मुख्यमंत्री एकनाथ शिंदे यांनी विरोधकांच्या 'इंडिया' (INDIA) आघाडीची तुलना 'दहा तोंडी रावणाशी' केली.",
+      "category": "Maharashtra",
+      "difficulty": "easy",
+      "sourceUrl": "https://timesofindia.indiatimes.com/india/shinde-calls-india-bloc-ten-headed-ravana-accuses-uddhav-of-vote-theft/articleshow/135074840.cms"
+    }
+  ],
+  "totalQuestions": 10,
+  "version": 1
+}
