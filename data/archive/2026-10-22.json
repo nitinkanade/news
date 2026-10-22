@@ -1,0 +1,160 @@
+{
+  "date": "2026-10-22",
+  "topic": "Current Affairs",
+  "source": "News On AIR, NDTV Profit, Digital Watch Observatory, Administration of UT of Ladakh, Live Law, ICC, Sportstar, The Guardian, Google Cloud, Moneycontrol",
+  "lastUpdated": "2026-10-21T19:39:42+05:30",
+  "quiz": [
+    {
+      "id": "ca_20261022_01",
+      "question": "Who recently met President Droupadi Murmu along with Maharashtra Chief Minister Devendra Fadnavis?",
+      "options": [
+        "एकनाथ शिंदे आणि अजित पवार",
+        "एकनाथ शिंदे आणि सुनेत्रा पवार",
+        "अजित पवार आणि छगन भुजबळ",
+        "शरद पवार आणि उद्धव ठाकरे"
+      ],
+      "correctAnswer": 1,
+      "explanation": "महाराष्ट्राचे मुख्यमंत्री देवेंद्र फडणवीस आणि उपमुख्यमंत्री एकनाथ शिंदे व सुनेत्रा पवार यांनी नुकतीच राष्ट्रपती द्रौपदी मुर्मू यांची नवी दिल्लीत सदिच्छा भेट घेतली.",
+      "category": "Maharashtra",
+      "difficulty": "easy",
+      "sourceUrl": "https://newsonair.gov.in/"
+    },
+    {
+      "id": "ca_20261022_02",
+      "question": "Which new infrastructure projects are scheduled to be opened for the public in Mumbai to ease traffic congestion?",
+      "options": [
+        "वांद्रे-वरळी सी लिंकचा विस्तार",
+        "सायन, विद्याविहार आणि गोरेगाव उड्डाणपूल",
+        "कोस्टल रोडचा दुसरा टप्पा",
+        "नवी मुंबई मेट्रो लाइन"
+      ],
+      "correctAnswer": 1,
+      "explanation": "मुंबईतील वाहतूक कोंडी सोडवण्यासाठी सायन, विद्याविहार आणि गोरेगाव येथील नवीन उड्डाणपूल सर्वसामान्यांसाठी खुले करण्यात येणार आहेत.",
+      "category": "Maharashtra",
+      "difficulty": "medium",
+      "sourceUrl": "https://www.ndtvprofit.com/"
+    },
+    {
+      "id": "ca_20261022_03",
+      "question": "The Supreme Court of India recently recognised which specific right of children in a landmark judgment?",
+      "options": [
+        "शिक्षणाचा हक्क",
+        "इंटरनेट प्रवेशाचा हक्क",
+        "मोफत आरोग्याचा हक्क",
+        "मालमत्तेचा हक्क"
+      ],
+      "correctAnswer": 1,
+      "explanation": "भारताच्या सर्वोच्च न्यायालयाने एका महत्त्वपूर्ण निर्णयात बालकांच्या इंटरनेट प्रवेशाच्या अधिकाराला मूलभूत हक्क म्हणून मान्यता दिली आहे.",
+      "category": "Polity",
+      "difficulty": "hard",
+      "sourceUrl": "https://dig.watch/"
+    },
+    {
+      "id": "ca_20261022_04",
+      "question": "Where was the new bench of the High Court of Jammu & Kashmir and Ladakh recently inaugurated by the Chief Justice of India?",
+      "options": [
+        "श्रीनगर",
+        "कारगिल",
+        "लेह",
+        "जम्मू"
+      ],
+      "correctAnswer": 2,
+      "explanation": "भारताचे सरन्यायाधीश यांनी लडाखमधील लेह येथे जम्मू आणि काश्मीर तसेच लडाख उच्च न्यायालयाच्या नवीन खंडपीठाचे उद्घाटन केले.",
+      "category": "Polity",
+      "difficulty": "easy",
+      "sourceUrl": "https://ladakh.nic.in/"
+    },
+    {
+      "id": "ca_20261022_05",
+      "question": "In which state did the Supreme Court direct the State Election Commission to postpone the publication of the final candidate list for urban local body polls?",
+      "options": [
+        "महाराष्ट्र",
+        "कर्नाटक",
+        "आंध्र प्रदेश",
+        "तेलंगणा"
+      ],
+      "correctAnswer": 2,
+      "explanation": "सर्वोच्च न्यायालयाने आंध्र प्रदेश राज्य निवडणूक आयोगाला शहरी स्थानिक स्वराज्य संस्थांच्या निवडणुकांसाठी उमेदवारांची अंतिम यादी प्रसिद्ध करण्यास स्थगिती देण्याचे निर्देश दिले.",
+      "category": "Polity",
+      "difficulty": "medium",
+      "sourceUrl": "https://www.livelaw.in/"
+    },
+    {
+      "id": "ca_20261022_06",
+      "question": "Which countries will host the ICC U19 Women's T20 World Cup in 2027?",
+      "options": [
+        "भारत आणि श्रीलंका",
+        "ऑस्ट्रेलिया आणि न्यूझीलंड",
+        "बांगलादेश आणि नेपाळ",
+        "दक्षिण आफ्रिका आणि झिम्बाब्वे"
+      ],
+      "correctAnswer": 2,
+      "explanation": "आंतरराष्ट्रीय क्रिकेट परिषदेने (ICC) जाहीर केले आहे की २०२७ चा १९ वर्षांखालील महिला टी-२० विश्वचषक बांगलादेश आणि नेपाळमध्ये संयुक्तपणे आयोजित केला जाईल.",
+      "category": "Sports",
+      "difficulty": "medium",
+      "sourceUrl": "https://www.icc-cricket.com/"
+    },
+    {
+      "id": "ca_20261022_07",
+      "question": "Which cities have been named by World Aquatics as the hosts for the 2027 Swimming World Cup?",
+      "options": [
+        "टोकियो, बीजिंग आणि सेऊल",
+        "बर्लिन, पॅरिस आणि लंडन",
+        "लॉस एंजेलिस, न्यूयॉर्क आणि टोरंटो",
+        "सिडनी, मेलबर्न आणि पर्थ"
+      ],
+      "correctAnswer": 1,
+      "explanation": "वर्ल्ड अक्वेटिक्सने २०२७ च्या जलतरण विश्वचषकाचे यजमान म्हणून युरोपातील बर्लिन, पॅरिस आणि लंडन या तीन प्रमुख शहरांची निवड केली आहे.",
+      "category": "Sports",
+      "difficulty": "medium",
+      "sourceUrl": "https://sportstar.thehindu.com/"
+    },
+    {
+      "id": "ca_20261022_08",
+      "question": "According to the latest UN report, by what percentage must the world cut emissions in the next four years to bring global warming back on track?",
+      "options": [
+        "१०%",
+        "१२%",
+        "१५%",
+        "१८%"
+      ],
+      "correctAnswer": 3,
+      "explanation": "संयुक्त राष्ट्रांच्या (UN) ताज्या अहवालानुसार, हवामान बदलावर नियंत्रण मिळवण्यासाठी जगाला येत्या चार वर्षांत कार्बन उत्सर्जनात १८% कपात करणे आवश्यक आहे.",
+      "category": "Environment",
+      "difficulty": "hard",
+      "sourceUrl": "https://www.theguardian.com/"
+    },
+    {
+      "id": "ca_20261022_09",
+      "question": "Which major technology company is expanding its model choice and flexibility by bringing OpenAI models to its cloud customers?",
+      "options": [
+        "ॲमेझॉन वेब सर्व्हिसेस",
+        "मायक्रोसॉफ्ट अझर",
+        "गुगल क्लाउड",
+        "आयबीएम क्लाउड"
+      ],
+      "correctAnswer": 2,
+      "explanation": "गुगल क्लाउडने आपल्या ग्राहकांना अधिक पर्याय उपलब्ध करून देण्यासाठी त्यांच्या प्लॅटफॉर्मवर ओपनएआयचे मॉडेल्स आणण्याची घोषणा केली आहे.",
+      "category": "Science & Tech",
+      "difficulty": "medium",
+      "sourceUrl": "https://cloud.google.com/"
+    },
+    {
+      "id": "ca_20261022_10",
+      "question": "What is the name of the critical bug recently discovered by AI that puts up to 70% of the world's websites at risk?",
+      "options": [
+        "लॉग४जे",
+        "हार्टब्लीड",
+        "पीएचपी२शेल",
+        "वानाक्राय"
+      ],
+      "correctAnswer": 2,
+      "explanation": "कृत्रिम बुद्धिमत्तेने (AI) 'PHP2Shell' नावाचा एक गंभीर दोष शोधून काढला आहे, ज्यामुळे जगातील सुमारे ७०% वेबसाइट्सना धोका निर्माण होऊ शकतो.",
+      "category": "Science & Tech",
+      "difficulty": "easy",
+      "sourceUrl": "https://www.moneycontrol.com/"
+    }
+  ],
+  "totalQuestions": 10,
+  "version": 1
+}
