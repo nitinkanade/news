@@ -1,158 +1,158 @@
 {
-  "date": "2026-10-22",
+  "date": "2026-10-23",
   "topic": "Current Affairs",
-  "source": "News On AIR, NDTV Profit, Digital Watch Observatory, Administration of UT of Ladakh, Live Law, ICC, Sportstar, The Guardian, Google Cloud, Moneycontrol",
-  "lastUpdated": "2026-10-21T19:39:42+05:30",
+  "source": "Lokmat, Maharashtra Times, ABP Majha, Sakal, Google News",
+  "lastUpdated": "2026-10-23T01:30:32+05:30",
   "quiz": [
     {
-      "id": "ca_20261022_01",
-      "question": "Who recently met President Droupadi Murmu along with Maharashtra Chief Minister Devendra Fadnavis?",
+      "id": "ca_20261023_01",
+      "question": "Which major bank recently restricted its operations allowing customers to withdraw only Rs 5,000 as per RBI guidelines?",
       "options": [
-        "एकनाथ शिंदे आणि अजित पवार",
-        "एकनाथ शिंदे आणि सुनेत्रा पवार",
-        "अजित पवार आणि छगन भुजबळ",
-        "शरद पवार आणि उद्धव ठाकरे"
+        "पुडुचेरी को-ऑपरेटिव्ह अर्बन बँक",
+        "महाराष्ट्र राज्य सहकारी बँक",
+        "सारस्वत बँक",
+        "अभ्युदय को-ऑपरेटिव्ह बँक"
       ],
-      "correctAnswer": 1,
-      "explanation": "महाराष्ट्राचे मुख्यमंत्री देवेंद्र फडणवीस आणि उपमुख्यमंत्री एकनाथ शिंदे व सुनेत्रा पवार यांनी नुकतीच राष्ट्रपती द्रौपदी मुर्मू यांची नवी दिल्लीत सदिच्छा भेट घेतली.",
+      "correctAnswer": 0,
+      "explanation": "RBI ने पुडुचेरी को-ऑपरेटिव्ह अर्बन बँकेवर अनेक निर्बंध लादले आहेत, ज्यामध्ये आर्थिक स्थैर्य राखण्यासाठी ग्राहकांना जास्तीत जास्त ५,००० रुपये काढण्याची मर्यादा निश्चित केली आहे.",
+      "category": "Economy",
+      "difficulty": "medium",
+      "sourceUrl": "https://www.thehindu.com/"
+    },
+    {
+      "id": "ca_20261023_02",
+      "question": "Who has been recently given the additional charge as the acting chairperson of the Maharashtra Public Service Commission (MPSC)?",
+      "options": [
+        "सतीश वाघोले",
+        "विवेक भीमनवार",
+        "रंजन शर्मा",
+        "किशोर राजे"
+      ],
+      "correctAnswer": 0,
+      "explanation": "पेपरफुटी प्रकरणाच्या चौकशीच्या पार्श्वभूमीवर विवेक भीमनवार रजेवर गेल्यानंतर सतीश वाघोले यांच्याकडे MPSC च्या प्रभारी अध्यक्षपदाचा अतिरिक्त कार्यभार सोपवण्यात आला आहे.",
+      "category": "Maharashtra",
+      "difficulty": "medium",
+      "sourceUrl": "https://timesofindia.indiatimes.com/"
+    },
+    {
+      "id": "ca_20261023_03",
+      "question": "Which recent Supreme Court action halted the urban local body elections in a southern Indian state?",
+      "options": [
+        "आंध्र प्रदेश नगरपालिकेच्या निवडणुकांना स्थगिती",
+        "कर्नाटक जिल्हा परिषद निवडणुका पुढे ढकलल्या",
+        "तामिळनाडू स्थानिक स्वराज्य संस्था स्थगित",
+        "केरळ ग्रामपंचायत निवडणूक रद्द"
+      ],
+      "correctAnswer": 0,
+      "explanation": "सर्वोच्च न्यायालयाने एक आदेश जारी करून आंध्र प्रदेशातील शहरी स्थानिक स्वराज्य संस्थांच्या निवडणुकांना तात्पुरती स्थगिती दिली आणि ७२ प्रभागांमध्ये पुन्हा उमेदवारी अर्ज भरण्याची प्रक्रिया सुरू केली.",
+      "category": "Polity",
+      "difficulty": "medium",
+      "sourceUrl": "https://www.indiatoday.in/"
+    },
+    {
+      "id": "ca_20261023_04",
+      "question": "Which country recently defeated New Zealand in a T20 match where Sanju Samson scored a crucial half-century?",
+      "options": [
+        "भारत",
+        "ऑस्ट्रेलिया",
+        "इंग्लंड",
+        "दक्षिण आफ्रिका"
+      ],
+      "correctAnswer": 0,
+      "explanation": "नुकत्याच झालेल्या टी-२० सामन्यात भारताने न्यूझीलंडचा पराभव केला, ज्यामध्ये संजू सॅमसनने आक्रमक फलंदाजी करत महत्त्वाचे अर्धशतक झळकावले.",
+      "category": "Sports",
+      "difficulty": "easy",
+      "sourceUrl": "https://marathi.abplive.com/"
+    },
+    {
+      "id": "ca_20261023_05",
+      "question": "How much gold reserves are currently held within India out of the RBI's total 880.52 tonnes according to recent reports?",
+      "options": [
+        "६८०.०५ टन",
+        "४००.२० टन",
+        "७५०.५० टन",
+        "५२०.१५ टन"
+      ],
+      "correctAnswer": 0,
+      "explanation": "ताज्या अहवालानुसार, RBI आपल्या एकूण सुवर्णसाठ्यापैकी ७७% साठा देशातच ठेवते, जे एकूण ८८०.५२ टन पैकी ६८०.०५ टन आहे.",
+      "category": "Economy",
+      "difficulty": "hard",
+      "sourceUrl": "https://divyamarathi.bhaskar.com/"
+    },
+    {
+      "id": "ca_20261023_06",
+      "question": "Which infrastructure project was recently inaugurated by the Maharashtra Chief Minister in Mumbai to ease traffic congestion and reduce cross-city travel time?",
+      "options": [
+        "मुंबईत तीन उड्डाणपूल",
+        "कोस्टल रोड टप्पा २",
+        "नवी मुंबई मेट्रो लाइन १",
+        "ठाणे खाडी पूल विस्तार"
+      ],
+      "correctAnswer": 0,
+      "explanation": "महाराष्ट्राच्या मुख्यमंत्र्यांनी नुकतेच मुंबईतील वाहतूक कोंडी कमी करण्यासाठी आणि शहरांतर्गत प्रवासाचा वेळ ५०-६० मिनिटांपर्यंत कमी करण्याच्या उद्देशाने तीन उड्डाणपुलांचे उद्घाटन केले.",
       "category": "Maharashtra",
       "difficulty": "easy",
-      "sourceUrl": "https://newsonair.gov.in/"
+      "sourceUrl": "https://government.economictimes.indiatimes.com/"
     },
     {
-      "id": "ca_20261022_02",
-      "question": "Which new infrastructure projects are scheduled to be opened for the public in Mumbai to ease traffic congestion?",
+      "id": "ca_20261023_07",
+      "question": "What is the significant instruction recently given by the Maharashtra state government regarding expenditure across all departments?",
       "options": [
-        "वांद्रे-वरळी सी लिंकचा विस्तार",
-        "सायन, विद्याविहार आणि गोरेगाव उड्डाणपूल",
-        "कोस्टल रोडचा दुसरा टप्पा",
-        "नवी मुंबई मेट्रो लाइन"
+        "खर्चात २० टक्के कपात",
+        "आयटी खर्चात १० टक्के वाढ",
+        "नवीन भरतीवर पूर्ण बंदी",
+        "प्रवास भत्त्यात ५० टक्के कपात"
       ],
-      "correctAnswer": 1,
-      "explanation": "मुंबईतील वाहतूक कोंडी सोडवण्यासाठी सायन, विद्याविहार आणि गोरेगाव येथील नवीन उड्डाणपूल सर्वसामान्यांसाठी खुले करण्यात येणार आहेत.",
+      "correctAnswer": 0,
+      "explanation": "महाराष्ट्र राज्य सरकारने एक मोठा आर्थिक निर्णय घेत सर्व विभागांच्या खर्चात २० टक्के कपात करण्याचे निर्देश दिले आहेत.",
       "category": "Maharashtra",
-      "difficulty": "medium",
-      "sourceUrl": "https://www.ndtvprofit.com/"
-    },
-    {
-      "id": "ca_20261022_03",
-      "question": "The Supreme Court of India recently recognised which specific right of children in a landmark judgment?",
-      "options": [
-        "शिक्षणाचा हक्क",
-        "इंटरनेट प्रवेशाचा हक्क",
-        "मोफत आरोग्याचा हक्क",
-        "मालमत्तेचा हक्क"
-      ],
-      "correctAnswer": 1,
-      "explanation": "भारताच्या सर्वोच्च न्यायालयाने एका महत्त्वपूर्ण निर्णयात बालकांच्या इंटरनेट प्रवेशाच्या अधिकाराला मूलभूत हक्क म्हणून मान्यता दिली आहे.",
-      "category": "Polity",
       "difficulty": "hard",
-      "sourceUrl": "https://dig.watch/"
+      "sourceUrl": "https://www.saamtv.com/"
     },
     {
-      "id": "ca_20261022_04",
-      "question": "Where was the new bench of the High Court of Jammu & Kashmir and Ladakh recently inaugurated by the Chief Justice of India?",
+      "id": "ca_20261023_08",
+      "question": "The Supreme Court recently asked the Centre and the Election Commission for a response on a petition challenging a provision related to what?",
       "options": [
-        "श्रीनगर",
-        "कारगिल",
-        "लेह",
-        "जम्मू"
+        "निवडणूक आयुक्तांना दिलेले कायदेशीर संरक्षण",
+        "मतदानाची वयोमर्यादा",
+        "EVM मशीनचा वापर",
+        "राजकीय पक्षांना निधी"
       ],
-      "correctAnswer": 2,
-      "explanation": "भारताचे सरन्यायाधीश यांनी लडाखमधील लेह येथे जम्मू आणि काश्मीर तसेच लडाख उच्च न्यायालयाच्या नवीन खंडपीठाचे उद्घाटन केले.",
-      "category": "Polity",
-      "difficulty": "easy",
-      "sourceUrl": "https://ladakh.nic.in/"
-    },
-    {
-      "id": "ca_20261022_05",
-      "question": "In which state did the Supreme Court direct the State Election Commission to postpone the publication of the final candidate list for urban local body polls?",
-      "options": [
-        "महाराष्ट्र",
-        "कर्नाटक",
-        "आंध्र प्रदेश",
-        "तेलंगणा"
-      ],
-      "correctAnswer": 2,
-      "explanation": "सर्वोच्च न्यायालयाने आंध्र प्रदेश राज्य निवडणूक आयोगाला शहरी स्थानिक स्वराज्य संस्थांच्या निवडणुकांसाठी उमेदवारांची अंतिम यादी प्रसिद्ध करण्यास स्थगिती देण्याचे निर्देश दिले.",
+      "correctAnswer": 0,
+      "explanation": "निवडणूक आयुक्तांना देण्यात आलेल्या कायदेशीर संरक्षणाला आव्हान देणाऱ्या याचिकेवर सर्वोच्च न्यायालयाने केंद्र सरकार आणि निवडणूक आयोगाकडून उत्तर मागितले आहे.",
       "category": "Polity",
       "difficulty": "medium",
-      "sourceUrl": "https://www.livelaw.in/"
+      "sourceUrl": "https://divyamarathi.bhaskar.com/"
     },
     {
-      "id": "ca_20261022_06",
-      "question": "Which countries will host the ICC U19 Women's T20 World Cup in 2027?",
+      "id": "ca_20261023_09",
+      "question": "Which important test for the Gaganyaan Programme was recently successfully completed by ISRO?",
       "options": [
-        "भारत आणि श्रीलंका",
-        "ऑस्ट्रेलिया आणि न्यूझीलंड",
-        "बांगलादेश आणि नेपाळ",
-        "दक्षिण आफ्रिका आणि झिम्बाब्वे"
+        "क्रू मॉड्यूल-सर्व्हिस मॉड्यूल सेपरेशन चाचणी",
+        "लाँच व्हेईकल मार्क-३ इग्निशन चाचणी",
+        "बंगालच्या उपसागरात अंतराळवीर पुनर्प्राप्ती प्रोटोकॉल",
+        "सॉलिड रॉकेट बूस्टर स्टॅटिक चाचणी"
       ],
-      "correctAnswer": 2,
-      "explanation": "आंतरराष्ट्रीय क्रिकेट परिषदेने (ICC) जाहीर केले आहे की २०२७ चा १९ वर्षांखालील महिला टी-२० विश्वचषक बांगलादेश आणि नेपाळमध्ये संयुक्तपणे आयोजित केला जाईल.",
-      "category": "Sports",
-      "difficulty": "medium",
-      "sourceUrl": "https://www.icc-cricket.com/"
-    },
-    {
-      "id": "ca_20261022_07",
-      "question": "Which cities have been named by World Aquatics as the hosts for the 2027 Swimming World Cup?",
-      "options": [
-        "टोकियो, बीजिंग आणि सेऊल",
-        "बर्लिन, पॅरिस आणि लंडन",
-        "लॉस एंजेलिस, न्यूयॉर्क आणि टोरंटो",
-        "सिडनी, मेलबर्न आणि पर्थ"
-      ],
-      "correctAnswer": 1,
-      "explanation": "वर्ल्ड अक्वेटिक्सने २०२७ च्या जलतरण विश्वचषकाचे यजमान म्हणून युरोपातील बर्लिन, पॅरिस आणि लंडन या तीन प्रमुख शहरांची निवड केली आहे.",
-      "category": "Sports",
-      "difficulty": "medium",
-      "sourceUrl": "https://sportstar.thehindu.com/"
-    },
-    {
-      "id": "ca_20261022_08",
-      "question": "According to the latest UN report, by what percentage must the world cut emissions in the next four years to bring global warming back on track?",
-      "options": [
-        "१०%",
-        "१२%",
-        "१५%",
-        "१८%"
-      ],
-      "correctAnswer": 3,
-      "explanation": "संयुक्त राष्ट्रांच्या (UN) ताज्या अहवालानुसार, हवामान बदलावर नियंत्रण मिळवण्यासाठी जगाला येत्या चार वर्षांत कार्बन उत्सर्जनात १८% कपात करणे आवश्यक आहे.",
-      "category": "Environment",
-      "difficulty": "hard",
-      "sourceUrl": "https://www.theguardian.com/"
-    },
-    {
-      "id": "ca_20261022_09",
-      "question": "Which major technology company is expanding its model choice and flexibility by bringing OpenAI models to its cloud customers?",
-      "options": [
-        "ॲमेझॉन वेब सर्व्हिसेस",
-        "मायक्रोसॉफ्ट अझर",
-        "गुगल क्लाउड",
-        "आयबीएम क्लाउड"
-      ],
-      "correctAnswer": 2,
-      "explanation": "गुगल क्लाउडने आपल्या ग्राहकांना अधिक पर्याय उपलब्ध करून देण्यासाठी त्यांच्या प्लॅटफॉर्मवर ओपनएआयचे मॉडेल्स आणण्याची घोषणा केली आहे.",
+      "correctAnswer": 0,
+      "explanation": "इस्रोने नुकतीच क्रू मॉड्यूल-सर्व्हिस मॉड्यूल सेपरेशन चाचणी यशस्वीरीत्या पूर्ण केली, जी भारताच्या आगामी गगनयान मानवी अंतराळ मोहिमेसाठी एक महत्त्वपूर्ण टप्पा आहे.",
       "category": "Science & Tech",
       "difficulty": "medium",
-      "sourceUrl": "https://cloud.google.com/"
+      "sourceUrl": "https://www.isro.gov.in/"
     },
     {
-      "id": "ca_20261022_10",
-      "question": "What is the name of the critical bug recently discovered by AI that puts up to 70% of the world's websites at risk?",
+      "id": "ca_20261023_10",
+      "question": "Who was appointed as the new Governor of Uttarakhand who recently met with Prime Minister Narendra Modi?",
       "options": [
-        "लॉग४जे",
-        "हार्टब्लीड",
-        "पीएचपी२शेल",
-        "वानाक्राय"
+        "ढाल सिंह बिसेन",
+        "गुरमीत सिंग",
+        "बेबी राणी मौर्य",
+        "कृष्ण कांत पॉल"
       ],
-      "correctAnswer": 2,
-      "explanation": "कृत्रिम बुद्धिमत्तेने (AI) 'PHP2Shell' नावाचा एक गंभीर दोष शोधून काढला आहे, ज्यामुळे जगातील सुमारे ७०% वेबसाइट्सना धोका निर्माण होऊ शकतो.",
-      "category": "Science & Tech",
+      "correctAnswer": 0,
+      "explanation": "उत्तराखंडचे नवनियुक्त राज्यपाल ढाल सिंह बिसेन यांनी नुकतीच पंतप्रधान नरेंद्र मोदी यांची अधिकृत भेट घेतली.",
+      "category": "Polity",
       "difficulty": "easy",
-      "sourceUrl": "https://www.moneycontrol.com/"
+      "sourceUrl": "https://ddnews.gov.in/"
     }
   ],
   "totalQuestions": 10,
