@@ -1,158 +1,158 @@
 {
-  "date": "2026-10-23",
+  "date": "2026-10-24",
   "topic": "Current Affairs",
-  "source": "Lokmat, Maharashtra Times, ABP Majha, Sakal, Google News",
-  "lastUpdated": "2026-10-23T01:30:32+05:30",
+  "source": "ETV Bharat, Agrowon, Saam Tv, Prahaar, Dainik Prabhat, Divya Marathi, TV9 Marathi, navarashtra",
+  "lastUpdated": "2026-10-24T08:00:00+05:30",
   "quiz": [
     {
-      "id": "ca_20261023_01",
-      "question": "Which major bank recently restricted its operations allowing customers to withdraw only Rs 5,000 as per RBI guidelines?",
+      "id": "ca_20261024_01",
+      "question": "Which state government has decided to provide reservation for 282 ex-Agniveers as coastal police constables?",
       "options": [
-        "पुडुचेरी को-ऑपरेटिव्ह अर्बन बँक",
-        "महाराष्ट्र राज्य सहकारी बँक",
-        "सारस्वत बँक",
-        "अभ्युदय को-ऑपरेटिव्ह बँक"
+        "गुजरात",
+        "महाराष्ट्र",
+        "गोवा",
+        "कर्नाटक"
       ],
-      "correctAnswer": 0,
-      "explanation": "RBI ने पुडुचेरी को-ऑपरेटिव्ह अर्बन बँकेवर अनेक निर्बंध लादले आहेत, ज्यामध्ये आर्थिक स्थैर्य राखण्यासाठी ग्राहकांना जास्तीत जास्त ५,००० रुपये काढण्याची मर्यादा निश्चित केली आहे.",
-      "category": "Economy",
-      "difficulty": "medium",
-      "sourceUrl": "https://www.thehindu.com/"
-    },
-    {
-      "id": "ca_20261023_02",
-      "question": "Who has been recently given the additional charge as the acting chairperson of the Maharashtra Public Service Commission (MPSC)?",
-      "options": [
-        "सतीश वाघोले",
-        "विवेक भीमनवार",
-        "रंजन शर्मा",
-        "किशोर राजे"
-      ],
-      "correctAnswer": 0,
-      "explanation": "पेपरफुटी प्रकरणाच्या चौकशीच्या पार्श्वभूमीवर विवेक भीमनवार रजेवर गेल्यानंतर सतीश वाघोले यांच्याकडे MPSC च्या प्रभारी अध्यक्षपदाचा अतिरिक्त कार्यभार सोपवण्यात आला आहे.",
+      "correctAnswer": 1,
+      "explanation": "महाराष्ट्र राज्य सरकारने २८२ माजी अग्निवीरांना सागरी पोलीस (Coastal Police) शिपाई म्हणून थेट नियुक्ती देण्याचा मोठा निर्णय घेतला आहे.",
       "category": "Maharashtra",
-      "difficulty": "medium",
-      "sourceUrl": "https://timesofindia.indiatimes.com/"
-    },
-    {
-      "id": "ca_20261023_03",
-      "question": "Which recent Supreme Court action halted the urban local body elections in a southern Indian state?",
-      "options": [
-        "आंध्र प्रदेश नगरपालिकेच्या निवडणुकांना स्थगिती",
-        "कर्नाटक जिल्हा परिषद निवडणुका पुढे ढकलल्या",
-        "तामिळनाडू स्थानिक स्वराज्य संस्था स्थगित",
-        "केरळ ग्रामपंचायत निवडणूक रद्द"
-      ],
-      "correctAnswer": 0,
-      "explanation": "सर्वोच्च न्यायालयाने एक आदेश जारी करून आंध्र प्रदेशातील शहरी स्थानिक स्वराज्य संस्थांच्या निवडणुकांना तात्पुरती स्थगिती दिली आणि ७२ प्रभागांमध्ये पुन्हा उमेदवारी अर्ज भरण्याची प्रक्रिया सुरू केली.",
-      "category": "Polity",
-      "difficulty": "medium",
-      "sourceUrl": "https://www.indiatoday.in/"
-    },
-    {
-      "id": "ca_20261023_04",
-      "question": "Which country recently defeated New Zealand in a T20 match where Sanju Samson scored a crucial half-century?",
-      "options": [
-        "भारत",
-        "ऑस्ट्रेलिया",
-        "इंग्लंड",
-        "दक्षिण आफ्रिका"
-      ],
-      "correctAnswer": 0,
-      "explanation": "नुकत्याच झालेल्या टी-२० सामन्यात भारताने न्यूझीलंडचा पराभव केला, ज्यामध्ये संजू सॅमसनने आक्रमक फलंदाजी करत महत्त्वाचे अर्धशतक झळकावले.",
-      "category": "Sports",
       "difficulty": "easy",
-      "sourceUrl": "https://marathi.abplive.com/"
+      "sourceUrl": "https://www.etvbharat.com/"
     },
     {
-      "id": "ca_20261023_05",
-      "question": "How much gold reserves are currently held within India out of the RBI's total 880.52 tonnes according to recent reports?",
+      "id": "ca_20261024_02",
+      "question": "The 24th installment of which Prime Minister scheme is set to be deposited into farmers' accounts on October 30 before Diwali?",
       "options": [
-        "६८०.०५ टन",
-        "४००.२० टन",
-        "७५०.५० टन",
-        "५२०.१५ टन"
+        "PM पीक विमा योजना",
+        "PM कृषी सिंचन योजना",
+        "PM मानधन योजना",
+        "PM किसान सन्मान निधी"
+      ],
+      "correctAnswer": 3,
+      "explanation": "पंतप्रधान किसान सन्मान निधी (PM Kisan) योजनेचा २४ वा हप्ता, जो प्रत्येकी २००० रुपयांचा आहे, तो ३० ऑक्टोबर रोजी शेतकऱ्यांच्या खात्यात जमा होणार आहे.",
+      "category": "Economy",
+      "difficulty": "easy",
+      "sourceUrl": "https://www.agrowon.com/"
+    },
+    {
+      "id": "ca_20261024_03",
+      "question": "With which European country did India recently sign 4 agreements aiming to double bilateral trade by 2030?",
+      "options": [
+        "जर्मनी",
+        "पोलंड",
+        "फ्रान्स",
+        "इटली"
+      ],
+      "correctAnswer": 1,
+      "explanation": "भारत आणि पोलंड यांच्यात नुकतेच ४ महत्त्वाचे करार झाले असून, २०३० पर्यंत दोन्ही देशांमधील व्यापार दुप्पट करण्याचे लक्ष्य ठेवण्यात आले आहे.",
+      "category": "International",
+      "difficulty": "medium",
+      "sourceUrl": "https://www.dainikprabhat.com/"
+    },
+    {
+      "id": "ca_20261024_04",
+      "question": "Which country recently signed the 'Badr' defense pact with Turkey, Qatar, and Indonesia?",
+      "options": [
+        "इराण",
+        "पाकिस्तान",
+        "सौदी अरेबिया",
+        "मलेशिया"
+      ],
+      "correctAnswer": 1,
+      "explanation": "पाकिस्तानने तुर्की, कतार आणि इंडोनेशिया या देशांसोबत 'बद्र' या नवीन संरक्षण करारावर स्वाक्षरी केली असून यातून संयुक्त शस्त्रनिर्मिती केली जाणार आहे.",
+      "category": "International",
+      "difficulty": "hard",
+      "sourceUrl": "https://www.tv9marathi.com/"
+    },
+    {
+      "id": "ca_20261024_05",
+      "question": "Who won the Gold medal for India in Javelin Throw at the recent Asian Para Games?",
+      "options": [
+        "सुमित अंतिल",
+        "देवेंद्र झाझरिया",
+        "संदीप चौधरी",
+        "अजित सिंग"
       ],
       "correctAnswer": 0,
-      "explanation": "ताज्या अहवालानुसार, RBI आपल्या एकूण सुवर्णसाठ्यापैकी ७७% साठा देशातच ठेवते, जे एकूण ८८०.५२ टन पैकी ६८०.०५ टन आहे.",
-      "category": "Economy",
-      "difficulty": "hard",
+      "explanation": "नुकत्याच झालेल्या आशियाई पॅरा क्रीडा स्पर्धेत भारताच्या सुमित अंतिलने भालाफेक (Javelin Throw) क्रीडा प्रकारात सुवर्णपदक पटकावले आहे.",
+      "category": "Sports",
+      "difficulty": "medium",
+      "sourceUrl": "https://www.navarashtra.com/"
+    },
+    {
+      "id": "ca_20261024_06",
+      "question": "The duo Sheetal-Tomar won a gold medal for India at the Asian Para Games in which sport?",
+      "options": [
+        "नेमबाजी",
+        "तिरंदाजी",
+        "बॅडमिंटन",
+        "जलतरण"
+      ],
+      "correctAnswer": 1,
+      "explanation": "पॅरा आशियाई गेम्समध्ये भारताच्या शीतल आणि तोमर या जोडीने तिरंदाजी (Archery) स्पर्धेत सुवर्णपदक जिंकले आहे.",
+      "category": "Sports",
+      "difficulty": "medium",
       "sourceUrl": "https://divyamarathi.bhaskar.com/"
     },
     {
-      "id": "ca_20261023_06",
-      "question": "Which infrastructure project was recently inaugurated by the Maharashtra Chief Minister in Mumbai to ease traffic congestion and reduce cross-city travel time?",
+      "id": "ca_20261024_07",
+      "question": "Which state government recently declared 'Loktak Lake Day' as a State Festival for its conservation?",
       "options": [
-        "मुंबईत तीन उड्डाणपूल",
-        "कोस्टल रोड टप्पा २",
-        "नवी मुंबई मेट्रो लाइन १",
-        "ठाणे खाडी पूल विस्तार"
+        "मेघालय",
+        "आसाम",
+        "मणिपूर",
+        "त्रिपुरा"
       ],
-      "correctAnswer": 0,
-      "explanation": "महाराष्ट्राच्या मुख्यमंत्र्यांनी नुकतेच मुंबईतील वाहतूक कोंडी कमी करण्यासाठी आणि शहरांतर्गत प्रवासाचा वेळ ५०-६० मिनिटांपर्यंत कमी करण्याच्या उद्देशाने तीन उड्डाणपुलांचे उद्घाटन केले.",
-      "category": "Maharashtra",
-      "difficulty": "easy",
-      "sourceUrl": "https://government.economictimes.indiatimes.com/"
+      "correctAnswer": 2,
+      "explanation": "मणिपूर सरकारने राज्यातील प्रसिद्ध लोकटक तलावाच्या संवर्धनासाठी 'लोकटक दिन' आता राज्य महोत्सव म्हणून साजरा करण्याचा मोठा निर्णय घेतला आहे.",
+      "category": "Environment",
+      "difficulty": "medium",
+      "sourceUrl": "https://www.prahaar.in/"
     },
     {
-      "id": "ca_20261023_07",
-      "question": "What is the significant instruction recently given by the Maharashtra state government regarding expenditure across all departments?",
+      "id": "ca_20261024_08",
+      "question": "In a sudden shuffle, how many IPS and DANIPS officers were recently transferred in Delhi Police?",
       "options": [
-        "खर्चात २० टक्के कपात",
-        "आयटी खर्चात १० टक्के वाढ",
-        "नवीन भरतीवर पूर्ण बंदी",
-        "प्रवास भत्त्यात ५० टक्के कपात"
+        "१५",
+        "२०",
+        "२५",
+        "३०"
       ],
-      "correctAnswer": 0,
-      "explanation": "महाराष्ट्र राज्य सरकारने एक मोठा आर्थिक निर्णय घेत सर्व विभागांच्या खर्चात २० टक्के कपात करण्याचे निर्देश दिले आहेत.",
-      "category": "Maharashtra",
+      "correctAnswer": 2,
+      "explanation": "दिल्ली पोलिसांमध्ये नुकताच मोठा फेरबदल करण्यात आला असून, यामध्ये २५ आयपीएस (IPS) आणि डॅनिक्स (DANIPS) अधिकाऱ्यांच्या अचानक बदल्या करण्यात आल्या आहेत.",
+      "category": "Polity",
       "difficulty": "hard",
       "sourceUrl": "https://www.saamtv.com/"
     },
     {
-      "id": "ca_20261023_08",
-      "question": "The Supreme Court recently asked the Centre and the Election Commission for a response on a petition challenging a provision related to what?",
+      "id": "ca_20261024_09",
+      "question": "Which proposed airport project in Maharashtra recently completed 96% of its land acquisition?",
       "options": [
-        "निवडणूक आयुक्तांना दिलेले कायदेशीर संरक्षण",
-        "मतदानाची वयोमर्यादा",
-        "EVM मशीनचा वापर",
-        "राजकीय पक्षांना निधी"
+        "नवी मुंबई विमानतळ",
+        "पुरंदर विमानतळ",
+        "शिर्डी विमानतळ",
+        "सिंधुदुर्ग विमानतळ"
       ],
-      "correctAnswer": 0,
-      "explanation": "निवडणूक आयुक्तांना देण्यात आलेल्या कायदेशीर संरक्षणाला आव्हान देणाऱ्या याचिकेवर सर्वोच्च न्यायालयाने केंद्र सरकार आणि निवडणूक आयोगाकडून उत्तर मागितले आहे.",
-      "category": "Polity",
+      "correctAnswer": 1,
+      "explanation": "पुण्याजवळील प्रस्तावित पुरंदर विमानतळ प्रकल्पासाठी ९६ टक्के भूसंपादन पूर्ण झाले असून, उर्वरित जमिनींचे सक्तीने भूसंपादन केले जाणार आहे.",
+      "category": "Maharashtra",
       "difficulty": "medium",
-      "sourceUrl": "https://divyamarathi.bhaskar.com/"
+      "sourceUrl": "https://www.etvbharat.com/"
     },
     {
-      "id": "ca_20261023_09",
-      "question": "Which important test for the Gaganyaan Programme was recently successfully completed by ISRO?",
+      "id": "ca_20261024_10",
+      "question": "Who recently stood first in India in the CA (Chartered Accountant) exam results, sharing the top spot with Mumbai's Neil Shah?",
       "options": [
-        "क्रू मॉड्यूल-सर्व्हिस मॉड्यूल सेपरेशन चाचणी",
-        "लाँच व्हेईकल मार्क-३ इग्निशन चाचणी",
-        "बंगालच्या उपसागरात अंतराळवीर पुनर्प्राप्ती प्रोटोकॉल",
-        "सॉलिड रॉकेट बूस्टर स्टॅटिक चाचणी"
+        "साक्षी चांडक",
+        "अदिती शर्मा",
+        "नेहा बोरा",
+        "प्रियांका पाटील"
       ],
       "correctAnswer": 0,
-      "explanation": "इस्रोने नुकतीच क्रू मॉड्यूल-सर्व्हिस मॉड्यूल सेपरेशन चाचणी यशस्वीरीत्या पूर्ण केली, जी भारताच्या आगामी गगनयान मानवी अंतराळ मोहिमेसाठी एक महत्त्वपूर्ण टप्पा आहे.",
-      "category": "Science & Tech",
-      "difficulty": "medium",
-      "sourceUrl": "https://www.isro.gov.in/"
-    },
-    {
-      "id": "ca_20261023_10",
-      "question": "Who was appointed as the new Governor of Uttarakhand who recently met with Prime Minister Narendra Modi?",
-      "options": [
-        "ढाल सिंह बिसेन",
-        "गुरमीत सिंग",
-        "बेबी राणी मौर्य",
-        "कृष्ण कांत पॉल"
-      ],
-      "correctAnswer": 0,
-      "explanation": "उत्तराखंडचे नवनियुक्त राज्यपाल ढाल सिंह बिसेन यांनी नुकतीच पंतप्रधान नरेंद्र मोदी यांची अधिकृत भेट घेतली.",
-      "category": "Polity",
+      "explanation": "नुकत्याच जाहीर झालेल्या सीए (CA) परीक्षेच्या निकालात नाशिकच्या साक्षी चांडक हिने मुंबईच्या नील शाहसोबत देशात प्रथम क्रमांक पटकावला आहे.",
+      "category": "Miscellaneous",
       "difficulty": "easy",
-      "sourceUrl": "https://ddnews.gov.in/"
+      "sourceUrl": "https://www.etvbharat.com/"
     }
   ],
   "totalQuestions": 10,
