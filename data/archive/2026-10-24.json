@@ -1,0 +1,160 @@
+{
+  "date": "2026-10-24",
+  "topic": "Current Affairs",
+  "source": "ETV Bharat, Agrowon, Saam Tv, Prahaar, Dainik Prabhat, Divya Marathi, TV9 Marathi, navarashtra",
+  "lastUpdated": "2026-10-24T08:00:00+05:30",
+  "quiz": [
+    {
+      "id": "ca_20261024_01",
+      "question": "Which state government has decided to provide reservation for 282 ex-Agniveers as coastal police constables?",
+      "options": [
+        "गुजरात",
+        "महाराष्ट्र",
+        "गोवा",
+        "कर्नाटक"
+      ],
+      "correctAnswer": 1,
+      "explanation": "महाराष्ट्र राज्य सरकारने २८२ माजी अग्निवीरांना सागरी पोलीस (Coastal Police) शिपाई म्हणून थेट नियुक्ती देण्याचा मोठा निर्णय घेतला आहे.",
+      "category": "Maharashtra",
+      "difficulty": "easy",
+      "sourceUrl": "https://www.etvbharat.com/"
+    },
+    {
+      "id": "ca_20261024_02",
+      "question": "The 24th installment of which Prime Minister scheme is set to be deposited into farmers' accounts on October 30 before Diwali?",
+      "options": [
+        "PM पीक विमा योजना",
+        "PM कृषी सिंचन योजना",
+        "PM मानधन योजना",
+        "PM किसान सन्मान निधी"
+      ],
+      "correctAnswer": 3,
+      "explanation": "पंतप्रधान किसान सन्मान निधी (PM Kisan) योजनेचा २४ वा हप्ता, जो प्रत्येकी २००० रुपयांचा आहे, तो ३० ऑक्टोबर रोजी शेतकऱ्यांच्या खात्यात जमा होणार आहे.",
+      "category": "Economy",
+      "difficulty": "easy",
+      "sourceUrl": "https://www.agrowon.com/"
+    },
+    {
+      "id": "ca_20261024_03",
+      "question": "With which European country did India recently sign 4 agreements aiming to double bilateral trade by 2030?",
+      "options": [
+        "जर्मनी",
+        "पोलंड",
+        "फ्रान्स",
+        "इटली"
+      ],
+      "correctAnswer": 1,
+      "explanation": "भारत आणि पोलंड यांच्यात नुकतेच ४ महत्त्वाचे करार झाले असून, २०३० पर्यंत दोन्ही देशांमधील व्यापार दुप्पट करण्याचे लक्ष्य ठेवण्यात आले आहे.",
+      "category": "International",
+      "difficulty": "medium",
+      "sourceUrl": "https://www.dainikprabhat.com/"
+    },
+    {
+      "id": "ca_20261024_04",
+      "question": "Which country recently signed the 'Badr' defense pact with Turkey, Qatar, and Indonesia?",
+      "options": [
+        "इराण",
+        "पाकिस्तान",
+        "सौदी अरेबिया",
+        "मलेशिया"
+      ],
+      "correctAnswer": 1,
+      "explanation": "पाकिस्तानने तुर्की, कतार आणि इंडोनेशिया या देशांसोबत 'बद्र' या नवीन संरक्षण करारावर स्वाक्षरी केली असून यातून संयुक्त शस्त्रनिर्मिती केली जाणार आहे.",
+      "category": "International",
+      "difficulty": "hard",
+      "sourceUrl": "https://www.tv9marathi.com/"
+    },
+    {
+      "id": "ca_20261024_05",
+      "question": "Who won the Gold medal for India in Javelin Throw at the recent Asian Para Games?",
+      "options": [
+        "सुमित अंतिल",
+        "देवेंद्र झाझरिया",
+        "संदीप चौधरी",
+        "अजित सिंग"
+      ],
+      "correctAnswer": 0,
+      "explanation": "नुकत्याच झालेल्या आशियाई पॅरा क्रीडा स्पर्धेत भारताच्या सुमित अंतिलने भालाफेक (Javelin Throw) क्रीडा प्रकारात सुवर्णपदक पटकावले आहे.",
+      "category": "Sports",
+      "difficulty": "medium",
+      "sourceUrl": "https://www.navarashtra.com/"
+    },
+    {
+      "id": "ca_20261024_06",
+      "question": "The duo Sheetal-Tomar won a gold medal for India at the Asian Para Games in which sport?",
+      "options": [
+        "नेमबाजी",
+        "तिरंदाजी",
+        "बॅडमिंटन",
+        "जलतरण"
+      ],
+      "correctAnswer": 1,
+      "explanation": "पॅरा आशियाई गेम्समध्ये भारताच्या शीतल आणि तोमर या जोडीने तिरंदाजी (Archery) स्पर्धेत सुवर्णपदक जिंकले आहे.",
+      "category": "Sports",
+      "difficulty": "medium",
+      "sourceUrl": "https://divyamarathi.bhaskar.com/"
+    },
+    {
+      "id": "ca_20261024_07",
+      "question": "Which state government recently declared 'Loktak Lake Day' as a State Festival for its conservation?",
+      "options": [
+        "मेघालय",
+        "आसाम",
+        "मणिपूर",
+        "त्रिपुरा"
+      ],
+      "correctAnswer": 2,
+      "explanation": "मणिपूर सरकारने राज्यातील प्रसिद्ध लोकटक तलावाच्या संवर्धनासाठी 'लोकटक दिन' आता राज्य महोत्सव म्हणून साजरा करण्याचा मोठा निर्णय घेतला आहे.",
+      "category": "Environment",
+      "difficulty": "medium",
+      "sourceUrl": "https://www.prahaar.in/"
+    },
+    {
+      "id": "ca_20261024_08",
+      "question": "In a sudden shuffle, how many IPS and DANIPS officers were recently transferred in Delhi Police?",
+      "options": [
+        "१५",
+        "२०",
+        "२५",
+        "३०"
+      ],
+      "correctAnswer": 2,
+      "explanation": "दिल्ली पोलिसांमध्ये नुकताच मोठा फेरबदल करण्यात आला असून, यामध्ये २५ आयपीएस (IPS) आणि डॅनिक्स (DANIPS) अधिकाऱ्यांच्या अचानक बदल्या करण्यात आल्या आहेत.",
+      "category": "Polity",
+      "difficulty": "hard",
+      "sourceUrl": "https://www.saamtv.com/"
+    },
+    {
+      "id": "ca_20261024_09",
+      "question": "Which proposed airport project in Maharashtra recently completed 96% of its land acquisition?",
+      "options": [
+        "नवी मुंबई विमानतळ",
+        "पुरंदर विमानतळ",
+        "शिर्डी विमानतळ",
+        "सिंधुदुर्ग विमानतळ"
+      ],
+      "correctAnswer": 1,
+      "explanation": "पुण्याजवळील प्रस्तावित पुरंदर विमानतळ प्रकल्पासाठी ९६ टक्के भूसंपादन पूर्ण झाले असून, उर्वरित जमिनींचे सक्तीने भूसंपादन केले जाणार आहे.",
+      "category": "Maharashtra",
+      "difficulty": "medium",
+      "sourceUrl": "https://www.etvbharat.com/"
+    },
+    {
+      "id": "ca_20261024_10",
+      "question": "Who recently stood first in India in the CA (Chartered Accountant) exam results, sharing the top spot with Mumbai's Neil Shah?",
+      "options": [
+        "साक्षी चांडक",
+        "अदिती शर्मा",
+        "नेहा बोरा",
+        "प्रियांका पाटील"
+      ],
+      "correctAnswer": 0,
+      "explanation": "नुकत्याच जाहीर झालेल्या सीए (CA) परीक्षेच्या निकालात नाशिकच्या साक्षी चांडक हिने मुंबईच्या नील शाहसोबत देशात प्रथम क्रमांक पटकावला आहे.",
+      "category": "Miscellaneous",
+      "difficulty": "easy",
+      "sourceUrl": "https://www.etvbharat.com/"
+    }
+  ],
+  "totalQuestions": 10,
+  "version": 1
+}
