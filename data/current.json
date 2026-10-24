@@ -1,160 +1,160 @@
 {
-  "date": "2026-10-24",
+  "date": "2026-10-25",
   "topic": "Current Affairs",
-  "source": "ETV Bharat, Agrowon, Saam Tv, Prahaar, Dainik Prabhat, Divya Marathi, TV9 Marathi, navarashtra",
-  "lastUpdated": "2026-10-24T08:00:00+05:30",
+  "source": "Google News, Divya Marathi, Prahaar",
+  "lastUpdated": "2026-10-25T08:00:00+05:30",
+  "totalQuestions": 10,
+  "version": 1,
   "quiz": [
     {
-      "id": "ca_20261024_01",
-      "question": "Which state government has decided to provide reservation for 282 ex-Agniveers as coastal police constables?",
+      "id": "ca_20261025_01",
+      "question": "Which two countries recently commenced the joint military exercise 'AUSTRAHIND-2026'?",
       "options": [
-        "गुजरात",
-        "महाराष्ट्र",
-        "गोवा",
-        "कर्नाटक"
+        "भारत आणि अमेरिका",
+        "भारत आणि ऑस्ट्रेलिया",
+        "भारत आणि जपान",
+        "भारत आणि न्यूझीलंड"
       ],
       "correctAnswer": 1,
-      "explanation": "महाराष्ट्र राज्य सरकारने २८२ माजी अग्निवीरांना सागरी पोलीस (Coastal Police) शिपाई म्हणून थेट नियुक्ती देण्याचा मोठा निर्णय घेतला आहे.",
-      "category": "Maharashtra",
+      "explanation": "भारत आणि ऑस्ट्रेलिया यांच्यात 'ऑस्ट्राहिंद-2026' हा संयुक्त लष्करी सराव नुकताच सुरू झाला आहे. हा सराव दोन्ही देशांमधील संरक्षण सहकार्य वाढवण्यासाठी महत्त्वपूर्ण आहे.",
+      "category": "International",
       "difficulty": "easy",
-      "sourceUrl": "https://www.etvbharat.com/"
+      "sourceUrl": "https://news.google.com/"
     },
     {
-      "id": "ca_20261024_02",
-      "question": "The 24th installment of which Prime Minister scheme is set to be deposited into farmers' accounts on October 30 before Diwali?",
+      "id": "ca_20261025_02",
+      "question": "Who has been reappointed as the Solicitor General of India for a term of three years?",
       "options": [
-        "PM पीक विमा योजना",
-        "PM कृषी सिंचन योजना",
-        "PM मानधन योजना",
-        "PM किसान सन्मान निधी"
+        "मुकुल रोहतगी",
+        "हरीश साळवे",
+        "तुषार मेहता",
+        "के. के. वेणुगोपाल"
+      ],
+      "correctAnswer": 2,
+      "explanation": "तुषार मेहता यांची सॉलिसिटर जनरल ऑफ इंडिया म्हणून पुढील तीन वर्षांसाठी फेरनियुक्ती करण्यात आली आहे. या नियुक्तीला मंत्रिमंडळाच्या नियुक्ती समितीने (ACC) मंजुरी दिली आहे.",
+      "category": "Polity",
+      "difficulty": "medium",
+      "sourceUrl": "https://news.google.com/"
+    },
+    {
+      "id": "ca_20261025_03",
+      "question": "Which country recently developed the world's first commercial brain chip?",
+      "options": [
+        "अमेरिका",
+        "जपान",
+        "दक्षिण कोरिया",
+        "चीन"
       ],
       "correctAnswer": 3,
-      "explanation": "पंतप्रधान किसान सन्मान निधी (PM Kisan) योजनेचा २४ वा हप्ता, जो प्रत्येकी २००० रुपयांचा आहे, तो ३० ऑक्टोबर रोजी शेतकऱ्यांच्या खात्यात जमा होणार आहे.",
-      "category": "Economy",
-      "difficulty": "easy",
-      "sourceUrl": "https://www.agrowon.com/"
-    },
-    {
-      "id": "ca_20261024_03",
-      "question": "With which European country did India recently sign 4 agreements aiming to double bilateral trade by 2030?",
-      "options": [
-        "जर्मनी",
-        "पोलंड",
-        "फ्रान्स",
-        "इटली"
-      ],
-      "correctAnswer": 1,
-      "explanation": "भारत आणि पोलंड यांच्यात नुकतेच ४ महत्त्वाचे करार झाले असून, २०३० पर्यंत दोन्ही देशांमधील व्यापार दुप्पट करण्याचे लक्ष्य ठेवण्यात आले आहे.",
-      "category": "International",
+      "explanation": "चीनने जगातील पहिली व्यावसायिक ब्रेन चिप विकसित केली आहे. हे तंत्रज्ञान वैद्यकीय आणि कृत्रिम बुद्धिमत्ता (AI) क्षेत्रात क्रांती घडवून आणू शकते.",
+      "category": "Science & Tech",
       "difficulty": "medium",
-      "sourceUrl": "https://www.dainikprabhat.com/"
+      "sourceUrl": "https://news.google.com/"
     },
     {
-      "id": "ca_20261024_04",
-      "question": "Which country recently signed the 'Badr' defense pact with Turkey, Qatar, and Indonesia?",
+      "id": "ca_20261025_04",
+      "question": "India has recently decided to purchase uranium from which country?",
       "options": [
-        "इराण",
-        "पाकिस्तान",
-        "सौदी अरेबिया",
-        "मलेशिया"
-      ],
-      "correctAnswer": 1,
-      "explanation": "पाकिस्तानने तुर्की, कतार आणि इंडोनेशिया या देशांसोबत 'बद्र' या नवीन संरक्षण करारावर स्वाक्षरी केली असून यातून संयुक्त शस्त्रनिर्मिती केली जाणार आहे.",
-      "category": "International",
-      "difficulty": "hard",
-      "sourceUrl": "https://www.tv9marathi.com/"
-    },
-    {
-      "id": "ca_20261024_05",
-      "question": "Who won the Gold medal for India in Javelin Throw at the recent Asian Para Games?",
-      "options": [
-        "सुमित अंतिल",
-        "देवेंद्र झाझरिया",
-        "संदीप चौधरी",
-        "अजित सिंग"
-      ],
-      "correctAnswer": 0,
-      "explanation": "नुकत्याच झालेल्या आशियाई पॅरा क्रीडा स्पर्धेत भारताच्या सुमित अंतिलने भालाफेक (Javelin Throw) क्रीडा प्रकारात सुवर्णपदक पटकावले आहे.",
-      "category": "Sports",
-      "difficulty": "medium",
-      "sourceUrl": "https://www.navarashtra.com/"
-    },
-    {
-      "id": "ca_20261024_06",
-      "question": "The duo Sheetal-Tomar won a gold medal for India at the Asian Para Games in which sport?",
-      "options": [
-        "नेमबाजी",
-        "तिरंदाजी",
-        "बॅडमिंटन",
-        "जलतरण"
-      ],
-      "correctAnswer": 1,
-      "explanation": "पॅरा आशियाई गेम्समध्ये भारताच्या शीतल आणि तोमर या जोडीने तिरंदाजी (Archery) स्पर्धेत सुवर्णपदक जिंकले आहे.",
-      "category": "Sports",
-      "difficulty": "medium",
-      "sourceUrl": "https://divyamarathi.bhaskar.com/"
-    },
-    {
-      "id": "ca_20261024_07",
-      "question": "Which state government recently declared 'Loktak Lake Day' as a State Festival for its conservation?",
-      "options": [
-        "मेघालय",
-        "आसाम",
-        "मणिपूर",
-        "त्रिपुरा"
+        "कॅनडा",
+        "कझाकस्तान",
+        "ऑस्ट्रेलिया",
+        "रशिया"
       ],
       "correctAnswer": 2,
-      "explanation": "मणिपूर सरकारने राज्यातील प्रसिद्ध लोकटक तलावाच्या संवर्धनासाठी 'लोकटक दिन' आता राज्य महोत्सव म्हणून साजरा करण्याचा मोठा निर्णय घेतला आहे.",
+      "explanation": "भारताने ऑस्ट्रेलियाकडून युरेनियम खरेदी करण्याचा निर्णय घेतला आहे. हा करार भारताच्या नागरी अणुऊर्जा कार्यक्रमाला चालना देण्यासाठी महत्त्वपूर्ण आहे.",
+      "category": "Economy",
+      "difficulty": "medium",
+      "sourceUrl": "https://news.google.com/"
+    },
+    {
+      "id": "ca_20261025_05",
+      "question": "The joint military exercise 'Veer Guardian 26' is conducted between India and which country?",
+      "options": [
+        "फ्रान्स",
+        "ब्रिटन",
+        "जपान",
+        "अमेरिका"
+      ],
+      "correctAnswer": 2,
+      "explanation": "'वीर गार्डियन 26' हा संयुक्त हवाई लष्करी सराव भारत आणि जपान यांच्यादरम्यान आयोजित केला जातो. हा सराव दोन्ही देशांमधील धोरणात्मक भागीदारी मजबूत करतो.",
+      "category": "International",
+      "difficulty": "easy",
+      "sourceUrl": "https://news.google.com/"
+    },
+    {
+      "id": "ca_20261025_06",
+      "question": "In which state/union territory will India's first Rock Art Conservation Park be established?",
+      "options": [
+        "जम्मू आणि काश्मीर",
+        "लडाख",
+        "हिमाचल प्रदेश",
+        "उत्तराखंड"
+      ],
+      "correctAnswer": 1,
+      "explanation": "लडाखमध्ये देशातील पहिले शैलचित्र संवर्धन उद्यान (Rock Art Conservation Park) उभारण्यात येणार आहे. हे उद्यान प्राचीन कलाकृतींचे जतन करण्यासाठी महत्त्वाचे ठरेल.",
       "category": "Environment",
       "difficulty": "medium",
-      "sourceUrl": "https://www.prahaar.in/"
+      "sourceUrl": "https://news.google.com/"
     },
     {
-      "id": "ca_20261024_08",
-      "question": "In a sudden shuffle, how many IPS and DANIPS officers were recently transferred in Delhi Police?",
+      "id": "ca_20261025_07",
+      "question": "Who has been appointed as India's new Ambassador to Oman?",
       "options": [
-        "१५",
-        "२०",
-        "२५",
-        "३०"
-      ],
-      "correctAnswer": 2,
-      "explanation": "दिल्ली पोलिसांमध्ये नुकताच मोठा फेरबदल करण्यात आला असून, यामध्ये २५ आयपीएस (IPS) आणि डॅनिक्स (DANIPS) अधिकाऱ्यांच्या अचानक बदल्या करण्यात आल्या आहेत.",
-      "category": "Polity",
-      "difficulty": "hard",
-      "sourceUrl": "https://www.saamtv.com/"
-    },
-    {
-      "id": "ca_20261024_09",
-      "question": "Which proposed airport project in Maharashtra recently completed 96% of its land acquisition?",
-      "options": [
-        "नवी मुंबई विमानतळ",
-        "पुरंदर विमानतळ",
-        "शिर्डी विमानतळ",
-        "सिंधुदुर्ग विमानतळ"
-      ],
-      "correctAnswer": 1,
-      "explanation": "पुण्याजवळील प्रस्तावित पुरंदर विमानतळ प्रकल्पासाठी ९६ टक्के भूसंपादन पूर्ण झाले असून, उर्वरित जमिनींचे सक्तीने भूसंपादन केले जाणार आहे.",
-      "category": "Maharashtra",
-      "difficulty": "medium",
-      "sourceUrl": "https://www.etvbharat.com/"
-    },
-    {
-      "id": "ca_20261024_10",
-      "question": "Who recently stood first in India in the CA (Chartered Accountant) exam results, sharing the top spot with Mumbai's Neil Shah?",
-      "options": [
-        "साक्षी चांडक",
-        "अदिती शर्मा",
-        "नेहा बोरा",
-        "प्रियांका पाटील"
+        "प्रशांत पिसे",
+        "रुचिरा कंबोज",
+        "तरणजीत सिंग संधू",
+        "हर्षवर्धन श्रृंगला"
       ],
       "correctAnswer": 0,
-      "explanation": "नुकत्याच जाहीर झालेल्या सीए (CA) परीक्षेच्या निकालात नाशिकच्या साक्षी चांडक हिने मुंबईच्या नील शाहसोबत देशात प्रथम क्रमांक पटकावला आहे.",
-      "category": "Miscellaneous",
+      "explanation": "प्रशांत पिसे यांची ओमानमधील भारताचे नवे राजदूत म्हणून नियुक्ती करण्यात आली आहे. ते यापूर्वी विविध महत्त्वपूर्ण राजनैतिक पदांवर कार्यरत होते.",
+      "category": "International",
+      "difficulty": "hard",
+      "sourceUrl": "https://news.google.com/"
+    },
+    {
+      "id": "ca_20261025_08",
+      "question": "Which former Indian cricket captain was recently honored with the highest award by the ICC?",
+      "options": [
+        "सचिन तेंडुलकर",
+        "महेंद्रसिंह धोनी",
+        "सौरव गांगुली",
+        "राहुल द्रविड"
+      ],
+      "correctAnswer": 2,
+      "explanation": "भारताचे माजी कर्णधार सौरव गांगुली यांना आंतरराष्ट्रीय क्रिकेट परिषदेचा (ICC) सर्वोच्च सन्मान प्रदान करण्यात आला आहे. त्यांनी क्रिकेट क्षेत्रात दिलेल्या योगदानाबद्दल हा गौरव करण्यात आला.",
+      "category": "Sports",
+      "difficulty": "medium",
+      "sourceUrl": "https://news.google.com/"
+    },
+    {
+      "id": "ca_20261025_09",
+      "question": "Which state recently launched 'Bharat Taxi', the country's first government-run cab service?",
+      "options": [
+        "महाराष्ट्र",
+        "केरळ",
+        "कर्नाटक",
+        "दिल्ली"
+      ],
+      "correctAnswer": 1,
+      "explanation": "केरळ सरकारने देशातील पहिली सरकारी कॅब सेवा 'केरळ सवारी' (प्रोटोटाइप म्हणून भारत टॅक्सी संकल्पनेवर आधारित) सुरू केली आहे. हा उपक्रम कॉर्पोरेट मक्तेदारी मोडून काढण्यासाठी सुरू करण्यात आला आहे.",
+      "category": "Economy",
+      "difficulty": "hard",
+      "sourceUrl": "https://news.google.com/"
+    },
+    {
+      "id": "ca_20261025_10",
+      "question": "Prime Minister Narendra Modi recently launched railway projects worth ₹13,000 crore in which state?",
+      "options": [
+        "गुजरात",
+        "उत्तर प्रदेश",
+        "महाराष्ट्र",
+        "मध्य प्रदेश"
+      ],
+      "correctAnswer": 2,
+      "explanation": "पंतप्रधान नरेंद्र मोदी यांनी नुकतीच महाराष्ट्रात ₹13,000 कोटींच्या विविध रेल्वे प्रकल्पांची सुरुवात केली. यामुळे राज्यातील दळणवळण आणि पायाभूत सुविधांना मोठी चालना मिळेल.",
+      "category": "Maharashtra",
       "difficulty": "easy",
-      "sourceUrl": "https://www.etvbharat.com/"
+      "sourceUrl": "https://news.google.com/"
     }
-  ],
-  "totalQuestions": 10,
-  "version": 1
+  ]
 }
