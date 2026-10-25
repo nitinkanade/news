@@ -1,0 +1,160 @@
+{
+  "date": "2026-10-25",
+  "topic": "Current Affairs",
+  "source": "Google News, Divya Marathi, Prahaar",
+  "lastUpdated": "2026-10-25T08:00:00+05:30",
+  "totalQuestions": 10,
+  "version": 1,
+  "quiz": [
+    {
+      "id": "ca_20261025_01",
+      "question": "Which two countries recently commenced the joint military exercise 'AUSTRAHIND-2026'?",
+      "options": [
+        "भारत आणि अमेरिका",
+        "भारत आणि ऑस्ट्रेलिया",
+        "भारत आणि जपान",
+        "भारत आणि न्यूझीलंड"
+      ],
+      "correctAnswer": 1,
+      "explanation": "भारत आणि ऑस्ट्रेलिया यांच्यात 'ऑस्ट्राहिंद-2026' हा संयुक्त लष्करी सराव नुकताच सुरू झाला आहे. हा सराव दोन्ही देशांमधील संरक्षण सहकार्य वाढवण्यासाठी महत्त्वपूर्ण आहे.",
+      "category": "International",
+      "difficulty": "easy",
+      "sourceUrl": "https://news.google.com/"
+    },
+    {
+      "id": "ca_20261025_02",
+      "question": "Who has been reappointed as the Solicitor General of India for a term of three years?",
+      "options": [
+        "मुकुल रोहतगी",
+        "हरीश साळवे",
+        "तुषार मेहता",
+        "के. के. वेणुगोपाल"
+      ],
+      "correctAnswer": 2,
+      "explanation": "तुषार मेहता यांची सॉलिसिटर जनरल ऑफ इंडिया म्हणून पुढील तीन वर्षांसाठी फेरनियुक्ती करण्यात आली आहे. या नियुक्तीला मंत्रिमंडळाच्या नियुक्ती समितीने (ACC) मंजुरी दिली आहे.",
+      "category": "Polity",
+      "difficulty": "medium",
+      "sourceUrl": "https://news.google.com/"
+    },
+    {
+      "id": "ca_20261025_03",
+      "question": "Which country recently developed the world's first commercial brain chip?",
+      "options": [
+        "अमेरिका",
+        "जपान",
+        "दक्षिण कोरिया",
+        "चीन"
+      ],
+      "correctAnswer": 3,
+      "explanation": "चीनने जगातील पहिली व्यावसायिक ब्रेन चिप विकसित केली आहे. हे तंत्रज्ञान वैद्यकीय आणि कृत्रिम बुद्धिमत्ता (AI) क्षेत्रात क्रांती घडवून आणू शकते.",
+      "category": "Science & Tech",
+      "difficulty": "medium",
+      "sourceUrl": "https://news.google.com/"
+    },
+    {
+      "id": "ca_20261025_04",
+      "question": "India has recently decided to purchase uranium from which country?",
+      "options": [
+        "कॅनडा",
+        "कझाकस्तान",
+        "ऑस्ट्रेलिया",
+        "रशिया"
+      ],
+      "correctAnswer": 2,
+      "explanation": "भारताने ऑस्ट्रेलियाकडून युरेनियम खरेदी करण्याचा निर्णय घेतला आहे. हा करार भारताच्या नागरी अणुऊर्जा कार्यक्रमाला चालना देण्यासाठी महत्त्वपूर्ण आहे.",
+      "category": "Economy",
+      "difficulty": "medium",
+      "sourceUrl": "https://news.google.com/"
+    },
+    {
+      "id": "ca_20261025_05",
+      "question": "The joint military exercise 'Veer Guardian 26' is conducted between India and which country?",
+      "options": [
+        "फ्रान्स",
+        "ब्रिटन",
+        "जपान",
+        "अमेरिका"
+      ],
+      "correctAnswer": 2,
+      "explanation": "'वीर गार्डियन 26' हा संयुक्त हवाई लष्करी सराव भारत आणि जपान यांच्यादरम्यान आयोजित केला जातो. हा सराव दोन्ही देशांमधील धोरणात्मक भागीदारी मजबूत करतो.",
+      "category": "International",
+      "difficulty": "easy",
+      "sourceUrl": "https://news.google.com/"
+    },
+    {
+      "id": "ca_20261025_06",
+      "question": "In which state/union territory will India's first Rock Art Conservation Park be established?",
+      "options": [
+        "जम्मू आणि काश्मीर",
+        "लडाख",
+        "हिमाचल प्रदेश",
+        "उत्तराखंड"
+      ],
+      "correctAnswer": 1,
+      "explanation": "लडाखमध्ये देशातील पहिले शैलचित्र संवर्धन उद्यान (Rock Art Conservation Park) उभारण्यात येणार आहे. हे उद्यान प्राचीन कलाकृतींचे जतन करण्यासाठी महत्त्वाचे ठरेल.",
+      "category": "Environment",
+      "difficulty": "medium",
+      "sourceUrl": "https://news.google.com/"
+    },
+    {
+      "id": "ca_20261025_07",
+      "question": "Who has been appointed as India's new Ambassador to Oman?",
+      "options": [
+        "प्रशांत पिसे",
+        "रुचिरा कंबोज",
+        "तरणजीत सिंग संधू",
+        "हर्षवर्धन श्रृंगला"
+      ],
+      "correctAnswer": 0,
+      "explanation": "प्रशांत पिसे यांची ओमानमधील भारताचे नवे राजदूत म्हणून नियुक्ती करण्यात आली आहे. ते यापूर्वी विविध महत्त्वपूर्ण राजनैतिक पदांवर कार्यरत होते.",
+      "category": "International",
+      "difficulty": "hard",
+      "sourceUrl": "https://news.google.com/"
+    },
+    {
+      "id": "ca_20261025_08",
+      "question": "Which former Indian cricket captain was recently honored with the highest award by the ICC?",
+      "options": [
+        "सचिन तेंडुलकर",
+        "महेंद्रसिंह धोनी",
+        "सौरव गांगुली",
+        "राहुल द्रविड"
+      ],
+      "correctAnswer": 2,
+      "explanation": "भारताचे माजी कर्णधार सौरव गांगुली यांना आंतरराष्ट्रीय क्रिकेट परिषदेचा (ICC) सर्वोच्च सन्मान प्रदान करण्यात आला आहे. त्यांनी क्रिकेट क्षेत्रात दिलेल्या योगदानाबद्दल हा गौरव करण्यात आला.",
+      "category": "Sports",
+      "difficulty": "medium",
+      "sourceUrl": "https://news.google.com/"
+    },
+    {
+      "id": "ca_20261025_09",
+      "question": "Which state recently launched 'Bharat Taxi', the country's first government-run cab service?",
+      "options": [
+        "महाराष्ट्र",
+        "केरळ",
+        "कर्नाटक",
+        "दिल्ली"
+      ],
+      "correctAnswer": 1,
+      "explanation": "केरळ सरकारने देशातील पहिली सरकारी कॅब सेवा 'केरळ सवारी' (प्रोटोटाइप म्हणून भारत टॅक्सी संकल्पनेवर आधारित) सुरू केली आहे. हा उपक्रम कॉर्पोरेट मक्तेदारी मोडून काढण्यासाठी सुरू करण्यात आला आहे.",
+      "category": "Economy",
+      "difficulty": "hard",
+      "sourceUrl": "https://news.google.com/"
+    },
+    {
+      "id": "ca_20261025_10",
+      "question": "Prime Minister Narendra Modi recently launched railway projects worth ₹13,000 crore in which state?",
+      "options": [
+        "गुजरात",
+        "उत्तर प्रदेश",
+        "महाराष्ट्र",
+        "मध्य प्रदेश"
+      ],
+      "correctAnswer": 2,
+      "explanation": "पंतप्रधान नरेंद्र मोदी यांनी नुकतीच महाराष्ट्रात ₹13,000 कोटींच्या विविध रेल्वे प्रकल्पांची सुरुवात केली. यामुळे राज्यातील दळणवळण आणि पायाभूत सुविधांना मोठी चालना मिळेल.",
+      "category": "Maharashtra",
+      "difficulty": "easy",
+      "sourceUrl": "https://news.google.com/"
+    }
+  ]
+}
