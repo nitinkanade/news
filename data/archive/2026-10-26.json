@@ -1,0 +1,160 @@
+{
+  "date": "2026-10-26",
+  "topic": "Current Affairs",
+  "source": "Google News, Press Information Bureau, The Hindu, Deccan Chronicle",
+  "lastUpdated": "2026-10-26T08:00:00+05:30",
+  "quiz": [
+    {
+      "id": "ca_20261026_01",
+      "question": "Which state's Chief Minister recently launched the BHARAT TAXI service at Navi Mumbai International Airport?",
+      "options": [
+        "गुजरात",
+        "महाराष्ट्र",
+        "कर्नाटक",
+        "तेलंगणा"
+      ],
+      "correctAnswer": 1,
+      "explanation": "महाराष्ट्राचे मुख्यमंत्री यांनी नवी मुंबई आंतरराष्ट्रीय विमानतळावर 'भारत टॅक्सी' सेवेचा शुभारंभ केला आहे. या सेवेमुळे प्रवाशांना अधिक सोयीस्कर वाहतूक पर्याय उपलब्ध होतील.",
+      "category": "Maharashtra",
+      "difficulty": "easy",
+      "sourceUrl": "https://newsonair.gov.in/"
+    },
+    {
+      "id": "ca_20261026_02",
+      "question": "Which state recently approved an increase in the scholarship allowance for SC and ST students?",
+      "options": [
+        "मध्य प्रदेश",
+        "महाराष्ट्र",
+        "राजस्थान",
+        "उत्तर प्रदेश"
+      ],
+      "correctAnswer": 1,
+      "explanation": "महाराष्ट्र राज्य सरकारने अनुसूचित जाती (SC) आणि अनुसूचित जमाती (ST) विद्यार्थ्यांसाठी शिष्यवृत्ती भत्त्यात वाढ करण्यास मान्यता दिली आहे.",
+      "category": "Maharashtra",
+      "difficulty": "medium",
+      "sourceUrl": "https://www.thehindu.com/"
+    },
+    {
+      "id": "ca_20261026_03",
+      "question": "According to ISRO Chief S. Somanath, India aims to have how many functional space launch pads by 2029?",
+      "options": [
+        "दोन",
+        "तीन",
+        "चार",
+        "पाच"
+      ],
+      "correctAnswer": 2,
+      "explanation": "इस्रोचे प्रमुख यांच्या माहितीनुसार, भारताचे 2029 पर्यंत चार कार्यरत स्पेस लॉन्च पॅड असण्याचे उद्दिष्ट आहे. यामुळे भारताच्या अंतराळ मोहिमांच्या क्षमतेत लक्षणीय वाढ होईल.",
+      "category": "Science & Tech",
+      "difficulty": "medium",
+      "sourceUrl": "https://theprint.in/"
+    },
+    {
+      "id": "ca_20261026_04",
+      "question": "Which state government plans to set up a 2,500–5,000-acre Chemical Industry Park near Vadhvan Port?",
+      "options": [
+        "गुजरात",
+        "महाराष्ट्र",
+        "तामिळनाडू",
+        "आंध्र प्रदेश"
+      ],
+      "correctAnswer": 1,
+      "explanation": "महाराष्ट्र सरकार वाढवण बंदराजवळ 2,500 ते 5,000 एकरांवर केमिकल इंडस्ट्री पार्क उभारण्याची योजना आखत असून त्यासाठी केंद्राची मंजुरी मागितली आहे.",
+      "category": "Maharashtra",
+      "difficulty": "hard",
+      "sourceUrl": "https://swarajyamag.com/"
+    },
+    {
+      "id": "ca_20261026_05",
+      "question": "Which state's government is set to unveil 'Aerospace and Defense Policy 2.0' to attract investments?",
+      "options": [
+        "कर्नाटक",
+        "तेलंगणा",
+        "महाराष्ट्र",
+        "गुजरात"
+      ],
+      "correctAnswer": 1,
+      "explanation": "तेलंगणा सरकार राज्यात गुंतवणूक आकर्षित करण्यासाठी 'एरोस्पेस आणि डिफेन्स पॉलिसी 2.0' चे अनावरण करणार आहे, अशी माहिती मुख्यमंत्री रेवंत रेड्डी यांनी दिली.",
+      "category": "Economy",
+      "difficulty": "medium",
+      "sourceUrl": "https://economictimes.indiatimes.com/"
+    },
+    {
+      "id": "ca_20261026_06",
+      "question": "Which Indian scientist recently became the first Indian to receive the prestigious Oskar Klein Medal?",
+      "options": [
+        "प्रो. अशोक सेन",
+        "प्रो. सी. एन. आर. राव",
+        "डॉ. के. सिवन",
+        "डॉ. रघुनाथ माशेलकर"
+      ],
+      "correctAnswer": 0,
+      "explanation": "प्रोफेसर अशोक सेन हे प्रतिष्ठित ऑस्कर क्लेन पदक (Oskar Klein Medal) मिळवणारे पहिले भारतीय ठरले आहेत. भौतिकशास्त्रातील त्यांच्या उत्कृष्ट योगदानाबद्दल त्यांना हा सन्मान देण्यात आला.",
+      "category": "Science & Tech",
+      "difficulty": "hard",
+      "sourceUrl": "https://newsonair.gov.in/"
+    },
+    {
+      "id": "ca_20261026_07",
+      "question": "The Maharashtra government has announced to provide reservation in government jobs to which group?",
+      "options": [
+        "खेळाडू",
+        "अग्निवीर",
+        "दिव्यांग",
+        "प्रकल्पग्रस्त"
+      ],
+      "correctAnswer": 1,
+      "explanation": "महाराष्ट्राचे मुख्यमंत्री देवेंद्र फडणवीस यांनी 'अग्निवीर' (Agniveers) यांना सरकारी नोकऱ्यांमध्ये आरक्षण देण्याची घोषणा केली आहे.",
+      "category": "Polity",
+      "difficulty": "easy",
+      "sourceUrl": "https://www.deccanchronicle.com/"
+    },
+    {
+      "id": "ca_20261026_08",
+      "question": "Which aerospace companies are currently vying for India's $10.5 billion military transport aircraft deal?",
+      "options": [
+        "बोईंग आणि एअरबस",
+        "एम्ब्रेअर आणि लॉकहीड मार्टिन",
+        "डसॉल्ट आणि बीएई सिस्टम्स",
+        "सुखोई आणि मिग"
+      ],
+      "correctAnswer": 1,
+      "explanation": "भारताच्या 10.5 अब्ज डॉलर्सच्या लष्करी मालवाहू विमान करारासाठी (military transport aircraft deal) एम्ब्रेअर (Embraer) आणि लॉकहीड मार्टिन (Lockheed Martin) या कंपन्यांमध्ये स्पर्धा आहे.",
+      "category": "International",
+      "difficulty": "medium",
+      "sourceUrl": "https://www.defensenews.com/"
+    },
+    {
+      "id": "ca_20261026_09",
+      "question": "Which organization recently released a report mentioning a Rs 2.5 lakh crore liquidity infusion raising questions over RBI's tightening policy?",
+      "options": [
+        "जागतिक बँक",
+        "एसबीआय (SBI)",
+        "आयएमएफ (IMF)",
+        "नीती आयोग"
+      ],
+      "correctAnswer": 1,
+      "explanation": "भारतीय स्टेट बँकेच्या (SBI) अलीकडील अहवालानुसार, 2.5 लाख कोटी रुपयांच्या तरलता (liquidity) वाढीमुळे आरबीआयच्या कठोर चलनविषयक धोरणांवर प्रश्नचिन्ह निर्माण झाले आहे.",
+      "category": "Economy",
+      "difficulty": "medium",
+      "sourceUrl": "https://economictimes.indiatimes.com/"
+    },
+    {
+      "id": "ca_20261026_10",
+      "question": "Telangana CM Revanth Reddy recently met Maharashtra CM Devendra Fadnavis to discuss which barrage issue?",
+      "options": [
+        "बाभळी बंधारा",
+        "तुम्मिडीहेट्टी बंधारा",
+        "गोदावरी बंधारा",
+        "जायकवाडी धरण"
+      ],
+      "correctAnswer": 1,
+      "explanation": "तेलंगणाचे मुख्यमंत्री रेवंत रेड्डी यांनी 'तुम्मिडीहेट्टी बंधारा' (Tummidihetti Barrage) प्रश्नावर चर्चा करण्यासाठी महाराष्ट्राचे मुख्यमंत्री देवेंद्र फडणवीस यांची भेट घेतली.",
+      "category": "Miscellaneous",
+      "difficulty": "easy",
+      "sourceUrl": "https://www.etvbharat.com/"
+    }
+  ],
+  "totalQuestions": 10,
+  "version": 1
+}

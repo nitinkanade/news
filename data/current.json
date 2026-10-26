@@ -1,158 +1,158 @@
 {
-  "date": "2026-10-26",
+  "date": "2026-10-27",
   "topic": "Current Affairs",
-  "source": "Google News, Press Information Bureau, The Hindu, Deccan Chronicle",
-  "lastUpdated": "2026-10-26T08:00:00+05:30",
+  "source": "Google News, Press Information Bureau, The Hindu, Economic Times",
+  "lastUpdated": "2026-10-27T10:00:00+05:30",
   "quiz": [
     {
-      "id": "ca_20261026_01",
-      "question": "Which state's Chief Minister recently launched the BHARAT TAXI service at Navi Mumbai International Airport?",
+      "id": "ca_20261027_01",
+      "question": "What is the primary objective of the newly extended RELIEF scheme by the Indian government?",
       "options": [
-        "गुजरात",
-        "महाराष्ट्र",
-        "कर्नाटक",
-        "तेलंगणा"
+        "कृषी निर्यात वाढवणे",
+        "MSME निर्यातदारांना आर्थिक पाठबळ देणे",
+        "परदेशी गुंतवणुकीला प्रोत्साहन देणे",
+        "लष्करी उपकरणांची निर्यात वाढवणे"
       ],
       "correctAnswer": 1,
-      "explanation": "महाराष्ट्राचे मुख्यमंत्री यांनी नवी मुंबई आंतरराष्ट्रीय विमानतळावर 'भारत टॅक्सी' सेवेचा शुभारंभ केला आहे. या सेवेमुळे प्रवाशांना अधिक सोयीस्कर वाहतूक पर्याय उपलब्ध होतील.",
+      "explanation": "भारत सरकारने RELIEF योजनेला मुदतवाढ दिली असून, पश्चिम आशियातील संकटामुळे अडचणीत आलेल्या कमी नफ्याच्या MSME निर्यातदारांना आर्थिक पाठबळ देणे हा या योजनेचा मुख्य उद्देश आहे.",
+      "category": "Economy",
+      "difficulty": "medium",
+      "sourceUrl": "https://www.newindianexpress.com/"
+    },
+    {
+      "id": "ca_20261027_02",
+      "question": "The Maharashtra government has announced a 25% waiver on land transfer fees for which type of projects?",
+      "options": [
+        "माहिती तंत्रज्ञान पार्क",
+        "पुनर्प्राप्य ऊर्जा (Renewable Energy) प्रकल्प",
+        "परवडणारी घरे",
+        "महामार्ग विकास"
+      ],
+      "correctAnswer": 1,
+      "explanation": "हरित ऊर्जा प्रकल्पांना चालना देण्यासाठी, महाराष्ट्र सरकारने अलीकडेच पुनर्प्राप्य ऊर्जा (Renewable Energy) प्रकल्पांसाठी जमीन हस्तांतरण शुल्कावर 25% सूट जाहीर केली आहे.",
       "category": "Maharashtra",
       "difficulty": "easy",
-      "sourceUrl": "https://newsonair.gov.in/"
+      "sourceUrl": "https://government.economictimes.indiatimes.com/"
     },
     {
-      "id": "ca_20261026_02",
-      "question": "Which state recently approved an increase in the scholarship allowance for SC and ST students?",
+      "id": "ca_20261027_03",
+      "question": "The Karjat power project, which recently faced political opposition in Maharashtra over environmental concerns, has what proposed capacity?",
       "options": [
-        "मध्य प्रदेश",
-        "महाराष्ट्र",
-        "राजस्थान",
-        "उत्तर प्रदेश"
-      ],
-      "correctAnswer": 1,
-      "explanation": "महाराष्ट्र राज्य सरकारने अनुसूचित जाती (SC) आणि अनुसूचित जमाती (ST) विद्यार्थ्यांसाठी शिष्यवृत्ती भत्त्यात वाढ करण्यास मान्यता दिली आहे.",
-      "category": "Maharashtra",
-      "difficulty": "medium",
-      "sourceUrl": "https://www.thehindu.com/"
-    },
-    {
-      "id": "ca_20261026_03",
-      "question": "According to ISRO Chief S. Somanath, India aims to have how many functional space launch pads by 2029?",
-      "options": [
-        "दोन",
-        "तीन",
-        "चार",
-        "पाच"
+        "1,000 MW",
+        "2,000 MW",
+        "3,000 MW",
+        "4,000 MW"
       ],
       "correctAnswer": 2,
-      "explanation": "इस्रोचे प्रमुख यांच्या माहितीनुसार, भारताचे 2029 पर्यंत चार कार्यरत स्पेस लॉन्च पॅड असण्याचे उद्दिष्ट आहे. यामुळे भारताच्या अंतराळ मोहिमांच्या क्षमतेत लक्षणीय वाढ होईल.",
-      "category": "Science & Tech",
-      "difficulty": "medium",
-      "sourceUrl": "https://theprint.in/"
-    },
-    {
-      "id": "ca_20261026_04",
-      "question": "Which state government plans to set up a 2,500–5,000-acre Chemical Industry Park near Vadhvan Port?",
-      "options": [
-        "गुजरात",
-        "महाराष्ट्र",
-        "तामिळनाडू",
-        "आंध्र प्रदेश"
-      ],
-      "correctAnswer": 1,
-      "explanation": "महाराष्ट्र सरकार वाढवण बंदराजवळ 2,500 ते 5,000 एकरांवर केमिकल इंडस्ट्री पार्क उभारण्याची योजना आखत असून त्यासाठी केंद्राची मंजुरी मागितली आहे.",
+      "explanation": "महाराष्ट्रातील कर्जत येथे प्रस्तावित असलेल्या 3,000 मेगावॉट (MW) क्षमतेच्या ऊर्जा प्रकल्पामुळे हजारो झाडे तोडण्यात येणार असल्याच्या कारणावरून मोठा राजकीय आणि पर्यावरणीय वाद निर्माण झाला आहे.",
       "category": "Maharashtra",
-      "difficulty": "hard",
-      "sourceUrl": "https://swarajyamag.com/"
-    },
-    {
-      "id": "ca_20261026_05",
-      "question": "Which state's government is set to unveil 'Aerospace and Defense Policy 2.0' to attract investments?",
-      "options": [
-        "कर्नाटक",
-        "तेलंगणा",
-        "महाराष्ट्र",
-        "गुजरात"
-      ],
-      "correctAnswer": 1,
-      "explanation": "तेलंगणा सरकार राज्यात गुंतवणूक आकर्षित करण्यासाठी 'एरोस्पेस आणि डिफेन्स पॉलिसी 2.0' चे अनावरण करणार आहे, अशी माहिती मुख्यमंत्री रेवंत रेड्डी यांनी दिली.",
-      "category": "Economy",
       "difficulty": "medium",
       "sourceUrl": "https://economictimes.indiatimes.com/"
     },
     {
-      "id": "ca_20261026_06",
-      "question": "Which Indian scientist recently became the first Indian to receive the prestigious Oskar Klein Medal?",
+      "id": "ca_20261027_04",
+      "question": "Which major satellite is ISRO planning to launch aboard the GSLV-F18 to enhance the NavIC navigation system?",
       "options": [
-        "प्रो. अशोक सेन",
-        "प्रो. सी. एन. आर. राव",
-        "डॉ. के. सिवन",
-        "डॉ. रघुनाथ माशेलकर"
+        "NVS-01",
+        "NVS-02",
+        "NVS-03",
+        "NVS-04"
       ],
-      "correctAnswer": 0,
-      "explanation": "प्रोफेसर अशोक सेन हे प्रतिष्ठित ऑस्कर क्लेन पदक (Oskar Klein Medal) मिळवणारे पहिले भारतीय ठरले आहेत. भौतिकशास्त्रातील त्यांच्या उत्कृष्ट योगदानाबद्दल त्यांना हा सन्मान देण्यात आला.",
+      "correctAnswer": 2,
+      "explanation": "भारतीय अंतराळ संशोधन संस्था (ISRO) भारताची स्वतःची नेव्हिगेशन प्रणाली 'NavIC' अधिक सक्षम करण्यासाठी GSLV-F18 रॉकेटद्वारे NVS-03 या नवीन उपग्रहाचे प्रक्षेपण करण्याच्या अंतिम तयारीत आहे.",
       "category": "Science & Tech",
+      "difficulty": "medium",
+      "sourceUrl": "https://www.indiatoday.in/"
+    },
+    {
+      "id": "ca_20261027_05",
+      "question": "The Reserve Bank of India (RBI) recently raised the repo rate to what percentage amid inflation risks?",
+      "options": [
+        "4.50%",
+        "5.00%",
+        "5.50%",
+        "6.00%"
+      ],
+      "correctAnswer": 2,
+      "explanation": "वाढत्या महागाईच्या धोक्यांमुळे भारतीय रिझर्व्ह बँकेने (RBI) नवीन दर-वाढ चक्र सुरू केले असून, रेपो दरात वाढ करून तो 5.50% इतका केला आहे.",
+      "category": "Economy",
       "difficulty": "hard",
-      "sourceUrl": "https://newsonair.gov.in/"
+      "sourceUrl": "https://agrospectrumindia.com/"
     },
     {
-      "id": "ca_20261026_07",
-      "question": "The Maharashtra government has announced to provide reservation in government jobs to which group?",
+      "id": "ca_20261027_06",
+      "question": "Which country's Marine Equipment Association is planning to open its India office?",
       "options": [
-        "खेळाडू",
-        "अग्निवीर",
-        "दिव्यांग",
-        "प्रकल्पग्रस्त"
+        "जपान",
+        "दक्षिण कोरिया",
+        "तैवान",
+        "सिंगापूर"
       ],
       "correctAnswer": 1,
-      "explanation": "महाराष्ट्राचे मुख्यमंत्री देवेंद्र फडणवीस यांनी 'अग्निवीर' (Agniveers) यांना सरकारी नोकऱ्यांमध्ये आरक्षण देण्याची घोषणा केली आहे.",
-      "category": "Polity",
-      "difficulty": "easy",
-      "sourceUrl": "https://www.deccanchronicle.com/"
-    },
-    {
-      "id": "ca_20261026_08",
-      "question": "Which aerospace companies are currently vying for India's $10.5 billion military transport aircraft deal?",
-      "options": [
-        "बोईंग आणि एअरबस",
-        "एम्ब्रेअर आणि लॉकहीड मार्टिन",
-        "डसॉल्ट आणि बीएई सिस्टम्स",
-        "सुखोई आणि मिग"
-      ],
-      "correctAnswer": 1,
-      "explanation": "भारताच्या 10.5 अब्ज डॉलर्सच्या लष्करी मालवाहू विमान करारासाठी (military transport aircraft deal) एम्ब्रेअर (Embraer) आणि लॉकहीड मार्टिन (Lockheed Martin) या कंपन्यांमध्ये स्पर्धा आहे.",
+      "explanation": "भारतीय शिपिंग मंत्रालयाच्या माहितीनुसार, दक्षिण कोरियाची मरीन इक्विपमेंट असोसिएशन भारतात आपले कार्यालय उघडणार आहे, ज्यामुळे उभय देशांतील सागरी सहकार्य वाढेल.",
       "category": "International",
       "difficulty": "medium",
-      "sourceUrl": "https://www.defensenews.com/"
-    },
-    {
-      "id": "ca_20261026_09",
-      "question": "Which organization recently released a report mentioning a Rs 2.5 lakh crore liquidity infusion raising questions over RBI's tightening policy?",
-      "options": [
-        "जागतिक बँक",
-        "एसबीआय (SBI)",
-        "आयएमएफ (IMF)",
-        "नीती आयोग"
-      ],
-      "correctAnswer": 1,
-      "explanation": "भारतीय स्टेट बँकेच्या (SBI) अलीकडील अहवालानुसार, 2.5 लाख कोटी रुपयांच्या तरलता (liquidity) वाढीमुळे आरबीआयच्या कठोर चलनविषयक धोरणांवर प्रश्नचिन्ह निर्माण झाले आहे.",
-      "category": "Economy",
-      "difficulty": "medium",
       "sourceUrl": "https://economictimes.indiatimes.com/"
     },
     {
-      "id": "ca_20261026_10",
-      "question": "Telangana CM Revanth Reddy recently met Maharashtra CM Devendra Fadnavis to discuss which barrage issue?",
+      "id": "ca_20261027_07",
+      "question": "The Maharashtra government recently approached the Bombay High Court against which central body, accusing it of usurping state powers?",
       "options": [
-        "बाभळी बंधारा",
-        "तुम्मिडीहेट्टी बंधारा",
-        "गोदावरी बंधारा",
-        "जायकवाडी धरण"
+        "CBI",
+        "ED",
+        "FSSAI",
+        "NITI Aayog"
+      ],
+      "correctAnswer": 2,
+      "explanation": "अन्न सुरक्षा आणि मानके प्राधिकरण (FSSAI) या केंद्रीय संस्थेने राज्याच्या अधिकारांवर अतिक्रमण केल्याचा आरोप करत महाराष्ट्र सरकारने मुंबई उच्च न्यायालयात धाव घेतली आहे.",
+      "category": "Polity",
+      "difficulty": "medium",
+      "sourceUrl": "https://www.nationalheraldindia.com/"
+    },
+    {
+      "id": "ca_20261027_08",
+      "question": "Which organization recently released a comprehensive report on India's expected growth trajectory to $30 trillion by 2047?",
+      "options": [
+        "नीती आयोग (NITI Aayog)",
+        "जागतिक बँक (World Bank)",
+        "आरबीआय (RBI)",
+        "एसबीआय (SBI)"
+      ],
+      "correctAnswer": 0,
+      "explanation": "नीती आयोगाने नुकताच एक सर्वसमावेशक अहवाल प्रसिद्ध केला आहे, ज्यामध्ये भारताला 2047 पर्यंत 30 ट्रिलियन डॉलरची अर्थव्यवस्था बनवण्याचा विकास आराखडा मांडण्यात आला आहे.",
+      "category": "Economy",
+      "difficulty": "easy",
+      "sourceUrl": "https://economictimes.indiatimes.com/"
+    },
+    {
+      "id": "ca_20261027_09",
+      "question": "India's farmer ID scheme has reached a significant milestone by enrolling how many farmers ahead of schedule?",
+      "options": [
+        "50 दशलक्ष",
+        "75 दशलक्ष",
+        "100 दशलक्ष",
+        "110 दशलक्ष"
+      ],
+      "correctAnswer": 3,
+      "explanation": "भारताच्या शेतकरी ओळखपत्र (Farmer ID) योजनेने निर्धारित वेळेपूर्वीच लक्षणीय टप्पा गाठला असून, आतापर्यंत देशभरातील 110 दशलक्ष शेतकऱ्यांची या प्रणालीअंतर्गत नोंदणी पूर्ण झाली आहे.",
+      "category": "Miscellaneous",
+      "difficulty": "hard",
+      "sourceUrl": "https://www.biometricupdate.com/"
+    },
+    {
+      "id": "ca_20261027_10",
+      "question": "What is the key expectation of India from the upcoming COP 31 Environment Summit?",
+      "options": [
+        "केवळ नवीन तंत्रज्ञान आयात करणे",
+        "जागतिक हवामान प्राधान्यक्रमांवर आणि हवामान कृतींवर (Climate Action) भर देणे",
+        "कोळशाच्या वापरावर पूर्णपणे बंदी घालणे",
+        "नवीन अणुऊर्जा करारांवर स्वाक्षऱ्या करणे"
       ],
       "correctAnswer": 1,
-      "explanation": "तेलंगणाचे मुख्यमंत्री रेवंत रेड्डी यांनी 'तुम्मिडीहेट्टी बंधारा' (Tummidihetti Barrage) प्रश्नावर चर्चा करण्यासाठी महाराष्ट्राचे मुख्यमंत्री देवेंद्र फडणवीस यांची भेट घेतली.",
-      "category": "Miscellaneous",
+      "explanation": "COP 31 च्या पार्श्वभूमीवर, भारताची प्रमुख अपेक्षा हवामान बदल विषयक केवळ चर्चेकडून ठोस हवामान कृतींकडे (Climate Action) वळणे आणि विकसनशील देशांसाठी जागतिक हवामान प्राधान्यक्रम निश्चित करणे ही आहे.",
+      "category": "Environment",
       "difficulty": "easy",
-      "sourceUrl": "https://www.etvbharat.com/"
+      "sourceUrl": "https://indianexpress.com/"
     }
   ],
   "totalQuestions": 10,
