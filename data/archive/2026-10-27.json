@@ -1,0 +1,160 @@
+{
+  "date": "2026-10-27",
+  "topic": "Current Affairs",
+  "source": "Google News, Press Information Bureau, The Hindu, Economic Times",
+  "lastUpdated": "2026-10-27T10:00:00+05:30",
+  "quiz": [
+    {
+      "id": "ca_20261027_01",
+      "question": "What is the primary objective of the newly extended RELIEF scheme by the Indian government?",
+      "options": [
+        "कृषी निर्यात वाढवणे",
+        "MSME निर्यातदारांना आर्थिक पाठबळ देणे",
+        "परदेशी गुंतवणुकीला प्रोत्साहन देणे",
+        "लष्करी उपकरणांची निर्यात वाढवणे"
+      ],
+      "correctAnswer": 1,
+      "explanation": "भारत सरकारने RELIEF योजनेला मुदतवाढ दिली असून, पश्चिम आशियातील संकटामुळे अडचणीत आलेल्या कमी नफ्याच्या MSME निर्यातदारांना आर्थिक पाठबळ देणे हा या योजनेचा मुख्य उद्देश आहे.",
+      "category": "Economy",
+      "difficulty": "medium",
+      "sourceUrl": "https://www.newindianexpress.com/"
+    },
+    {
+      "id": "ca_20261027_02",
+      "question": "The Maharashtra government has announced a 25% waiver on land transfer fees for which type of projects?",
+      "options": [
+        "माहिती तंत्रज्ञान पार्क",
+        "पुनर्प्राप्य ऊर्जा (Renewable Energy) प्रकल्प",
+        "परवडणारी घरे",
+        "महामार्ग विकास"
+      ],
+      "correctAnswer": 1,
+      "explanation": "हरित ऊर्जा प्रकल्पांना चालना देण्यासाठी, महाराष्ट्र सरकारने अलीकडेच पुनर्प्राप्य ऊर्जा (Renewable Energy) प्रकल्पांसाठी जमीन हस्तांतरण शुल्कावर 25% सूट जाहीर केली आहे.",
+      "category": "Maharashtra",
+      "difficulty": "easy",
+      "sourceUrl": "https://government.economictimes.indiatimes.com/"
+    },
+    {
+      "id": "ca_20261027_03",
+      "question": "The Karjat power project, which recently faced political opposition in Maharashtra over environmental concerns, has what proposed capacity?",
+      "options": [
+        "1,000 MW",
+        "2,000 MW",
+        "3,000 MW",
+        "4,000 MW"
+      ],
+      "correctAnswer": 2,
+      "explanation": "महाराष्ट्रातील कर्जत येथे प्रस्तावित असलेल्या 3,000 मेगावॉट (MW) क्षमतेच्या ऊर्जा प्रकल्पामुळे हजारो झाडे तोडण्यात येणार असल्याच्या कारणावरून मोठा राजकीय आणि पर्यावरणीय वाद निर्माण झाला आहे.",
+      "category": "Maharashtra",
+      "difficulty": "medium",
+      "sourceUrl": "https://economictimes.indiatimes.com/"
+    },
+    {
+      "id": "ca_20261027_04",
+      "question": "Which major satellite is ISRO planning to launch aboard the GSLV-F18 to enhance the NavIC navigation system?",
+      "options": [
+        "NVS-01",
+        "NVS-02",
+        "NVS-03",
+        "NVS-04"
+      ],
+      "correctAnswer": 2,
+      "explanation": "भारतीय अंतराळ संशोधन संस्था (ISRO) भारताची स्वतःची नेव्हिगेशन प्रणाली 'NavIC' अधिक सक्षम करण्यासाठी GSLV-F18 रॉकेटद्वारे NVS-03 या नवीन उपग्रहाचे प्रक्षेपण करण्याच्या अंतिम तयारीत आहे.",
+      "category": "Science & Tech",
+      "difficulty": "medium",
+      "sourceUrl": "https://www.indiatoday.in/"
+    },
+    {
+      "id": "ca_20261027_05",
+      "question": "The Reserve Bank of India (RBI) recently raised the repo rate to what percentage amid inflation risks?",
+      "options": [
+        "4.50%",
+        "5.00%",
+        "5.50%",
+        "6.00%"
+      ],
+      "correctAnswer": 2,
+      "explanation": "वाढत्या महागाईच्या धोक्यांमुळे भारतीय रिझर्व्ह बँकेने (RBI) नवीन दर-वाढ चक्र सुरू केले असून, रेपो दरात वाढ करून तो 5.50% इतका केला आहे.",
+      "category": "Economy",
+      "difficulty": "hard",
+      "sourceUrl": "https://agrospectrumindia.com/"
+    },
+    {
+      "id": "ca_20261027_06",
+      "question": "Which country's Marine Equipment Association is planning to open its India office?",
+      "options": [
+        "जपान",
+        "दक्षिण कोरिया",
+        "तैवान",
+        "सिंगापूर"
+      ],
+      "correctAnswer": 1,
+      "explanation": "भारतीय शिपिंग मंत्रालयाच्या माहितीनुसार, दक्षिण कोरियाची मरीन इक्विपमेंट असोसिएशन भारतात आपले कार्यालय उघडणार आहे, ज्यामुळे उभय देशांतील सागरी सहकार्य वाढेल.",
+      "category": "International",
+      "difficulty": "medium",
+      "sourceUrl": "https://economictimes.indiatimes.com/"
+    },
+    {
+      "id": "ca_20261027_07",
+      "question": "The Maharashtra government recently approached the Bombay High Court against which central body, accusing it of usurping state powers?",
+      "options": [
+        "CBI",
+        "ED",
+        "FSSAI",
+        "NITI Aayog"
+      ],
+      "correctAnswer": 2,
+      "explanation": "अन्न सुरक्षा आणि मानके प्राधिकरण (FSSAI) या केंद्रीय संस्थेने राज्याच्या अधिकारांवर अतिक्रमण केल्याचा आरोप करत महाराष्ट्र सरकारने मुंबई उच्च न्यायालयात धाव घेतली आहे.",
+      "category": "Polity",
+      "difficulty": "medium",
+      "sourceUrl": "https://www.nationalheraldindia.com/"
+    },
+    {
+      "id": "ca_20261027_08",
+      "question": "Which organization recently released a comprehensive report on India's expected growth trajectory to $30 trillion by 2047?",
+      "options": [
+        "नीती आयोग (NITI Aayog)",
+        "जागतिक बँक (World Bank)",
+        "आरबीआय (RBI)",
+        "एसबीआय (SBI)"
+      ],
+      "correctAnswer": 0,
+      "explanation": "नीती आयोगाने नुकताच एक सर्वसमावेशक अहवाल प्रसिद्ध केला आहे, ज्यामध्ये भारताला 2047 पर्यंत 30 ट्रिलियन डॉलरची अर्थव्यवस्था बनवण्याचा विकास आराखडा मांडण्यात आला आहे.",
+      "category": "Economy",
+      "difficulty": "easy",
+      "sourceUrl": "https://economictimes.indiatimes.com/"
+    },
+    {
+      "id": "ca_20261027_09",
+      "question": "India's farmer ID scheme has reached a significant milestone by enrolling how many farmers ahead of schedule?",
+      "options": [
+        "50 दशलक्ष",
+        "75 दशलक्ष",
+        "100 दशलक्ष",
+        "110 दशलक्ष"
+      ],
+      "correctAnswer": 3,
+      "explanation": "भारताच्या शेतकरी ओळखपत्र (Farmer ID) योजनेने निर्धारित वेळेपूर्वीच लक्षणीय टप्पा गाठला असून, आतापर्यंत देशभरातील 110 दशलक्ष शेतकऱ्यांची या प्रणालीअंतर्गत नोंदणी पूर्ण झाली आहे.",
+      "category": "Miscellaneous",
+      "difficulty": "hard",
+      "sourceUrl": "https://www.biometricupdate.com/"
+    },
+    {
+      "id": "ca_20261027_10",
+      "question": "What is the key expectation of India from the upcoming COP 31 Environment Summit?",
+      "options": [
+        "केवळ नवीन तंत्रज्ञान आयात करणे",
+        "जागतिक हवामान प्राधान्यक्रमांवर आणि हवामान कृतींवर (Climate Action) भर देणे",
+        "कोळशाच्या वापरावर पूर्णपणे बंदी घालणे",
+        "नवीन अणुऊर्जा करारांवर स्वाक्षऱ्या करणे"
+      ],
+      "correctAnswer": 1,
+      "explanation": "COP 31 च्या पार्श्वभूमीवर, भारताची प्रमुख अपेक्षा हवामान बदल विषयक केवळ चर्चेकडून ठोस हवामान कृतींकडे (Climate Action) वळणे आणि विकसनशील देशांसाठी जागतिक हवामान प्राधान्यक्रम निश्चित करणे ही आहे.",
+      "category": "Environment",
+      "difficulty": "easy",
+      "sourceUrl": "https://indianexpress.com/"
+    }
+  ],
+  "totalQuestions": 10,
+  "version": 1
+}
