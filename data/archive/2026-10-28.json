@@ -1,0 +1,160 @@
+{
+  "date": "2026-10-28",
+  "topic": "Current Affairs",
+  "source": "Times of India, Press Information Bureau, Business Standard, Reuters",
+  "lastUpdated": "2026-10-28T10:00:00+05:30",
+  "quiz": [
+    {
+      "id": "ca_20261028_01",
+      "question": "Which cyclone prompted the Indian Aviation Ministry to recently suspend operations at three Andhra Pradesh airports?",
+      "options": [
+        "अम्फान (Amphan)",
+        "अर्णब (Arnab)",
+        "निसर्ग (Nisarga)",
+        "ताैक्ते (Tauktae)"
+      ],
+      "correctAnswer": 1,
+      "explanation": "अर्णब (Arnab) चक्रीवादळाचा धोका वाढल्याने, भारतीय नागरी विमान वाहतूक मंत्रालयाने आंध्र प्रदेशातील तीन विमानतळांवरील उड्डाणे तात्पुरती स्थगित करण्याचा निर्णय घेतला आहे.",
+      "category": "Geography",
+      "difficulty": "medium",
+      "sourceUrl": "https://timesofindia.indiatimes.com/india/aviation-ministry-suspends-operations-at-three-andhra-airports-as-cyclone-arnab-intensifies/articleshow/135243430.cms"
+    },
+    {
+      "id": "ca_20261028_02",
+      "question": "Who issued a strict warning regarding potholes on National Highways, stating contractors would face blacklisting?",
+      "options": [
+        "पंतप्रधान नरेंद्र मोदी",
+        "अमित शहा",
+        "नितीन गडकरी",
+        "अश्विनी वैष्णव"
+      ],
+      "correctAnswer": 2,
+      "explanation": "केंद्रीय रस्ते वाहतूक आणि महामार्ग मंत्री नितीन गडकरी यांनी राष्ट्रीय महामार्गावरील खड्ड्यांबाबत कडक भूमिका घेत, प्रत्येक खड्ड्यासाठी कंत्राटदारांना जबाबदार धरून त्यांना ब्लॅकलिस्ट करण्याचा इशारा दिला आहे.",
+      "category": "Polity",
+      "difficulty": "easy",
+      "sourceUrl": "https://timesofindia.indiatimes.com/india/every-pothole-to-be-accounted-for-says-gadkari-warning-contractors-of-blacklisting/articleshow/135242896.cms"
+    },
+    {
+      "id": "ca_20261028_03",
+      "question": "Which Indian state/UT government recently reached out to protesters who were demanding a ban on liquor?",
+      "options": [
+        "गुजरात",
+        "जम्मू आणि काश्मीर",
+        "लडाख",
+        "बिहार"
+      ],
+      "correctAnswer": 2,
+      "explanation": "लडाखमध्ये मद्यबंदी लागू करण्याच्या मागणीसाठी सुरू असलेल्या आंदोलनाची दखल घेत, लडाख प्रशासनाने आंदोलकांशी संवाद साधण्यास सुरुवात केली आहे.",
+      "category": "Polity",
+      "difficulty": "medium",
+      "sourceUrl": "https://timesofindia.indiatimes.com/india/ladakh-government-reaches-out-to-protesters-demanding-liquor-ban/articleshow/135244987.cms"
+    },
+    {
+      "id": "ca_20261028_04",
+      "question": "According to RBI Deputy Governor Poonam Gupta, how is the current growth momentum of the Indian economy described?",
+      "options": [
+        "मंदीकडे वाटचाल करत आहे",
+        "धक्के बसूनही गती टिकवून आहे",
+        "केवळ कृषी क्षेत्रावर अवलंबून आहे",
+        "नकारात्मक वाढ नोंदवत आहे"
+      ],
+      "correctAnswer": 1,
+      "explanation": "आरबीआयच्या डेप्युटी गव्हर्नर पूनम गुप्ता यांच्या मते, विविध जागतिक आणि देशांतर्गत धक्के बसूनही भारतीय अर्थव्यवस्थेने आपली विकासाची गती (Growth momentum) टिकवून ठेवली आहे.",
+      "category": "Economy",
+      "difficulty": "medium",
+      "sourceUrl": "https://www.business-standard.com/economy/news/growth-momentum-holds-despite-shocks-rbi-deputy-governor-poonam-gupta"
+    },
+    {
+      "id": "ca_20261028_05",
+      "question": "What significant decision did the Maharashtra cabinet recently approve to provide relief in drought-hit areas before Diwali?",
+      "options": [
+        "शेतकऱ्यांचे संपूर्ण कर्जमाफी",
+        "मोफत वीज पुरवठा",
+        "शेतकऱ्यांना ₹5,000 ची आगाऊ मदत",
+        "मोफत बियाणे वितरण"
+      ],
+      "correctAnswer": 2,
+      "explanation": "दिवाळीच्या पार्श्वभूमीवर दिलासा देण्यासाठी, महाराष्ट्र राज्य मंत्रिमंडळाने राज्यातील दुष्काळग्रस्त भागातील सुमारे 1.5 कोटी शेतकऱ्यांना ₹5,000 ची आगाऊ आर्थिक मदत देण्याच्या प्रस्तावाला मंजुरी दिली आहे.",
+      "category": "Maharashtra",
+      "difficulty": "easy",
+      "sourceUrl": "https://government.economictimes.indiatimes.com/"
+    },
+    {
+      "id": "ca_20261028_06",
+      "question": "The Supreme Court of India recently voided the gift of what type of land to the government, stating the 'State is custodian, not owner'?",
+      "options": [
+        "जंगल जमीन (Forest Land)",
+        "मंदिर जमीन (Temple Land)",
+        "खाजगी शेतजमीन (Private Agricultural Land)",
+        "औद्योगिक वसाहतीची जमीन (Industrial Estate Land)"
+      ],
+      "correctAnswer": 1,
+      "explanation": "भारताच्या सर्वोच्च न्यायालयाने एका महत्त्वपूर्ण निकालात, मंदिराची जमीन सरकारला भेट देण्याचा निर्णय रद्दबातल ठरवला असून, 'राज्य हे केवळ विश्वस्त (Custodian) आहे, मालक (Owner) नाही' असे स्पष्ट केले आहे.",
+      "category": "Polity",
+      "difficulty": "hard",
+      "sourceUrl": "https://lawbeat.in/"
+    },
+    {
+      "id": "ca_20261028_07",
+      "question": "Union MoS Raksha Khadse highlighted the role of the India-New Zealand series in advancing sports diplomacy. Which sport is associated with this series?",
+      "options": [
+        "क्रिकेट",
+        "हॉकी",
+        "रग्बी (Rugby)",
+        "फुटबॉल"
+      ],
+      "correctAnswer": 2,
+      "explanation": "केंद्रीय राज्यमंत्री रक्षा खडसे यांनी भारत आणि न्यूझीलंड यांच्यातील रग्बी मालिकेचे (Rugby Series) महत्त्व अधोरेखित करताना, क्रीडा मुत्सद्देगिरी आणि युवा विकासासाठी हे पाऊल महत्त्वाचे असल्याचे म्हटले आहे.",
+      "category": "Sports",
+      "difficulty": "medium",
+      "sourceUrl": "https://pib.gov.in/"
+    },
+    {
+      "id": "ca_20261028_08",
+      "question": "Which upcoming satellite launch is ISRO planning for October 30, 2026, to enhance its navigation capabilities?",
+      "options": [
+        "NVS-01",
+        "NVS-02",
+        "NVS-03",
+        "EOS-05"
+      ],
+      "correctAnswer": 2,
+      "explanation": "इस्रो (ISRO) स्वतःची नेव्हिगेशन प्रणाली अधिक सक्षम करण्यासाठी 30 ऑक्टोबर 2026 रोजी NVS-03 या अद्ययावत उपग्रहाचे प्रक्षेपण करण्याच्या तयारीत आहे.",
+      "category": "Science & Tech",
+      "difficulty": "easy",
+      "sourceUrl": "https://thecsrjournal.in/"
+    },
+    {
+      "id": "ca_20261028_09",
+      "question": "The Maharashtra government has announced free NEET and JEE coaching for 200 students in which drought-affected district?",
+      "options": [
+        "लातूर",
+        "नांदेड",
+        "बीड",
+        "धाराशिव"
+      ],
+      "correctAnswer": 1,
+      "explanation": "दुष्काळी परिस्थितीचा सामना करत असलेल्या नांदेड जिल्ह्यातील विद्यार्थ्यांसाठी, महाराष्ट्र शासनाने 200 विद्यार्थ्यांना NEET आणि JEE परीक्षांचे मोफत प्रशिक्षण देण्याची घोषणा केली आहे.",
+      "category": "Maharashtra",
+      "difficulty": "medium",
+      "sourceUrl": "https://economictimes.indiatimes.com/"
+    },
+    {
+      "id": "ca_20261028_10",
+      "question": "When does the Reserve Bank of India plan to impose new leverage rules for banks?",
+      "options": [
+        "1 जानेवारी 2027",
+        "1 एप्रिल 2027",
+        "1 जुलै 2027",
+        "1 ऑक्टोबर 2027"
+      ],
+      "correctAnswer": 1,
+      "explanation": "बँकिंग क्षेत्रातील जोखीम व्यवस्थापन अधिक बळकट करण्यासाठी, भारतीय रिझर्व्ह बँक (RBI) 1 एप्रिल 2027 पासून बँकांसाठी नवीन लेव्हरेज नियम (Leverage rules) लागू करणार आहे.",
+      "category": "Economy",
+      "difficulty": "hard",
+      "sourceUrl": "https://www.reuters.com/"
+    }
+  ],
+  "totalQuestions": 10,
+  "version": 1
+}
