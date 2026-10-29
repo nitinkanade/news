@@ -1,0 +1,160 @@
+{
+  "date": "2026-10-29",
+  "topic": "Current Affairs",
+  "source": "ABP Majha, Pudhari News, NDTV, Live Law, The Times of India",
+  "lastUpdated": "2026-10-29T10:00:00+05:30",
+  "quiz": [
+    {
+      "id": "ca_20261029_01",
+      "question": "How much financial aid did the Maharashtra Cabinet approve for farmers in drought-affected areas before Diwali?",
+      "options": [
+        "₹३,०००",
+        "₹४,०००",
+        "₹५,०००",
+        "₹१०,०००"
+      ],
+      "correctAnswer": 2,
+      "explanation": "दिवाळीच्या पार्श्वभूमीवर, महाराष्ट्र मंत्रिमंडळाने दुष्काळग्रस्त भागातील सुमारे १.५ कोटी शेतकऱ्यांना ₹५,००० ची आगाऊ आर्थिक मदत देण्याच्या प्रस्तावाला मंजुरी दिली आहे.",
+      "category": "Maharashtra",
+      "difficulty": "easy",
+      "sourceUrl": "https://news.google.com/search?q=Maharashtra+Cabinet+Decision"
+    },
+    {
+      "id": "ca_20261029_02",
+      "question": "For how many posts did the Maharashtra Cabinet recently approve the staffing pattern in the Water Resources Department?",
+      "options": [
+        "२५,०००",
+        "३०,५५०",
+        "३९,७२२",
+        "५०,०००"
+      ],
+      "correctAnswer": 2,
+      "explanation": "महाराष्ट्र मंत्रिमंडळाने जलसंपदा विभागातील ३९,७२२ पदांच्या आकृतीबंधाला मंजुरी दिली आहे, ज्यामुळे विभागातील मनुष्यबळ वाढणार आहे.",
+      "category": "Maharashtra",
+      "difficulty": "medium",
+      "sourceUrl": "https://news.google.com/search?q=Maharashtra+Cabinet+Decision"
+    },
+    {
+      "id": "ca_20261029_03",
+      "question": "Which new Indian law was recently challenged in the Supreme Court by media groups raising concerns over privacy and press freedom?",
+      "options": [
+        "माहिती तंत्रज्ञान कायदा (IT Act)",
+        "डिजिटल वैयक्तिक डेटा संरक्षण कायदा (DPDP Act)",
+        "प्रसारण सेवा विनियमन विधेयक (Broadcasting Services Bill)",
+        "दूरसंचार कायदा (Telecommunications Act)"
+      ],
+      "correctAnswer": 1,
+      "explanation": "भारतीय मीडिया समूहांनी नवीन डिजिटल वैयक्तिक डेटा संरक्षण कायदा (DPDP Act) ला सर्वोच्च न्यायालयात आव्हान दिले असून, त्यामुळे गोपनीयता आणि वृत्तस्वातंत्र्यावर गदा येण्याची भीती व्यक्त केली आहे.",
+      "category": "Polity",
+      "difficulty": "medium",
+      "sourceUrl": "https://news.google.com/search?q=Media+groups+challenge+India+privacy+law"
+    },
+    {
+      "id": "ca_20261029_04",
+      "question": "What is the name of the system whose 'logical discrepancy' checks by the Election Commission are under scrutiny by the Supreme Court?",
+      "options": [
+        "VVPAT",
+        "EVM",
+        "SIR (Special Information Retrieval)",
+        "C-VIGIL"
+      ],
+      "correctAnswer": 2,
+      "explanation": "सर्वोच्च न्यायालयाने म्हटले आहे की, मतदार याद्यांसाठी निवडणूक आयोगाच्या स्पेशल इन्फॉर्मेशन रिट्रिव्हल (SIR) प्रणालीमधील 'लॉजिकल डिस्क्रिपन्सी' (logical discrepancy) तपासणीची कायदेशीरता अद्याप अनिर्णित आहे.",
+      "category": "Polity",
+      "difficulty": "hard",
+      "sourceUrl": "https://news.google.com/search?q=Supreme+Court+EC+SIR"
+    },
+    {
+      "id": "ca_20261029_05",
+      "question": "To protect which state's fragile ecology did a Supreme Court panel recently recommend limiting tourism?",
+      "options": [
+        "उत्तराखंड",
+        "हिमाचल प्रदेश",
+        "सिक्कीम",
+        "केरळ"
+      ],
+      "correctAnswer": 1,
+      "explanation": "हिमाचल प्रदेशच्या नाजूक पर्यावरणाचे (fragile ecology) रक्षण करण्यासाठी सर्वोच्च न्यायालयाच्या एका समितीने राज्यातील पर्यटनावर मर्यादा घालण्याची शिफारस केली आहे.",
+      "category": "Environment",
+      "difficulty": "medium",
+      "sourceUrl": "https://news.google.com/search?q=Supreme+Court+panel+tourism+Himachal"
+    },
+    {
+      "id": "ca_20261029_06",
+      "question": "What term did the Supreme Court recently use to describe cyber crimes while calling for strong action against them?",
+      "options": [
+        "डिजिटल दहशतवाद (Digital Terrorism)",
+        "डिजिटल दरोडा (Digital Dacoity)",
+        "सायबर युद्ध (Cyber Warfare)",
+        "आभासी फसवणूक (Virtual Fraud)"
+      ],
+      "correctAnswer": 1,
+      "explanation": "सर्वोच्च न्यायालयाने सायबर गुन्ह्यांचे वर्णन 'डिजिटल दरोडा' (Digital Dacoity) असे करत, अशा गुन्ह्यांविरुद्ध कठोर कारवाईची गरज असल्याचे प्रतिपादन केले.",
+      "category": "Polity",
+      "difficulty": "easy",
+      "sourceUrl": "https://news.google.com/search?q=Supreme+Court+cyber+crimes+Digital+Dacoity"
+    },
+    {
+      "id": "ca_20261029_07",
+      "question": "The Supreme Court sought the Centre's response on a plea alleging that which current law could negatively affect women's protections?",
+      "options": [
+        "समान नागरी कायदा (UCC)",
+        "तृतीयपंथी व्यक्ती हक्क संरक्षण कायदा (Transgender Persons Act)",
+        "हुंडा प्रतिबंधक कायदा (Dowry Prohibition Act)",
+        "कौटुंबिक हिंसाचार प्रतिबंधक कायदा (Domestic Violence Act)"
+      ],
+      "correctAnswer": 1,
+      "explanation": "सध्याचा तृतीयपंथी व्यक्ती (हक्क संरक्षण) कायदा (Transgender Persons Protection of Rights Act) महिलांच्या संरक्षणावर परिणाम करू शकतो, असा दावा करणाऱ्या याचिकेवर सर्वोच्च न्यायालयाने केंद्र सरकारकडून उत्तर मागितले आहे.",
+      "category": "Polity",
+      "difficulty": "hard",
+      "sourceUrl": "https://news.google.com/search?q=SC+transgender+law+women+protections"
+    },
+    {
+      "id": "ca_20261029_08",
+      "question": "How much financial assistance did the Maharashtra Government announce for 12 athletes participating in international competitions?",
+      "options": [
+        "१० लाख रुपये",
+        "१५ लाख रुपये",
+        "२० लाख रुपये",
+        "२४ लाख रुपये"
+      ],
+      "correctAnswer": 3,
+      "explanation": "आंतरराष्ट्रीय स्पर्धांसाठी राज्यातील १२ खेळाडूंना प्रोत्साहन देण्यासाठी महाराष्ट्र शासनाने एकूण २४ लाख रुपयांचे अर्थसहाय्य जाहीर केले মাঠে.",
+      "category": "Sports",
+      "difficulty": "medium",
+      "sourceUrl": "https://news.google.com/search?q=Maharashtra+Government+financial+assistance+athletes"
+    },
+    {
+      "id": "ca_20261029_09",
+      "question": "TMC MP Dola Sen moved the Supreme Court alleging that the Election Commission of India (ECI) tampered with which form?",
+      "options": [
+        "Form 6",
+        "Form 7",
+        "Form 8",
+        "Form 17C"
+      ],
+      "correctAnswer": 0,
+      "explanation": "तृणमूल काँग्रेसच्या (TMC) खासदार डोला सेन यांनी सर्वोच्च न्यायालयात धाव घेत, भारतीय निवडणूक आयोगाने (ECI) मतदार नोंदणीसाठी वापरल्या जाणाऱ्या 'फॉर्म 6' (Form 6) मध्ये फेरफार केल्याचा आरोप केला आहे.",
+      "category": "Polity",
+      "difficulty": "medium",
+      "sourceUrl": "https://news.google.com/search?q=TMC+MP+Dola+Sen+ECI+Form+6"
+    },
+    {
+      "id": "ca_20261029_10",
+      "question": "The Election Commission of India (ECI) recently defended which system related to electoral rolls before the Supreme Court?",
+      "options": [
+        "VVPAT",
+        "EVM",
+        "SIR (Special Information Retrieval)",
+        "NOTA"
+      ],
+      "correctAnswer": 2,
+      "explanation": "भारतीय निवडणूक आयोगाने (ECI) मतदार याद्यांशी संबंधित त्यांच्या 'स्पेशल इन्फॉर्मेशन रिट्रिव्हल' (SIR) प्रणालीचे सर्वोच्च न्यायालयात समर्थन केले.",
+      "category": "Polity",
+      "difficulty": "easy",
+      "sourceUrl": "https://news.google.com/search?q=ECI+defends+SIR+electoral+rolls"
+    }
+  ],
+  "totalQuestions": 10,
+  "version": 1
+}

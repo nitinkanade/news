@@ -1,158 +1,158 @@
 {
-  "date": "2026-10-29",
+  "date": "2026-10-30",
   "topic": "Current Affairs",
-  "source": "ABP Majha, Pudhari News, NDTV, Live Law, The Times of India",
-  "lastUpdated": "2026-10-29T10:00:00+05:30",
+  "source": "Press Information Bureau, The Times of India, The Indian Express, ET Government, Greater Kashmir",
+  "lastUpdated": "2026-10-30T10:00:00+05:30",
   "quiz": [
     {
-      "id": "ca_20261029_01",
-      "question": "How much financial aid did the Maharashtra Cabinet approve for farmers in drought-affected areas before Diwali?",
+      "id": "ca_20261030_01",
+      "question": "केंद्रीय मंत्रिमंडळाने अलीकडेच केंद्र सरकारी कर्मचाऱ्यांच्या महागाई भत्त्यात (DA) किती टक्के वाढ मंजूर केली आहे?",
       "options": [
-        "₹३,०००",
-        "₹४,०००",
-        "₹५,०००",
-        "₹१०,०००"
+        "२%",
+        "३%",
+        "४%",
+        "५%"
       ],
-      "correctAnswer": 2,
-      "explanation": "दिवाळीच्या पार्श्वभूमीवर, महाराष्ट्र मंत्रिमंडळाने दुष्काळग्रस्त भागातील सुमारे १.५ कोटी शेतकऱ्यांना ₹५,००० ची आगाऊ आर्थिक मदत देण्याच्या प्रस्तावाला मंजुरी दिली आहे.",
-      "category": "Maharashtra",
+      "correctAnswer": 1,
+      "explanation": "केंद्रीय मंत्रिमंडळाने केंद्र सरकारी कर्मचारी आणि निवृत्तीवेतनधारकांसाठी महागाई भत्त्यात (DA/DR) ३% वाढ करण्यास मंजुरी दिली आहे.",
+      "category": "Economy",
       "difficulty": "easy",
-      "sourceUrl": "https://news.google.com/search?q=Maharashtra+Cabinet+Decision"
+      "sourceUrl": "https://pib.gov.in/PressReleasePage.aspx?PRID=2068800"
     },
     {
-      "id": "ca_20261029_02",
-      "question": "For how many posts did the Maharashtra Cabinet recently approve the staffing pattern in the Water Resources Department?",
+      "id": "ca_20261030_02",
+      "question": "राष्ट्रीय औषध मूल्य निर्धारण प्राधिकरणाने (NPPA) अलीकडेच कर्करोग उपचारावरील किती ब्रँडच्या औषधांच्या कमाल किरकोळ किंमतीत (MRP) सुधारणा केली आहे?",
       "options": [
-        "२५,०००",
-        "३०,५५०",
-        "३९,७२२",
-        "५०,०००"
+        "३५०",
+        "४२०",
+        "५४३",
+        "६१०"
       ],
       "correctAnswer": 2,
-      "explanation": "महाराष्ट्र मंत्रिमंडळाने जलसंपदा विभागातील ३९,७२२ पदांच्या आकृतीबंधाला मंजुरी दिली आहे, ज्यामुळे विभागातील मनुष्यबळ वाढणार आहे.",
-      "category": "Maharashtra",
+      "explanation": "राष्ट्रीय औषध मूल्य निर्धारण प्राधिकरणाने (NPPA) कर्करोगाच्या उपचारासाठी वापरल्या जाणाऱ्या ५४३ ब्रँडच्या औषधांच्या कमाल किरकोळ किंमतींमध्ये (MRP) कपात केली आहे.",
+      "category": "Economy",
       "difficulty": "medium",
-      "sourceUrl": "https://news.google.com/search?q=Maharashtra+Cabinet+Decision"
+      "sourceUrl": "https://pib.gov.in/PressReleasePage.aspx?PRID=2068850"
     },
     {
-      "id": "ca_20261029_03",
-      "question": "Which new Indian law was recently challenged in the Supreme Court by media groups raising concerns over privacy and press freedom?",
+      "id": "ca_20261030_03",
+      "question": "केंद्र सरकारने राष्ट्रीय महामार्गावरील टोल नाक्यांपासून किती त्रिज्येच्या हद्दीतील स्थानिक रहिवाशांसाठी सवलतीचा स्थानिक पास लागू केला आहे?",
       "options": [
-        "माहिती तंत्रज्ञान कायदा (IT Act)",
-        "डिजिटल वैयक्तिक डेटा संरक्षण कायदा (DPDP Act)",
-        "प्रसारण सेवा विनियमन विधेयक (Broadcasting Services Bill)",
-        "दूरसंचार कायदा (Telecommunications Act)"
-      ],
-      "correctAnswer": 1,
-      "explanation": "भारतीय मीडिया समूहांनी नवीन डिजिटल वैयक्तिक डेटा संरक्षण कायदा (DPDP Act) ला सर्वोच्च न्यायालयात आव्हान दिले असून, त्यामुळे गोपनीयता आणि वृत्तस्वातंत्र्यावर गदा येण्याची भीती व्यक्त केली आहे.",
-      "category": "Polity",
-      "difficulty": "medium",
-      "sourceUrl": "https://news.google.com/search?q=Media+groups+challenge+India+privacy+law"
-    },
-    {
-      "id": "ca_20261029_04",
-      "question": "What is the name of the system whose 'logical discrepancy' checks by the Election Commission are under scrutiny by the Supreme Court?",
-      "options": [
-        "VVPAT",
-        "EVM",
-        "SIR (Special Information Retrieval)",
-        "C-VIGIL"
+        "१० किमी",
+        "१५ किमी",
+        "२० किमी",
+        "३० किमी"
       ],
       "correctAnswer": 2,
-      "explanation": "सर्वोच्च न्यायालयाने म्हटले आहे की, मतदार याद्यांसाठी निवडणूक आयोगाच्या स्पेशल इन्फॉर्मेशन रिट्रिव्हल (SIR) प्रणालीमधील 'लॉजिकल डिस्क्रिपन्सी' (logical discrepancy) तपासणीची कायदेशीरता अद्याप अनिर्णित आहे.",
+      "explanation": "केंद्र सरकारने राष्ट्रीय महामार्गावरील टोल नाक्यांच्या २० किलोमीटर त्रिज्येच्या हद्दीत राहणाऱ्या स्थानिक रहिवाशांसाठी सवलतीचा स्थानिक पास देण्याची नवीन योजना लागू केली आहे.",
       "category": "Polity",
-      "difficulty": "hard",
-      "sourceUrl": "https://news.google.com/search?q=Supreme+Court+EC+SIR"
-    },
-    {
-      "id": "ca_20261029_05",
-      "question": "To protect which state's fragile ecology did a Supreme Court panel recently recommend limiting tourism?",
-      "options": [
-        "उत्तराखंड",
-        "हिमाचल प्रदेश",
-        "सिक्कीम",
-        "केरळ"
-      ],
-      "correctAnswer": 1,
-      "explanation": "हिमाचल प्रदेशच्या नाजूक पर्यावरणाचे (fragile ecology) रक्षण करण्यासाठी सर्वोच्च न्यायालयाच्या एका समितीने राज्यातील पर्यटनावर मर्यादा घालण्याची शिफारस केली आहे.",
-      "category": "Environment",
       "difficulty": "medium",
-      "sourceUrl": "https://news.google.com/search?q=Supreme+Court+panel+tourism+Himachal"
+      "sourceUrl": "https://pib.gov.in/PressReleasePage.aspx?PRID=2068810"
     },
     {
-      "id": "ca_20261029_06",
-      "question": "What term did the Supreme Court recently use to describe cyber crimes while calling for strong action against them?",
+      "id": "ca_20261030_04",
+      "question": "ऑक्टोबर २०२६ मध्ये १२ वी ब्रिक्स संसदीय परिषद (BRICS Parliamentary Forum) कोणत्या शहरात पार पडली?",
       "options": [
-        "डिजिटल दहशतवाद (Digital Terrorism)",
-        "डिजिटल दरोडा (Digital Dacoity)",
-        "सायबर युद्ध (Cyber Warfare)",
-        "आभासी फसवणूक (Virtual Fraud)"
+        "ब्राझिलिया (Brasilia)",
+        "नवी दिल्ली (New Delhi)",
+        "मॉस्को (Moscow)",
+        "बीजिंग (Beijing)"
       ],
       "correctAnswer": 1,
-      "explanation": "सर्वोच्च न्यायालयाने सायबर गुन्ह्यांचे वर्णन 'डिजिटल दरोडा' (Digital Dacoity) असे करत, अशा गुन्ह्यांविरुद्ध कठोर कारवाईची गरज असल्याचे प्रतिपादन केले.",
-      "category": "Polity",
+      "explanation": "नवी दिल्ली येथे १२ वी ब्रिक्स संसदीय परिषद (12th BRICS Parliamentary Forum) पार पडली, ज्यामध्ये जागतिक प्रशासन आणि शाश्वत विकासावर संयुक्त जाहीरनामा स्वीकारण्यात आला.",
+      "category": "International",
       "difficulty": "easy",
-      "sourceUrl": "https://news.google.com/search?q=Supreme+Court+cyber+crimes+Digital+Dacoity"
+      "sourceUrl": "https://pib.gov.in/PressReleasePage.aspx?PRID=2068700"
     },
     {
-      "id": "ca_20261029_07",
-      "question": "The Supreme Court sought the Centre's response on a plea alleging that which current law could negatively affect women's protections?",
+      "id": "ca_20261030_05",
+      "question": "संयुक्त राष्ट्रांची जैविक विविधता परिषद (CBD COP-17) कोणत्या देशात आयोजित करण्यात आली, जिथे भारताने जागतिक जैवविविधतेबाबत आपली कटिबद्धता पुनर्उच्चारित केली?",
       "options": [
-        "समान नागरी कायदा (UCC)",
-        "तृतीयपंथी व्यक्ती हक्क संरक्षण कायदा (Transgender Persons Act)",
-        "हुंडा प्रतिबंधक कायदा (Dowry Prohibition Act)",
-        "कौटुंबिक हिंसाचार प्रतिबंधक कायदा (Domestic Violence Act)"
-      ],
-      "correctAnswer": 1,
-      "explanation": "सध्याचा तृतीयपंथी व्यक्ती (हक्क संरक्षण) कायदा (Transgender Persons Protection of Rights Act) महिलांच्या संरक्षणावर परिणाम करू शकतो, असा दावा करणाऱ्या याचिकेवर सर्वोच्च न्यायालयाने केंद्र सरकारकडून उत्तर मागितले आहे.",
-      "category": "Polity",
-      "difficulty": "hard",
-      "sourceUrl": "https://news.google.com/search?q=SC+transgender+law+women+protections"
-    },
-    {
-      "id": "ca_20261029_08",
-      "question": "How much financial assistance did the Maharashtra Government announce for 12 athletes participating in international competitions?",
-      "options": [
-        "१० लाख रुपये",
-        "१५ लाख रुपये",
-        "२० लाख रुपये",
-        "२४ लाख रुपये"
-      ],
-      "correctAnswer": 3,
-      "explanation": "आंतरराष्ट्रीय स्पर्धांसाठी राज्यातील १२ खेळाडूंना प्रोत्साहन देण्यासाठी महाराष्ट्र शासनाने एकूण २४ लाख रुपयांचे अर्थसहाय्य जाहीर केले মাঠে.",
-      "category": "Sports",
-      "difficulty": "medium",
-      "sourceUrl": "https://news.google.com/search?q=Maharashtra+Government+financial+assistance+athletes"
-    },
-    {
-      "id": "ca_20261029_09",
-      "question": "TMC MP Dola Sen moved the Supreme Court alleging that the Election Commission of India (ECI) tampered with which form?",
-      "options": [
-        "Form 6",
-        "Form 7",
-        "Form 8",
-        "Form 17C"
+        "इरेव्हान, आर्मेनिया (Yerevan, Armenia)",
+        "दुबाई, यूएई (Dubai, UAE)",
+        "बाकू, अझरबैजान (Baku, Azerbaijan)",
+        "मॉन्ट्रियल, कॅनडा (Montreal, Canada)"
       ],
       "correctAnswer": 0,
-      "explanation": "तृणमूल काँग्रेसच्या (TMC) खासदार डोला सेन यांनी सर्वोच्च न्यायालयात धाव घेत, भारतीय निवडणूक आयोगाने (ECI) मतदार नोंदणीसाठी वापरल्या जाणाऱ्या 'फॉर्म 6' (Form 6) मध्ये फेरफार केल्याचा आरोप केला आहे.",
-      "category": "Polity",
-      "difficulty": "medium",
-      "sourceUrl": "https://news.google.com/search?q=TMC+MP+Dola+Sen+ECI+Form+6"
+      "explanation": "आर्मेनियातील इरेव्हान (Yerevan) येथे आयोजित संयुक्त राष्ट्रांच्या जैविक विविधतेवरील परिषदेत (CBD COP-17) भारताने जागतिक जैवविविधता उद्दिष्टांसाठी कटिबद्धता दर्शवली.",
+      "category": "Environment",
+      "difficulty": "hard",
+      "sourceUrl": "https://pib.gov.in/PressReleasePage.aspx?PRID=2068750"
     },
     {
-      "id": "ca_20261029_10",
-      "question": "The Election Commission of India (ECI) recently defended which system related to electoral rolls before the Supreme Court?",
+      "id": "ca_20261030_06",
+      "question": "मुंबई महानगर प्रदेशासाठी (MMR) सन २०५१ पर्यंतच्या पाणीपुरवठ्याचा सर्वसमावेशक विकास आराखडा तयार करण्यासाठी कोणत्या राज्य सरकारने अभ्यास गटाची स्थापना केली आहे?",
       "options": [
-        "VVPAT",
-        "EVM",
-        "SIR (Special Information Retrieval)",
-        "NOTA"
+        "गुजरात",
+        "महाराष्ट्र",
+        "कर्नाटक",
+        "तमिळनाडू"
       ],
-      "correctAnswer": 2,
-      "explanation": "भारतीय निवडणूक आयोगाने (ECI) मतदार याद्यांशी संबंधित त्यांच्या 'स्पेशल इन्फॉर्मेशन रिट्रिव्हल' (SIR) प्रणालीचे सर्वोच्च न्यायालयात समर्थन केले.",
-      "category": "Polity",
+      "correctAnswer": 1,
+      "explanation": "महाराष्ट्र शासनाने मुंबई महानगर प्रदेशासाठी (MMR) सन २०५१ पर्यंतच्या पाणीपुरवठ्याचा सर्वसमावेशक विकास आराखडा (Water Master Plan) तयार करण्यासाठी अभ्यास गटाची स्थापना केली आहे.",
+      "category": "Maharashtra",
       "difficulty": "easy",
-      "sourceUrl": "https://news.google.com/search?q=ECI+defends+SIR+electoral+rolls"
+      "sourceUrl": "https://government.economictimes.indiatimes.com/news/governance/maharashtra-forms-study-group-to-draw-up-mmr-water-plan-through-2051/114620000"
+    },
+    {
+      "id": "ca_20261030_07",
+      "question": "भारतीय नौदलातील २८२ माजी अग्निविरांना (Navy Agniveers) आपल्या राज्य पोलीस दलात पोलीस शिपाई पदावर थेट भरती करण्याची घोषणा कोणत्या राज्य सरकारने केली आहे?",
+      "options": [
+        "राजस्थान",
+        "महाराष्ट्र",
+        "उत्तर प्रदेश",
+        "हरियाणा"
+      ],
+      "correctAnswer": 1,
+      "explanation": "महाराष्ट्र शासनाने भारतीय नौदलातील २८२ माजी अग्निविरांची (Navy Agniveers) राज्य पोलीस दलात पोलीस शिपाई पदावर थेट भरती करण्याची घोषणा केली आहे.",
+      "category": "Maharashtra",
+      "difficulty": "medium",
+      "sourceUrl": "https://timesofindia.indiatimes.com/city/mumbai/maharashtra-appoints-282-navy-agniveers-as-police-constables/articleshow/114510000.cms"
+    },
+    {
+      "id": "ca_20261030_08",
+      "question": "महाराष्ट्र मंत्रिमंडळाने दुष्काळग्रस्त शेतकऱ्यांना प्रति शेतकरी ₹५,००० ची आगाऊ मदत देण्यासाठी एकूण किती आर्थिक पॅकेजला मंजुरी दिली आहे?",
+      "options": [
+        "₹५,००० कोटी",
+        "₹७,५०० कोटी",
+        "₹१०,००० कोटी",
+        "₹१२,५०० कोटी"
+      ],
+      "correctAnswer": 1,
+      "explanation": "महाराष्ट्र मंत्रिमंडळाने दुष्काळग्रस्त १.५ कोटी शेतकऱ्यांना ₹५,००० ची आगाऊ मदत देण्यासाठी एकूण ₹७,५०० कोटींच्या विशेष आर्थिक पॅकेजला मंजुरी दिली आहे.",
+      "category": "Maharashtra",
+      "difficulty": "medium",
+      "sourceUrl": "https://www.newindianexpress.com/nation/2026/oct/27/maharashtra-govt-approves-rs-7500-crore-for-drought-relief"
+    },
+    {
+      "id": "ca_20261030_09",
+      "question": "शास्त्रीय संस्थांमधील संशोधन आणि नवोपक्रमाला चालना देण्यासाठी पंतप्रधानांच्या हस्ते ऑक्टोबर २०२६ मध्ये कोणत्या राष्ट्रीय परिषदेचे उद्घाटन करण्यात आले?",
+      "options": [
+        "STI Conclave 2026",
+        "Emerging Science, Technology and Innovation Conclave 2026",
+        "National Innovation Summit 2026",
+        "Vikasit Bharat Tech Expo 2026"
+      ],
+      "correctAnswer": 1,
+      "explanation": "पंतप्रधानांनी ऑक्टोबर २०२६ मध्ये 'इमर्जिंग सायन्स, टेक्नॉलॉजी अँड इनोव्हेशन कॉन्क्लेव्ह २०२६' (Emerging Science, Technology and Innovation Conclave 2026) चे उद्घाटन केले, ज्याचा उद्देश देशातील संशोधन व नवोपक्रमाला गती देणे आहे.",
+      "category": "Science & Tech",
+      "difficulty": "hard",
+      "sourceUrl": "https://pib.gov.in/PressReleasePage.aspx?PRID=2068780"
+    },
+    {
+      "id": "ca_20261030_10",
+      "question": "ऑल इंडिया युनिव्हर्सिटी थांग-ता (Thang-Ta) चॅम्पियनशिपमध्ये सुवर्णपदक पटकावणारा ताबीश मुश्ताक हा खेळाडू कोणत्या राज्य/केंद्रशासित प्रदेशाचा आहे?",
+      "options": [
+        "पंजाब",
+        "जम्मू आणि काश्मीर",
+        "मणिपूर",
+        "उत्तराखंड"
+      ],
+      "correctAnswer": 1,
+      "explanation": "जम्मू आणि काश्मीरच्या ताबीश मुश्ताक (Tabish Mushtaq) या खेळाडूने ऑल इंडिया युनिव्हर्सिटी थांग-ता (Thang-Ta) चॅम्पियनशिपमध्ये सुवर्णपदक पटकावले.",
+      "category": "Sports",
+      "difficulty": "medium",
+      "sourceUrl": "https://www.greaterkashmir.com/sports/jks-tabish-mushtaq-wins-gold-at-all-india-university-thang-ta-championship/"
     }
   ],
   "totalQuestions": 10,
