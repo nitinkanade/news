@@ -1,0 +1,160 @@
+{
+  "date": "2026-10-30",
+  "topic": "Current Affairs",
+  "source": "Press Information Bureau, The Times of India, The Indian Express, ET Government, Greater Kashmir",
+  "lastUpdated": "2026-10-30T10:00:00+05:30",
+  "quiz": [
+    {
+      "id": "ca_20261030_01",
+      "question": "केंद्रीय मंत्रिमंडळाने अलीकडेच केंद्र सरकारी कर्मचाऱ्यांच्या महागाई भत्त्यात (DA) किती टक्के वाढ मंजूर केली आहे?",
+      "options": [
+        "२%",
+        "३%",
+        "४%",
+        "५%"
+      ],
+      "correctAnswer": 1,
+      "explanation": "केंद्रीय मंत्रिमंडळाने केंद्र सरकारी कर्मचारी आणि निवृत्तीवेतनधारकांसाठी महागाई भत्त्यात (DA/DR) ३% वाढ करण्यास मंजुरी दिली आहे.",
+      "category": "Economy",
+      "difficulty": "easy",
+      "sourceUrl": "https://pib.gov.in/PressReleasePage.aspx?PRID=2068800"
+    },
+    {
+      "id": "ca_20261030_02",
+      "question": "राष्ट्रीय औषध मूल्य निर्धारण प्राधिकरणाने (NPPA) अलीकडेच कर्करोग उपचारावरील किती ब्रँडच्या औषधांच्या कमाल किरकोळ किंमतीत (MRP) सुधारणा केली आहे?",
+      "options": [
+        "३५०",
+        "४२०",
+        "५४३",
+        "६१०"
+      ],
+      "correctAnswer": 2,
+      "explanation": "राष्ट्रीय औषध मूल्य निर्धारण प्राधिकरणाने (NPPA) कर्करोगाच्या उपचारासाठी वापरल्या जाणाऱ्या ५४३ ब्रँडच्या औषधांच्या कमाल किरकोळ किंमतींमध्ये (MRP) कपात केली आहे.",
+      "category": "Economy",
+      "difficulty": "medium",
+      "sourceUrl": "https://pib.gov.in/PressReleasePage.aspx?PRID=2068850"
+    },
+    {
+      "id": "ca_20261030_03",
+      "question": "केंद्र सरकारने राष्ट्रीय महामार्गावरील टोल नाक्यांपासून किती त्रिज्येच्या हद्दीतील स्थानिक रहिवाशांसाठी सवलतीचा स्थानिक पास लागू केला आहे?",
+      "options": [
+        "१० किमी",
+        "१५ किमी",
+        "२० किमी",
+        "३० किमी"
+      ],
+      "correctAnswer": 2,
+      "explanation": "केंद्र सरकारने राष्ट्रीय महामार्गावरील टोल नाक्यांच्या २० किलोमीटर त्रिज्येच्या हद्दीत राहणाऱ्या स्थानिक रहिवाशांसाठी सवलतीचा स्थानिक पास देण्याची नवीन योजना लागू केली आहे.",
+      "category": "Polity",
+      "difficulty": "medium",
+      "sourceUrl": "https://pib.gov.in/PressReleasePage.aspx?PRID=2068810"
+    },
+    {
+      "id": "ca_20261030_04",
+      "question": "ऑक्टोबर २०२६ मध्ये १२ वी ब्रिक्स संसदीय परिषद (BRICS Parliamentary Forum) कोणत्या शहरात पार पडली?",
+      "options": [
+        "ब्राझिलिया (Brasilia)",
+        "नवी दिल्ली (New Delhi)",
+        "मॉस्को (Moscow)",
+        "बीजिंग (Beijing)"
+      ],
+      "correctAnswer": 1,
+      "explanation": "नवी दिल्ली येथे १२ वी ब्रिक्स संसदीय परिषद (12th BRICS Parliamentary Forum) पार पडली, ज्यामध्ये जागतिक प्रशासन आणि शाश्वत विकासावर संयुक्त जाहीरनामा स्वीकारण्यात आला.",
+      "category": "International",
+      "difficulty": "easy",
+      "sourceUrl": "https://pib.gov.in/PressReleasePage.aspx?PRID=2068700"
+    },
+    {
+      "id": "ca_20261030_05",
+      "question": "संयुक्त राष्ट्रांची जैविक विविधता परिषद (CBD COP-17) कोणत्या देशात आयोजित करण्यात आली, जिथे भारताने जागतिक जैवविविधतेबाबत आपली कटिबद्धता पुनर्उच्चारित केली?",
+      "options": [
+        "इरेव्हान, आर्मेनिया (Yerevan, Armenia)",
+        "दुबाई, यूएई (Dubai, UAE)",
+        "बाकू, अझरबैजान (Baku, Azerbaijan)",
+        "मॉन्ट्रियल, कॅनडा (Montreal, Canada)"
+      ],
+      "correctAnswer": 0,
+      "explanation": "आर्मेनियातील इरेव्हान (Yerevan) येथे आयोजित संयुक्त राष्ट्रांच्या जैविक विविधतेवरील परिषदेत (CBD COP-17) भारताने जागतिक जैवविविधता उद्दिष्टांसाठी कटिबद्धता दर्शवली.",
+      "category": "Environment",
+      "difficulty": "hard",
+      "sourceUrl": "https://pib.gov.in/PressReleasePage.aspx?PRID=2068750"
+    },
+    {
+      "id": "ca_20261030_06",
+      "question": "मुंबई महानगर प्रदेशासाठी (MMR) सन २०५१ पर्यंतच्या पाणीपुरवठ्याचा सर्वसमावेशक विकास आराखडा तयार करण्यासाठी कोणत्या राज्य सरकारने अभ्यास गटाची स्थापना केली आहे?",
+      "options": [
+        "गुजरात",
+        "महाराष्ट्र",
+        "कर्नाटक",
+        "तमिळनाडू"
+      ],
+      "correctAnswer": 1,
+      "explanation": "महाराष्ट्र शासनाने मुंबई महानगर प्रदेशासाठी (MMR) सन २०५१ पर्यंतच्या पाणीपुरवठ्याचा सर्वसमावेशक विकास आराखडा (Water Master Plan) तयार करण्यासाठी अभ्यास गटाची स्थापना केली आहे.",
+      "category": "Maharashtra",
+      "difficulty": "easy",
+      "sourceUrl": "https://government.economictimes.indiatimes.com/news/governance/maharashtra-forms-study-group-to-draw-up-mmr-water-plan-through-2051/114620000"
+    },
+    {
+      "id": "ca_20261030_07",
+      "question": "भारतीय नौदलातील २८२ माजी अग्निविरांना (Navy Agniveers) आपल्या राज्य पोलीस दलात पोलीस शिपाई पदावर थेट भरती करण्याची घोषणा कोणत्या राज्य सरकारने केली आहे?",
+      "options": [
+        "राजस्थान",
+        "महाराष्ट्र",
+        "उत्तर प्रदेश",
+        "हरियाणा"
+      ],
+      "correctAnswer": 1,
+      "explanation": "महाराष्ट्र शासनाने भारतीय नौदलातील २८२ माजी अग्निविरांची (Navy Agniveers) राज्य पोलीस दलात पोलीस शिपाई पदावर थेट भरती करण्याची घोषणा केली आहे.",
+      "category": "Maharashtra",
+      "difficulty": "medium",
+      "sourceUrl": "https://timesofindia.indiatimes.com/city/mumbai/maharashtra-appoints-282-navy-agniveers-as-police-constables/articleshow/114510000.cms"
+    },
+    {
+      "id": "ca_20261030_08",
+      "question": "महाराष्ट्र मंत्रिमंडळाने दुष्काळग्रस्त शेतकऱ्यांना प्रति शेतकरी ₹५,००० ची आगाऊ मदत देण्यासाठी एकूण किती आर्थिक पॅकेजला मंजुरी दिली आहे?",
+      "options": [
+        "₹५,००० कोटी",
+        "₹७,५०० कोटी",
+        "₹१०,००० कोटी",
+        "₹१२,५०० कोटी"
+      ],
+      "correctAnswer": 1,
+      "explanation": "महाराष्ट्र मंत्रिमंडळाने दुष्काळग्रस्त १.५ कोटी शेतकऱ्यांना ₹५,००० ची आगाऊ मदत देण्यासाठी एकूण ₹७,५०० कोटींच्या विशेष आर्थिक पॅकेजला मंजुरी दिली आहे.",
+      "category": "Maharashtra",
+      "difficulty": "medium",
+      "sourceUrl": "https://www.newindianexpress.com/nation/2026/oct/27/maharashtra-govt-approves-rs-7500-crore-for-drought-relief"
+    },
+    {
+      "id": "ca_20261030_09",
+      "question": "शास्त्रीय संस्थांमधील संशोधन आणि नवोपक्रमाला चालना देण्यासाठी पंतप्रधानांच्या हस्ते ऑक्टोबर २०२६ मध्ये कोणत्या राष्ट्रीय परिषदेचे उद्घाटन करण्यात आले?",
+      "options": [
+        "STI Conclave 2026",
+        "Emerging Science, Technology and Innovation Conclave 2026",
+        "National Innovation Summit 2026",
+        "Vikasit Bharat Tech Expo 2026"
+      ],
+      "correctAnswer": 1,
+      "explanation": "पंतप्रधानांनी ऑक्टोबर २०२६ मध्ये 'इमर्जिंग सायन्स, टेक्नॉलॉजी अँड इनोव्हेशन कॉन्क्लेव्ह २०२६' (Emerging Science, Technology and Innovation Conclave 2026) चे उद्घाटन केले, ज्याचा उद्देश देशातील संशोधन व नवोपक्रमाला गती देणे आहे.",
+      "category": "Science & Tech",
+      "difficulty": "hard",
+      "sourceUrl": "https://pib.gov.in/PressReleasePage.aspx?PRID=2068780"
+    },
+    {
+      "id": "ca_20261030_10",
+      "question": "ऑल इंडिया युनिव्हर्सिटी थांग-ता (Thang-Ta) चॅम्पियनशिपमध्ये सुवर्णपदक पटकावणारा ताबीश मुश्ताक हा खेळाडू कोणत्या राज्य/केंद्रशासित प्रदेशाचा आहे?",
+      "options": [
+        "पंजाब",
+        "जम्मू आणि काश्मीर",
+        "मणिपूर",
+        "उत्तराखंड"
+      ],
+      "correctAnswer": 1,
+      "explanation": "जम्मू आणि काश्मीरच्या ताबीश मुश्ताक (Tabish Mushtaq) या खेळाडूने ऑल इंडिया युनिव्हर्सिटी थांग-ता (Thang-Ta) चॅम्पियनशिपमध्ये सुवर्णपदक पटकावले.",
+      "category": "Sports",
+      "difficulty": "medium",
+      "sourceUrl": "https://www.greaterkashmir.com/sports/jks-tabish-mushtaq-wins-gold-at-all-india-university-thang-ta-championship/"
+    }
+  ],
+  "totalQuestions": 10,
+  "version": 1
+}
