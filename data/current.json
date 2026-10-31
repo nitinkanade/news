@@ -1,158 +1,158 @@
 {
-  "date": "2026-10-31",
+  "date": "2026-11-01",
   "topic": "Current Affairs",
-  "source": "The Times of India, The Indian Express, Rediff, LawBeat, NDTV, Live Law, The Hindu",
-  "lastUpdated": "2026-10-31T10:00:00+05:30",
+  "source": "The Hindu, The Times of India, Live Law, Bar and Bench, DD News, The New Indian Express, GK Today, LawStreet Journal, Utkarsh Classes",
+  "lastUpdated": "2026-11-01T06:00:00+05:30",
   "quiz": [
     {
-      "id": "ca_20261031_01",
-      "question": "ऑक्टोबर २०२६ मध्ये जागतिक कुस्ती चॅम्पियनशिपमध्ये (World Wrestling Championship) सुवर्णपदक जिंकणारी पहिली भारतीय महिला कुस्तीपटू कोण ठरली आहे?",
+      "id": "ca_20261101_01",
+      "question": "महाराष्ट्र शासनाने युनेस्को (UNESCO) नामांकित शिवकालीन चार प्रमुख किल्ल्यांच्या सुरक्षिततेसाठी किती कोटी रुपयांचा निधी मंजूर केला आहे?",
       "options": [
-        "विनेश फोगट",
-        "मनिषा भानवाला",
-        "साक्षी मलिक",
-        "अंशू मलिक"
+        "₹१.५० कोटी",
+        "₹२.९४ कोटी",
+        "₹४.२० कोटी",
+        "₹५.०० कोटी"
       ],
       "correctAnswer": 1,
-      "explanation": "मनिषा भानवाला (Manisha Bhanwala) हिने ऑक्टोबर २०२६ मध्ये जागतिक कुस्ती चॅम्पियनशिपमध्ये सुवर्णपदक पटकावून इतिहास रचला. ती जागतिक कुस्ती चॅम्पियनशिपमध्ये सुवर्णपदक जिंकणारी पहिली भारतीय महिला कुस्तीपटू ठरली आहे.",
+      "explanation": "महाराष्ट्र शासनाने युनेस्को जागतिक वारसा नामांकनाशी संबंधित शिवकालीन शिवनेरी, राजगड, तोरणा आणि प्रतापगड या चार प्रमुख किल्ल्यांच्या सुरक्षिततेसाठी ₹२.९४ कोटींचा निधी मंजूर केला असून तेथे ८० सुरक्षा रक्षक तैनात करण्यात येणार आहेत.",
+      "category": "Maharashtra",
+      "difficulty": "easy",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNWldoSF80QlgzRFlKbjgtNTVyY1RvdUtCYl84X19BdGY1dy1kd25YRU1ESnVEMHQ5WUlpVVNSSFVXZWQ4LUpSRmRrMGZobFFEdnBONU4wb212SWxtcUk1eVRPQVpRRjVCS2stVGxhT3BIaUpiWHpDbmZ6NVNhM1A3TVVZMkR3ekNsdXYtWFBhTC1fQ1VKYnFKTzNRbVloZjhnSlNRZ2lLSkZITHNkckVwYkNuNjVhNDJFaExpTUtIcThueDRLTHE0XzdB?oc=5"
+    },
+    {
+      "id": "ca_20261101_02",
+      "question": "कॉमनवेल्थ कबड्डी चॅम्पियनशिप २०२६ (Commonwealth Kabaddi Championship) मध्ये भारताने कोणते दुहेरी यश संपादन केले आहे?",
+      "options": [
+        "केवळ पुरुष संघाने सुवर्णपदक जिंकले",
+        "केवळ महिला संघाने सुवर्णपदक जिंकले",
+        "पुरुष व महिला दोन्ही संघांनी सुवर्णपदक जिंकले",
+        "भारताला रौप्यपदक मिळाले"
+      ],
+      "correctAnswer": 2,
+      "explanation": "कॉमनवेल्थ कबड्डी चॅम्पियनशिप २०२६ मध्ये भारतीय पुरुष आणि महिला अशा दोन्ही संघांनी अजिंक्यपद पटकावून ऐतिहासिक दुहेरी सुवर्णपदक संपादन केले. महिला संघाने युगांडाला तर पुरुष संघाने श्रीलंकेला अंतिम सामन्यात पराभूत केले.",
       "category": "Sports",
       "difficulty": "easy",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNMDA4WHdCUjllNlRON29yYzhvdDcyM2RYVEVGNEJaTmFlZUl0T3F3VC1FR05LWVppJnNTUXBnNkxNd0ZTeE1TdmxIR2lTeHRlRlpKVjRFMWM0VFUzdjBwanBMQWllTUowLTVaS2NhNUIzTmhfMENObEd2WFVFYkZEVU9lVFlWSEM4T1BZMWVWck5rNVpBZ3RETVRHWS1pZU0xVzVsMkg5dndKVGfSAa4BQVVfeXFMTi15TFZZbDhVdThLZXJ1T0YzalhiS29UeTBkYkJqVmNrN0dHWmEyZVhEODhTbTZwdTNteDlrdGlxWXZlOGt0dnN0SHdGd0xNUHFtNzdIOUdfV1JHbGdyckZIQ0phQnBvSmZ4QlFralZfT2N5T0s1QVRiRERzV29ZQ2NBcVBvNnAzS2REN0H1P3B4M0gwQzkwM0F3NlQ0SS1YNVhGNzdhazJWVWFsSjh3?oc=5"
+      "sourceUrl": "https://news.google.com/rss/articles/CBMijwJBVV95cUxOZVE3SjREUUQydndQd1lYYld0UGhzR0tTQjhOZkxLbl8xaV9GX1dqbEszTDcxQ3JBSWlPX1B5T2h0QkJhdVBTcW5xVVFhMVFYeDNocEEwRVprNzJ4R3BnS1U4ckJfMEZPczNQS19KSnNwWTRiM2ZIR1dka1RaZHlaaXFkdGxHaEVGcFhwVEhoeWRZQUtYTHM0UEExSXh0QTRiSUd0bWJSSEJzM0o4dXpVMEtPY3VYbzk3VWwwU3dZdXhWdnZLbkFmYlVISjRnRE43b0ZydzJfdWhOa3VqNzVTWFRzRXZEOGZCVVBMZXM4VzhPOEdUMkIzdnJmWGhvYzFHNENRUTN2eHVVLXJjSWZF0gGUAkFVX3lxTE01ZWNiaG9CVGJDWlBPV05wNkQzLTlROEdySDM1VGtUclV0N0pWS0tjZ1pHTXpPS3p6aEU2Uy1YTG9ORHo2dTltLW9PaS00OTJTNWRTRXc0a0N5Z2dYVldHOW5UaW41U3plLXU0QVJITWtDbW9TUmlSQjdqNnhwZDgwclhTQTFYT3NtdnV6YzZCMVFFSnFpMG9DVnlrZGlpY0QtekJpWkdySUpxaWxnWGlwQkRpS2VxcDVpblRRdWFtUEZENVpjQ0l0Q1otc201T0kweE9XeEl0amhyQ2d2ajVfMmRiWTBRMXRPRmVPdFRqY2xTVy1SUHNCQi1hWjFRMXN3UVZxVW5fTEV4VndlYlRGYzZZUQ?oc=5"
     },
     {
-      "id": "ca_20261031_02",
-      "question": "केंद्रीय मंत्रिमंडळाने ऑक्टोबर २०२६ मध्ये केंद्र सरकारी कर्मचाऱ्यांच्या महागाई भत्त्यात (Dearness Allowance) किती टक्के वाढ मंजूर केली आहे?",
+      "id": "ca_20261101_03",
+      "question": "भारताचे सरन्यायाधीश सूर्यकांत यांच्या हस्ते प्रतिष्ठित 'प्रो. एन. आर. माधव मेनन स्मृती पुरस्कार' कोणास प्रदान करण्यात आला?",
       "options": [
-        "२%",
-        "३%",
-        "४%",
-        "५%"
+        "तुषार मेहता",
+        "आर. व्यंकटरमणी",
+        "मुकुल रोहतगी",
+        "के. के. वेणुगोपाल"
       ],
       "correctAnswer": 1,
-      "explanation": "पंतप्रधान नरेंद्र मोदी यांच्या अध्यक्षतेखालील केंद्रीय मंत्रिमंडळाने केंद्र सरकारी कर्मचारी आणि निवृत्तीवेतनधारकांसाठी महागाई भत्त्यात (DA) ३% वाढ करण्यास मंजुरी दिली आहे.",
-      "category": "Economy",
+      "explanation": "कायद्याचे शिक्षण आणि न्याय क्षेत्रातील उत्कृष्ट योगदानाबद्दल भारताचे महान्यायवादी (Attorney General) आर. व्यंकटरमणी यांना भारताच्या सरन्यायाधीशांच्या हस्ते 'प्रा. एन. आर. माधव मेनन स्मृती पुरस्कार' प्रदान करण्यात आला.",
+      "category": "Polity",
       "difficulty": "easy",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOZ01WRlFkM2NZVTVMOFpHMjg4QKLX_LCNUHgxdTZ1YWN3c3F4MjQ2T1hSSmxqdXZCRmNYdGtwd3hjX1N2eFhZWloxN3MwSDRQSGNTdThNWGVfbzBvWDdkQWdETXNZcy1DZE5pZHphdXluaFYzVDdCZkwyOEc3Nk1vR3lYaVBRUWY3OFBWTEY2NFdEVTByVEpjaTlNVHRqY3hsNnNDNlVtTEw1Zm5ocTR2WDhxNVBDMFBXUThOMDgtRzNucGFnMG16ZVNtVm13TEEzaiZMdUlrWFRnAc4BQVVfeXFMTVRhYndXVENuX2hnN0djUzBORTdzODAxSDlnMXR5dVdiN1ZuaXF2ZFFjaXUtWkRWV3hqNkZvUVM3UmpjWFBnX3g4VlM2UTFvUXJzVVE1dDNmclNCRkdndklIZW9UNTJOUG92UFJ2NlNzM3hyTWJqcS1zNWRoc09DaV9BdmU0b09LZmQzLUl5cEw5S01ZMlhRcGc1WjYwbnBldV93dUlLelZEcXJTYVU4ZWo1REVyaFNBVEHIAnV6RU1Vak5kZGE5LVpiMl9La3JmSVU3NTc1ZTU0TENwdjBfMTM?oc=5"
+      "sourceUrl": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQT2h2OE54c1d1Si0tMUU5TlRfWUVnQ1A5NUpqWXFuWkVGN05LUXBUMmdzQ1pJSUtHcnJlYlpiTXNpeEV0OFh3MFhpUFM0dE1PdG9DZHlVczI1cGREdW8ybnVId3MzSVRtcjBHS2dkVzdGZ2VEcm9wMmVSUzQtTVBnc2RQa3dfdlE4MzJKZVdJTENiTEU5cEUtcHNSM1A1RkxydVIxcm02UVhXeFNIVjZUMndZUDhVZkloVno4YUdwY0NONUd4UElzYk4ybldLR1czSUpWNFdEY2U5dUg2VGFUZ3hKUnl1VmxFWDhwNNIB8wFBVV95cUxPUmxHNU9Ebk01dFBHWDVHWi1qLURaWlBXMWdsNWJRamxNUHJZUFlHTUpEZHRFbldoaXNzTWs0OTRZTXY1MzBrVFpPeE8yejN3MHZDVk1BYWc2NEVSM1lhMHdHV01PMTJKeW5xVi10c2h3UFVrTWJHTDZzbnJfLTh2TktBMzZPaENWdUE3N21kYWtySGIxRmx1YTdYWi1sUFdkakpqUElybUxxbjdYS21lZEVuaThXYmlDaFVEQnpuOGdUZ21YWnNSMDJHMHFhRHJUMjc4Y3hNVWRRTlJ5Q0ZMTWZHQXh5TXFCRWc3c2thOG52ZUE?oc=5"
     },
     {
-      "id": "ca_20261031_03",
-      "question": "भारतीय अंतराळ संशोधन संस्थेने (ISRO) स्वदेशी NavIC प्रणाली मजबूत करण्यासाठी कोणत्या उपग्रहाचे यशस्वी प्रक्षेपण केले आहे?",
+      "id": "ca_20261101_04",
+      "question": "महाराष्ट्रातील दुष्काळग्रस्त ३०४ तालुक्यांमधील सामाजिक वनीकरण व वृक्ष लागवडीच्या संवर्धनासाठी शासनाने किती निधी वितरित केला आहे?",
       "options": [
-        "NVS-01",
-        "NVS-02",
-        "NVS-03",
-        "NVS-04"
+        "₹५०.०० लाख",
+        "₹७५.५० लाख",
+        "₹९०.७२ लाख",
+        "₹१.२५ कोटी"
       ],
       "correctAnswer": 2,
-      "explanation": "इस्रोने (ISRO) NavIC प्रणाली अधिक मजबूत करण्यासाठी NVS-03 या नेव्हिगेशन उपग्रहाचे यशस्वी प्रक्षेपण केले आहे. हा पुढील पिढीचा नेव्हिगेशन उपग्रह आहे.",
-      "category": "Science & Tech",
-      "difficulty": "medium",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQY09aZVM3UjFhNGNWSTRueWw3WUM1blBnaEw5eWhGbEd5Qm5VQ3duYnVBbjVPYzZZRmI0LVNmZEhfNU1Nbll1dDJJbHZ5TWJoRi14VmdFTFM2NWFPalkxb2FNaEhNRWs1eWV3emRWaERXcGM0S2R0LVVtNks5LTItWHZudU02NTE5WWdvQkhDZlB6TDBZVVpLRzB4WnpJWXZSR0FQN29mcUJtUHNCMmZUVC1oMUVmcm_SAb8BQVVfeXFMUEl2WnFZWHlwaVFBSWZ4dW5BZzZodmZSUDVoSk5FUjR3NFpmYWxwWmVlOTlReElseGE3X3lKU1lLNmstVFd5Uklubjgxb1dGTlNuaThPTHY1Y2tnNUxmdGRxVS0tbVVLVV85VWFiNlV5ZTV2MVh5Nzg1WFhXQ3BUWnFQV0xxTTR5N20wS01HM2tnSzl2RWxCVmQ3Zk50akptbmxuSk9iQW1oMXlHb1loNjdDNlJGWlBwbGUwZVpqczA?oc=5"
-    },
-    {
-      "id": "ca_20261031_04",
-      "question": "महाराष्ट्र शासनाने दुष्काळग्रस्त शेतकऱ्यांना प्रति शेतकरी किती रुपयांची आर्थिक मदत देण्याचा शासन निर्णय (GR) जारी केला आहे?",
-      "options": [
-        "₹३,०००",
-        "₹५,०००",
-        "₹७,५००",
-        "₹१०,०००"
-      ],
-      "correctAnswer": 1,
-      "explanation": "महाराष्ट्र शासनाने दुष्काळग्रस्त शेतकऱ्यांना दिलासा देण्यासाठी प्रति शेतकरी ₹५,००० ची विनाअट आर्थिक मदत देण्याचा निर्णय घेतला असून मदत व पुनर्वसन विभागाने त्याबाबतचा शासन निर्णय जारी केला आहे.",
-      "category": "Maharashtra",
-      "difficulty": "easy",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPN2tUcnNxZlhTdG1EYUhFWDBnOWU1LThaTmo5Z3dWT1dSZ0VHS3duZTRXd2lqNGZmanlnZFJ4aVR3XzVNY3RPblE2R01mdHpKZjU5ZVdJM2R6bWczQkYyQll2aGszYWl6MjlVc2VURF9makRTdFZsVGJPYmQ3eXBDNFNtNWRBWmZGMURwU1pobVkwRlpzbVhHelRvc2ZaWm53QmtxR0xSVndFV1VKcVU3MU9pTzJpJnB3VmZEZjFSWDdWNzlDanlzY0FVX3RxZk3SAdYBQVVfeXFMTzYwRWZDSFBpYVl2TW9ndVFzdkh4OVk1WVVnUEEyaTVtMGgxSHJEcWdqcEZHUFVxR0ZjbHotWHktTFFTX3NzenV3WTNBN3hBZmh4d1dCMWc4aTAtSjZkUERiWVFsdnViZ0lqRllrVV9YWEFfazdDRmVCWEtadmdRaGJaZ01VeDJYa2NQVzdJbGFObEt6OUhGSEhjb3IzMDlqRUpIaEdCSlZETEEtazYyOEVmQXk0TVNPNnozVWVNSjd1V3Y0OTZpT25WVTVKX3lKWFVkYzNiQQ?oc=5"
-    },
-    {
-      "id": "ca_20261031_05",
-      "question": "महाराष्ट्र शासनाने एसटी (ST) कर्मचाऱ्यांसाठी दिवाळीपूर्वी वेळेवर वेतन देण्यासाठी किती कोटी रुपयांचा निधी मंजूर केला आहे?",
-      "options": [
-        "₹२५० कोटी",
-        "₹३५० कोटी",
-        "₹३९१ कोटी",
-        "₹५०० कोटी"
-      ],
-      "correctAnswer": 2,
-      "explanation": "महाराष्ट्र सरकारने एसटी कर्मचाऱ्यांची दिवाळी गोड करण्यासाठी आणि वेळेआधी पगार देण्यासाठी ₹३९१ कोटींच्या निधीला मंजुरी दिली आहे.",
+      "explanation": "महाराष्ट्र शासनाने दुष्काळसदृश परिस्थिती असलेल्या ३०४ तालुक्यांमध्ये पूर्वी केलेल्या वृक्ष लागवडींचे जतन आणि देखभाल करण्यासाठी ₹९०.७२ लाख रुपयांचा निधी मंजूर करून वितरित केला आहे.",
       "category": "Maharashtra",
       "difficulty": "medium",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQQmNUenFMYkppX2hBTzJYX2xyTDVuUzI5WUo3LUdka1RMNFZ0cnFUWkh6SF9sbXAtSXR3YTIwMjNqOTFkUGpvV0RxMlIyYURVWGVtX0pYVGphM1ZRRWp2Sk4waGRLbXpEdEx2TEx3a2dwcVhsYjBTaTVPS1MtZzBPOWd5clhaSGJrZS1tenBGUmV5WTg3U3BtVjdLdjBHRGZ5eFoxYTUzcllsN2xYR0NNTlAzcmcyamVmZnhTR0E3NHRNUXJrRkHSAc4BQVVfeXFMUDBrNU9NbUppS1dxR1lQOVZTQW9QbzNodWx4bEJaU24zMGxYSWZXbHRNb0JXZ25OOXU1cllpYlV5UGtJcjF6NUdxajFNN21odWtlY1_BY1ZyNzllVnlzN0RGY015UHlMdEhSTnBtaGlZQ1JPTE91clB0WmN1ZjdYbVlBUVN1VElJeGNCLTZ5Vk9SdWlYZmkyMnRYeFVqendCOFMxYzNSNlFvQzZvUVZNM2w0RWU3SGF4SW9GMzgyenZCbnZCUmtBY3MwRmZ0Wmc?oc=5"
+      "sourceUrl": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQY0FpemdKUFo1d1k2NE9VejBEaEtrdnRHNHhadU5ZWXlhOFpNTWxnZnI1aGZZQ3FIdUVVV1h2NkxyNVZHM1FoQk8xT1RtNXl4Rk52OXRfYkdOcENpZkF1ZWN5MkdqVi02SWV4VkVTTEMxX3V0VXRITmdjSFlwMkNWeklybDZESk1LY0F1US02a2FBMXlpMWE1Mk9KQllWclF3LU4xTnNWbHVkZ29XaDNvc3h0OVU1Vk1ROWRqR3h2Nkx0LXZ6MHlRY1F5SUVpaV9FbndwM3IzcV84RTVSbkVoT3Fac19fZldhR3dicHJ3NWh1akdY0gH7AUFVX3lxTE1kSHlnRVNpV21FSFgtcF9ILXQtemw4eDZNTFA2QzZXOEliVlk5dElMa1dKYmxVQ2ZiRDVDa3luVGRsRmZIRVBvQUxFSDE5a2xyYkNBVk5HQl9SSUEwei1TQlBFVWl4RG01UERiRGEtRm9sUjZydUlnWFJzZ3Nwa25TUXo0NWN4YWFtdDRQdWc3RGJqUjM5QURsRU1JbFVwOHJfYWcxbjFJTEdLbjR3T2dfb092REVjNVpyMVpBOUhjbWhpa2d2VzFNTVBzNWhkY2ZFQ0pKcDVMT1R1MEJmeC1LMVJtZFlpRE5YdlFGeEh5Ry1Td05rR1lPN19N?oc=5"
     },
     {
-      "id": "ca_20261031_06",
-      "question": "धर्मांतर विरोधी तरतुदी कडक करण्यासाठी 'स्वातंत्र्य धर्म कायदा २०२६' (Freedom of Religion Act, 2026) लागू करणारे राज्य कोणते?",
+      "id": "ca_20261101_05",
+      "question": "मुंबई उच्च न्यायालयाने २०११ मधील बेकायदेशीर अटकेप्रकरणी 'सद्रक्षणाय खलनिग्रहणाय' या ब्रीदवाक्याची आठवण करून देत कोणत्या कार्यकर्त्याला ₹२ लाख नुकसानभरपाई देण्याचे आदेश दिले?",
       "options": [
-        "गुजरात",
-        "महाराष्ट्र",
-        "उत्तर प्रदेश",
-        "मध्य प्रदेश"
+        "आनंद तेलतुंबडे",
+        "अरुण फरेरा",
+        "वरवरा राव",
+        "सुधा भारद्वाज"
       ],
       "correctAnswer": 1,
-      "explanation": "महाराष्ट्राने धर्मांतर आणि विवाहसंदर्भातील कायदेशीर तरतुदींना अधिक स्पष्ट करण्यासाठी 'फ्रीडम ऑफ रिलीजन ॲक्ट, २०२६' लागू केला आहे.",
+      "explanation": "मुंबई उच्च न्यायालयाने २०११ मध्ये नागपूर मध्यवर्ती कारागृहाबाहेरून अरुण फरेरा यांना केलेली अटक बेकायदेशीर ठरवत महाराष्ट्र सरकारला ₹२ लाख नुकसानभरपाई देण्याचे आदेश दिले. न्यायालयाने पोलिसांना त्यांच्या 'सद्रक्षणाय खलनिग्रहणाय' या ब्रीदवाक्याचे स्मरण करून दिले.",
       "category": "Maharashtra",
       "difficulty": "medium",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5rV1VaVk1qRWtPNmVmU1NZcE44N09nYU9SZlNnekRVdE9lWnlqUUpTaWxwLTBGVU5iVGd2MTBNOF9fYTBTSngzVWNnV0d4YjVpWk8yb2NLTUItTUZ2RVBB?oc=5"
+      "sourceUrl": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNQVNWNDdHbklXNGdqRW9feUNfT3cwV0pGbkZKQS14UFlndmlXa0xIR0YtbE91VVRSd0w3S1E3bXJBalZtTEhfSVplbF9xb0E3SHo1Qk1KanBaZWszVEV1aWNHcUtocWxhN3BGTmFwdnpfS1A5Qnl6R1V2X0J4cmVwbUxfdW9TcWtjWl80X1VwaXdfeU9DZHQzbjA2YmFIVXdJd3JPcXZMZ1FIaGFsUnVxNWtGRVo2RHhxcnlHbXppQ3MyNDdSYkk1VzBnaUNyWEHSAdQBQVVfeXFMTWhfQTBwZm1DNXg2R3I2NXhZZlNqdlFYQ0hIQ2ZKSW5oSjZwcWoxeVRsT0MtVzlvUmFYOFdYUFpNYWVpc0lVYi00VHgydFgzZ09xNUNzMW01bVltQUx5YWJrT3k5N29tTTFkWHJuNXdWU0UyNWxrR0VPLWQ0cUI5dnQyNnozYnhha1A3M2tkQlh6blZmT3ZZdjhPUlpPM3l1SkR0MEVnMXAzY3VzMWQxSFVIaWJiWDUtUlJuMDlHam5GWG54OGtZRXhYLXA4TzM0MjZIMkc?oc=5"
     },
     {
-      "id": "ca_20261031_07",
-      "question": "सर्वोच्च न्यायालयाने खटल्यांच्या (Trials) वि लहान किंवा विलंबावर नाराजी व्यक्त करत आरोपींच्या जामिनाला विरोध करणाऱ्या कोणत्या राज्य सरकारला फटकारले आहे?",
+      "id": "ca_20261101_06",
+      "question": "सर्वोच्च न्यायालयाने ५५० एकर वादग्रस्त मियापूर जमिनीबाबत (Miyapur Land Case) महत्त्वाचा निकाल देताना जमीन कोणाच्या मालकीची असल्याचे घोषित केले?",
       "options": [
-        "बिहार",
-        "महाराष्ट्र",
-        "राजस्थान",
-        "पश्चिम बंगाल"
+        "खाजगी जहागीरदार वारस",
+        "तेलंगणा राज्य शासन",
+        "केंद्र शासन",
+        "वक्फ बोर्ड"
       ],
       "correctAnswer": 1,
-      "explanation": "खटल्यांच्या सुनावणीत अनावश्यक विलंब होत असताना आरोपींच्या जामीन अर्जाला सातत्याने विरोध करणाऱ्या महाराष्ट्र सरकारवर सर्वोच्च न्यायालयाने कठोर ताशेरे ओढले.",
+      "explanation": "सर्वोच्च न्यायालयाने जहागीरदारी निर्मूलनानंतर जहागीरदारांना सरकार किंवा क्राउन जमिनींवर पूर्व-अधिकार उरत नाही असा ऐतिहासिक निर्णय देत हैदराबादमधील ₹५०,००० कोटी मूल्याची ५५० एकर मियापूर जमीन तेलंगणा सरकारच्या मालकीची असल्याचे स्पष्ट केले.",
       "category": "Polity",
       "difficulty": "medium",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNT2Rma3kyTDl0NU9kV2cwYnJiV2o3YXlNLUZjYXRWbFgwMjY0VlZGcGlaTG41SHZoYm81RzlXZVpLY2s4YTFHZzBtTUJ4ZmJBaC16SlM4MEMyaHVfVGFoVmUzLVFfekRZRjg4dlB4TmZxVWdjQ3NfZDV0aTMtRFA2NW5WS0RkRldlN1o4Z19oNFJLUENia0Hxc3NqaEYwWUNfUnZBbFZuX0Z0d0VqNTc5SjkzdWhNenFsaDdZQllvS1ZaUdIBxwFBVV95cUxNZ1NKazU0NFA4dlNKakJXeEtmVlcwYkNBcXhFUjl6c1VUZ0JJUkI2WDM4c1lObG1zVWFxZE1Bb0NaQVJLMlRxb2ZzTTQzd2xmSjBBUnpkLWxpSFYtMkdEN2NlbVNpbk1QOGNtSVhYaWw2dVVSWGk1UmJIazFaQ2dOZjhKX1lydVhuQUpOQmFZbnhQVG1ucG1rUUE5cnNEQkZZQURmRWZGdU50LUVaSTdSc2tFZzA4X1JyUTM4TUNTRzkzMDdNRGJF?oc=5"
+      "sourceUrl": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOUTA2NUxHTnNPOFpacnBKRVdNYktPXzNXM244OUpvRnBOcHVXM1hyZnVhQmdnTF93eEI1eHZEcElabnRLMGd0Zk8wamZwaDV5NmZkQS16MWlCWG9odFJ5VFBhaWFSU2Q5cDN1SGl4Z1laM1R1d05CcTVDVVJMTUpMaEdDMXlQMlRyY0E3Y2huNVZaVllKbWQ40gGcAUFVX3lxTFBrUFdQdUVpbzZsMkd1R0ZhbU1XTUhLVmFOek5rN0lEcXhUUTlINGE0ZnRqbDl6OUM0TXFXb2NHRUxrRThreU5sc2dYWm1xdFVkaEQwUk93NlJSX2w2RHk0V3JncnN4eW5sQUd1ajRVd01sZTVCUmhEN1d2TjZhbGtjTVZpZ09TbE5WOUhWcUZyeVF3cW4zLXgxY0ZLQQ?oc=5"
     },
     {
-      "id": "ca_20261031_08",
-      "question": "सर्वोच्च न्यायालयाच्या निर्देशानंतरही 'साक्षीदार संरक्षण योजना' (Witness Protection Scheme) लागू न केल्याबद्दल कोणत्या उच्च न्यायालयाने राज्य सरकारकडून स्पष्टीकरण मागितले आहे?",
+      "id": "ca_20261101_07",
+      "question": "वाळवंटीकरण रोखण्यासाठी संयुक्त राष्ट्रांच्या UNCCD COP17 परिषदेत भारताने कोणत्या नैसर्गिक परिसंस्थेच्या संवर्धनासाठी पहिलीवहिली मार्गदर्शिका प्रसिद्ध केली?",
       "options": [
-        "बॉम्बे हायकोर्ट",
-        "केरळ हायकोर्ट",
-        "मद्रास हायकोर्ट",
-        "दिल्ली हायकोर्ट"
+        "खारफुटी परिसंस्था",
+        "गवताळ प्रदेश आणि मुक्त नैसर्गिक परिसंस्था (ONEs)",
+        "पर्वतीय परिसंस्था",
+        "आर्द्रभूमी परिसंस्था"
       ],
       "correctAnswer": 1,
-      "explanation": "सर्वोच्च न्यायालयाचे स्पष्ट निर्देश असूनही साक्षीदार संरक्षण योजनेची अंमलबजावणी न केल्याबद्दल केरळ उच्च न्यायालयाने राज्य सरकारला नोटीस बजावून उत्तर मागितले आहे.",
-      "category": "Polity",
-      "difficulty": "hard",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQZkhaMUZyY2k2VjBSRlktb1R5NkxmdDJxeVBucmtGQXZSRWlSWGZpdmpXd2loUUtiMXFwcS1CUHdtMktJY2JBbTdaUUx3NmZ3Zmg4dnRDdUVUT3NJMTdCRjgxVktVRThKaHlrWVplSkVxN0Fha0NUSXgzS1QwcXR3NzJtOTRqVzBSal93SXRXeVlUcWptM0VaZnBWZGloaFM5M2RmejNsay01WHVJTkEtbEhzaDJ6MGpHcWc3dERNQkdhQlJQVVVoZEF5ZEduUdIBzgFBVV95cUxQZkhaMUZyY2k2VjBSRlktb1R5NkxmdDJxeVBucmtGQXZSRWlSWGZpdmpXd2loUUtiMXFwcS1CUHdtMktJY2JBbTdaUUx3NmZ3Zmg4dnRDdUVUT3NJMTdCRjgxVktVRThKaHlrWVplSkVxN0Fha0NUSXgzS1QwcXR3NzJtOTRqVzBSal93SXRXeVlUcWptM0VaZnBWZGloaFM5M2RmejNsay01WHVJTkEtbEhzaDJ6MGpHcWc3dERNQkdhQlJQVVVoZEF5ZEduUQ?oc=5"
-    },
-    {
-      "id": "ca_20261031_09",
-      "question": "नोव्हेंबर २०२६ मध्ये होणाऱ्या पहिल्या शांघाय सहकार्य संघटना (SCO) सांस्कृतिक संवादासाठी भारताने कोणत्या देशाच्या मंत्र्यांना आमंत्रित केले आहे?",
-      "options": [
-        "चीन",
-        "पाकिस्तान",
-        "रशिया",
-        "इराण"
-      ],
-      "correctAnswer": 1,
-      "explanation": "भारताने नवी दिल्ली येथे होणाऱ्या पहिल्या SCO सिव्हिलायझेशनल डायलॉग (SCO Civilisational Dialogue) साठी २०२३ नंतर पहिल्यांदाच पाकिस्तानच्या मंत्र्यांना औपचारिक निमंत्रण पाठवले आहे.",
-      "category": "International",
+      "explanation": "भारताने UNCCD COP17 परिषदेमध्ये गवताळ प्रदेश आणि मुक्त नैसर्गिक परिसंस्था (Grasslands and Open Natural Ecosystems - ONEs) यांच्या पुनरुज्जीवन आणि संवर्धनासाठी प्रथमच एका विशेष मार्गदर्शिकेचे अनावरण केले.",
+      "category": "Environment",
       "difficulty": "medium",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQeTVWbWFObHJaWXprWU00S0haNmhNakRFYWhTc2ZzalJINk04eXZFNzJYUHJtRkpJMUQ4ZGVjandfX1MwMVhvVGZ1N09VejlKNzBoclFTYWZLbjdsUVc4dEt5YWdnS1JHbDFWUnVkbUNxZG1zSTlaVkcyaldMVkdGdlNjbHo3bUtlWTF4M1U5UUJ5SWdkeU9TbldDN0FwQVBYRUtvemxfOEx4OFZqa3lkTm9YaFBDeDUwWklORzdQUk1TQkpuVFg4TDlmOUJJMzlQMkdjMGlPemNsTl82UG1MeEFCNXRuR1Qwc0lpNFBUdkNRcm5NM05lOWV30gGAAkFVX3lxTE9XOEk1eWNWc2FGVnZTaVlmYVlyYTlZZW5YVmZnQ0ZZQUU2V1_qWWhDM3V4eWM5MUNpcUNfbngzNkN3Sk1wUTlvQ19HYVpOOTBRenBQRmpoSU1TNVJ3aTdNYzdrRWZDR3JickxJRkdJaWMzTVNkU3BTZFJzSEhiN2ROemRtejYwaUhlcmhQWnQ1dnktSERRS2hzbmlKM1ZyZ0t0WXBzRnBlZ0RYN1pPOVJQN0EzeWFSZ1huOFk1bVJPeXE4bGdhMkJuTEgxMmdrX2tUUXdra3N4dmQ1UEZwVHZrdkd2YVRXV2g1U3BCRm5tSG4wb01ucWNSRkpVbFdiX0Q?oc=5"
+      "sourceUrl": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQMGVVM2tSZzVxMUtCU0tMTnpNUUd0dnJXSWM2Y3FTbnZucTdsLU5XclVzVFJyTGhjdS12ZjZLVV8weHRCNHRWc3NPdzBVcE5iajdQS3R1eFlKWWRwSFFUYmRnUTZGRVRKdWJiZVNrQmJENU1QNWxfa3lIeVA0X2pMY0lEQk9lblMzdnhKSUgxVms0blBsNjZRZjJGaWlUNEgwMm1sTEFDUUl2c0VfR1EtanBlY2Y?oc=5"
     },
     {
-      "id": "ca_20261031_10",
-      "question": "फॉर्मल कर्मचाऱ्यांच्या रोजगाराला प्रोत्साहन देण्यासाठी भारत सरकारने किती कोटी रुपयांची रोजगारसंलग्न प्रोत्साहन (ELI) योजना सुरू केली आहे?",
+      "id": "ca_20261101_08",
+      "question": "पश्चिम घाटातील जैवविविधतेबाबत जनजागृती निर्माण करण्यासाठी भारतातील पहिले 'फिरते जैवविविधता संग्रहालय' (Western Ghats on wheels) सुरू करणारे राज्य कोणते?",
       "options": [
-        "₹५०,००० कोटी",
-        "₹७५,००० कोटी",
-        "₹९९,४४६ कोटी",
-        "₹१,२०,००० कोटी"
+        "महाराष्ट्र",
+        "केरळ",
+        "कर्नाटक",
+        "गोवा"
       ],
       "correctAnswer": 2,
-      "explanation": "संघटित क्षेत्रातील रोजगाराला गती देण्यासाठी केंद्र सरकारने ₹९९,४४६ कोटींची एम्प्लॉयमेंट-लिंक्ड इन्सेंटिव्ह (ELI) योजना आखली आहे.",
+      "explanation": "कर्नाटक सरकारने पश्चिम घाटातील समृद्ध वनस्पती आणि प्राण्यांच्या संरक्षणाविषयी ग्रामीण व शाळा स्तरावर जागृती निर्माण करण्यासाठी 'वेस्टर्न घाट ऑन व्हील्स' हे भारतातील पहिले फिरते जैवविविधता संग्रहालय सुरू करण्याची घोषणा केली.",
+      "category": "Environment",
+      "difficulty": "medium",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOSm5KQkxlRlJlMzhTMWJaS1BXeDZUV1NaeWZnQ3hGX1BiRXNJYUFleTNXTG5SRUFEMUJPRC1Wb0RXUWRuck1lcENscXNsd3Bfc214RmR2ZHp3dXFRMVJobFJZcG9JV09ZNXFzNTdhMWhQUkM4TFFjZ3R5anJzcktOcnJqamtkeXhMbHMyajV6RXFZVkZ5YjdHSklNTUR2c0VEcDFtaXdWT0hmLTU2Rmg0TWxPWnBxVEI1Y09rcEROcmRmN0lhb25Ba1I1NmUzaUprcFduU3B1Ui1LR2RVMGJlSzVHcEzSAfIBQVVfeXFMTVVSbDJZYVRobW9HZ01oN1lEUGZuUDVrZENEUkczUHVEeUVPbkNaNlpvR3cyNUxRR1F0X20xRkdERUFyLXdqbGpiM3UweW9CVnRHb1ktelp4M29jTVFPX0Z4bmc1Wmxjdm9UYmlSYml5RUNraXc1aW55VHh0SlZVQnQyMW9vVnRWazhlb1YtQy01Ni1aT0w1M21CR04xQjUtT1hsQUk3c0s0ME9ta042dnBtWUF4MU9raFRaVklVZHVacHFhWXJOb1JPUFkxc1dMLUxnWkpWQXVTc2VudXMtN2JEX3VyVnlGaTBzN1RxTXlLbHc?oc=5"
+    },
+    {
+      "id": "ca_20261101_09",
+      "question": "भारत आणि बेल्जियम-लक्झेंबर्ग आर्थिक संघ (India-BLEU) यांच्यातील संयुक्त आर्थिक आयोगाची (JEC) कितवी बैठक नवी दिल्ली येथे पार पडली?",
+      "options": [
+        "१५ वी",
+        "१७ वी",
+        "१९ वी",
+        "२१ वी"
+      ],
+      "correctAnswer": 2,
+      "explanation": "भारत आणि बेल्जियम-लक्झेंबर्ग इकॉनॉमिक युनियन (BLEU) दरम्यान १९ वी संयुक्त आर्थिक आयोग बैठक नवी दिल्लीत पार पडली. यामध्ये द्विपक्षीय व्यापार, ग्रीन हायड्रोजन, सेमीकंडक्टर आणि परस्पर गुंतवणुकीवर सविस्तर चर्चा झाली.",
       "category": "Economy",
       "difficulty": "hard",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxORmhkelBXVHZvaE1jLW9IM0RrREY2T3BiYkc5UUx1cDhnemkwUmlIUHZzZk1oVzV5bEdJbmg2ek9QdFRLVXZ2QnNRQUxDckhJbXN1b3pRTDhxZmNfOFpJa1BQVGxIU2FiMzE5ajJPdzhsUmtaa0pxNnRWa3VWYnZ3amVwM0lvVDk1ZVg0T0Q1NU1RZmFRdXpmeFJzZ3FwTkswbXVxRGpxci1mMjhTbGFxalV0MTBsbTFyOVpyd2RRb0k1ZUR1R2xYTnJVSmxXV1FiM0Z2VmlsNWFVb0JFNEM3Zm5iRjRPLTNFUzAxMg?oc=5"
+      "sourceUrl": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOeGUtTm1QS2FVSmlQMUxJZnA0OUtkVWVPdmhEbHZpc1NQOF95MkRaLWE0SUV3eU5fWmtuVmUweTBLN2s3eVpmc2FKS18wZXhLaXFMc2w1QW5PUGk2ZWgwTHhYcEpKN1dhSWhzcG9PVVRSa1k0Y3RZQWVfWW9TWFlkQTlPT2NyNFJPQVJHcVZwNVpkVE41cHFOSGhxNGVFbVN0WEtHeFR6Ml9pdWQ2TVZubTdPc0drdw?oc=5"
+    },
+    {
+      "id": "ca_20261101_10",
+      "question": "सर्वोच्च न्यायालयाच्या नुकत्याच आलेल्या निकालानुसार, महाराष्ट्र सावकारी (नियमन) अधिनियम २०१४ अन्वये परवाना नसलेले सावकार खालीलपैकी कोणत्या माध्यमातून दिलेले कर्ज वसूल करू शकत नाहीत?",
+      "options": [
+        "प्रॉमिसरी नोट (वचनचिठ्ठी) किंवा चेक बाऊन्स खटले",
+        "केवळ बँक ड्राफ्टद्वारे दिलेले कर्ज",
+        "केवळ ऑनलाइन ट्रान्सफरद्वारे दिलेले कर्ज",
+        "सोने तारण ठेवून दिलेले कर्ज"
+      ],
+      "correctAnswer": 0,
+      "explanation": "सर्वोच्च न्यायालयाने स्पष्ट केले की महाराष्ट्र सावकारी (नियमन) कायदा २०१४ च्या कलम १३ व नियमांनुसार, वैध सावकारी परवाना नसलेले सावकार प्रॉमिसरी नोट किंवा एनआय कायद्याच्या कलम १३८ (चेक बाऊन्स) अंतर्गत कर्जाची वसुली करू शकत नाहीत.",
+      "category": "Economy",
+      "difficulty": "hard",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQeDRGYnpMM2YtMkFHMERmZFhQUUhzVDVTSXNLSnlicHVFbzZ5Z2FqOXlSU2VBOGlCcW1jZkVIZGctRGVkWWdnX05MbUF0NzlJTUR0NkNUOFQybGJmbG92YVdSTzlGWHc0aF9mRE5FZnRFV1laNGNSeHFrUzYtcENYMWt3S2YwYlRENVlDNHZzUjhrZExWWXItTXJMOTdqTjN2WkczbmxsWEVZQQ?oc=5"
     }
   ],
   "totalQuestions": 10,
