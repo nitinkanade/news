@@ -1,158 +1,158 @@
 {
-  "date": "2026-11-01",
+  "date": "2026-11-02",
   "topic": "Current Affairs",
-  "source": "The Hindu, The Times of India, Live Law, Bar and Bench, DD News, The New Indian Express, GK Today, LawStreet Journal, Utkarsh Classes",
-  "lastUpdated": "2026-11-01T06:00:00+05:30",
+  "source": "The Hindu, The Times of India, NDTV, News On AIR, PM India, ISRO, Deccan Herald, Moneycontrol, Olympics, SCC Online",
+  "lastUpdated": "2026-11-02T06:00:00+05:30",
   "quiz": [
     {
-      "id": "ca_20261101_01",
-      "question": "महाराष्ट्र शासनाने युनेस्को (UNESCO) नामांकित शिवकालीन चार प्रमुख किल्ल्यांच्या सुरक्षिततेसाठी किती कोटी रुपयांचा निधी मंजूर केला आहे?",
+      "id": "ca_20261102_01",
+      "question": "ऑक्टोबर २०२६ मध्ये भारताचे एकूण वस्तू व सेवा कर (GST) संकलन किती लाख कोटी रुपयांवर पोहोचले आहे?",
       "options": [
-        "₹१.५० कोटी",
-        "₹२.९४ कोटी",
-        "₹४.२० कोटी",
-        "₹५.०० कोटी"
-      ],
-      "correctAnswer": 1,
-      "explanation": "महाराष्ट्र शासनाने युनेस्को जागतिक वारसा नामांकनाशी संबंधित शिवकालीन शिवनेरी, राजगड, तोरणा आणि प्रतापगड या चार प्रमुख किल्ल्यांच्या सुरक्षिततेसाठी ₹२.९४ कोटींचा निधी मंजूर केला असून तेथे ८० सुरक्षा रक्षक तैनात करण्यात येणार आहेत.",
-      "category": "Maharashtra",
-      "difficulty": "easy",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNWldoSF80QlgzRFlKbjgtNTVyY1RvdUtCYl84X19BdGY1dy1kd25YRU1ESnVEMHQ5WUlpVVNSSFVXZWQ4LUpSRmRrMGZobFFEdnBONU4wb212SWxtcUk1eVRPQVpRRjVCS2stVGxhT3BIaUpiWHpDbmZ6NVNhM1A3TVVZMkR3ekNsdXYtWFBhTC1fQ1VKYnFKTzNRbVloZjhnSlNRZ2lLSkZITHNkckVwYkNuNjVhNDJFaExpTUtIcThueDRLTHE0XzdB?oc=5"
-    },
-    {
-      "id": "ca_20261101_02",
-      "question": "कॉमनवेल्थ कबड्डी चॅम्पियनशिप २०२६ (Commonwealth Kabaddi Championship) मध्ये भारताने कोणते दुहेरी यश संपादन केले आहे?",
-      "options": [
-        "केवळ पुरुष संघाने सुवर्णपदक जिंकले",
-        "केवळ महिला संघाने सुवर्णपदक जिंकले",
-        "पुरुष व महिला दोन्ही संघांनी सुवर्णपदक जिंकले",
-        "भारताला रौप्यपदक मिळाले"
+        "₹१.८७ लाख कोटी",
+        "₹२.१० लाख कोटी",
+        "₹२.३१ लाख कोटी",
+        "₹२.५५ लाख कोटी"
       ],
       "correctAnswer": 2,
-      "explanation": "कॉमनवेल्थ कबड्डी चॅम्पियनशिप २०२६ मध्ये भारतीय पुरुष आणि महिला अशा दोन्ही संघांनी अजिंक्यपद पटकावून ऐतिहासिक दुहेरी सुवर्णपदक संपादन केले. महिला संघाने युगांडाला तर पुरुष संघाने श्रीलंकेला अंतिम सामन्यात पराभूत केले.",
-      "category": "Sports",
-      "difficulty": "easy",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMijwJBVV95cUxOZVE3SjREUUQydndQd1lYYld0UGhzR0tTQjhOZkxLbl8xaV9GX1dqbEszTDcxQ3JBSWlPX1B5T2h0QkJhdVBTcW5xVVFhMVFYeDNocEEwRVprNzJ4R3BnS1U4ckJfMEZPczNQS19KSnNwWTRiM2ZIR1dka1RaZHlaaXFkdGxHaEVGcFhwVEhoeWRZQUtYTHM0UEExSXh0QTRiSUd0bWJSSEJzM0o4dXpVMEtPY3VYbzk3VWwwU3dZdXhWdnZLbkFmYlVISjRnRE43b0ZydzJfdWhOa3VqNzVTWFRzRXZEOGZCVVBMZXM4VzhPOEdUMkIzdnJmWGhvYzFHNENRUTN2eHVVLXJjSWZF0gGUAkFVX3lxTE01ZWNiaG9CVGJDWlBPV05wNkQzLTlROEdySDM1VGtUclV0N0pWS0tjZ1pHTXpPS3p6aEU2Uy1YTG9ORHo2dTltLW9PaS00OTJTNWRTRXc0a0N5Z2dYVldHOW5UaW41U3plLXU0QVJITWtDbW9TUmlSQjdqNnhwZDgwclhTQTFYT3NtdnV6YzZCMVFFSnFpMG9DVnlrZGlpY0QtekJpWkdySUpxaWxnWGlwQkRpS2VxcDVpblRRdWFtUEZENVpjQ0l0Q1otc201T0kweE9XeEl0amhyQ2d2ajVfMmRiWTBRMXRPRmVPdFRqY2xTVy1SUHNCQi1hWjFRMXN3UVZxVW5fTEV4VndlYlRGYzZZUQ?oc=5"
-    },
-    {
-      "id": "ca_20261101_03",
-      "question": "भारताचे सरन्यायाधीश सूर्यकांत यांच्या हस्ते प्रतिष्ठित 'प्रो. एन. आर. माधव मेनन स्मृती पुरस्कार' कोणास प्रदान करण्यात आला?",
-      "options": [
-        "तुषार मेहता",
-        "आर. व्यंकटरमणी",
-        "मुकुल रोहतगी",
-        "के. के. वेणुगोपाल"
-      ],
-      "correctAnswer": 1,
-      "explanation": "कायद्याचे शिक्षण आणि न्याय क्षेत्रातील उत्कृष्ट योगदानाबद्दल भारताचे महान्यायवादी (Attorney General) आर. व्यंकटरमणी यांना भारताच्या सरन्यायाधीशांच्या हस्ते 'प्रा. एन. आर. माधव मेनन स्मृती पुरस्कार' प्रदान करण्यात आला.",
-      "category": "Polity",
-      "difficulty": "easy",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQT2h2OE54c1d1Si0tMUU5TlRfWUVnQ1A5NUpqWXFuWkVGN05LUXBUMmdzQ1pJSUtHcnJlYlpiTXNpeEV0OFh3MFhpUFM0dE1PdG9DZHlVczI1cGREdW8ybnVId3MzSVRtcjBHS2dkVzdGZ2VEcm9wMmVSUzQtTVBnc2RQa3dfdlE4MzJKZVdJTENiTEU5cEUtcHNSM1A1RkxydVIxcm02UVhXeFNIVjZUMndZUDhVZkloVno4YUdwY0NONUd4UElzYk4ybldLR1czSUpWNFdEY2U5dUg2VGFUZ3hKUnl1VmxFWDhwNNIB8wFBVV95cUxPUmxHNU9Ebk01dFBHWDVHWi1qLURaWlBXMWdsNWJRamxNUHJZUFlHTUpEZHRFbldoaXNzTWs0OTRZTXY1MzBrVFpPeE8yejN3MHZDVk1BYWc2NEVSM1lhMHdHV01PMTJKeW5xVi10c2h3UFVrTWJHTDZzbnJfLTh2TktBMzZPaENWdUE3N21kYWtySGIxRmx1YTdYWi1sUFdkakpqUElybUxxbjdYS21lZEVuaThXYmlDaFVEQnpuOGdUZ21YWnNSMDJHMHFhRHJUMjc4Y3hNVWRRTlJ5Q0ZMTWZHQXh5TXFCRWc3c2thOG52ZUE?oc=5"
-    },
-    {
-      "id": "ca_20261101_04",
-      "question": "महाराष्ट्रातील दुष्काळग्रस्त ३०४ तालुक्यांमधील सामाजिक वनीकरण व वृक्ष लागवडीच्या संवर्धनासाठी शासनाने किती निधी वितरित केला आहे?",
-      "options": [
-        "₹५०.०० लाख",
-        "₹७५.५० लाख",
-        "₹९०.७२ लाख",
-        "₹१.२५ कोटी"
-      ],
-      "correctAnswer": 2,
-      "explanation": "महाराष्ट्र शासनाने दुष्काळसदृश परिस्थिती असलेल्या ३०४ तालुक्यांमध्ये पूर्वी केलेल्या वृक्ष लागवडींचे जतन आणि देखभाल करण्यासाठी ₹९०.७२ लाख रुपयांचा निधी मंजूर करून वितरित केला आहे.",
-      "category": "Maharashtra",
-      "difficulty": "medium",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQY0FpemdKUFo1d1k2NE9VejBEaEtrdnRHNHhadU5ZWXlhOFpNTWxnZnI1aGZZQ3FIdUVVV1h2NkxyNVZHM1FoQk8xT1RtNXl4Rk52OXRfYkdOcENpZkF1ZWN5MkdqVi02SWV4VkVTTEMxX3V0VXRITmdjSFlwMkNWeklybDZESk1LY0F1US02a2FBMXlpMWE1Mk9KQllWclF3LU4xTnNWbHVkZ29XaDNvc3h0OVU1Vk1ROWRqR3h2Nkx0LXZ6MHlRY1F5SUVpaV9FbndwM3IzcV84RTVSbkVoT3Fac19fZldhR3dicHJ3NWh1akdY0gH7AUFVX3lxTE1kSHlnRVNpV21FSFgtcF9ILXQtemw4eDZNTFA2QzZXOEliVlk5dElMa1dKYmxVQ2ZiRDVDa3luVGRsRmZIRVBvQUxFSDE5a2xyYkNBVk5HQl9SSUEwei1TQlBFVWl4RG01UERiRGEtRm9sUjZydUlnWFJzZ3Nwa25TUXo0NWN4YWFtdDRQdWc3RGJqUjM5QURsRU1JbFVwOHJfYWcxbjFJTEdLbjR3T2dfb092REVjNVpyMVpBOUhjbWhpa2d2VzFNTVBzNWhkY2ZFQ0pKcDVMT1R1MEJmeC1LMVJtZFlpRE5YdlFGeEh5Ry1Td05rR1lPN19N?oc=5"
-    },
-    {
-      "id": "ca_20261101_05",
-      "question": "मुंबई उच्च न्यायालयाने २०११ मधील बेकायदेशीर अटकेप्रकरणी 'सद्रक्षणाय खलनिग्रहणाय' या ब्रीदवाक्याची आठवण करून देत कोणत्या कार्यकर्त्याला ₹२ लाख नुकसानभरपाई देण्याचे आदेश दिले?",
-      "options": [
-        "आनंद तेलतुंबडे",
-        "अरुण फरेरा",
-        "वरवरा राव",
-        "सुधा भारद्वाज"
-      ],
-      "correctAnswer": 1,
-      "explanation": "मुंबई उच्च न्यायालयाने २०११ मध्ये नागपूर मध्यवर्ती कारागृहाबाहेरून अरुण फरेरा यांना केलेली अटक बेकायदेशीर ठरवत महाराष्ट्र सरकारला ₹२ लाख नुकसानभरपाई देण्याचे आदेश दिले. न्यायालयाने पोलिसांना त्यांच्या 'सद्रक्षणाय खलनिग्रहणाय' या ब्रीदवाक्याचे स्मरण करून दिले.",
-      "category": "Maharashtra",
-      "difficulty": "medium",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNQVNWNDdHbklXNGdqRW9feUNfT3cwV0pGbkZKQS14UFlndmlXa0xIR0YtbE91VVRSd0w3S1E3bXJBalZtTEhfSVplbF9xb0E3SHo1Qk1KanBaZWszVEV1aWNHcUtocWxhN3BGTmFwdnpfS1A5Qnl6R1V2X0J4cmVwbUxfdW9TcWtjWl80X1VwaXdfeU9DZHQzbjA2YmFIVXdJd3JPcXZMZ1FIaGFsUnVxNWtGRVo2RHhxcnlHbXppQ3MyNDdSYkk1VzBnaUNyWEHSAdQBQVVfeXFMTWhfQTBwZm1DNXg2R3I2NXhZZlNqdlFYQ0hIQ2ZKSW5oSjZwcWoxeVRsT0MtVzlvUmFYOFdYUFpNYWVpc0lVYi00VHgydFgzZ09xNUNzMW01bVltQUx5YWJrT3k5N29tTTFkWHJuNXdWU0UyNWxrR0VPLWQ0cUI5dnQyNnozYnhha1A3M2tkQlh6blZmT3ZZdjhPUlpPM3l1SkR0MEVnMXAzY3VzMWQxSFVIaWJiWDUtUlJuMDlHam5GWG54OGtZRXhYLXA4TzM0MjZIMkc?oc=5"
-    },
-    {
-      "id": "ca_20261101_06",
-      "question": "सर्वोच्च न्यायालयाने ५५० एकर वादग्रस्त मियापूर जमिनीबाबत (Miyapur Land Case) महत्त्वाचा निकाल देताना जमीन कोणाच्या मालकीची असल्याचे घोषित केले?",
-      "options": [
-        "खाजगी जहागीरदार वारस",
-        "तेलंगणा राज्य शासन",
-        "केंद्र शासन",
-        "वक्फ बोर्ड"
-      ],
-      "correctAnswer": 1,
-      "explanation": "सर्वोच्च न्यायालयाने जहागीरदारी निर्मूलनानंतर जहागीरदारांना सरकार किंवा क्राउन जमिनींवर पूर्व-अधिकार उरत नाही असा ऐतिहासिक निर्णय देत हैदराबादमधील ₹५०,००० कोटी मूल्याची ५५० एकर मियापूर जमीन तेलंगणा सरकारच्या मालकीची असल्याचे स्पष्ट केले.",
-      "category": "Polity",
-      "difficulty": "medium",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOUTA2NUxHTnNPOFpacnBKRVdNYktPXzNXM244OUpvRnBOcHVXM1hyZnVhQmdnTF93eEI1eHZEcElabnRLMGd0Zk8wamZwaDV5NmZkQS16MWlCWG9odFJ5VFBhaWFSU2Q5cDN1SGl4Z1laM1R1d05CcTVDVVJMTUpMaEdDMXlQMlRyY0E3Y2huNVZaVllKbWQ40gGcAUFVX3lxTFBrUFdQdUVpbzZsMkd1R0ZhbU1XTUhLVmFOek5rN0lEcXhUUTlINGE0ZnRqbDl6OUM0TXFXb2NHRUxrRThreU5sc2dYWm1xdFVkaEQwUk93NlJSX2w2RHk0V3JncnN4eW5sQUd1ajRVd01sZTVCUmhEN1d2TjZhbGtjTVZpZ09TbE5WOUhWcUZyeVF3cW4zLXgxY0ZLQQ?oc=5"
-    },
-    {
-      "id": "ca_20261101_07",
-      "question": "वाळवंटीकरण रोखण्यासाठी संयुक्त राष्ट्रांच्या UNCCD COP17 परिषदेत भारताने कोणत्या नैसर्गिक परिसंस्थेच्या संवर्धनासाठी पहिलीवहिली मार्गदर्शिका प्रसिद्ध केली?",
-      "options": [
-        "खारफुटी परिसंस्था",
-        "गवताळ प्रदेश आणि मुक्त नैसर्गिक परिसंस्था (ONEs)",
-        "पर्वतीय परिसंस्था",
-        "आर्द्रभूमी परिसंस्था"
-      ],
-      "correctAnswer": 1,
-      "explanation": "भारताने UNCCD COP17 परिषदेमध्ये गवताळ प्रदेश आणि मुक्त नैसर्गिक परिसंस्था (Grasslands and Open Natural Ecosystems - ONEs) यांच्या पुनरुज्जीवन आणि संवर्धनासाठी प्रथमच एका विशेष मार्गदर्शिकेचे अनावरण केले.",
-      "category": "Environment",
-      "difficulty": "medium",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQMGVVM2tSZzVxMUtCU0tMTnpNUUd0dnJXSWM2Y3FTbnZucTdsLU5XclVzVFJyTGhjdS12ZjZLVV8weHRCNHRWc3NPdzBVcE5iajdQS3R1eFlKWWRwSFFUYmRnUTZGRVRKdWJiZVNrQmJENU1QNWxfa3lIeVA0X2pMY0lEQk9lblMzdnhKSUgxVms0blBsNjZRZjJGaWlUNEgwMm1sTEFDUUl2c0VfR1EtanBlY2Y?oc=5"
-    },
-    {
-      "id": "ca_20261101_08",
-      "question": "पश्चिम घाटातील जैवविविधतेबाबत जनजागृती निर्माण करण्यासाठी भारतातील पहिले 'फिरते जैवविविधता संग्रहालय' (Western Ghats on wheels) सुरू करणारे राज्य कोणते?",
-      "options": [
-        "महाराष्ट्र",
-        "केरळ",
-        "कर्नाटक",
-        "गोवा"
-      ],
-      "correctAnswer": 2,
-      "explanation": "कर्नाटक सरकारने पश्चिम घाटातील समृद्ध वनस्पती आणि प्राण्यांच्या संरक्षणाविषयी ग्रामीण व शाळा स्तरावर जागृती निर्माण करण्यासाठी 'वेस्टर्न घाट ऑन व्हील्स' हे भारतातील पहिले फिरते जैवविविधता संग्रहालय सुरू करण्याची घोषणा केली.",
-      "category": "Environment",
-      "difficulty": "medium",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOSm5KQkxlRlJlMzhTMWJaS1BXeDZUV1NaeWZnQ3hGX1BiRXNJYUFleTNXTG5SRUFEMUJPRC1Wb0RXUWRuck1lcENscXNsd3Bfc214RmR2ZHp3dXFRMVJobFJZcG9JV09ZNXFzNTdhMWhQUkM4TFFjZ3R5anJzcktOcnJqamtkeXhMbHMyajV6RXFZVkZ5YjdHSklNTUR2c0VEcDFtaXdWT0hmLTU2Rmg0TWxPWnBxVEI1Y09rcEROcmRmN0lhb25Ba1I1NmUzaUprcFduU3B1Ui1LR2RVMGJlSzVHcEzSAfIBQVVfeXFMTVVSbDJZYVRobW9HZ01oN1lEUGZuUDVrZENEUkczUHVEeUVPbkNaNlpvR3cyNUxRR1F0X20xRkdERUFyLXdqbGpiM3UweW9CVnRHb1ktelp4M29jTVFPX0Z4bmc1Wmxjdm9UYmlSYml5RUNraXc1aW55VHh0SlZVQnQyMW9vVnRWazhlb1YtQy01Ni1aT0w1M21CR04xQjUtT1hsQUk3c0s0ME9ta042dnBtWUF4MU9raFRaVklVZHVacHFhWXJOb1JPUFkxc1dMLUxnWkpWQXVTc2VudXMtN2JEX3VyVnlGaTBzN1RxTXlLbHc?oc=5"
-    },
-    {
-      "id": "ca_20261101_09",
-      "question": "भारत आणि बेल्जियम-लक्झेंबर्ग आर्थिक संघ (India-BLEU) यांच्यातील संयुक्त आर्थिक आयोगाची (JEC) कितवी बैठक नवी दिल्ली येथे पार पडली?",
-      "options": [
-        "१५ वी",
-        "१७ वी",
-        "१९ वी",
-        "२१ वी"
-      ],
-      "correctAnswer": 2,
-      "explanation": "भारत आणि बेल्जियम-लक्झेंबर्ग इकॉनॉमिक युनियन (BLEU) दरम्यान १९ वी संयुक्त आर्थिक आयोग बैठक नवी दिल्लीत पार पडली. यामध्ये द्विपक्षीय व्यापार, ग्रीन हायड्रोजन, सेमीकंडक्टर आणि परस्पर गुंतवणुकीवर सविस्तर चर्चा झाली.",
+      "explanation": "ऑक्टोबर २०२६ मध्ये भारताचे एकूण जीएसटी संकलन २२.९ टक्क्यांनी वाढून ₹२.३१ लाख कोटींवर पोहोचले. सणासुदीच्या मागणीमुळे जीएसटीच्या इतिहासातील ही दुसऱ्या क्रमांकाची सर्वोच्च मासिक वसुली ठरली असून यामध्ये महाराष्ट्र ₹३५,१५० कोटींच्या संकलनासह देशात अव्वल राहिला.",
       "category": "Economy",
-      "difficulty": "hard",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOeGUtTm1QS2FVSmlQMUxJZnA0OUtkVWVPdmhEbHZpc1NQOF95MkRaLWE0SUV3eU5fWmtuVmUweTBLN2s3eVpmc2FKS18wZXhLaXFMc2w1QW5PUGk2ZWgwTHhYcEpKN1dhSWhzcG9PVVRSa1k0Y3RZQWVfWW9TWFlkQTlPT2NyNFJPQVJHcVZwNVpkVE41cHFOSGhxNGVFbVN0WEtHeFR6Ml9pdWQ2TVZubTdPc0drdw?oc=5"
+      "difficulty": "easy",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQTDJzYlBzQ245Ri1xRjFUZTFIQU0zZDNCLWlzY2ozWFdlUzFLYlFmSWl6VmM5aXVkd2VMQjRlQnYtUjU1OURuMlFYaGdvVWtUWkxULVFkZ0RQRWgteGFIN0RDTnNsRkpNRFByMkJxZTBZLW5ZNmw0SklHNHhuM1ZodUp0SHhLbTluMGNOMUVXMzdwZ9IBmAFBVV95cUxOWWRGZ0IxY3NyX3Z0Rm9CS2hlRExGby1MZkN6QmFfamZtUEh1MlZNZktPaTVTOW53bWM2Vm1hdXdHbWhpWTJpaUc0U25EeXl5bWM3N3ZIMEtHeWdDTDJVdlp6T1h0UVAyNTVONlh0V3ZQUHZBRTRtdXhBUkUxT3NDODAyaVBXVVZsTjRpN1BXcXE1Tnk3a2VqeA?oc=5"
     },
     {
-      "id": "ca_20261101_10",
-      "question": "सर्वोच्च न्यायालयाच्या नुकत्याच आलेल्या निकालानुसार, महाराष्ट्र सावकारी (नियमन) अधिनियम २०१४ अन्वये परवाना नसलेले सावकार खालीलपैकी कोणत्या माध्यमातून दिलेले कर्ज वसूल करू शकत नाहीत?",
+      "id": "ca_20261102_02",
+      "question": "भारतीय अंतराळ संशोधन संस्थेने (ISRO) GSLV-F18 मोहिमेद्वारे कोणत्या स्वदेशी नेव्हिगेशन उपग्रहाचे यशस्वी प्रक्षेपण केले?",
       "options": [
-        "प्रॉमिसरी नोट (वचनचिठ्ठी) किंवा चेक बाऊन्स खटले",
-        "केवळ बँक ड्राफ्टद्वारे दिलेले कर्ज",
-        "केवळ ऑनलाइन ट्रान्सफरद्वारे दिलेले कर्ज",
-        "सोने तारण ठेवून दिलेले कर्ज"
+        "NVS-01",
+        "NVS-02",
+        "NVS-03",
+        "IRNSS-1J"
+      ],
+      "correctAnswer": 2,
+      "explanation": "इस्रोने श्रीहरिकोटा येथील सतीश धवन अंतराळ केंद्रावरून GSLV-F18 प्रक्षेपकाद्वारे 'NVS-03' या दुसऱ्या पिढीतील नेव्हिगेशन उपग्रहाचे यशस्वी प्रक्षेपण केले. हा उपग्रह भारताच्या नाविक (NavIC) प्रणालीला अधिक अचूक व बळकट बनवण्यासाठी स्वदेशी रुबिडियम अणुघड्याळाने सुसज्ज आहे.",
+      "category": "Science & Tech",
+      "difficulty": "easy",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNR2paT0FIRjlFai1pUHJ4VG81bDNlTUFFVTdzRXVVa09vcl9UR0UtY3A0amRldGJ6UC1GRGlQd09MdmxiOGVnNmZGREhKc3RnYlpIS0xtZ2xfZXVNV2dOanFFMVR3YWJ0QzUzbHd2bXFpZkotdDhSNUtrWW1QTEtPdDhNaE0tblpXdlVnSlhhR19PTVpXZXN5RncwY3ItTmZQaG1aRTRWOXg1ZWFNNnlZbjdIMURtempiVVYyeXcxalBWMVVScFphZDlTRGRGNzNrb3ZHTjNfRU1iTzk5aEpOYWlueUU4Z3pFSlA00gHyAUFVX3lxTE95bjdvVEtXWm9CMlZTazladDJUaG1oa2JOZHBZMU9oMVZQR3pFOEtkVnh4VUpVdVpNOWRCc3N6YmdKOTRwT1VqM2ZPVlNHcDdHSkhqRkNlUndaUk1TR1NzOWlrVl9UYUEzeXVpYnlobFV5WHVaS3EzUldTV29ybGdjM3luUHRpUktiUFoyS2VOcFEtVmQxb25DRjBfQlFrY1otZXVqZkk5Sndad1ZUTFFfWjF3YVN1NFkwT2FabVhRNF9PS01GVkxVbjlELXJ5RUJiSEZJeUxBRUNvRUZfdTZYZWp5NUxnZ0dYUUNwNFA4WTdB?oc=5"
+    },
+    {
+      "id": "ca_20261102_03",
+      "question": "रेल्वे मंत्रालयाने नुकतीच सुरू केलेली दुसरी 'वंदे भारत स्लीपर' एक्सप्रेस महाराष्ट्रातील कोणत्या शहराला बंगळुरूशी जोडते?",
+      "options": [
+        "नागपूर",
+        "मुंबई",
+        "नाशिक",
+        "छत्रपती संभाजीनगर"
+      ],
+      "correctAnswer": 1,
+      "explanation": "केंद्रीय रेल्वेमंत्री अश्विनी वैष्णव यांनी बंगळुरू ते मुंबई दरम्यान धावणाऱ्या देशातील दुसऱ्या वंदे भारत स्लीपर एक्सप्रेसला हिरवा झेंडा दाखवला. ही अत्याधुनिक स्लीपर ट्रेन हुबळी, मिरज आणि पुणे मार्गे मुंबईला जोडते.",
+      "category": "Maharashtra",
+      "difficulty": "easy",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOZ3F4UGdGNHp0WXNlYlRpdmZVY3dPSG9qTDd4ajlQRWwzMnJTV1JvYTRydENlb2VHTHBFMVE5VU1Ia25nMEw5QU9Ja2s2bWZaX0ZKTnJ2T0FUVmhiQVBHUE8xaEsxTC1sMjN3MUhOZkdxMENaQTBWQ21pLXlOVXQwWHVxMzhNd1ZUNDdyRTE1TzBYRkZKcmk1RnctdHR3bEtpQ0c1b0l0Z1NYQQ?oc=5"
+    },
+    {
+      "id": "ca_20261102_04",
+      "question": "महाराष्ट्र अन्न व औषध प्रशासनाने (FDA) गुटखा व पान मसाल्याच्या सरोगेट (प्रॉक्सी) जाहिरातींविरोधात कोणत्या कायद्यान्वये कठोर कारवाईचा इशारा दिला आहे?",
+      "options": [
+        "अन्न सुरक्षा आणि मानके कायदा, २००६",
+        "ग्राहक संरक्षण कायदा, २०१९",
+        "महाराष्ट्र पोलीस अधिनियम, १९५१",
+        "औषध व सौंदर्यप्रसाधने कायदा, १९४०"
       ],
       "correctAnswer": 0,
-      "explanation": "सर्वोच्च न्यायालयाने स्पष्ट केले की महाराष्ट्र सावकारी (नियमन) कायदा २०१४ च्या कलम १३ व नियमांनुसार, वैध सावकारी परवाना नसलेले सावकार प्रॉमिसरी नोट किंवा एनआय कायद्याच्या कलम १३८ (चेक बाऊन्स) अंतर्गत कर्जाची वसुली करू शकत नाहीत.",
-      "category": "Economy",
+      "explanation": "महाराष्ट्र अन्न व औषध प्रशासनाचे आयुक्त तुकाराम मुंढे यांनी गुटखा, तंबाखू आणि पान मसाल्याच्या दिशाभूल करणाऱ्या व अप्रत्यक्ष (सरोगेट) जाहिराती करणाऱ्या सेलिब्रिटी व कंपन्यांविरोधात अन्न सुरक्षा आणि मानके कायदा, २००६ (FSSA) अंतर्गत कडक कायदेशीर कारवाई करण्याची नोटीस जारी केली आहे.",
+      "category": "Maharashtra",
+      "difficulty": "medium",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMioAJBVV95cUxNMlIwSUxtN2FPVVlrR1I5THpEaW85QkNjc0w1M2JwR1BPY1hGMGI1N3BTVXB4UDNNRlhXU3Z1azI0elFGV3hqXzBPSHVUY3FVYnpWVkxpN1Fjdmp1U2ZNRV9JWVF2bkJseDh5eDJLVEFweVB1TUNFY0NNR0ZCQ3lyMmlQUVphZVNIYkZYWHczTVp6c3ZIRnVoVW9oNG04Z2o5TkJjeWdtalBLN0pFcVBDTmtnZy04VklWbFZsMWt2cUZha0dTZ1NtMlJrMTRmUFJBMV9wTHJmTExEUGhRY3hoUGUtUlota0JFSEpFcFBia3NJbW9lby1YdkVGUFU4aWtPdkEwSjhUQnlXWkRyUFBWal9acmZKdkllZ1JFbnV5U0XSAaYCQVVfeXFMT2MxOVRqZEdWdG1xU3hDYVB6TGpHUzE5UWhSWTByRWdua0xuY2JreXE2WHF0dXl2R1JTLXNEMDJpMjY3aW9Xa0ZnYTM1TTVOcFhtX2Y0WHUxWV93WHZYOFlaY0JFaHR0bUtYZ3laUTYzcGVOTHBnZjBzOG9DaXJXdHNENjRDbkhZdWtrWGZKTXZuRXBOYkxHZFljUjdtb2lSRkdlUlNOMHdtNTBCSzJTZDFsNzh1TEdDYldyR1RldDRyVFh1Rkx6YXBObklvYm1kNG9hZmY4cjJJVkdBNFcxcldCc0RDX1I4bTh3Zkx6ZVJPcGltUkpub1VmbWNYd3M3eFpTYVBPRjRhS19Yd183dUlIRUNMb1FMeTYxUnJySU9wX000b05B?oc=5"
+    },
+    {
+      "id": "ca_20261102_05",
+      "question": "उमरेड-करांडला वन्यजीव अभयारण्यातून विदर्भातील कोणत्या व्याघ्र प्रकल्पाच्या कॉरिडोअरमध्ये वाघाच्या बछड्याचे स्थलांतर नोंदवले गेले आहे?",
+      "options": [
+        "ताडोबा-अंधारी व्याघ्र प्रकल्प",
+        "पेंच व्याघ्र प्रकल्प",
+        "मेळघाट व्याघ्र प्रकल्प",
+        "सह्याद्री व्याघ्र प्रकल्प"
+      ],
+      "correctAnswer": 1,
+      "explanation": "महाराष्ट्रातील उमरेड-करांडला वन्यजीव अभयारण्यातील वाघाचा एक बछडा पेंच व्याघ्र प्रकल्पात कॅमेऱ्यात कैद झाला. या नोंदीमुळे उमरेड आणि पेंच यांच्यातील नैसर्गिक वन्यजीव भ्रमणमार्ग (Wildlife Corridor) सक्रिय व सुरक्षित असल्याचे सिद्ध झाले आहे.",
+      "category": "Maharashtra",
+      "difficulty": "medium",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPaFNEVWlYSEMtUHJiOGloWksyZTNUajV1WU5DYTRHX01TSTRUeUlyVzJSTDBmQno2UnJ1ZjRZZTN0c2ROM0dRXy11M2lHTG90Rk81RHhtTll1clpXbzVWT25mclVGM0FtNTctbkd4RjNNV0hnLURCS0N6OGE2QWZZanEyaHhFSVpkcFpNdnNFMG9QRnlWOHE3R19HdjhVb3BiOTN0NVhtM1NsZGNpVHJCeEVGcjY5U1VQNFphcjFNcTBWSUdEMkR1eTVnbUV4SEE?oc=5"
+    },
+    {
+      "id": "ca_20261102_06",
+      "question": "केंद्रीय पर्यावरण मंत्रालयाने सागरी परिसंस्था आणि किनारपट्टी संरक्षणासाठी कोणती राष्ट्रीय कार्यशाळा आयोजित केली होती?",
+      "options": [
+        "ब्लू इकॉनॉमी शिखर परिषद",
+        "नॅशनल वर्कशॉप ऑन कोस्टल रेझिलियन्स फॉर विकसित भारत २०४७",
+        "मिशन लाइफ सागरी परिषद",
+        "स्वच्छ सागर सुरक्षित सागर परिषद"
+      ],
+      "correctAnswer": 1,
+      "explanation": "केंद्रीय पर्यावरण, वन आणि हवामान बदल मंत्रालयाने 'विकसित भारत २०४७ साठी किनारपट्टी लवचिकता' (National Workshop on Coastal Resilience for Viksit Bharat 2047) या विषयावर राष्ट्रीय कार्यशाळा आयोजित केली. यामध्ये किनारी धूप रोखणे आणि खारफुटी संवर्धनावर धोरणात्मक चर्चा करण्यात आली.",
+      "category": "Environment",
+      "difficulty": "medium",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOZGxFMUR6Z0p3S2xDWTZWR0ZXMFJuaXlUTnQxN2dSNDBGTy1hZ05SX1dYejQ1SzlkeGxFUDI4VUZPbTJNN3ozLTA5cDU5c1JrY09OZExaR0tRZEl4S0J5UVp5TkhPVlkyek9JY1JZNE1wMEx1LW14S2hySVgxUkdEcTdqaS0taEl6SHNZVnc1b2IzSHU2Y2t0QmxPWnpxb2hXcFdjdTR6TU9kVkZFQ1JxQmpBUmdNUQ?oc=5"
+    },
+    {
+      "id": "ca_20261102_07",
+      "question": "नवीकरणीय ऊर्जा व हरित हायड्रोजन क्षेत्राला प्रोत्साहन देण्यासाठी 'भारत रिन्युएबल एनर्जी समिट आणि एक्सपो २०२६' चे उद्घाटन कोणाच्या हस्ते करण्यात आले?",
+      "options": [
+        "पंतप्रधान नरेंद्र मोदी",
+        "प्रल्हाद जोशी",
+        "नितीन गडकरी",
+        "अश्विनी वैष्णव"
+      ],
+      "correctAnswer": 0,
+      "explanation": "पंतप्रधान नरेंद्र मोदी यांनी २ नोव्हेंबर रोजी 'भारत रिन्युएबल एनर्जी समिट अँड एक्स्पो २०२६' चे उद्घाटन केले. भारताचे २०३० पर्यंत ५०० गिगावॅट गैर-जीवाश्म ऊर्जा क्षमतेचे उद्दिष्ट गाठण्यासाठी व सौर-पवन ऊर्जेला गती देण्यासाठी या परिषदेचे आयोजन करण्यात आले.",
+      "category": "Environment",
+      "difficulty": "medium",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPcWRvdDZRSS1BN3RKd01mU3JWQUpHNHZkNXVrb3k0WXI4cVdnYjZzcTRNdmhBY3hKclMxcnJFazRyYTVIZEJwb2VGU0d4Ti01RjlabTRIbEJKMHBhNGRESEdLTndRSU04WExxVF9qNHdVM0pOR0NDNWdYOWUwTlhoTEZlX3ZLOFl1Y3pJTlVFS3JGS2k1ZjZTbkVqSHZvZmE0cERybVB0b3hRS0s4M1ZmRjhWRHpORWpr?oc=5"
+    },
+    {
+      "id": "ca_20261102_08",
+      "question": "जागतिक कुस्ती अजिंक्यपद स्पर्धा २०२६ (World Wrestling Championships) मध्ये भारतासाठी महिलांच्या फ्रीस्टाइल प्रकारात ऐतिहासिक पहिले सुवर्णपदक कोणी जिंकले?",
+      "options": [
+        "विनेश फोगट",
+        "अंतिम पंघाल",
+        "मनीषा भानवाला",
+        "साक्षी मलिक"
+      ],
+      "correctAnswer": 2,
+      "explanation": "भारतीय महिला कुस्तीपटू मनीषा भानवाला यांनी २०२६ च्या जागतिक कुस्ती अजिंक्यपद स्पर्धेत उत्कृष्ट कामगिरी करत महिलांच्या फ्रीस्टाइल प्रकारात भारतासाठी ऐतिहासिक पहिलेवहिले सुवर्णपदक जिंकून इतिहास घडवला.",
+      "category": "Sports",
+      "difficulty": "medium",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNeUhERzRIdWVralVlX2t3ZXpYX2VZUlJ6U0hhWEJaOWVIR0I5MFJpb1FIMTdkYzU3UkFidXNhSURvR1NaQUdqUWE5UjVfS3Zvb0VmN2xjSGdnajJKa1ozQnlOOVlhM095S1pGU1VNZGxfMVRXajJ3RG1FTWlrdjR4R0VSWTRNblEtSEhSOTh1c3ZHM2ZiQ0dMMVdtamdWVlB3aDVsUg?oc=5"
+    },
+    {
+      "id": "ca_20261102_09",
+      "question": "सर्वोच्च न्यायालयाने प्रकरणांच्या तातडीच्या सुनावणीसाठी २ नोव्हेंबरपासून कोणत्या वकिलांना तोंडी उल्लेख (Oral Mentioning) करण्यास मनाई केली आहे?",
+      "options": [
+        "कनिष्ठ वकील (Junior Advocates)",
+        "वरिष्ठ विधिज्ञ (Senior Advocates)",
+        "अॅडव्होकेट-ऑन-रेकॉर्ड (AoR)",
+        "शासकीय वकील"
+      ],
+      "correctAnswer": 1,
+      "explanation": "सर्वोच्च न्यायालयाने २ नोव्हेंबरपासून लागू केलेल्या नवीन निर्देशानुसार वरिष्ठ वकिलांना तातडीच्या प्रकरणांचा तोंडी उल्लेख करण्यापासून रोखले आहे. कनिष्ठ वकील आणि अॅडव्होकेट-ऑन-रेकॉर्ड यांना समान संधी मिळावी आणि प्रकरणांची मक्तेदारी संपावी या उद्देशाने हा प्रशासकीय निर्णय घेण्यात आला.",
+      "category": "Polity",
       "difficulty": "hard",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQeDRGYnpMM2YtMkFHMERmZFhQUUhzVDVTSXNLSnlicHVFbzZ5Z2FqOXlSU2VBOGlCcW1jZkVIZGctRGVkWWdnX05MbUF0NzlJTUR0NkNUOFQybGJmbG92YVdSTzlGWHc0aF9mRE5FZnRFV1laNGNSeHFrUzYtcENYMWt3S2YwYlRENVlDNHZzUjhrZExWWXItTXJMOTdqTjN2WkczbmxsWEVZQQ?oc=5"
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOdEtBdFJFZUV5RXAteTMzOEZhdTl3aTBnWlhBcG9jZTR5aUNLbVBPQlh1dTV4dkdCalJxT0toMHRrTXIxYTJzUlIzd1dTalRRT19VaHNfUHRNSGhraEo4VFlWVDlTUzNPT2Jhc29FdzZIUjBqSlRQMzNvQmRoVkx2OFZ5UHZrVEd2cWFnSzVEVjJmUDZtT1h2NXhqUU5DTVM5VFVPR0NncjBxc2FocnB5V19Xc19HYmFpQXFGRXNQNWQ?oc=5"
+    },
+    {
+      "id": "ca_20261102_10",
+      "question": "राष्ट्रीय एकता दिनानिमित्त (Rashtriya Ekta Diwas) गुजरातच्या एकता नगर येथे किती कोटी रुपयांच्या विकास प्रकल्पांचे उद्घाटन करण्यात आले?",
+      "options": [
+        "₹१५० कोटींहून अधिक",
+        "₹२५० कोटींहून अधिक",
+        "₹४०० कोटींहून अधिक",
+        "₹६०० कोटींहून अधिक"
+      ],
+      "correctAnswer": 2,
+      "explanation": "सरदार वल्लभभाई पटेल यांच्या जयंतीनिमित्त आयोजित राष्ट्रीय एकता दिनी पंतप्रधान नरेंद्र मोदी यांनी केवडिया (एकता नगर), गुजरात येथे ₹४०० कोटींहून अधिक किमतीच्या विविध पर्यटन आणि पायाभूत विकास प्रकल्पांचे लोकार्पण केले.",
+      "category": "Miscellaneous",
+      "difficulty": "hard",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNMllGOUNDSFZoamVRUDZWbmh5RWs4cVhDbHA2R2F2R0VINmVfVnJKVURYaVlPXzJTQnhOdkg3VTkzZ3dCeGVwV2RwNjNwWGo5ZHNVSmxBVzB0amJJU0NmUW50amE3ak5SZGw5dlNGdUZVVGJIQ1Z2NUhPT0dZZ1J2djZvWGQ5UXEtaVFiTEpiaTBNMHJYdXJqOHRvQnNuYTE2NlhBdU55UGl0MzQ4S2VlUnRDWU0zNllBR0g0?oc=5"
     }
   ],
   "totalQuestions": 10,
