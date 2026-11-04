@@ -1,158 +1,158 @@
 {
-  "date": "2026-11-04",
+  "date": "2026-11-05",
   "topic": "Current Affairs",
-  "source": "The Times of India, Bar and Bench, Live Law, PIB",
-  "lastUpdated": "2026-11-04T06:00:00+05:30",
+  "source": "The Times of India, ABP Majha, Indian Express",
+  "lastUpdated": "2026-11-05T06:00:00+05:30",
   "quiz": [
     {
-      "id": "ca_20261104_01",
-      "question": "मुंबईतील बेस्ट (BEST) बस डेपोच्या आरक्षित जागेवरील अतिक्रमणे हटवण्यात अपयशी ठरल्याप्रकरणी सर्वोच्च न्यायालयाने नुकतेच कोणत्या महापालिका आयुक्तांचे वेतन रोखण्याचे निर्देश दिले?",
+      "id": "ca_20261105_01",
+      "question": "मुख्य निवडणूक आयुक्त आणि इतर निवडणूक आयुक्तांना पदावरील कामकाजासाठी कायदेशीर कारवाईपासून पूर्ण संरक्षण (Blanket Immunity) देणाऱ्या तरतुदीला आव्हान देणाऱ्या याचिकेवर सर्वोच्च न्यायालयाच्या कोणत्या खंडपीठाने केंद्र सरकार आणि निवडणूक आयोगाला नोटीस बजावली?",
       "options": [
-        "पुणे महानगरपालिका आयुक्त",
-        "बृहन्मुंबई महानगरपालिका आयुक्त (BMC)",
-        "नागपूर महानगरपालिका आयुक्त",
-        "ठाणे महानगरपालिका आयुक्त"
-      ],
-      "correctAnswer": 1,
-      "explanation": "सर्वोच्च न्यायालयाच्या खंडपीठाने मुंबईतील बेस्ट बस स्थानकासाठी आरक्षित असलेल्या ३,४०० चौरस मीटर जागेवरील अतिक्रमणे न हटवल्याबद्दल बृहन्मुंबई महानगरपालिकेच्या (BMC) आयुक्तांविरुद्ध अवमान कारवाई सुरू करत त्यांचे वेतन रोखण्याचे निर्देश दिले.",
-      "category": "Maharashtra",
-      "difficulty": "easy",
-      "sourceUrl": "https://timesofindia.indiatimes.com/india/mischievous-breach-sc-halts-bmc-chiefs-salary-over-failure-to-clear-encroachments/articleshow/135506883.cms"
-    },
-    {
-      "id": "ca_20261104_02",
-      "question": "वाढत्या हवेच्या व ध्वनी प्रदूषणाच्या जनजागृतीसाठी अभिनेत्री दिया मिर्झा यांचा फटाकेविरोधी व्हिडिओ सोशल मीडियावरून काढून टाकल्याबद्दल मुंबई उच्च न्यायालयाने नुकतीच कोणावर नाराजी व्यक्त केली?",
-      "options": [
-        "पर्यावरण मंत्रालय",
-        "महाराष्ट्र प्रदूषण नियंत्रण मंडळ (MPCB)",
-        "बृहन्मुंबई महानगरपालिका (BMC)",
-        "केंद्रीय प्रदूषण नियंत्रण मंडळ (CPCB)"
-      ],
-      "correctAnswer": 2,
-      "explanation": "मुंबई उच्च न्यायालयाच्या खंडपीठाने बीएमसीने अभिनेत्री दिया मिर्झा यांचा फटाकेविरोधी जनजागृती संदेश सोशल मीडियावरून काढून टाकल्याबद्दल नाराजी व्यक्त केली. नागरिकांचा विश्वास पुनर्संचयित करण्यासाठी तो व्हिडिओ पुन्हा अपलोड करण्याची सूचना न्यायालयाने केली.",
-      "category": "Maharashtra",
-      "difficulty": "medium",
-      "sourceUrl": "https://timesofindia.indiatimes.com/city/mumbai/bombay-high-court-asks-bmc-to-restore-peoples-confidence-reupload-actor-dia-mirzas-anti-pollution-video/articleshow/135511319.cms"
-    },
-    {
-      "id": "ca_20261104_03",
-      "question": "प्राप्तिकर अपील न्यायाधिकरणाच्या (ITAT) मुंबई खंडपीठाने नुकत्याच दिलेल्या निर्णयानुसार, विद्यापीठ अनुदान आयोगाचे (UGC) अनुदान व सरकारी जमिनीचे आभासी व्याज मिळून ५०% पेक्षा जास्त सरकारी निधी ग्राह्य धरत कोणत्या विद्यापीठाला कलम 10(23C)(iiiab) अंतर्गत करसवलत दिली?",
-      "options": [
-        "सावित्रीबाई फुले पुणे विद्यापीठ",
-        "मुंबई विद्यापीठ (University of Mumbai)",
-        "डॉ. बाबासाहेब आंबेडकर मराठवाडा विद्यापीठ",
-        "राष्ट्रसंत तुकडोजी महाराज नागपूर विद्यापीठ"
-      ],
-      "correctAnswer": 1,
-      "explanation": "ITAT मुंबई खंडपीठाने मुंबई विद्यापीठाला आर्थिक वर्ष २०१७-१८ साठी प्राप्तिकर कायद्याच्या कलम 10(23C)(iiiab) अन्वये करसवलत मंजूर केली. यूजीसी अनुदान हे भारताच्या एकत्रित निधीतून येत असल्याने ते सरकारी निधी मानून एकूण उत्पन्नाच्या ५०.७६% निधी सरकारी ठरवण्यात आला.",
-      "category": "Maharashtra",
-      "difficulty": "hard",
-      "sourceUrl": "https://timesofindia.indiatimes.com/city/mumbai/mumbai-university-wins-tax-relief-as-itat-counts-ugc-grants-govt-land-in-funding-test/articleshow/135510171.cms"
-    },
-    {
-      "id": "ca_20261104_04",
-      "question": "भविष्यातील अंतराळ कारखाने आणि अंतराळ निवासस्थानांसाठी (Space Habitats) प्रसरणशील रचनेची (Expandable Habitat) यशस्वी उड्डाण चाचणी घेणारी बेंगळुरूस्थित अंतराळ स्टार्टअप कंपनी कोणती?",
-      "options": [
-        "ध्रुव स्पेस",
-        "आकाशलब्धी स्पेस (Akashalabdhi Space)",
-        "अग्निकुल कॉसमॉस",
-        "पिक्सेल"
-      ],
-      "correctAnswer": 1,
-      "explanation": "बेंगळुरूस्थित भारतीय अंतराळ स्टार्टअप आकाशलब्धी स्पेसने २५० लिटर क्षमतेच्या प्रसरणशील अंतराळ निवासस्थानाची (Rigidizable Inflatable Habitat) उच्च-उंचीवरील उड्डाण चाचणी यशस्वीपणे पूर्ण केली. अंतराळात पायाभूत सुविधा निर्माण करण्याच्या दिशेने हे महत्त्वपूर्ण पाऊल आहे.",
-      "category": "Science & Tech",
-      "difficulty": "medium",
-      "sourceUrl": "https://timesofindia.indiatimes.com/india/a-first-bangaluru-company-tests-expandable-space-habitat-tech-in-near-space-mission/articleshow/135509381.cms"
-    },
-    {
-      "id": "ca_20261104_05",
-      "question": "भूतानचे राजे जिग्मे खेसर नामग्याल वांगचुक यांनी पंतप्रधान नरेंद्र मोदी यांच्या सन्मानार्थ नुकताच कोणत्या शहरात एक पवित्र बौद्ध स्तूप समर्पित केला?",
-      "options": [
-        "थिंपू",
-        "गेलेफू माइंडफुलनेस सिटी (Gelephu Mindfulness City)",
-        "पारो",
-        "पुनाखा"
-      ],
-      "correctAnswer": 1,
-      "explanation": "भूतानचे राजे जिग्मे खेसर नामग्याल वांगचुक यांनी गेलेफू माइंडफुलनेस सिटीमध्ये १ नोव्हेंबर रोजी पंतप्रधान नरेंद्र मोदी यांच्या सन्मानार्थ एक पवित्र बौद्ध स्तूप समर्पित केला. भारत-भूतान द्विपक्षीय संबंध व सांस्कृतिक मैत्रीच्या सन्मानार्थ हे पाऊल उचलण्यात आले.",
-      "category": "International",
-      "difficulty": "easy",
-      "sourceUrl": "https://timesofindia.indiatimes.com/india/deeply-touched-pm-modi-thanks-bhutan-king-for-dedicating-sacred-stupa-in-his-honour/articleshow/135509436.cms"
-    },
-    {
-      "id": "ca_20261104_06",
-      "question": "पुराची समस्या कमी करण्यासाठी नद्यांमधील गाळ उपसून (Desilting) त्या गाळाचा वापर राष्ट्रीय महामार्ग बांधकामात करण्यासाठी भारतीय राष्ट्रीय महामार्ग प्राधिकरणाने (NHAI) कोणता विशेष उपक्रम सुरू केला आहे?",
-      "options": [
-        "नदी संजीवनी (Nadi Sanjivani)",
-        "जल सुरक्षा प्रकल्प",
-        "नदी कायाकल्प योजना",
-        "अमृत सरोवर मोहीम"
+        "सरन्यायाधीश सूर्य कांत, न्यायमूर्ती जॉयमाल्या बागची आणि न्यायमूर्ती व्ही. मोहना",
+        "सरन्यायाधीश डी. वाय. चंद्रचूड, न्यायमूर्ती जे. बी. पारडीवाला आणि न्यायमूर्ती मनोज मिश्रा",
+        "सरन्यायाधीश संजीव खन्ना, न्यायमूर्ती बी. आर. गवई आणि न्यायमूर्ती सूर्य कांत",
+        "न्यायाधीश बी. व्ही. नागरत्ना, न्यायमूर्ती उज्जल भुयान आणि न्यायमूर्ती दीपांकर दत्ता"
       ],
       "correctAnswer": 0,
-      "explanation": "रस्ते वाहतूक मंत्रालय आणि एनएचएआय यांनी नदी पुनरुज्जीवनासाठी 'नदी संजीवनी' उपक्रम सुरू केला आहे. याअंतर्गत बिहारमधील नद्यांमधील गाळ आणि वाळू उपसून रस्ता बांधकामासाठी विनामूल्य वापरली जाईल, ज्यामुळे पूरनियंत्रण आणि रस्ते बांधणी अशा दोन्ही उद्दिष्टांची पूर्तता होईल.",
-      "category": "Geography",
-      "difficulty": "medium",
-      "sourceUrl": "https://timesofindia.indiatimes.com/india/one-move-two-gains-nhai-to-desilt-bihar-rivers-and-build-roads-with-excavated-material/articleshow/135509375.cms"
-    },
-    {
-      "id": "ca_20261104_07",
-      "question": "युरोपीय युनियनच्या 'कार्बन बॉर्डर ॲडजस्टमेंट मेकॅनिझम'ला (CBAM / कार्बन कर) नुकताच कोणत्या आंतरराष्ट्रीय हवामान परिषदेमध्ये (COP31) भारताने विरोध दर्शवण्याचा निर्णय जाहीर केला?",
-      "options": [
-        "अंतालिया हवामान परिषद (तुर्की)",
-        "बाकू हवामान परिषद (अझरबैजान)",
-        "दुबई हवामान परिषद (युएई)",
-        "ग्लासगो हवामान परिषद (युके)"
-      ],
-      "correctAnswer": 0,
-      "explanation": "केंद्रीय पर्यावरण मंत्री भूपेंद्र यादव यांनी जाहीर केले की तुर्कीमधील अंतालिया येथे होणाऱ्या COP31 हवामान परिषदेत भारत युरोपीय युनियनच्या एकतर्फी 'कार्बन बॉर्डर ॲडजस्टमेंट मेकॅनिझम'ला (CBAM) विरोध करेल. विकसनशील देशांच्या उद्योगांवर हा अन्यायकारक भार टाकत असल्याचे भारताने स्पष्ट केले.",
-      "category": "Environment",
-      "difficulty": "medium",
-      "sourceUrl": "https://timesofindia.indiatimes.com/india/india-to-oppose-eu-carbon-tax-at-cop31-firms-on-fossil-fuel-use-for-its-energy-needs/articleshow/135506606.cms"
-    },
-    {
-      "id": "ca_20261104_08",
-      "question": "डकार २०२६ युवा ऑलिम्पिक क्रीडा स्पर्धेत (Youth Olympic Games) वुशू खेळात कांस्यपदक जिंकून वुशू प्रकारात पदक मिळवणारी पहिली भारतीय खेळाडू कोण ठरली?",
-      "options": [
-        "खुशबू दारजादा",
-        "राजकुमारी लांचेनबी चानू (Rajkumari Lanchenbi Chanu)",
-        "धिनिधी देसिंघू",
-        "रोशिबिना देवी"
-      ],
-      "correctAnswer": 1,
-      "explanation": "सेनेगलमधील डकार येथे आयोजित २०२६ युवा ऑलिम्पिक क्रीडा स्पर्धेत भारताच्या राजकुमारी लांचेनबी चानू हिने महिलांच्या चांगक्वॉन एकत्रित प्रकारात १८.०३९ गुणांसह कांस्यपदक जिंकले. युवा ऑलिम्पिकमध्ये वुशू प्रकारात पदक जिंकणारी ती पहिली भारतीय ठरली.",
-      "category": "Sports",
-      "difficulty": "easy",
-      "sourceUrl": "https://timesofindia.indiatimes.com/sports/more-sports/others/rajkumari-chanu-scripts-history-with-maiden-wushu-bronze-at-youth-olympics-games/articleshow/135507751.cms"
-    },
-    {
-      "id": "ca_20261104_09",
-      "question": "अंतराळातील गॅमा-किरण स्फोटांचा (Gamma-Ray Bursts) अभ्यास करण्यासाठी २००४ मध्ये प्रक्षेपित केलेली कोणती १.५ टन वजनाची नासाची (NASA) अंतराळ वेधशाळा तब्बल २२ वर्षांनंतर पृथ्वीच्या वातावरणात पुनर्प्रवेश करत आहे?",
-      "options": [
-        "हबल स्पेस टेलिस्कोप",
-        "नील गेहरल्स स्विफ्ट वेधशाळा (Neil Gehrels Swift Observatory)",
-        "चंद्रा क्ष-किरण वेधशाळा",
-        "जेम्स वेब स्पेस टेलिस्कोप"
-      ],
-      "correctAnswer": 1,
-      "explanation": "नासाची १.५ टन वजनाची नील गेहरल्स स्विफ्ट वेधशाळा २२ वर्षांच्या प्रदीर्घ मोहिमेनंतर पृथ्वीच्या वातावरणात पुनर्प्रवेश करत आहे. २००४ मध्ये गॅमा-रे बर्स्ट्स आणि सुपरनोव्हा स्फोटांचा अभ्यास करण्यासाठी ही बहु-तरंगलांबी वेधशाळा अंतराळात सोडण्यात आली होती.",
-      "category": "Science & Tech",
-      "difficulty": "hard",
-      "sourceUrl": "https://timesofindia.indiatimes.com/india/1-5-tonne-nasa-space-observatory-set-to-crash-on-earth-today-possibility-of-debris-parts-falling-in-india/articleshow/135509019.cms"
-    },
-    {
-      "id": "ca_20261104_10",
-      "question": "मध्य प्रदेशातील रिक्त झालेल्या एका जागेसाठीच्या राज्यसभेच्या पोटनिवडणुकीत प्रतिस्पर्ध्यांचे उमेदवारी अर्ज छाननीत बाद झाल्यामुळे कोण बिनविरोध निवडून येण्यासाठी सज्ज झाले आहे?",
-      "options": [
-        "ज्योतिरादित्य शिंदे",
-        "हरदीप सिंह पुरी (Hardeep Singh Puri)",
-        "एल. मुरुगन",
-        "दिग्विजय सिंह"
-      ],
-      "correctAnswer": 1,
-      "explanation": "मध्य प्रदेशातील राज्यसभेच्या रिक्त जागेसाठी केंद्रीय मंत्री हरदीप सिंह पुरी यांची बिनविरोध निवड निश्चित झाली आहे. छाननीदरम्यान दोन विरोधी उमेदवारांचे उमेदवारी अर्ज निवडणूक निर्णय अधिकाऱ्यांनी अवैध ठरवून फेटाळले.",
+      "explanation": "सरन्यायाधीश सूर्य कांत, न्यायमूर्ती जॉयमाल्या बागची आणि न्यायमूर्ती व्ही. मोहना यांच्या तीन न्यायाधीशांच्या खंडपीठाने मुख्य निवडणूक आयुक्त व इतर निवडणूक आयुक्त कायदा, २०२३ मधील कलम ४५ अन्वये निवडणूक आयुक्तांना मिळालेल्या संपूर्ण कायदेशीर संरक्षणाविरोधातील याचिकेवर केंद्र आणि निवडणूक आयोगाला नोटीस बजावली.",
       "category": "Polity",
       "difficulty": "medium",
-      "sourceUrl": "https://timesofindia.indiatimes.com/india/mp-rajya-sabha-bypoll-hardeep-puri-set-to-win-unopposed-as-nominations-of-2-others-rejected/articleshow/135505254.cms"
+      "sourceUrl": "https://timesofindia.indiatimes.com/india/sc-issues-notice-to-centre-poll-body-on-blanket-immunity-to-cec/articleshow/135537859.cms"
+    },
+    {
+      "id": "ca_20261105_02",
+      "question": "महाराष्ट्र मंत्रिमंडळाने थकीत ट्रॅफिक ई-चलान दंडाच्या रकमेवर वाहनधारकांसाठी किती टक्के सवलत देणारी 'ट्रॅफिक पोलीस ई-चलान अभय योजना २०२६' नुकतीच मंजूर केली?",
+      "options": [
+        "१० टक्के",
+        "२० टक्के",
+        "३० टक्के",
+        "५० टक्के"
+      ],
+      "correctAnswer": 1,
+      "explanation": "महाराष्ट्र राज्य मंत्रिमंडळाने 'महाराष्ट्र ट्रॅफिक पोलीस ई-चलान अभय योजना २०२६' ला मान्यता दिली असून, या योजनेअंतर्गत वाहनधारकांना थकीत ट्रॅफिक ई-चलान दंडावर एकरकमी भरण्यासाठी २० टक्क्यांपर्यंत सवलत देण्यात आली आहे.",
+      "category": "Maharashtra",
+      "difficulty": "easy",
+      "sourceUrl": "https://timesofindia.indiatimes.com/city/mumbai/maharashtra-cabinet-announces-20-amnesty-for-pending-traffic-e-challan-dues/articleshow/135545243.cms"
+    },
+    {
+      "id": "ca_20261105_03",
+      "question": "महाराष्ट्र मंत्रिमंडळाने महाराष्ट्र सहकारी संस्था अधिनियम, १९६० च्या कलम ७३अअअ (२) मध्ये सुधारणा करून ५०० कोटी रुपयांपेक्षा जास्त वार्षिक उलाढाल असणाऱ्या सहकारी संस्थांवर किती शासननियुक्त संचालक नेमण्याचा निर्णय घेतला?",
+      "options": [
+        "२ संचालक",
+        "३ संचालक",
+        "५ संचालक",
+        "७ संचालक"
+      ],
+      "correctAnswer": 2,
+      "explanation": "महाराष्ट्र मंत्रिमंडळाने सहकारी संस्था कायद्यात सुधारणा करून वार्षिक ५०० कोटी रुपयांहून अधिक उलाढाल असलेल्या सहकारी संघांवर ५ शासननियुक्त संचालक नेमण्याचा निर्णय घेतला आहे. यामध्ये एका शासकीय अधिकाऱ्याव्यतिरिक्त उर्वरित ४ सदस्यांना संचालक मंडळाच्या बैठकीत मतदानाचा अधिकार असेल.",
+      "category": "Maharashtra",
+      "difficulty": "hard",
+      "sourceUrl": "https://marathi.abplive.com/news/politics/shaumika-mahadik-navid-mushrif-set-to-enter-gokul-after-defeated-gokul-election-cabinet-decision-5-government-appointed-directors-1444558"
+    },
+    {
+      "id": "ca_20261105_04",
+      "question": "नुकतीच प्रवासी वाहतुकीसाठी खुली करण्यात आलेली आणि भारतातील पहिली पूर्णपणे महिलांद्वारे चालवली जाणारी मेट्रो लाईन कोणती ठरली आहे?",
+      "options": [
+        "मुंबई मेट्रो लाईन ३ (ॲक्वा लाईन)",
+        "पुणे मेट्रो लाईन ३",
+        "नागपूर मेट्रो फेज २",
+        "नवी मुंबई मेट्रो लाईन १"
+      ],
+      "correctAnswer": 1,
+      "explanation": "पुणे मेट्रो लाईन ३ नुकतीच प्रवाशांसाठी सुरू झाली असून ही भारतातील पहिली पूर्णपणे महिला कर्मचाऱ्यांद्वारे चालवली जाणारी मेट्रो लाईन ठरली आहे. प्रेरणा चोपडे आणि प्रगती बिराजदार या महिला अभियंत्यांनी या मेट्रोच्या सुरुवातीच्या फेऱ्यांचे सारथ्य केले.",
+      "category": "Maharashtra",
+      "difficulty": "easy",
+      "sourceUrl": "https://timesofindia.indiatimes.com/city/pune/in-their-20s-they-are-at-the-controls-of-indias-first-all-woman-operated-metro-line-in-pune/articleshow/135550529.cms"
+    },
+    {
+      "id": "ca_20261105_05",
+      "question": "केंद्रीय मंत्रिमंडळाने अग्निपथ भरती योजनेअंतर्गत चार वर्षांचा प्राथमिक कार्यकाळ पूर्ण करणाऱ्या अग्निवीरांना सेवेत किती वर्षांची मुदतवाढ (Extension) देण्यास नुकतीच मान्यता दिली?",
+      "options": [
+        "१ वर्ष",
+        "२ वर्षे",
+        "३ वर्षे",
+        "५ वर्षे"
+      ],
+      "correctAnswer": 1,
+      "explanation": "संरक्षण दल प्रमुख (CDS) जनरल एन. एस. राजा सुब्रमणी यांनी जाहीर केल्यानुसार, केंद्रीय मंत्रिमंडळाने अग्निपथ योजनेतील चार वर्षांचा कार्यकाळ पूर्ण करणाऱ्या अग्निवीरांना सेवेत २ वर्षांची मुदतवाढ देण्यास आणि त्यानंतर नियमित सैन्यात भरतीसाठी पात्र ठरण्यास मान्यता दिली आहे.",
+      "category": "Polity",
+      "difficulty": "medium",
+      "sourceUrl": "https://timesofindia.indiatimes.com/education/news/agnipath-scheme-revised-agniveers-to-get-2-year-service-extension-option-for-regular-enrolment-after-6-years/articleshow/135538845.cms"
+    },
+    {
+      "id": "ca_20261105_06",
+      "question": "सर्वोच्च न्यायालयाच्या निर्देशानुसार भारतीय विमा नियामक आणि विकास प्राधिकरणाने (IRDAI) मोटार वाहन विमा पॉलिसींची पुनर्रचना किती स्वतंत्र विभागांमध्ये (Sections) करण्याचे निर्देश दिले आहेत?",
+      "options": [
+        "दोन विभाग",
+        "तीन विभाग",
+        "चार विभाग",
+        "पाच विभाग"
+      ],
+      "correctAnswer": 2,
+      "explanation": "IRDAI ने सर्वोच्च न्यायालयाच्या आदेशाचे पालन करत १५ डिसेंबर २०२६ पासून मोटार वाहन विमा पॉलिसींचे चार स्वतंत्र विभागांमध्ये (तृतीय पक्ष दायित्व, मालक-चालक वैयक्तिक अपघात, प्रवासी दायित्व आणि स्वतःचे नुकसान) वर्गीकरण करण्याचे निर्देश दिले आहेत.",
+      "category": "Economy",
+      "difficulty": "medium",
+      "sourceUrl": "https://timesofindia.indiatimes.com/business/india-business/irdai-directs-insurers-to-offer-four-layer-motor-cover-in-compliance-with-sc-order/articleshow/135520574.cms"
+    },
+    {
+      "id": "ca_20261105_07",
+      "question": "वैद्यकीय पदव्युत्तर प्रवेशासाठी (NEET-PG आणि NEET-SS) सध्याच्या 'पर्सेंटाइल-आधारित' पात्रता निकषांऐवजी 'रँक-आधारित' (Rank-based) गुणवत्ता प्रणाली लागू करण्याचा प्रस्ताव कोणत्या संस्थेने मांडला आहे?",
+      "options": [
+        "राष्ट्रीय परीक्षा संस्था (NTA)",
+        "राष्ट्रीय वैद्यकीय आयोग (NMC)",
+        "अखिल भारतीय आयुर्विज्ञान संस्था (AIIMS)",
+        "विद्यापीठ अनुदान आयोग (UGC)"
+      ],
+      "correctAnswer": 1,
+      "explanation": "राष्ट्रीय वैद्यकीय आयोगाने (NMC) NEET-PG आणि NEET-SS प्रवेश परीक्षांमध्ये वारंवार पात्रता पर्सेंटाइल कमी करण्याच्या समस्येवर मात करण्यासाठी पर्सेंटाइल निकषांऐवजी रँक-आधारित गुणवत्ता प्रणाली लागू करण्यास तत्त्वतः मंजुरी दिली आहे.",
+      "category": "Miscellaneous",
+      "difficulty": "medium",
+      "sourceUrl": "https://timesofindia.indiatimes.com/education/news/nmc-proposes-rank-based-merit-system-for-neet-pg-neet-ss-percentile-based-qualifying-criteria-may-go-check-complete-details-here/articleshow/135536332.cms"
+    },
+    {
+      "id": "ca_20261105_08",
+      "question": "वर्ल्ड गोल्ड कौन्सिलच्या (WGC) ताज्या अहवालानुसार, भारताने आयात शुल्क १५ टक्क्यांपर्यंत वाढवल्यानंतर देशातील सोन्याची तस्करी वाढून किती टनांवर पोहोचल्याचा अंदाज व्यक्त केला गेला आहे?",
+      "options": [
+        "२० टन",
+        "३५ टन",
+        "५० टन",
+        "७५ टन"
+      ],
+      "correctAnswer": 2,
+      "explanation": "वर्ल्ड गोल्ड कौन्सिलच्या अहवालानुसार, भारतात सोन्यावरील आयात शुल्क ६% वरून १५% पर्यंत वाढल्यामुळे अधिकृत आयातीचा खर्च वाढला आणि परिणामी वर्षभरात सोन्याची अनधिकृत तस्करी ३ टनांवरून थेट ५० टनांपर्यंत पोहोचली आहे.",
+      "category": "Economy",
+      "difficulty": "hard",
+      "sourceUrl": "https://timesofindia.indiatimes.com/business/india-business/gold-prices-may-have-crashed-globally-but-gold-smuggling-in-india-has-jumped-to-50-tonnes-from-3-tonnes-in-a-year-as-15-import-duty-widens-the-price-gap-demand-remains-29-lower-year-on-year/articleshow/135528689.cms"
+    },
+    {
+      "id": "ca_20261105_09",
+      "question": "डकार येथे सुरू असलेल्या २०२६ युवा ऑलिम्पिक क्रीडा स्पर्धेत (Youth Olympic Games) बॅडमिंटनच्या उपांत्य फेरीत पोहोचणारी पहिली भारतीय महिला खेळाडू कोण ठरली आहे?",
+      "options": [
+        "उन्नती हुड्डा",
+        "तन्वी पत्री (Tanvi Patri)",
+        "अनुपमा उपाध्याय",
+        "तस्निम मीर"
+      ],
+      "correctAnswer": 1,
+      "explanation": "ओडिशाची १५ वर्षीय युवा बॅडमिंटनपटू तन्वी पत्री हिने डकार युवा ऑलिम्पिक २०२६ मध्ये थायलंडच्या ककणिक कुंगकाएवचा पराभव करत महिला एकेरीच्या उपांत्य फेरीत प्रवेश केला. युवा ऑलिम्पिक बॅडमिंटन उपांत्य फेरीत पोहोचणारी ती पहिली भारतीय महिला खेळाडू ठरली आहे.",
+      "category": "Sports",
+      "difficulty": "easy",
+      "sourceUrl": "https://timesofindia.indiatimes.com/sports/badminton/youth-olympics-tanvi-patri-creates-history-becomes-first-indian-woman-to-reach-badminton-semifinals/articleshow/135544797.cms"
+    },
+    {
+      "id": "ca_20261105_10",
+      "question": "मोहाली येथे आयोजित २०२६ आशियाई चॅम्पियन्स ट्रॉफी (ACT) हॉकी स्पर्धेत उपांत्य फेरीत दक्षिण कोरियाचा ८-१ असा पराभव करत भारतीय पुरुष संघाने अंतिम फेरीत कोणाविरुद्ध जागा निश्चित केली?",
+      "options": [
+        "मलेशिया",
+        "जपान",
+        "पाकिस्तान",
+        "चीन"
+      ],
+      "correctAnswer": 1,
+      "explanation": "मोहाली येथे झालेल्या पुरुष आशियाई चॅम्पियन्स ट्रॉफी २०२६ च्या उपांत्य सामन्यात भारतीय हॉकी संघाने दक्षिण कोरियावर ८-१ अशी मात करत अंतिम फेरीत धडक मारली, जेथे त्यांचा सामना जपानविरुद्ध होणार आहे.",
+      "category": "Sports",
+      "difficulty": "medium",
+      "sourceUrl": "https://timesofindia.indiatimes.com/sports/hockey/top-stories/harmanpreet-shilanand-lead-indias-goal-fest-as-hosts-thrash-south-korea-8-1-set-act-final-against-japan/articleshow/135544008.cms"
     }
   ],
   "totalQuestions": 10,
